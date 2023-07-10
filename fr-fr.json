@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "headerGreeting": "Salut, je suis",
+    "welcomeMessageHomePage": "Laissez-moi vous aider à trouver ce que vous recherchez !",
+    "welcomeMessageProductPage": "Posez-moi toutes vos questions sur ce produit",
+    "welcomeMessageCollectionPage": "Posez-moi toutes vos questions sur ces produits",
+    "tapToAsk": "Appuyez pour me poser une question",
+    "poweredBy": "Propulsé par",
+    "viewProduct": "Voir le produit",
+    "tapOnTo": "Appuyez sur",
+    "viewSimilarProducts": "Voir des produits similaires",
+    "askAboutSpecificProduct": "Demander des informations sur un produit spécifique",
+    "askAboutProduct": "En savoir plus sur ce produit",
+    "moreVariantsAvailable": "Plus de variantes disponibles",
+    "enterYourMessage": "Entrez votre message...",
+    "similarTo": "Similaire à"
+  },
+  "others": {
+    "suggestedReplies": {
+      "PRODUCT": [
+        "Quelles sont les caractéristiques de ce produit ?",
+        "Montrez-moi d'autres produits similaires à celui-ci",
+        "Quelles sont les conditions de retour pour ce produit ?"
+      ],
+      "COLLECTION": [
+        "Montrez-moi des produits dans une certaine fourchette de prix",
+        "Lesquels de ces produits correspondraient le mieux à mes besoins ?",
+        "Pouvez-vous me recommander des produits populaires de cette collection ?"
+      ],
+      "SEARCH": [
+        "Affichez les produits les plus pertinents pour moi",
+        "Affinez les résultats en fonction de mes critères",
+        "Quelles sont quelques options populaires parmi ceux-ci ?"
+      ],
+      "OTHER": [
+        "Qu'est-ce qui distingue vos produits des autres ?",
+        "Quels sont quelques produits tendance dans votre magasin ?",
+        "Montrez-moi vos dernières offres et réductions"
+      ]
+    },
+    "popUpMessages": {
+      "SEARCH": "Besoin d'aide avec ces résultats ?",
+      "COLLECTION": "Recherchez-vous quelque chose de spécifique ?",
+      "PRODUCT": "Posez-moi toutes vos questions sur ce produit",
+      "DEFAULT": "Que recherchez-vous aujourd'hui ?"
+    }
+  }
+}
