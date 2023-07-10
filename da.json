@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "headerGreeting": "Hej, jeg er",
+    "welcomeMessageHomePage": "Lad mig hjælpe dig med at finde, hvad du leder efter!",
+    "welcomeMessageProductPage": "Spørg mig om alt vedrørende dette produkt",
+    "welcomeMessageCollectionPage": "Spørg mig om alt vedrørende disse produkter",
+    "tapToAsk": "Tryk for at stille mig et spørgsmål",
+    "poweredBy": "Drevet af",
+    "viewProduct": "Se produktet",
+    "tapOnTo": "Tryk på",
+    "viewSimilarProducts": "Se lignende produkter",
+    "askAboutSpecificProduct": "Spørg om et specifikt produkt",
+    "askAboutProduct": "Få mere at vide om dette produkt",
+    "moreVariantsAvailable": "Flere varianter tilgængelige",
+    "enterYourMessage": "Indtast din besked...",
+    "similarTo": "Lignende som"
+  },
+  "others": {
+    "suggestedReplies": {
+      "PRODUCT": [
+        "Hvad er specielt ved dette produkt?",
+        "Vis mig flere produkter lignende dette",
+        "Hvad er returpolitikken for dette produkt?"
+      ],
+      "COLLECTION": [
+        "Vis mig produkter inden for en bestemt prisramme",
+        "Hvilke af disse produkter vil bedst imødekomme mine behov?",
+        "Anbefal populære produkter fra denne kollektion"
+      ],
+      "SEARCH": [
+        "Vis mig de mest relevante produkter til mig",
+        "Filtrer resultaterne baseret på mine krav",
+        "Hvad er nogle populære valgmuligheder blandt disse?"
+      ],
+      "OTHER": [
+        "Hvad adskiller jeres produkter fra andre?",
+        "Hvad er nogle trendprodukter i jeres butik?",
+        "Vis mig jeres seneste tilbud og rabatter"
+      ]
+    },
+    "popUpMessages": {
+      "SEARCH": "Har du brug for hjælp med disse resultater?",
+      "COLLECTION": "Leder du efter noget specifikt?",
+      "PRODUCT": "Spørg mig om alt vedrørende dette produkt",
+      "DEFAULT": "Hvad leder du efter i dag?"
+    }
+  }
+}
