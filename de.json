@@ -1,19 +1,19 @@
 {
   "translations": {
-    "headerGreeting": "Hey, I'm",
-    "welcomeMessageHomePage": "Let me help you find what you’re looking for!",
-    "welcomeMessageProductPage": "Ask me anything about this product",
-    "welcomeMessageCollectionPage": "Ask me anything about these products",
-    "tapToAsk": "Tap to ask me a question",
-    "poweredBy": "Powered by",
-    "viewProduct": "View Product",
-    "tapOnTo": "Tap on to",
-    "viewSimilarProducts": "view similar products",
-    "askAboutSpecificProduct": "ask about specific product",
-    "askAboutProduct": "Ask more about this product",
-    "moreVariantsAvailable": "More variants available",
-    "enterYourMessage": "Enter your message ...",
-    "similarTo": "Similar to"
+    "headerGreeting": "Hey, ich bin",
+    "welcomeMessageHomePage": "Lassen Sie mich Ihnen helfen, wonach Sie suchen!",
+    "welcomeMessageProductPage": "Fragen Sie mich alles über dieses Produkt",
+    "welcomeMessageCollectionPage": "Fragen Sie mich alles über diese Produkte",
+    "tapToAsk": "Tippen Sie, um mir eine Frage zu stellen",
+    "poweredBy": "Angetrieben von",
+    "viewProduct": "Produkt anzeigen",
+    "tapOnTo": "Tippen Sie auf",
+    "viewSimilarProducts": "Ähnliche Produkte anzeigen",
+    "askAboutSpecificProduct": "Nach einem bestimmten Produkt fragen",
+    "askAboutProduct": "Fragen Sie mehr über dieses Produkt",
+    "moreVariantsAvailable": "Weitere Varianten verfügbar",
+    "enterYourMessage": "Geben Sie Ihre Nachricht ein ...",
+    "similarTo": "Ähnlich wie"
   },
   "others": {
     "suggestedReplies": {
