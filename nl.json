@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "headerGreeting": "Hoi, ik ben",
+    "welcomeMessageHomePage": "Laat me je helpen vinden waar je naar op zoek bent!",
+    "welcomeMessageProductPage": "Vraag me alles over dit product",
+    "welcomeMessageCollectionPage": "Vraag me alles over deze producten",
+    "tapToAsk": "Tik om mij een vraag te stellen",
+    "poweredBy": "Aangedreven door",
+    "viewProduct": "Bekijk het product",
+    "tapOnTo": "Tik op",
+    "viewSimilarProducts": "Bekijk vergelijkbare producten",
+    "askAboutSpecificProduct": "Vraag naar een specifiek product",
+    "askAboutProduct": "Vraag meer over dit product",
+    "moreVariantsAvailable": "Meer varianten beschikbaar",
+    "enterYourMessage": "Voer uw bericht in...",
+    "similarTo": "Vergelijkbaar met"
+  },
+  "others": {
+    "suggestedReplies": {
+      "PRODUCT": [
+        "Wat maakt dit product bijzonder?",
+        "Laat me meer producten zien zoals deze",
+        "Wat is het retourbeleid voor dit product?"
+      ],
+      "COLLECTION": [
+        "Laat me producten zien binnen een bepaalde prijsklasse",
+        "Welke van deze producten zouden het beste aan mijn behoeften voldoen?",
+        "Doe aanbevelingen voor populaire producten uit deze collectie"
+      ],
+      "SEARCH": [
+        "Toon de meest relevante producten voor mij",
+        "Verfijn de resultaten op basis van mijn eisen",
+        "Wat zijn enkele populaire keuzes hieruit?"
+      ],
+      "OTHER": [
+        "Wat onderscheidt jullie producten van andere?",
+        "Wat zijn enkele trendy producten in jullie winkel?",
+        "Laat me jullie nieuwste aanbiedingen en kortingen zien"
+      ]
+    },
+    "popUpMessages": {
+      "SEARCH": "Heb je hulp nodig bij deze resultaten?",
+      "COLLECTION": "Zoek je iets specifieks?",
+      "PRODUCT": "Vraag me alles over dit product",
+      "DEFAULT": "Waarnaar ben je vandaag op zoek?"
+    }
+  }
+}

@@ -1,4 +1,48 @@
 {
-  "live_assistance": "Click here for live assistance!\nThank you for choosing us!",
-  "customer_support": "We understand that sometimes you may have questions or concerns that require the assistance of a live agent. For live assistance, reach out to our customer support team. We're available via chat, email, and phone to help with any questions or concerns. Thank you for choosing us!"
+  "translations": {
+    "headerGreeting": "Hey, I'm",
+    "welcomeMessageHomePage": "Let me help you find what you’re looking for!",
+    "welcomeMessageProductPage": "Ask me anything about this product",
+    "welcomeMessageCollectionPage": "Ask me anything about these products",
+    "tapToAsk": "Tap to ask me a question",
+    "poweredBy": "Powered by",
+    "viewProduct": "View Product",
+    "tapOnTo": "Tap on to",
+    "viewSimilarProducts": "View similar products",
+    "askAboutSpecificProduct": "Ask about specific product",
+    "askAboutProduct": "Ask more about this product",
+    "moreVariantsAvailable": "More variants available",
+    "enterYourMessage": "Enter your message ...",
+    "similarTo": "Similar to"
+  },
+  "others": {
+    "suggestedReplies": {
+      "PRODUCT": [
+        "What makes this product stand out?",
+        "Show me more products like this",
+        "What is the return policy of this product?"
+      ],
+      "COLLECTION": [
+        "What are your best-selling products?",
+        "What sets your products apart from others?",
+        "Where is my order?"
+      ],
+      "SEARCH": [
+        "Show me the most relevant products for me",
+        "Refine the results based on my requirements",
+        "What are some popular picks among these?"
+      ],
+      "OTHER": [
+        "What are your best-selling products?",
+        "What sets your products apart from others?",
+        "Where is my order?"
+      ]
+    },
+    "popUpMessages": {
+      "SEARCH": "Want some help with these results?",
+      "COLLECTION": "Are you looking for something specific?",
+      "PRODUCT": "Ask me anything about this product",
+      "DEFAULT": "What are you looking for today?"
+    }
+  }
 }

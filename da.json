@@ -1,4 +1,48 @@
 {
-  "live_assistance": "Klik her for at få personlig assistance!\nTak for at du valgte os!",
-  "customer_support": "Vi forstår, at du nogle gange kan have spørgsmål eller bekymringer, der kræver hjælp fra en personlig agent. For personlig assistance kan du kontakte vores kundesupportteam. Vi er tilgængelige via chat, e-mail og telefon for at hjælpe med eventuelle spørgsmål eller bekymringer. Tak for at du valgte os!"
+  "translations": {
+    "headerGreeting": "Hej, jeg er",
+    "welcomeMessageHomePage": "Lad mig hjælpe dig med at finde det, du leder efter!",
+    "welcomeMessageProductPage": "Spørg mig om hvad som helst angående dette produkt",
+    "welcomeMessageCollectionPage": "Spørg mig om hvad som helst angående disse produkter",
+    "tapToAsk": "Tryk for at stille mig et spørgsmål",
+    "poweredBy": "Drevet af",
+    "viewProduct": "Vis produkt",
+    "tapOnTo": "Tryk på for at",
+    "viewSimilarProducts": "se lignende produkter",
+    "askAboutSpecificProduct": "Spørg om et specifikt produkt",
+    "askAboutProduct": "Spørg mere om dette produkt",
+    "moreVariantsAvailable": "Flere varianter tilgængelige",
+    "enterYourMessage": "Indtast din besked ...",
+    "similarTo": "Lignende med"
+  },
+  "others": {
+    "suggestedReplies": {
+      "PRODUCT": [
+        "Hvad gør dette produkt unikt?",
+        "Vis mig flere produkter som dette",
+        "Hvad er returpolitikken for dette produkt?"
+      ],
+      "COLLECTION": [
+        "Hvilke produkter er dine bedst-sælgende?",
+        "Hvad adskiller jeres produkter fra andre?",
+        "Hvor er min ordre?"
+      ],
+      "SEARCH": [
+        "Vis mig de mest relevante produkter for mig",
+        "Forfin resultaterne baseret på mine krav",
+        "Hvad er nogle populære valg blandt disse?"
+      ],
+      "OTHER": [
+        "Hvilke produkter er dine bedst-sælgende?",
+        "Hvad adskiller jeres produkter fra andre?",
+        "Hvor er min ordre?"
+      ]
+    },
+    "popUpMessages": {
+      "SEARCH": "Har du brug for hjælp med disse resultater?",
+      "COLLECTION": "Leder du efter noget specifikt?",
+      "PRODUCT": "Spørg mig om hvad som helst angående dette produkt",
+      "DEFAULT": "Hvad leder du efter i dag?"
+    }
+  }
 }

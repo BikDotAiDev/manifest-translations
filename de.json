@@ -1,4 +1,48 @@
 {
-  "live_assistance": "Klicken Sie hier für Live-Unterstützung! \n Vielen Dank, dass Sie uns gewählt haben!",
-  "customer_support": "Wir verstehen, dass Sie manchmal Fragen oder Bedenken haben, die die Unterstützung eines Mitarbeiters erfordern. Für Live-Unterstützung kontaktieren Sie bitte unser Kundensupport-Team. Wir sind per Chat, E-Mail und Telefon erreichbar, um Ihnen bei Fragen oder Anliegen zu helfen. Vielen Dank, dass Sie uns gewählt haben!"
+  "translations": {
+    "headerGreeting": "Hallo, ich bin",
+    "welcomeMessageHomePage": "Lass mich dir dabei helfen, das zu finden, wonach du suchst!",
+    "welcomeMessageProductPage": "Frag mich alles über dieses Produkt",
+    "welcomeMessageCollectionPage": "Frag mich alles über diese Produkte",
+    "tapToAsk": "Tippe, um mir eine Frage zu stellen",
+    "poweredBy": "Angetrieben von",
+    "viewProduct": "Produkt anzeigen",
+    "tapOnTo": "Tippe auf",
+    "viewSimilarProducts": "ähnliche Produkte anzeigen",
+    "askAboutSpecificProduct": "Frage nach einem bestimmten Produkt",
+    "askAboutProduct": "Frage mehr zu diesem Produkt",
+    "moreVariantsAvailable": "Mehr Varianten verfügbar",
+    "enterYourMessage": "Gib deine Nachricht ein ...",
+    "similarTo": "Ähnlich wie"
+  },
+  "others": {
+    "suggestedReplies": {
+      "PRODUCT": [
+        "Was macht dieses Produkt besonders?",
+        "Zeige mir mehr Produkte wie dieses",
+        "Was ist die Rückgaberichtlinie für dieses Produkt?"
+      ],
+      "COLLECTION": [
+        "Welche sind deine meistverkauften Produkte?",
+        "Was unterscheidet deine Produkte von anderen?",
+        "Wo ist meine Bestellung?"
+      ],
+      "SEARCH": [
+        "Zeige mir die relevantesten Produkte für mich",
+        "Verfeinere die Ergebnisse basierend auf meinen Anforderungen",
+        "Was sind einige beliebte Optionen unter diesen?"
+      ],
+      "OTHER": [
+        "Welche sind deine meistverkauften Produkte?",
+        "Was unterscheidet deine Produkte von anderen?",
+        "Wo ist meine Bestellung?"
+      ]
+    },
+    "popUpMessages": {
+      "SEARCH": "Brauchst du Hilfe bei diesen Ergebnissen?",
+      "COLLECTION": "Suchst du etwas Bestimmtes?",
+      "PRODUCT": "Frag mich alles über dieses Produkt",
+      "DEFAULT": "Wonach suchst du heute?"
+    }
+  }
 }

@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "headerGreeting": "Merhaba, ben",
+    "welcomeMessageHomePage": "Aradığınızı bulmanıza yardımcı olayım!",
+    "welcomeMessageProductPage": "Bu ürünle ilgili herhangi bir soru sorabilirsiniz",
+    "welcomeMessageCollectionPage": "Bu ürünlerle ilgili herhangi bir soru sorabilirsiniz",
+    "tapToAsk": "Bana bir soru sormak için dokunun",
+    "poweredBy": "Tarafından desteklenmektedir",
+    "viewProduct": "Ürünü görüntüle",
+    "tapOnTo": "Üzerine dokunun",
+    "viewSimilarProducts": "benzer ürünleri görüntüle",
+    "askAboutSpecificProduct": "Belirli bir ürün hakkında soru sor",
+    "askAboutProduct": "Bu ürünle ilgili daha fazla bilgi iste",
+    "moreVariantsAvailable": "Daha fazla varyant mevcut",
+    "enterYourMessage": "Mesajınızı girin...",
+    "similarTo": "Benzer"
+  },
+  "others": {
+    "suggestedReplies": {
+      "PRODUCT": [
+        "Bu ürünü öne çıkan kılan nedir?",
+        "Bana bu ürün gibi daha fazla ürün göster",
+        "Bu ürünün iade politikası nedir?"
+      ],
+      "COLLECTION": [
+        "En çok satan ürünleriniz nelerdir?",
+        "Ürünlerinizi diğerlerinden ayıran nedir?",
+        "Siparişim nerede?"
+      ],
+      "SEARCH": [
+        "Benim için en ilgili ürünleri göster",
+        "Sonuçları gereksinimlerime göre iyileştir",
+        "Bunlar arasında popüler seçenekler neler?"
+      ],
+      "OTHER": [
+        "En çok satan ürünleriniz nelerdir?",
+        "Ürünlerinizi diğerlerinden ayıran nedir?",
+        "Siparişim nerede?"
+      ]
+    },
+    "popUpMessages": {
+      "SEARCH": "Bu sonuçlar konusunda yardıma ihtiyacınız var mı?",
+      "COLLECTION": "Belirli bir şey mi arıyorsunuz?",
+      "PRODUCT": "Bu ürünle ilgili herhangi bir soru sorabilirsiniz",
+      "DEFAULT": "Bugün ne arıyorsunuz?"
+    }
+  }
+}
