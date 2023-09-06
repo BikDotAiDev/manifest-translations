@@ -15,7 +15,9 @@
     "enterYourMessage": "Digite a sua mensagem...",
     "similarTo": "Similar a",
     "AMA": "Pergunte-me qualquer coisa",
-    "seeOurBestSellers": "Ver nossos mais vendidos"
+    "seeOurBestSellers": "Ver nossos mais vendidos",
+    "whatAreYourBestSellers": "Quais são seus produtos mais vendidos?",
+    "iHaveAQuestion": "Eu tenho uma pergunta"
   },
   "others": {
     "suggestedReplies": {

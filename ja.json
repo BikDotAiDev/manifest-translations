@@ -15,7 +15,9 @@
     "enterYourMessage": "メッセージを入力してください...",
     "similarTo": "類似しています",
     "AMA": "何でも聞いてください",
-    "seeOurBestSellers": "ベストセラーを見る"
+    "seeOurBestSellers": "ベストセラーを見る",
+    "whatAreYourBestSellers": "貴社のベストセラー製品は何ですか？",
+    "iHaveAQuestion": "質問があります"
   },
   "others": {
     "suggestedReplies": {
