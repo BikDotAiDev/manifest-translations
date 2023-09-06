@@ -13,7 +13,9 @@
     "askAboutProduct": "Frage mehr zu diesem Produkt",
     "moreVariantsAvailable": "Mehr Varianten verfügbar",
     "enterYourMessage": "Gib deine Nachricht ein ...",
-    "similarTo": "Ähnlich wie"
+    "similarTo": "Ähnlich wie",
+    "AMA": "Frag mich alles",
+    "seeOurBestSellers": "Sieh dir unsere Bestseller an"
   },
   "others": {
     "suggestedReplies": {
@@ -39,10 +41,10 @@
       ]
     },
     "popUpMessages": {
-      "SEARCH": "Brauchst du Hilfe bei diesen Ergebnissen?",
-      "COLLECTION": "Suchst du etwas Bestimmtes?",
-      "PRODUCT": "Frag mich alles über dieses Produkt",
-      "DEFAULT": "Wonach suchst du heute?"
+      "SEARCH": "Kannst du nicht finden, wonach du suchst? Lass mich dir genau das finden, wonach du suchst.",
+      "COLLECTION": "Suchst du etwas Besonderes in dieser Kollektion? Ich weiß, wo du es finden kannst.",
+      "PRODUCT": "Möchtest du mehr über dieses Produkt erfahren? Ich habe alle Informationen, die du benötigst.",
+      "DEFAULT": "Hey! Suchst du etwas Besonderes? Ich bin hier, um dir ein personalisiertes Einkaufserlebnis zu bieten."
     }
   }
 }

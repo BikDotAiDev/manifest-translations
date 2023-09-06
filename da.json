@@ -13,7 +13,9 @@
     "askAboutProduct": "Spørg mere om dette produkt",
     "moreVariantsAvailable": "Flere varianter tilgængelige",
     "enterYourMessage": "Indtast din besked ...",
-    "similarTo": "Lignende med"
+    "similarTo": "Lignende med",
+    "AMA": "Spørg mig om hvad som helst.",
+    "seeOurBestSellers": "Se vores bestsellere."
   },
   "others": {
     "suggestedReplies": {
@@ -39,10 +41,10 @@
       ]
     },
     "popUpMessages": {
-      "SEARCH": "Har du brug for hjælp med disse resultater?",
-      "COLLECTION": "Leder du efter noget specifikt?",
-      "PRODUCT": "Spørg mig om hvad som helst angående dette produkt",
-      "DEFAULT": "Hvad leder du efter i dag?"
+      "SEARCH": "Kan du ikke finde det, du leder efter? Lad mig hjælpe dig med at finde præcis, hvad du leder efter.",
+      "COLLECTION": "Leder du efter noget specielt i denne samling? Jeg ved, hvor du kan finde det.",
+      "PRODUCT": "Vil du gerne vide mere om dette produkt? Jeg har alle de oplysninger, du har brug for.",
+      "DEFAULT": "Hej! Leder du efter noget specielt? Jeg er her for at give dig en personlig shoppingoplevelse."
     }
   }
 }
