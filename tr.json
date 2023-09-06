@@ -13,7 +13,9 @@
     "askAboutProduct": "Bu ürünle ilgili daha fazla bilgi iste",
     "moreVariantsAvailable": "Daha fazla varyant mevcut",
     "enterYourMessage": "Mesajınızı girin...",
-    "similarTo": "Benzer"
+    "similarTo": "Benzer",
+    "AMA": "Bana herhangi bir şey sor",
+    "seeOurBestSellers": "En çok satanlarımızı görün"
   },
   "others": {
     "suggestedReplies": {
@@ -39,10 +41,10 @@
       ]
     },
     "popUpMessages": {
-      "SEARCH": "Bu sonuçlar konusunda yardıma ihtiyacınız var mı?",
-      "COLLECTION": "Belirli bir şey mi arıyorsunuz?",
-      "PRODUCT": "Bu ürünle ilgili herhangi bir soru sorabilirsiniz",
-      "DEFAULT": "Bugün ne arıyorsunuz?"
+      "SEARCH": "Aradığınızı bulamıyor musunuz? Sizi tam olarak aradığınızı bulmanıza yardımcı olabilirim.",
+      "COLLECTION": "Bu koleksiyonda özel bir şey mi arıyorsunuz? Nerede bulabileceğimi biliyorum.",
+      "PRODUCT": "Bu ürün hakkında daha fazla bilgi almak ister misiniz? İhtiyacınız olan tüm detaylara sahibim.",
+      "DEFAULT": "Merhaba! Özel bir şey mi arıyorsunuz? Size kişiselleştirilmiş bir alışveriş deneyimi sunmak için buradayım."
     }
   }
 }

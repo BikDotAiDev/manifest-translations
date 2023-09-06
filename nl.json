@@ -13,7 +13,9 @@
     "askAboutProduct": "Vraag meer over dit product",
     "moreVariantsAvailable": "Meer varianten beschikbaar",
     "enterYourMessage": "Voer uw bericht in...",
-    "similarTo": "Vergelijkbaar met"
+    "similarTo": "Vergelijkbaar met",
+    "AMA": "Vraag me alles",
+    "seeOurBestSellers": "Bekijk onze bestsellers"
   },
   "others": {
     "suggestedReplies": {
@@ -39,10 +41,10 @@
       ]
     },
     "popUpMessages": {
-      "SEARCH": "Heb je hulp nodig bij deze resultaten?",
-      "COLLECTION": "Zoek je iets specifieks?",
-      "PRODUCT": "Vraag me alles over dit product",
-      "DEFAULT": "Waarnaar ben je vandaag op zoek?"
+      "SEARCH": "Kun je niet vinden wat je zoekt? Laat me je helpen precies te vinden wat je zoekt.",
+      "COLLECTION": "Op zoek naar iets bijzonders in deze collectie? Ik weet waar je het kunt vinden.",
+      "PRODUCT": "Meer weten over dit product? Ik heb alle details die je nodig hebt.",
+      "DEFAULT": "Hallo! Op zoek naar iets bijzonders? Ik ben hier om je een gepersonaliseerde winkelervaring te bieden."
     }
   }
 }
