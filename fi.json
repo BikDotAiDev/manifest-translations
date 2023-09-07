@@ -1,0 +1,52 @@
+{
+  "translations": {
+    "headerGreeting": "Hei, olen",
+    "welcomeMessageHomePage": "Anna minun auttaa sinua löytämään etsimäsi!",
+    "welcomeMessageProductPage": "Kysy minulta mitä tahansa tästä tuotteesta",
+    "welcomeMessageCollectionPage": "Kysy minulta mitä tahansa näistä tuotteista",
+    "tapToAsk": "Kosketa kysyäksesi minulta kysymys",
+    "poweredBy": "Toimii käyttäen",
+    "viewProduct": "Näytä tuote",
+    "tapOnTo": "Kosketa nähdäksesi",
+    "viewSimilarProducts": "Näytä samankaltaiset tuotteet",
+    "askAboutSpecificProduct": "Kysy tietystä tuotteesta",
+    "askAboutProduct": "Kysy enemmän tästä tuotteesta",
+    "moreVariantsAvailable": "Lisää vaihtoehtoja saatavilla",
+    "enterYourMessage": "Kirjoita viestisi...",
+    "similarTo": "Vastaava kuin",
+    "AMA": "Kysy minulta mitä tahansa",
+    "seeOurBestSellers": "Katso parhaita myyntituotteitamme",
+    "whatAreYourBestSellers": "Mitkä ovat myydyimmät tuotteesi?",
+    "iHaveAQuestion": "Minulla on kysymys"
+  },
+  "others": {
+    "suggestedReplies": {
+      "PRODUCT": [
+        "Mikä erottaa tämän tuotteen muista?",
+        "Näytä minulle lisää samanlaisia tuotteita",
+        "Mikä on tämän tuotteen palautuskäytäntö?"
+      ],
+      "COLLECTION": [
+        "Mitkä ovat myydyimmät tuotteesi?",
+        "Mikä erottaa tuotteesi muista?",
+        "Missä on tilaukseni?"
+      ],
+      "SEARCH": [
+        "Näytä minulle sopivimmat tuotteet",
+        "Tarkenna tuloksia vaatimusteni perusteella",
+        "Mitkä ovat suosituimpia valintoja näiden joukosta?"
+      ],
+      "OTHER": [
+        "Mitkä ovat myydyimmät tuotteesi?",
+        "Mikä erottaa tuotteesi muista?",
+        "Missä on tilaukseni?"
+      ]
+    },
+    "popUpMessages": {
+      "SEARCH": "Et löydä etsimääsi? Anna minun auttaa sinua löytämään juuri sen, mitä etsit.",
+      "COLLECTION": "Etsitkö jotain erityistä tästä kokoelmasta? Tiedän, mistä sen löydät.",
+      "PRODUCT": "Haluatko tietää enemmän tästä tuotteesta? Minulla on kaikki tarvittavat tiedot.",
+      "DEFAULT": "Hei! Etsitkö jotain erityistä? Olen täällä tarjoamassa sinulle personoidun ostoskokemuksen."
+    }
+  }
+}

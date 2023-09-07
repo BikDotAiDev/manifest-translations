@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "headerGreeting": "Cześć, jestem",
+    "welcomeMessageHomePage": "Pomogę Ci znaleźć to, czego szukasz!",
+    "welcomeMessageProductPage": "Zapytaj mnie o ten produkt",
+    "welcomeMessageCollectionPage": "Zapytaj mnie o te produkty",
+    "tapToAsk": "Kliknij, aby zadać mi pytanie",
+    "poweredBy": "Napędzane przez",
+    "viewProduct": "Zobacz produkt",
+    "tapOnTo": "Kliknij, aby",
+    "viewSimilarProducts": "Zobacz podobne produkty",
+    "askAboutSpecificProduct": "Zapytaj o konkretny produkt",
+    "askAboutProduct": "Zapytaj więcej o tym produkcie",
+    "moreVariantsAvailable": "Dostępne są więcej wariantów",
+    "enterYourMessage": "Wprowadź swoją wiadomość...",
+    "similarTo": "Podobny do"
+  },
+  "others": {
+    "suggestedReplies": {
+      "PRODUCT": [
+        "Co wyróżnia ten produkt spośród innych?",
+        "Pokaż mi więcej produktów podobnych do tego",
+        "Jaka jest polityka zwrotów tego produktu?"
+      ],
+      "COLLECTION": [
+        "Jakie są Wasze najlepiej sprzedające się produkty?",
+        "Co wyróżnia Wasze produkty spośród innych?",
+        "Gdzie jest moje zamówienie?"
+      ],
+      "SEARCH": [
+        "Pokaż mi najbardziej odpowiednie produkty dla mnie",
+        "Uprecyzuj wyniki na podstawie moich wymagań",
+        "Jakie są popularne wybory spośród tych?"
+      ],
+      "OTHER": [
+        "Jakie są Wasze najlepiej sprzedające się produkty?",
+        "Co wyróżnia Wasze produkty spośród innych?",
+        "Gdzie jest moje zamówienie?"
+      ]
+    },
+    "popUpMessages": {
+      "SEARCH": "Potrzebujesz pomocy z tymi wynikami?",
+      "COLLECTION": "Czy szukasz czegoś konkretnego?",
+      "PRODUCT": "Zapytaj mnie o ten produkt",
+      "DEFAULT": "Czego dzisiaj szukasz?"
+    }
+  }
+}
