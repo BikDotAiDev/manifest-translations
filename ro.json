@@ -1,0 +1,52 @@
+{
+  "translations": {
+    "headerGreeting": "Salut, sunt",
+    "welcomeMessageHomePage": "Lasă-mă să te ajut să găsești ce cauți!",
+    "welcomeMessageProductPage": "Întreabă-mă orice despre acest produs",
+    "welcomeMessageCollectionPage": "Întreabă-mă orice despre aceste produse",
+    "tapToAsk": "Atinge pentru a-mi pune o întrebare",
+    "poweredBy": "Funcționează cu",
+    "viewProduct": "Vizualizează produsul",
+    "tapOnTo": "Atinge pentru a",
+    "viewSimilarProducts": "Vizualizează produse similare",
+    "askAboutSpecificProduct": "Întreabă despre un produs specific",
+    "askAboutProduct": "Întreabă mai mult despre acest produs",
+    "moreVariantsAvailable": "Mai multe variante disponibile",
+    "enterYourMessage": "Introdu mesajul tău ...",
+    "similarTo": "Asemănător cu",
+    "AMA": "Întreabă-mă orice",
+    "seeOurBestSellers": "Vezi cele mai vândute produse ale noastre",
+    "whatAreYourBestSellers": "Care sunt produsele noastre cele mai bine vândute?",
+    "iHaveAQuestion": "Am o întrebare"
+  },
+  "others": {
+    "suggestedReplies": {
+      "PRODUCT": [
+        "Ce face acest produs să se evidențieze?",
+        "Arată-mi mai multe produse asemănătoare",
+        "Care este politica de returnare a acestui produs?"
+      ],
+      "COLLECTION": [
+        "Care sunt cele mai bine vândute produse ale voastre?",
+        "Ce deosebește produsele voastre de cele ale altora?",
+        "Unde este comanda mea?"
+      ],
+      "SEARCH": [
+        "Arată-mi cele mai relevante produse pentru mine",
+        "Rafinează rezultatele în funcție de cerințele mele",
+        "Care sunt alegerile populare dintre acestea?"
+      ],
+      "OTHER": [
+        "Care sunt cele mai bine vândute produse ale voastre?",
+        "Ce deosebește produsele voastre de cele ale altora?",
+        "Unde este comanda mea?"
+      ]
+    },
+    "popUpMessages": {
+      "SEARCH": "Nu găsești ce cauți? Lasă-mă să te ajut să găsești exact ceea ce cauți.",
+      "COLLECTION": "Cauti ceva special în această colecție? Știu unde să-l găsesc.",
+      "PRODUCT": "Vrei să afli mai multe despre acest produs? Am toate detaliile de care ai nevoie.",
+      "DEFAULT": "Salut! Cauti ceva special? Sunt aici să îți ofer o experiență de cumpărături personalizată."
+    }
+  }
+}
