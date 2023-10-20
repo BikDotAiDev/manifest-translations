@@ -1,48 +1,55 @@
 {
   "translations": {
-    "headerGreeting": "Cześć, jestem",
+    "headerGreeting": "Hej, jestem",
     "welcomeMessageHomePage": "Pomogę Ci znaleźć to, czego szukasz!",
-    "welcomeMessageProductPage": "Zapytaj mnie o ten produkt",
-    "welcomeMessageCollectionPage": "Zapytaj mnie o te produkty",
-    "tapToAsk": "Kliknij, aby zadać mi pytanie",
+    "welcomeMessageProductPage": "Zapytaj mnie o cokolwiek związanego z tym produktem",
+    "welcomeMessageCollectionPage": "Zapytaj mnie o cokolwiek związanego z tymi produktami",
+    "tapToAsk": "Dotknij, aby zadać mi pytanie",
     "poweredBy": "Napędzane przez",
     "viewProduct": "Zobacz produkt",
-    "tapOnTo": "Kliknij, aby",
+    "tapOnTo": "Dotknij, aby",
     "viewSimilarProducts": "Zobacz podobne produkty",
     "askAboutSpecificProduct": "Zapytaj o konkretny produkt",
     "askAboutProduct": "Zapytaj więcej o tym produkcie",
-    "moreVariantsAvailable": "Dostępne są więcej wariantów",
-    "enterYourMessage": "Wprowadź swoją wiadomość...",
-    "similarTo": "Podobny do"
+    "moreVariantsAvailable": "Dostępne więcej wariantów",
+    "enterYourMessage": "Wprowadź swoją wiadomość ...",
+    "similarTo": "Podobne do",
+    "AMA": "Zapytaj mnie o cokolwiek",
+    "seeOurBestSellers": "Zobacz nasze bestsellery",
+    "whatAreYourBestSellers": "Jakie są nasze najlepiej sprzedające się produkty?",
+    "iHaveAQuestion": "Mam pytanie",
+    "goToCart": "Przejdź do koszyka",
+    "yesSure": "Tak, oczywiście!",
+    "noThanks": "Nie, dziękuję"
   },
   "others": {
     "suggestedReplies": {
       "PRODUCT": [
-        "Co wyróżnia ten produkt spośród innych?",
+        "Co wyróżnia ten produkt?",
         "Pokaż mi więcej produktów podobnych do tego",
         "Jaka jest polityka zwrotów tego produktu?"
       ],
       "COLLECTION": [
-        "Jakie są Wasze najlepiej sprzedające się produkty?",
-        "Co wyróżnia Wasze produkty spośród innych?",
+        "Jakie są nasze najlepiej sprzedające się produkty?",
+        "Co wyróżnia nasze produkty spośród innych?",
         "Gdzie jest moje zamówienie?"
       ],
       "SEARCH": [
         "Pokaż mi najbardziej odpowiednie produkty dla mnie",
-        "Uprecyzuj wyniki na podstawie moich wymagań",
-        "Jakie są popularne wybory spośród tych?"
+        "Uściślij wyniki na podstawie moich wymagań",
+        "Jakie są popularne wybory wśród tych produktów?"
       ],
       "OTHER": [
-        "Jakie są Wasze najlepiej sprzedające się produkty?",
-        "Co wyróżnia Wasze produkty spośród innych?",
+        "Jakie są nasze najlepiej sprzedające się produkty?",
+        "Co wyróżnia nasze produkty spośród innych?",
         "Gdzie jest moje zamówienie?"
       ]
     },
     "popUpMessages": {
-      "SEARCH": "Potrzebujesz pomocy z tymi wynikami?",
-      "COLLECTION": "Czy szukasz czegoś konkretnego?",
-      "PRODUCT": "Zapytaj mnie o ten produkt",
-      "DEFAULT": "Czego dzisiaj szukasz?"
+      "SEARCH": "Nie możesz znaleźć tego, czego szukasz? Pozwól mi pomóc Ci znaleźć dokładnie to, czego szukasz.",
+      "COLLECTION": "Szukasz czegoś wyjątkowego w tej kolekcji? Wiem, gdzie to znaleźć.",
+      "PRODUCT": "Chcesz dowiedzieć się więcej o tym produkcie? Mam wszystkie potrzebne informacje.",
+      "DEFAULT": "Hej! Szukasz czegoś wyjątkowego? Jestem tutaj, aby zapewnić Ci spersonalizowane doświadczenie zakupowe."
     }
   }
 }

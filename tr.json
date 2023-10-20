@@ -17,7 +17,10 @@
     "AMA": "Bana herhangi bir şey sor",
     "seeOurBestSellers": "En çok satanlarımızı görün",
     "whatAreYourBestSellers": "En çok satan ürünleriniz nelerdir?",
-    "iHaveAQuestion": "Bir sorum var"
+    "iHaveAQuestion": "Bir sorum var",
+    "goToCart": "Sepete git",
+    "yesSure": "Evet, tabii ki!",
+    "noThanks": "Hayır, teşekkürler"
   },
   "others": {
     "suggestedReplies": {
