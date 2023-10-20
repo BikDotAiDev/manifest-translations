@@ -20,7 +20,8 @@
     "iHaveAQuestion": "質問があります",
     "goToCart": "カートに進む",
     "yesSure": "はい、もちろん！",
-    "noThanks": "いいえ、結構です"
+    "noThanks": "いいえ、結構です",
+    "cartWaiting": "カートに入れた商品を待たせないで、今すぐ購入してください！"
   },
   "others": {
     "suggestedReplies": {

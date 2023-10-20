@@ -20,7 +20,8 @@
     "iHaveAQuestion": "J'ai une question",
     "goToCart": "Aller au panier",
     "yesSure": "Oui, bien sûr!",
-    "noThanks": "Non, merci"
+    "noThanks": "Non, merci",
+    "cartWaiting": "Ne laissez pas les articles dans votre panier attendre, passez à la caisse maintenant !"
   },
   "others": {
     "suggestedReplies": {
