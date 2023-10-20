@@ -21,7 +21,7 @@
     "goToCart": "Go to cart",
     "yesSure": "Yes, sure!",
     "noThanks": "No, thanks",
-    "abandonCart": "Don't keep the items in your cart waiting, check out now!"
+    "cartWaiting": "Don't keep the items in your cart waiting, check out now!"
   },
   "others": {
     "suggestedReplies": {
