@@ -17,7 +17,10 @@
     "AMA": "Pergunte-me qualquer coisa",
     "seeOurBestSellers": "Ver nossos mais vendidos",
     "whatAreYourBestSellers": "Quais são seus produtos mais vendidos?",
-    "iHaveAQuestion": "Eu tenho uma pergunta"
+    "iHaveAQuestion": "Eu tenho uma pergunta",
+    "goToCart": "Ir para o carrinho",
+    "yesSure": "Sim, claro!",
+    "noThanks": "Não, obrigado"
   },
   "others": {
     "suggestedReplies": {
