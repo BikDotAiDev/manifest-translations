@@ -1,0 +1,56 @@
+{
+  "translations": {
+    "headerGreeting": "Helló, én vagyok",
+    "welcomeMessageHomePage": "Segítek megtalálni, amit keresel!",
+    "welcomeMessageProductPage": "Kérdezz bármit erről a termékről",
+    "welcomeMessageCollectionPage": "Kérdezz bármit ezekről a termékekről",
+    "tapToAsk": "Érintsd meg, hogy feltehess egy kérdést",
+    "poweredBy": "Működtetve:",
+    "viewProduct": "Termék megtekintése",
+    "tapOnTo": "Érintsd meg a",
+    "viewSimilarProducts": "Hasonló termékek megtekintése",
+    "askAboutSpecificProduct": "Kérdezz erről a konkrét termékről",
+    "askAboutProduct": "Kérdezz tovább erről a termékről",
+    "moreVariantsAvailable": "Több változat elérhető",
+    "enterYourMessage": "Írd be az üzeneted ...",
+    "similarTo": "Hasonló ehhez:",
+    "AMA": "Kérdezz bármit tőlem",
+    "seeOurBestSellers": "Nézd meg legjobban eladott termékeinket",
+    "whatAreYourBestSellers": "Mi a legjobban eladott termékeitek?",
+    "iHaveAQuestion": "Van egy kérdésem",
+    "goToCart": "Ugrás a kosaradhoz",
+    "yesSure": "Igen, persze!",
+    "noThanks": "Nem, köszönöm",
+    "cartWaiting": "Ne hagyd a termékeket a kosaradban várakozni, lépj ki most!"
+  },
+  "others": {
+    "suggestedReplies": {
+      "PRODUCT": [
+        "Mi teszi ezt a terméket különlegessé?",
+        "Mutass több olyan terméket, mint ez",
+        "Mi a termék visszaküldési politikája?"
+      ],
+      "COLLECTION": [
+        "Mi a legjobban eladott termékeitek?",
+        "Mi különbözteti meg termékeiteket a többitől?",
+        "Hol van az rendelésem?"
+      ],
+      "SEARCH": [
+        "Mutass nekem a számomra legrelevánsabb termékeket",
+        "Finomítsd az eredményeket az igényeim alapján",
+        "Mi a népszerű választás ezek között?"
+      ],
+      "OTHER": [
+        "Mi a legjobban eladott termékeitek?",
+        "Mi különbözteti meg termékeiteket a többitől?",
+        "Hol van az rendelésem?"
+      ]
+    },
+    "popUpMessages": {
+      "SEARCH": "Nem találod, amit keresel? Segítek megtalálni pontosan azt, amit keresel.",
+      "COLLECTION": "Keresel valami különlegeset ebben a kollekcióban? Tudom, hol találod meg.",
+      "PRODUCT": "Tudni szeretnél többet erről a termékről? Minden szükséges információval rendelkezem.",
+      "DEFAULT": "Helló! Keresel valami különlegest? Itt vagyok, hogy személyre szabott vásárlási élményt nyújtsak neked."
+    }
+  }
+}
