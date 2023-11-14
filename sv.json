@@ -21,7 +21,16 @@
     "goToCart": "Gå till kundvagnen",
     "yesSure": "Ja, självklart!",
     "noThanks": "Nej tack",
-    "cartWaiting": "Låt inte varorna i din kundvagn vänta, checka ut nu!"
+    "cartWaiting": "Låt inte varorna i din kundvagn vänta, checka ut nu!",
+    "navigationPageTitle": "Du har kommit in på sidan {{navigationContext}}",
+    "searchQuery": "Fråga mig vad som helst om {{query}}",
+    "ourTopProduct": "Våra bästa produkter",
+    "discountCouponTextBIC": "Hej! Vi har ett specialerbjudande på {{couponTitle}}. Vill du utnyttja detta erbjudande?",
+    "soldOut": "Slutsåld",
+    "validEmailAddress": "Ange en giltig e-postadress",
+    "rewardForYou": "Belöningar bara för dig 🎉",
+    "tryYourLuck": "Prova din lycka",
+    "textLimit": "Maximigränsen för text är {{MAX_LIMIT}} tecken"
   },
   "others": {
     "suggestedReplies": {

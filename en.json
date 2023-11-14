@@ -21,7 +21,16 @@
     "goToCart": "Go to cart",
     "yesSure": "Yes, sure!",
     "noThanks": "No, thanks",
-    "cartWaiting": "Don't keep the items in your cart waiting, check out now!"
+    "cartWaiting": "Don't keep the items in your cart waiting, check out now!",
+    "navigationPageTitle": "You entered the {{navigationContext}} page",
+    "searchQuery": "Ask me anything about {{query}}",
+    "ourTopProduct": "Our top products",
+    "discountCouponTextBIC": "Hey there! We have a special going on {{couponTitle}}. Would you like to avail this offer?",
+    "soldOut": "Sold out",
+    "validEmailAddress": "Please enter a valid email address",
+    "rewardForYou": "Rewards just for you 🎉",
+    "tryYourLuck": "Try your luck",
+    "textLimit": "Maximum text limit is {{MAX_LIMIT}} characters"
   },
   "others": {
     "suggestedReplies": {

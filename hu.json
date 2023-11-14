@@ -21,7 +21,16 @@
     "goToCart": "Ugrás a kosaradhoz",
     "yesSure": "Igen, persze!",
     "noThanks": "Nem, köszönöm",
-    "cartWaiting": "Ne hagyd a termékeket a kosaradban várakozni, lépj ki most!"
+    "cartWaiting": "Ne hagyd a termékeket a kosaradban várakozni, lépj ki most!",
+    "navigationPageTitle": "Beléptél a(z) {{navigationContext}} oldalra",
+    "searchQuery": "Kérdezz engem bármit a {{query}}-val kapcsolatban",
+    "ourTopProduct": "Legjobb termékeink",
+    "discountCouponTextBIC": "Helló! Van egy különleges ajánlatunk a {{couponTitle}}-re. Szeretnéd igénybe venni ezt az ajánlatot?",
+    "soldOut": "Elfogyott",
+    "validEmailAddress": "Kérjük, adjon meg egy érvényes e-mail címet",
+    "rewardForYou": "Jutalmak csak neked 🎉",
+    "tryYourLuck": "Próbáld ki a szerencsédet",
+    "textLimit": "A maximális szöveghossz {{MAX_LIMIT}} karakter"
   },
   "others": {
     "suggestedReplies": {

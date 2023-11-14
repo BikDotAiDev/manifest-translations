@@ -21,7 +21,16 @@
     "goToCart": "Zum Warenkorb gehen",
     "yesSure": "Ja, sicher!",
     "noThanks": "Nein, danke",
-    "cartWaiting": "Lassen Sie die Artikel in Ihrem Warenkorb nicht warten, zahlen Sie jetzt!"
+    "cartWaiting": "Lassen Sie die Artikel in Ihrem Warenkorb nicht warten, zahlen Sie jetzt!",
+    "navigationPageTitle": "Sie haben die Seite {{navigationContext}} betreten",
+    "searchQuery": "Fragen Sie mich nach allem über {{query}}",
+    "ourTopProduct": "Unsere Top-Produkte",
+    "discountCouponTextBIC": "Hallo! Wir haben ein Sonderangebot für {{couponTitle}}. Möchten Sie dieses Angebot nutzen?",
+    "soldOut": "Ausverkauft",
+    "validEmailAddress": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+    "rewardForYou": "Belohnungen nur für dich 🎉",
+    "tryYourLuck": "Versuch dein Glück",
+    "textLimit": "Die maximale Textlänge beträgt {{MAX_LIMIT}} Zeichen"
   },
   "others": {
     "suggestedReplies": {

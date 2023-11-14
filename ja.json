@@ -21,7 +21,16 @@
     "goToCart": "カートに進む",
     "yesSure": "はい、もちろん！",
     "noThanks": "いいえ、結構です",
-    "cartWaiting": "カートに入れた商品を待たせないで、今すぐ購入してください！"
+    "cartWaiting": "カートに入れた商品を待たせないで、今すぐ購入してください！",
+    "navigationPageTitle": "{{navigationContext}} ページに入りました",
+    "searchQuery": "{{query}} について何でも聞いてください",
+    "ourTopProduct": "私たちのトップ製品",
+    "discountCouponTextBIC": "こんにちは！ {{couponTitle}} に特別なオファーがあります。このオファーを利用しますか？",
+    "soldOut": "売り切れ",
+    "validEmailAddress": "有効なメールアドレスを入力してください",
+    "rewardForYou": "あなただけのリワード 🎉",
+    "tryYourLuck": "運試し",
+    "textLimit": "テキストの最大制限は {{MAX_LIMIT}} 文字です"
   },
   "others": {
     "suggestedReplies": {

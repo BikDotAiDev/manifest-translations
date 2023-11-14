@@ -21,7 +21,16 @@
     "goToCart": "Ir al carrito",
     "yesSure": "¡Sí, claro!",
     "noThanks": "No, gracias",
-    "cartWaiting": "¡No dejes que los productos en tu carrito esperen, ¡compra ahora!"
+    "cartWaiting": "¡No dejes que los productos en tu carrito esperen, ¡compra ahora!",
+    "navigationPageTitle": "Has entrado en la página {{navigationContext}}",
+    "searchQuery": "Pregúntame cualquier cosa sobre {{query}}",
+    "ourTopProduct": "Nuestros mejores productos",
+    "discountCouponTextBIC": "¡Hola! Tenemos una oferta especial en {{couponTitle}}. ¿Te gustaría aprovechar esta oferta?",
+    "soldOut": "Agotado",
+    "validEmailAddress": "Por favor, introduce una dirección de correo electrónico válida",
+    "rewardForYou": "Recompensas solo para ti 🎉",
+    "tryYourLuck": "Prueba tu suerte",
+    "textLimit": "El límite máximo de texto es de {{MAX_LIMIT}} caracteres"
   },
   "others": {
     "suggestedReplies": {
