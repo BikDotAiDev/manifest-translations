@@ -30,7 +30,12 @@
     "validEmailAddress": "Por favor, insira um endereço de e-mail válido",
     "rewardForYou": "Recompensas só para você 🎉",
     "tryYourLuck": "Tente a sua sorte",
-    "textLimit": "O limite máximo de texto é de {{MAX_LIMIT}} caracteres"
+    "textLimit": "O limite máximo de texto é de {{MAX_LIMIT}} caracteres",
+    "askAboutThis": "Pergunte sobre isso",
+    "askMoreAboutThisProduct": "Pergunte mais sobre este produto",
+    "availOngoingSpecialOffer": "Quero aproveitar a oferta especial em andamento",
+    "spinTheWheelExcitingRewards": "Gire a roda para ganhar prêmios emocionantes",
+    "spinTheWheel": "gire a roda"
   },
   "others": {
     "suggestedReplies": {

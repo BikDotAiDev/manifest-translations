@@ -30,7 +30,12 @@
     "validEmailAddress": "Kérjük, adjon meg egy érvényes e-mail címet",
     "rewardForYou": "Jutalmak csak neked 🎉",
     "tryYourLuck": "Próbáld ki a szerencsédet",
-    "textLimit": "A maximális szöveghossz {{MAX_LIMIT}} karakter"
+    "textLimit": "A maximális szöveghossz {{MAX_LIMIT}} karakter",
+    "askAboutThis": "Kérdezze meg erről",
+    "askMoreAboutThisProduct": "Kérdezze meg többet erről a termékről",
+    "availOngoingSpecialOffer": "Szeretnék élni az aktuális különleges ajánlattal",
+    "spinTheWheelExcitingRewards": "Forgassa el a kereket izgalmas jutalmakért",
+    "spinTheWheel": "forgassa el a kereket"
   },
   "others": {
     "suggestedReplies": {

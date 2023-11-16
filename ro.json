@@ -30,7 +30,12 @@
     "validEmailAddress": "Vă rugăm să introduceți o adresă de email validă",
     "rewardForYou": "Recompense doar pentru tine 🎉",
     "tryYourLuck": "Încearcă-ți norocul",
-    "textLimit": "Limita maximă de text este de {{MAX_LIMIT}} caractere"
+    "textLimit": "Limita maximă de text este de {{MAX_LIMIT}} caractere",
+    "askAboutThis": "Întreabă despre asta",
+    "askMoreAboutThisProduct": "Întreabă mai mult despre acest produs",
+    "availOngoingSpecialOffer": "Vreau să profit de oferta specială în desfășurare",
+    "spinTheWheelExcitingRewards": "Învârte roata pentru a câștiga recompense captivante",
+    "spinTheWheel": "învârte roata"
   },
   "others": {
     "suggestedReplies": {

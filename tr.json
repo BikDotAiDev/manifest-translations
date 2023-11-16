@@ -30,7 +30,12 @@
     "validEmailAddress": "Lütfen geçerli bir e-posta adresi girin",
     "rewardForYou": "Sadece sizin için ödüller 🎉",
     "tryYourLuck": "Şansınızı deneyin",
-    "textLimit": "Maksimum metin sınırı {{MAX_LIMIT}} karakterdir"
+    "textLimit": "Maksimum metin sınırı {{MAX_LIMIT}} karakterdir",
+    "askAboutThis": "Bunu sor",
+    "askMoreAboutThisProduct": "Bu ürün hakkında daha fazla sor",
+    "availOngoingSpecialOffer": "Devam eden özel teklifi kullanmak istiyorum",
+    "spinTheWheelExcitingRewards": "Heyecan verici ödüller kazanmak için tekerleği çevir",
+    "spinTheWheel": "tekerleği çevir"
   },
   "others": {
     "suggestedReplies": {

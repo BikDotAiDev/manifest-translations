@@ -30,7 +30,12 @@
     "validEmailAddress": "Ange en giltig e-postadress",
     "rewardForYou": "Belöningar bara för dig 🎉",
     "tryYourLuck": "Prova din lycka",
-    "textLimit": "Maximigränsen för text är {{MAX_LIMIT}} tecken"
+    "textLimit": "Maximigränsen för text är {{MAX_LIMIT}} tecken",
+    "askAboutThis": "Fråga om detta",
+    "askMoreAboutThisProduct": "Fråga mer om denna produkt",
+    "availOngoingSpecialOffer": "Jag vill dra nytta av det pågående specialerbjudandet",
+    "spinTheWheelExcitingRewards": "Snurra hjulet för att vinna spännande belöningar",
+    "spinTheWheel": "snurra hjulet"
   },
   "others": {
     "suggestedReplies": {

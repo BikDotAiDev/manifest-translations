@@ -30,7 +30,12 @@
     "validEmailAddress": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
     "rewardForYou": "Belohnungen nur für dich 🎉",
     "tryYourLuck": "Versuch dein Glück",
-    "textLimit": "Die maximale Textlänge beträgt {{MAX_LIMIT}} Zeichen"
+    "textLimit": "Die maximale Textlänge beträgt {{MAX_LIMIT}} Zeichen",
+    "askAboutThis": "Fragen Sie nach diesem",
+    "askMoreAboutThisProduct": "Fragen Sie mehr zu diesem Produkt",
+    "availOngoingSpecialOffer": "Ich möchte das laufende Sonderangebot nutzen",
+    "spinTheWheelExcitingRewards": "Drehen Sie das Rad, um aufregende Belohnungen zu gewinnen",
+    "spinTheWheel": "das Rad drehen"
   },
   "others": {
     "suggestedReplies": {

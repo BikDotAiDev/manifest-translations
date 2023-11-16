@@ -30,7 +30,12 @@
     "validEmailAddress": "Voer een geldig e-mailadres in",
     "rewardForYou": "Beloningen alleen voor jou 🎉",
     "tryYourLuck": "Probeer je geluk",
-    "textLimit": "De maximale tekstlimiet is {{MAX_LIMIT}} tekens"
+    "textLimit": "De maximale tekstlimiet is {{MAX_LIMIT}} tekens",
+    "askAboutThis": "Vraag hierover",
+    "askMoreAboutThisProduct": "Vraag meer over dit product",
+    "availOngoingSpecialOffer": "Ik wil gebruikmaken van de lopende speciale aanbieding",
+    "spinTheWheelExcitingRewards": "Draai aan het wiel om spannende beloningen te winnen",
+    "spinTheWheel": "draai aan het wiel"
   },
   "others": {
     "suggestedReplies": {

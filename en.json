@@ -30,7 +30,12 @@
     "validEmailAddress": "Please enter a valid email address",
     "rewardForYou": "Rewards just for you 🎉",
     "tryYourLuck": "Try your luck",
-    "textLimit": "Maximum text limit is {{MAX_LIMIT}} characters"
+    "textLimit": "Maximum text limit is {{MAX_LIMIT}} characters",
+    "askAboutThis": "Ask about this",
+    "askMoreAboutThisProduct": "Ask more about this product",
+    "availOngoingSpecialOffer": "I want to avail the ongoing special offer",
+    "spinTheWheelExcitingRewards": "Spin the wheel to win exciting rewards",
+    "spinTheWheel": "spin the wheel"
   },
   "others": {
     "suggestedReplies": {

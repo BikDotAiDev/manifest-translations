@@ -30,7 +30,12 @@
     "validEmailAddress": "Syötä kelvollinen sähköpostiosoite",
     "rewardForYou": "Palkinnot vain sinulle 🎉",
     "tryYourLuck": "Kokeile onneasi",
-    "textLimit": "Maksimitekstin raja on {{MAX_LIMIT}} merkkiä"
+    "textLimit": "Maksimitekstin raja on {{MAX_LIMIT}} merkkiä",
+    "askAboutThis": "Kysy tästä",
+    "askMoreAboutThisProduct": "Kysy lisää tästä tuotteesta",
+    "availOngoingSpecialOffer": "Haluan hyödyntää käynnissä olevan erikoistarjouksen",
+    "spinTheWheelExcitingRewards": "Pyöräytä pyörää voittaaksesi jännittäviä palkintoja",
+    "spinTheWheel": "pyöräytä pyörää"
   },
   "others": {
     "suggestedReplies": {

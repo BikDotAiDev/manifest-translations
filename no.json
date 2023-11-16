@@ -30,7 +30,12 @@
     "validEmailAddress": "Vennligst skriv inn en gyldig e-postadresse",
     "rewardForYou": "Belønninger bare for deg 🎉",
     "tryYourLuck": "Prøv lykken din",
-    "textLimit": "Maksimal tekstgrense er {{MAX_LIMIT}} tegn"
+    "textLimit": "Maksimal tekstgrense er {{MAX_LIMIT}} tegn",
+    "askAboutThis": "Spør om dette",
+    "askMoreAboutThisProduct": "Spør mer om dette produktet",
+    "availOngoingSpecialOffer": "Jeg vil benytte den pågående spesialtilbudet",
+    "spinTheWheelExcitingRewards": "Spinn hjulet for å vinne spennende belønninger",
+    "spinTheWheel": "spinn hjulet"
   },
   "others": {
     "suggestedReplies": {
