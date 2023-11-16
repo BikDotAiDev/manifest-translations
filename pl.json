@@ -21,7 +21,22 @@
     "goToCart": "Przejdź do koszyka",
     "yesSure": "Tak, oczywiście!",
     "noThanks": "Nie, dziękuję",
-    "cartWaiting": "Nie pozostawiaj produktów w koszyku czekając, zapłać teraz!"
+    "cartWaiting": "Nie pozostawiaj produktów w koszyku czekając, zapłać teraz!",
+    "navigationPageTitle": "Wprowadziłeś się na stronę {{navigationContext}}",
+    "searchQuery": "Zapytaj mnie o cokolwiek dotyczące {{query}}",
+    "ourTopProduct": "Nasze najlepsze produkty",
+    "discountCouponTextBIC": "Cześć! Mamy specjalną ofertę na {{couponTitle}}. Chciałbyś skorzystać z tej oferty?",
+    "soldOut": "Wyprzedane",
+    "validEmailAddress": "Proszę podać prawidłowy adres e-mail",
+    "rewardForYou": "Nagrody tylko dla ciebie 🎉",
+    "tryYourLuck": "Spróbuj szczęścia",
+    "textLimit": "Maksymalny limit tekstu to {{MAX_LIMIT}} znaków",
+    "askAboutThis": "Zapytaj o to",
+    "askMoreAboutThisProduct": "Zapytaj więcej o ten produkt",
+    "availOngoingSpecialOffer": "Chcę skorzystać z trwającej specjalnej oferty",
+    "spinTheWheelExcitingRewards": "Obróć kołem, aby wygrać ekscytujące nagrody",
+    "spinTheWheel": "obróć kołem",
+    "ourTopPicks": "Nasze najlepsze wybory"
   },
   "others": {
     "suggestedReplies": {

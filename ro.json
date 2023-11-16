@@ -21,7 +21,22 @@
     "goToCart": "Mergi la coș",
     "yesSure": "Da, sigur!",
     "noThanks": "Nu, mulțumesc",
-    "cartWaiting": "Nu lăsați produsele din coș să aștepte, plătiți acum!"
+    "cartWaiting": "Nu lăsați produsele din coș să aștepte, plătiți acum!",
+    "navigationPageTitle": "Ai intrat pe pagina {{navigationContext}}",
+    "searchQuery": "Întreabă-mă orice despre {{query}}",
+    "ourTopProduct": "Produsele noastre de top",
+    "discountCouponTextBIC": "Salut! Avem o ofertă specială la {{couponTitle}}. Doriți să profitați de această ofertă?",
+    "soldOut": "Epuizat",
+    "validEmailAddress": "Vă rugăm să introduceți o adresă de email validă",
+    "rewardForYou": "Recompense doar pentru tine 🎉",
+    "tryYourLuck": "Încearcă-ți norocul",
+    "textLimit": "Limita maximă de text este de {{MAX_LIMIT}} caractere",
+    "askAboutThis": "Întreabă despre asta",
+    "askMoreAboutThisProduct": "Întreabă mai mult despre acest produs",
+    "availOngoingSpecialOffer": "Vreau să profit de oferta specială în desfășurare",
+    "spinTheWheelExcitingRewards": "Învârte roata pentru a câștiga recompense captivante",
+    "spinTheWheel": "învârte roata",
+    "ourTopPicks": "Alegerile noastre de top"
   },
   "others": {
     "suggestedReplies": {

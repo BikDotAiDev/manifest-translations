@@ -21,7 +21,22 @@
     "goToCart": "Gå til indkøbsvognen",
     "yesSure": "Ja, selvfølgelig!",
     "noThanks": "Nej tak",
-    "cartWaiting": "Lad ikke varerne i din indkøbsvogn vente, tjek ud nu!"
+    "cartWaiting": "Lad ikke varerne i din indkøbsvogn vente, tjek ud nu!",
+    "navigationPageTitle": "Du har indtastet siden {{navigationContext}}",
+    "searchQuery": "Spørg mig om hvad som helst angående {{query}}",
+    "ourTopProduct": "Vores bedste produkter",
+    "discountCouponTextBIC": "Hej! Vi har et specielt tilbud på {{couponTitle}}. Vil du gerne benytte dig af dette tilbud?",
+    "soldOut": "Udsolgt",
+    "validEmailAddress": "Indtast venligst en gyldig e-mailadresse",
+    "rewardForYou": "Belønninger kun til dig 🎉",
+    "tryYourLuck": "Prøv din held",
+    "textLimit": "Maksimal tekstgrænse er {{MAX_LIMIT}} tegn",
+    "askAboutThis": "Spørg om dette",
+    "askMoreAboutThisProduct": "Spørg mere om dette produkt",
+    "availOngoingSpecialOffer": "Jeg vil gerne benytte den igangværende særlige tilbud",
+    "spinTheWheelExcitingRewards": "Drej hjulet for at vinde spændende belønninger",
+    "spinTheWheel": "drej hjulet",
+    "ourTopPicks": "Vores topvalg"
   },
   "others": {
     "suggestedReplies": {

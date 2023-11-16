@@ -21,7 +21,22 @@
     "goToCart": "Ga naar winkelwagen",
     "yesSure": "Ja, natuurlijk!",
     "noThanks": "Nee, bedankt",
-    "cartWaiting": "Laat de items in je winkelwagen niet wachten, reken nu af!"
+    "cartWaiting": "Laat de items in je winkelwagen niet wachten, reken nu af!",
+    "navigationPageTitle": "U heeft de pagina {{navigationContext}} betreden",
+    "searchQuery": "Vraag me iets over {{query}}",
+    "ourTopProduct": "Onze top producten",
+    "discountCouponTextBIC": "Hallo! We hebben een speciale aanbieding voor {{couponTitle}}. Wil je gebruik maken van dit aanbod?",
+    "soldOut": "Uitverkocht",
+    "validEmailAddress": "Voer een geldig e-mailadres in",
+    "rewardForYou": "Beloningen alleen voor jou 🎉",
+    "tryYourLuck": "Probeer je geluk",
+    "textLimit": "De maximale tekstlimiet is {{MAX_LIMIT}} tekens",
+    "askAboutThis": "Vraag hierover",
+    "askMoreAboutThisProduct": "Vraag meer over dit product",
+    "availOngoingSpecialOffer": "Ik wil gebruikmaken van de lopende speciale aanbieding",
+    "spinTheWheelExcitingRewards": "Draai aan het wiel om spannende beloningen te winnen",
+    "spinTheWheel": "draai aan het wiel",
+    "ourTopPicks": "Onze topkeuzes"
   },
   "others": {
     "suggestedReplies": {

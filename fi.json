@@ -21,7 +21,22 @@
     "goToCart": "Mene ostoskoriin",
     "yesSure": "Kyllä, totta kai!",
     "noThanks": "Ei kiitos",
-    "cartWaiting": "Älä jätä ostoskorin tuotteita odottamaan, maksa nyt!"
+    "cartWaiting": "Älä jätä ostoskorin tuotteita odottamaan, maksa nyt!",
+    "navigationPageTitle": "Olet siirtynyt sivulle {{navigationContext}}",
+    "searchQuery": "Kysy minulta mitä tahansa {{query}} liittyen",
+    "ourTopProduct": "Parhaat tuotteemme",
+    "discountCouponTextBIC": "Hei! Meillä on erikoistarjous {{couponTitle}}. Haluaisitko hyödyntää tämän tarjouksen?",
+    "soldOut": "Loppuunmyyty",
+    "validEmailAddress": "Syötä kelvollinen sähköpostiosoite",
+    "rewardForYou": "Palkinnot vain sinulle 🎉",
+    "tryYourLuck": "Kokeile onneasi",
+    "textLimit": "Maksimitekstin raja on {{MAX_LIMIT}} merkkiä",
+    "askAboutThis": "Kysy tästä",
+    "askMoreAboutThisProduct": "Kysy lisää tästä tuotteesta",
+    "availOngoingSpecialOffer": "Haluan hyödyntää käynnissä olevan erikoistarjouksen",
+    "spinTheWheelExcitingRewards": "Pyöräytä pyörää voittaaksesi jännittäviä palkintoja",
+    "spinTheWheel": "pyöräytä pyörää",
+    "ourTopPicks": "Parhaat valintamme"
   },
   "others": {
     "suggestedReplies": {

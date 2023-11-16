@@ -21,7 +21,22 @@
     "goToCart": "Sepete git",
     "yesSure": "Evet, tabii ki!",
     "noThanks": "Hayır, teşekkürler",
-    "cartWaiting": "Sepetinizdeki ürünleri bekletmeyin, şimdi ödeme yapın!"
+    "cartWaiting": "Sepetinizdeki ürünleri bekletmeyin, şimdi ödeme yapın!",
+    "navigationPageTitle": "{{navigationContext}} sayfasına girdiniz",
+    "searchQuery": "{{query}} hakkında bana her şeyi sor",
+    "ourTopProduct": "En İyi Ürünlerimiz",
+    "discountCouponTextBIC": "Merhaba! {{couponTitle}} üzerinde özel bir teklifimiz var. Bu teklifi kullanmak ister misiniz?",
+    "soldOut": "Tükendi",
+    "validEmailAddress": "Lütfen geçerli bir e-posta adresi girin",
+    "rewardForYou": "Sadece sizin için ödüller 🎉",
+    "tryYourLuck": "Şansınızı deneyin",
+    "textLimit": "Maksimum metin sınırı {{MAX_LIMIT}} karakterdir",
+    "askAboutThis": "Bunu sor",
+    "askMoreAboutThisProduct": "Bu ürün hakkında daha fazla sor",
+    "availOngoingSpecialOffer": "Devam eden özel teklifi kullanmak istiyorum",
+    "spinTheWheelExcitingRewards": "Heyecan verici ödüller kazanmak için tekerleği çevir",
+    "spinTheWheel": "tekerleği çevir",
+    "ourTopPicks": "En iyi seçimlerimiz"
   },
   "others": {
     "suggestedReplies": {
