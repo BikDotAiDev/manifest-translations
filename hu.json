@@ -1,72 +1,73 @@
 {
-  "translations": {
-    "headerGreeting": "Helló, én vagyok",
-    "welcomeMessageHomePage": "Segítek megtalálni, amit keresel!",
-    "welcomeMessageProductPage": "Kérdezz bármit erről a termékről",
-    "welcomeMessageCollectionPage": "Kérdezz bármit ezekről a termékekről",
-    "tapToAsk": "Érintsd meg, hogy feltehess egy kérdést",
-    "poweredBy": "Működtetve:",
-    "viewProduct": "Termék megtekintése",
-    "tapOnTo": "Érintsd meg a",
-    "viewSimilarProducts": "Hasonló termékek megtekintése",
-    "askAboutSpecificProduct": "Kérdezz erről a konkrét termékről",
-    "askAboutProduct": "Kérdezz tovább erről a termékről",
-    "moreVariantsAvailable": "Több változat elérhető",
-    "enterYourMessage": "Írd be az üzeneted ...",
-    "similarTo": "Hasonló ehhez:",
-    "AMA": "Kérdezz bármit tőlem",
-    "seeOurBestSellers": "Nézd meg legjobban eladott termékeinket",
-    "whatAreYourBestSellers": "Mi a legjobban eladott termékeitek?",
-    "iHaveAQuestion": "Van egy kérdésem",
-    "goToCart": "Ugrás a kosaradhoz",
-    "yesSure": "Igen, persze!",
-    "noThanks": "Nem, köszönöm",
-    "cartWaiting": "Ne hagyd a termékeket a kosaradban várakozni, lépj ki most!",
-    "navigationPageTitle": "Beléptél a(z) {{navigationContext}} oldalra",
-    "searchQuery": "Kérdezz engem bármit a {{query}}-val kapcsolatban",
-    "ourTopProduct": "Legjobb termékeink",
-    "discountCouponTextBIC": "Helló! Van egy különleges ajánlatunk a {{couponTitle}}-re. Szeretnéd igénybe venni ezt az ajánlatot?",
-    "soldOut": "Elfogyott",
-    "validEmailAddress": "Kérjük, adjon meg egy érvényes e-mail címet",
-    "rewardForYou": "Jutalmak csak neked 🎉",
-    "tryYourLuck": "Próbáld ki a szerencsédet",
-    "textLimit": "A maximális szöveghossz {{MAX_LIMIT}} karakter",
-    "askAboutThis": "Kérdezze meg erről",
-    "askMoreAboutThisProduct": "Kérdezze meg többet erről a termékről",
-    "availOngoingSpecialOffer": "Szeretnék élni az aktuális különleges ajánlattal",
-    "spinTheWheelExcitingRewards": "Forgassa el a kereket izgalmas jutalmakért",
-    "spinTheWheel": "forgassa el a kereket",
-    "ourTopPicks": "Legjobb választásaink",
-    "checkOutThese": "Nézze meg ezeket a választásokat helyette"
-  },
-  "others": {
-    "suggestedReplies": {
-      "PRODUCT": [
-        "Mi teszi ezt a terméket különlegessé?",
-        "Mutass több olyan terméket, mint ez",
-        "Mi a termék visszaküldési politikája?"
-      ],
-      "COLLECTION": [
-        "Mi a legjobban eladott termékeitek?",
-        "Mi különbözteti meg termékeiteket a többitől?",
-        "Hol van az rendelésem?"
-      ],
-      "SEARCH": [
-        "Mutass nekem a számomra legrelevánsabb termékeket",
-        "Finomítsd az eredményeket az igényeim alapján",
-        "Mi a népszerű választás ezek között?"
-      ],
-      "OTHER": [
-        "Mi a legjobban eladott termékeitek?",
-        "Mi különbözteti meg termékeiteket a többitől?",
-        "Hol van az rendelésem?"
-      ]
+    "others": {
+        "popUpMessages": {
+            "COLLECTION": "Keresel valami különlegeset ebben a kollekcióban? Tudom, hol találod meg.",
+            "DEFAULT": "Helló! Keresel valami különlegest? Itt vagyok, hogy személyre szabott vásárlási élményt nyújtsak neked.",
+            "PRODUCT": "Tudni szeretnél többet erről a termékről? Minden szükséges információval rendelkezem.",
+            "SEARCH": "Nem találod, amit keresel? Segítek megtalálni pontosan azt, amit keresel."
+        },
+        "suggestedReplies": {
+            "COLLECTION": [
+                "Mi a legjobban eladott termékeitek?",
+                "Mi különbözteti meg termékeiteket a többitől?",
+                "Hol van az rendelésem?"
+            ],
+            "OTHER": [
+                "Mi a legjobban eladott termékeitek?",
+                "Mi különbözteti meg termékeiteket a többitől?",
+                "Hol van az rendelésem?"
+            ],
+            "PRODUCT": [
+                "Mi teszi ezt a terméket különlegessé?",
+                "Mutass több olyan terméket, mint ez",
+                "Mi a termék visszaküldési politikája?"
+            ],
+            "SEARCH": [
+                "Mutass nekem a számomra legrelevánsabb termékeket",
+                "Finomítsd az eredményeket az igényeim alapján",
+                "Mi a népszerű választás ezek között?"
+            ]
+        }
     },
-    "popUpMessages": {
-      "SEARCH": "Nem találod, amit keresel? Segítek megtalálni pontosan azt, amit keresel.",
-      "COLLECTION": "Keresel valami különlegeset ebben a kollekcióban? Tudom, hol találod meg.",
-      "PRODUCT": "Tudni szeretnél többet erről a termékről? Minden szükséges információval rendelkezem.",
-      "DEFAULT": "Helló! Keresel valami különlegest? Itt vagyok, hogy személyre szabott vásárlási élményt nyújtsak neked."
+    "translations": {
+        "AMA": "Kérdezz bármit tőlem",
+        "askAboutProduct": "Kérdezz tovább erről a termékről",
+        "askAboutSpecificProduct": "Kérdezz erről a konkrét termékről",
+        "askAboutThis": "Kérdezze meg erről",
+        "askMoreAboutThisProduct": "Kérdezze meg többet erről a termékről",
+        "availOngoingSpecialOffer": "Szeretnék élni az aktuális különleges ajánlattal",
+        "cartWaiting": "Ne hagyd a termékeket a kosaradban várakozni, lépj ki most!",
+        "checkOutThese": "Nézze meg ezeket a választásokat helyette",
+        "discountCouponTextBIC": "Helló! Van egy különleges ajánlatunk a {{couponTitle}}-re. Szeretnéd igénybe venni ezt az ajánlatot?",
+        "enterYourMessage": "Írd be az üzeneted ...",
+        "goToCart": "Ugrás a kosaradhoz",
+        "headerGreeting": "Helló, én vagyok",
+        "iHaveAQuestion": "Van egy kérdésem",
+        "moreVariantsAvailable": "Több változat elérhető",
+        "navigationPageTitle": "Beléptél a(z) {{navigationContext}} oldalra",
+        "noThanks": "Nem, köszönöm",
+        "ourTopPicks": "Legjobb választásaink",
+        "ourTopProduct": "Legjobb termékeink",
+        "poweredBy": "Működtetve:",
+        "rewardForYou": "Jutalmak csak neked 🎉",
+        "searchQuery": "Kérdezz engem bármit a {{query}}-val kapcsolatban",
+        "seeOurBestSellers": "Nézd meg legjobban eladott termékeinket",
+        "similarTo": "Hasonló ehhez:",
+        "soldOut": "Elfogyott",
+        "spinTheWheel": "forgassa el a kereket",
+        "spinTheWheelExcitingRewards": "Forgassa el a kereket izgalmas jutalmakért",
+        "tapOnTo": "Érintsd meg a",
+        "tapToAsk": "Érintsd meg, hogy feltehess egy kérdést",
+        "textLimit": "A maximális szöveghossz {{MAX_LIMIT}} karakter",
+        "tryYourLuck": "Próbáld ki a szerencsédet",
+        "validEmailAddress": "Kérjük, adjon meg egy érvényes e-mail címet",
+        "viewProduct": "Termék megtekintése",
+        "viewSimilarProducts": "Hasonló termékek megtekintése",
+        "welcomeMessageCollectionPage": "Kérdezz bármit ezekről a termékekről",
+        "welcomeMessageCollectionNamePage": "Kérdezz bármit a(z) {{collectionName}} kollekcióról",
+        "welcomeMessageHomePage": "Segítek megtalálni, amit keresel!",
+        "welcomeMessageProductPage": "Kérdezz bármit erről a termékről",
+        "whatAreYourBestSellers": "Mi a legjobban eladott termékeitek?",
+        "yesSure": "Igen, persze!"
     }
-  }
 }

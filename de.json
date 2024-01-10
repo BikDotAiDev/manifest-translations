@@ -4,6 +4,7 @@
     "welcomeMessageHomePage": "Lass mich dir dabei helfen, das zu finden, wonach du suchst!",
     "welcomeMessageProductPage": "Frag mich alles über dieses Produkt",
     "welcomeMessageCollectionPage": "Frag mich alles über diese Produkte",
+    "welcomeMessageCollectionNamePage": "Frag mich alles über die {{collectionName}} Sammlung",
     "tapToAsk": "Tippe, um mir eine Frage zu stellen",
     "poweredBy": "Angetrieben von",
     "viewProduct": "Produkt anzeigen",

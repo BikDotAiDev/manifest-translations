@@ -4,6 +4,7 @@
     "welcomeMessageHomePage": "Laat me je helpen vinden waar je naar op zoek bent!",
     "welcomeMessageProductPage": "Vraag me alles over dit product",
     "welcomeMessageCollectionPage": "Vraag me alles over deze producten",
+    "welcomeMessageCollectionNamePage": "Vraag me alles over de {{collectionName}} collectie",
     "tapToAsk": "Tik om mij een vraag te stellen",
     "poweredBy": "Aangedreven door",
     "viewProduct": "Bekijk het product",

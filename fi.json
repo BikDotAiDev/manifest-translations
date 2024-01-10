@@ -1,72 +1,73 @@
 {
-  "translations": {
-    "headerGreeting": "Hei, olen",
-    "welcomeMessageHomePage": "Anna minun auttaa sinua löytämään etsimäsi!",
-    "welcomeMessageProductPage": "Kysy minulta mitä tahansa tästä tuotteesta",
-    "welcomeMessageCollectionPage": "Kysy minulta mitä tahansa näistä tuotteista",
-    "tapToAsk": "Kosketa kysyäksesi minulta kysymys",
-    "poweredBy": "Toimii käyttäen",
-    "viewProduct": "Näytä tuote",
-    "tapOnTo": "Kosketa nähdäksesi",
-    "viewSimilarProducts": "Näytä samankaltaiset tuotteet",
-    "askAboutSpecificProduct": "Kysy tietystä tuotteesta",
-    "askAboutProduct": "Kysy enemmän tästä tuotteesta",
-    "moreVariantsAvailable": "Lisää vaihtoehtoja saatavilla",
-    "enterYourMessage": "Kirjoita viestisi...",
-    "similarTo": "Vastaava kuin",
-    "AMA": "Kysy minulta mitä tahansa",
-    "seeOurBestSellers": "Katso parhaita myyntituotteitamme",
-    "whatAreYourBestSellers": "Mitkä ovat myydyimmät tuotteesi?",
-    "iHaveAQuestion": "Minulla on kysymys",
-    "goToCart": "Mene ostoskoriin",
-    "yesSure": "Kyllä, totta kai!",
-    "noThanks": "Ei kiitos",
-    "cartWaiting": "Älä jätä ostoskorin tuotteita odottamaan, maksa nyt!",
-    "navigationPageTitle": "Olet siirtynyt sivulle {{navigationContext}}",
-    "searchQuery": "Kysy minulta mitä tahansa {{query}} liittyen",
-    "ourTopProduct": "Parhaat tuotteemme",
-    "discountCouponTextBIC": "Hei! Meillä on erikoistarjous {{couponTitle}}. Haluaisitko hyödyntää tämän tarjouksen?",
-    "soldOut": "Loppuunmyyty",
-    "validEmailAddress": "Syötä kelvollinen sähköpostiosoite",
-    "rewardForYou": "Palkinnot vain sinulle 🎉",
-    "tryYourLuck": "Kokeile onneasi",
-    "textLimit": "Maksimitekstin raja on {{MAX_LIMIT}} merkkiä",
-    "askAboutThis": "Kysy tästä",
-    "askMoreAboutThisProduct": "Kysy lisää tästä tuotteesta",
-    "availOngoingSpecialOffer": "Haluan hyödyntää käynnissä olevan erikoistarjouksen",
-    "spinTheWheelExcitingRewards": "Pyöräytä pyörää voittaaksesi jännittäviä palkintoja",
-    "spinTheWheel": "pyöräytä pyörää",
-    "ourTopPicks": "Parhaat valintamme",
-    "checkOutThese": "Tutustu näihin valintoihin sen sijaan"
-  },
-  "others": {
-    "suggestedReplies": {
-      "PRODUCT": [
-        "Mikä erottaa tämän tuotteen muista?",
-        "Näytä minulle lisää samanlaisia tuotteita",
-        "Mikä on tämän tuotteen palautuskäytäntö?"
-      ],
-      "COLLECTION": [
-        "Mitkä ovat myydyimmät tuotteesi?",
-        "Mikä erottaa tuotteesi muista?",
-        "Missä on tilaukseni?"
-      ],
-      "SEARCH": [
-        "Näytä minulle sopivimmat tuotteet",
-        "Tarkenna tuloksia vaatimusteni perusteella",
-        "Mitkä ovat suosituimpia valintoja näiden joukosta?"
-      ],
-      "OTHER": [
-        "Mitkä ovat myydyimmät tuotteesi?",
-        "Mikä erottaa tuotteesi muista?",
-        "Missä on tilaukseni?"
-      ]
+    "others": {
+        "popUpMessages": {
+            "COLLECTION": "Etsitkö jotain erityistä tästä kokoelmasta? Tiedän, mistä sen löydät.",
+            "DEFAULT": "Hei! Etsitkö jotain erityistä? Olen täällä tarjoamassa sinulle personoidun ostoskokemuksen.",
+            "PRODUCT": "Haluatko tietää enemmän tästä tuotteesta? Minulla on kaikki tarvittavat tiedot.",
+            "SEARCH": "Et löydä etsimääsi? Anna minun auttaa sinua löytämään juuri sen, mitä etsit."
+        },
+        "suggestedReplies": {
+            "COLLECTION": [
+                "Mitkä ovat myydyimmät tuotteesi?",
+                "Mikä erottaa tuotteesi muista?",
+                "Missä on tilaukseni?"
+            ],
+            "OTHER": [
+                "Mitkä ovat myydyimmät tuotteesi?",
+                "Mikä erottaa tuotteesi muista?",
+                "Missä on tilaukseni?"
+            ],
+            "PRODUCT": [
+                "Mikä erottaa tämän tuotteen muista?",
+                "Näytä minulle lisää samanlaisia tuotteita",
+                "Mikä on tämän tuotteen palautuskäytäntö?"
+            ],
+            "SEARCH": [
+                "Näytä minulle sopivimmat tuotteet",
+                "Tarkenna tuloksia vaatimusteni perusteella",
+                "Mitkä ovat suosituimpia valintoja näiden joukosta?"
+            ]
+        }
     },
-    "popUpMessages": {
-      "SEARCH": "Et löydä etsimääsi? Anna minun auttaa sinua löytämään juuri sen, mitä etsit.",
-      "COLLECTION": "Etsitkö jotain erityistä tästä kokoelmasta? Tiedän, mistä sen löydät.",
-      "PRODUCT": "Haluatko tietää enemmän tästä tuotteesta? Minulla on kaikki tarvittavat tiedot.",
-      "DEFAULT": "Hei! Etsitkö jotain erityistä? Olen täällä tarjoamassa sinulle personoidun ostoskokemuksen."
+    "translations": {
+        "AMA": "Kysy minulta mitä tahansa",
+        "askAboutProduct": "Kysy enemmän tästä tuotteesta",
+        "askAboutSpecificProduct": "Kysy tietystä tuotteesta",
+        "askAboutThis": "Kysy tästä",
+        "askMoreAboutThisProduct": "Kysy lisää tästä tuotteesta",
+        "availOngoingSpecialOffer": "Haluan hyödyntää käynnissä olevan erikoistarjouksen",
+        "cartWaiting": "Älä jätä ostoskorin tuotteita odottamaan, maksa nyt!",
+        "checkOutThese": "Tutustu näihin valintoihin sen sijaan",
+        "discountCouponTextBIC": "Hei! Meillä on erikoistarjous {{couponTitle}}. Haluaisitko hyödyntää tämän tarjouksen?",
+        "enterYourMessage": "Kirjoita viestisi...",
+        "goToCart": "Mene ostoskoriin",
+        "headerGreeting": "Hei, olen",
+        "iHaveAQuestion": "Minulla on kysymys",
+        "moreVariantsAvailable": "Lisää vaihtoehtoja saatavilla",
+        "navigationPageTitle": "Olet siirtynyt sivulle {{navigationContext}}",
+        "noThanks": "Ei kiitos",
+        "ourTopPicks": "Parhaat valintamme",
+        "ourTopProduct": "Parhaat tuotteemme",
+        "poweredBy": "Toimii käyttäen",
+        "rewardForYou": "Palkinnot vain sinulle 🎉",
+        "searchQuery": "Kysy minulta mitä tahansa {{query}} liittyen",
+        "seeOurBestSellers": "Katso parhaita myyntituotteitamme",
+        "similarTo": "Vastaava kuin",
+        "soldOut": "Loppuunmyyty",
+        "spinTheWheel": "pyöräytä pyörää",
+        "spinTheWheelExcitingRewards": "Pyöräytä pyörää voittaaksesi jännittäviä palkintoja",
+        "tapOnTo": "Kosketa nähdäksesi",
+        "tapToAsk": "Kosketa kysyäksesi minulta kysymys",
+        "textLimit": "Maksimitekstin raja on {{MAX_LIMIT}} merkkiä",
+        "tryYourLuck": "Kokeile onneasi",
+        "validEmailAddress": "Syötä kelvollinen sähköpostiosoite",
+        "viewProduct": "Näytä tuote",
+        "viewSimilarProducts": "Näytä samankaltaiset tuotteet",
+        "welcomeMessageCollectionPage": "Kysy minulta mitä tahansa näistä tuotteista",
+        "welcomeMessageCollectionNamePage": "Kysy minulta mitä tahansa {{collectionName}}-kokoelmasta",
+        "welcomeMessageHomePage": "Anna minun auttaa sinua löytämään etsimäsi!",
+        "welcomeMessageProductPage": "Kysy minulta mitä tahansa tästä tuotteesta",
+        "whatAreYourBestSellers": "Mitkä ovat myydyimmät tuotteesi?",
+        "yesSure": "Kyllä, totta kai!"
     }
-  }
 }

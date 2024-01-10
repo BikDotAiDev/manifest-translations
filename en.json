@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "Ask me anything about the {{collectionName}} collection",
   "translations": {
     "headerGreeting": "Hey, I'm",
     "welcomeMessageHomePage": "Let me help you find what you’re looking for!",

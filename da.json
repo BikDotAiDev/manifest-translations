@@ -1,72 +1,73 @@
 {
-  "translations": {
-    "headerGreeting": "Hej, jeg er",
-    "welcomeMessageHomePage": "Lad mig hjælpe dig med at finde det, du leder efter!",
-    "welcomeMessageProductPage": "Spørg mig om hvad som helst angående dette produkt",
-    "welcomeMessageCollectionPage": "Spørg mig om hvad som helst angående disse produkter",
-    "tapToAsk": "Tryk for at stille mig et spørgsmål",
-    "poweredBy": "Drevet af",
-    "viewProduct": "Vis produkt",
-    "tapOnTo": "Tryk på for at",
-    "viewSimilarProducts": "se lignende produkter",
-    "askAboutSpecificProduct": "Spørg om et specifikt produkt",
-    "askAboutProduct": "Spørg mere om dette produkt",
-    "moreVariantsAvailable": "Flere varianter tilgængelige",
-    "enterYourMessage": "Indtast din besked ...",
-    "similarTo": "Lignende med",
-    "AMA": "Spørg mig om hvad som helst.",
-    "seeOurBestSellers": "Se vores bestsellere.",
-    "whatAreYourBestSellers": "Hvad er dine bedstsælgende produkter?",
-    "iHaveAQuestion": "Jeg har et spørgsmål",
-    "goToCart": "Gå til indkøbsvognen",
-    "yesSure": "Ja, selvfølgelig!",
-    "noThanks": "Nej tak",
-    "cartWaiting": "Lad ikke varerne i din indkøbsvogn vente, tjek ud nu!",
-    "navigationPageTitle": "Du har indtastet siden {{navigationContext}}",
-    "searchQuery": "Spørg mig om hvad som helst angående {{query}}",
-    "ourTopProduct": "Vores bedste produkter",
-    "discountCouponTextBIC": "Hej! Vi har et specielt tilbud på {{couponTitle}}. Vil du gerne benytte dig af dette tilbud?",
-    "soldOut": "Udsolgt",
-    "validEmailAddress": "Indtast venligst en gyldig e-mailadresse",
-    "rewardForYou": "Belønninger kun til dig 🎉",
-    "tryYourLuck": "Prøv din held",
-    "textLimit": "Maksimal tekstgrænse er {{MAX_LIMIT}} tegn",
-    "askAboutThis": "Spørg om dette",
-    "askMoreAboutThisProduct": "Spørg mere om dette produkt",
-    "availOngoingSpecialOffer": "Jeg vil gerne benytte den igangværende særlige tilbud",
-    "spinTheWheelExcitingRewards": "Drej hjulet for at vinde spændende belønninger",
-    "spinTheWheel": "drej hjulet",
-    "ourTopPicks": "Vores topvalg",
-    "checkOutThese": "Tjek disse valg i stedet"
-  },
-  "others": {
-    "suggestedReplies": {
-      "PRODUCT": [
-        "Hvad gør dette produkt unikt?",
-        "Vis mig flere produkter som dette",
-        "Hvad er returpolitikken for dette produkt?"
-      ],
-      "COLLECTION": [
-        "Hvilke produkter er dine bedst-sælgende?",
-        "Hvad adskiller jeres produkter fra andre?",
-        "Hvor er min ordre?"
-      ],
-      "SEARCH": [
-        "Vis mig de mest relevante produkter for mig",
-        "Forfin resultaterne baseret på mine krav",
-        "Hvad er nogle populære valg blandt disse?"
-      ],
-      "OTHER": [
-        "Hvilke produkter er dine bedst-sælgende?",
-        "Hvad adskiller jeres produkter fra andre?",
-        "Hvor er min ordre?"
-      ]
+    "others": {
+        "popUpMessages": {
+            "COLLECTION": "Leder du efter noget specielt i denne samling? Jeg ved, hvor du kan finde det.",
+            "DEFAULT": "Hej! Leder du efter noget specielt? Jeg er her for at give dig en personlig shoppingoplevelse.",
+            "PRODUCT": "Vil du gerne vide mere om dette produkt? Jeg har alle de oplysninger, du har brug for.",
+            "SEARCH": "Kan du ikke finde det, du leder efter? Lad mig hjælpe dig med at finde præcis, hvad du leder efter."
+        },
+        "suggestedReplies": {
+            "COLLECTION": [
+                "Hvilke produkter er dine bedst-sælgende?",
+                "Hvad adskiller jeres produkter fra andre?",
+                "Hvor er min ordre?"
+            ],
+            "OTHER": [
+                "Hvilke produkter er dine bedst-sælgende?",
+                "Hvad adskiller jeres produkter fra andre?",
+                "Hvor er min ordre?"
+            ],
+            "PRODUCT": [
+                "Hvad gør dette produkt unikt?",
+                "Vis mig flere produkter som dette",
+                "Hvad er returpolitikken for dette produkt?"
+            ],
+            "SEARCH": [
+                "Vis mig de mest relevante produkter for mig",
+                "Forfin resultaterne baseret på mine krav",
+                "Hvad er nogle populære valg blandt disse?"
+            ]
+        }
     },
-    "popUpMessages": {
-      "SEARCH": "Kan du ikke finde det, du leder efter? Lad mig hjælpe dig med at finde præcis, hvad du leder efter.",
-      "COLLECTION": "Leder du efter noget specielt i denne samling? Jeg ved, hvor du kan finde det.",
-      "PRODUCT": "Vil du gerne vide mere om dette produkt? Jeg har alle de oplysninger, du har brug for.",
-      "DEFAULT": "Hej! Leder du efter noget specielt? Jeg er her for at give dig en personlig shoppingoplevelse."
+    "translations": {
+        "AMA": "Spørg mig om hvad som helst.",
+        "askAboutProduct": "Spørg mere om dette produkt",
+        "askAboutSpecificProduct": "Spørg om et specifikt produkt",
+        "askAboutThis": "Spørg om dette",
+        "askMoreAboutThisProduct": "Spørg mere om dette produkt",
+        "availOngoingSpecialOffer": "Jeg vil gerne benytte den igangværende særlige tilbud",
+        "cartWaiting": "Lad ikke varerne i din indkøbsvogn vente, tjek ud nu!",
+        "checkOutThese": "Tjek disse valg i stedet",
+        "discountCouponTextBIC": "Hej! Vi har et specielt tilbud på {{couponTitle}}. Vil du gerne benytte dig af dette tilbud?",
+        "enterYourMessage": "Indtast din besked ...",
+        "goToCart": "Gå til indkøbsvognen",
+        "headerGreeting": "Hej, jeg er",
+        "iHaveAQuestion": "Jeg har et spørgsmål",
+        "moreVariantsAvailable": "Flere varianter tilgængelige",
+        "navigationPageTitle": "Du har indtastet siden {{navigationContext}}",
+        "noThanks": "Nej tak",
+        "ourTopPicks": "Vores topvalg",
+        "ourTopProduct": "Vores bedste produkter",
+        "poweredBy": "Drevet af",
+        "rewardForYou": "Belønninger kun til dig 🎉",
+        "searchQuery": "Spørg mig om hvad som helst angående {{query}}",
+        "seeOurBestSellers": "Se vores bestsellere.",
+        "similarTo": "Lignende med",
+        "soldOut": "Udsolgt",
+        "spinTheWheel": "drej hjulet",
+        "spinTheWheelExcitingRewards": "Drej hjulet for at vinde spændende belønninger",
+        "tapOnTo": "Tryk på for at",
+        "tapToAsk": "Tryk for at stille mig et spørgsmål",
+        "textLimit": "Maksimal tekstgrænse er {{MAX_LIMIT}} tegn",
+        "tryYourLuck": "Prøv din held",
+        "validEmailAddress": "Indtast venligst en gyldig e-mailadresse",
+        "viewProduct": "Vis produkt",
+        "viewSimilarProducts": "se lignende produkter",
+        "welcomeMessageCollectionPage": "Spørg mig om hvad som helst angående disse produkter",
+        "welcomeMessageCollectionNamePage": "Spørg mig om hvad som helst vedrørende {{collectionName}} samlingen",
+        "welcomeMessageHomePage": "Lad mig hjælpe dig med at finde det, du leder efter!",
+        "welcomeMessageProductPage": "Spørg mig om hvad som helst angående dette produkt",
+        "whatAreYourBestSellers": "Hvad er dine bedstsælgende produkter?",
+        "yesSure": "Ja, selvfølgelig!"
     }
-  }
 }
