@@ -1,73 +1,73 @@
 {
-    "others": {
-        "popUpMessages": {
-            "COLLECTION": "Letar du efter något speciellt i den här samlingen? Jag vet var du kan hitta det.",
-            "DEFAULT": "Hej! Letar du efter något speciellt? Jag är här för att erbjuda dig en personlig shoppingupplevelse.",
-            "PRODUCT": "Vill du veta mer om den här produkten? Jag har alla detaljer du behöver.",
-            "SEARCH": "Hittar du inte vad du letar efter? Låt mig hjälpa dig att hitta exakt det du söker."
-        },
-        "suggestedReplies": {
-            "COLLECTION": [
-                "Vilka är dina bästsäljande produkter?",
-                "Vad skiljer dina produkter från andra?",
-                "Var är min beställning?"
-            ],
-            "OTHER": [
-                "Vilka är dina bästsäljande produkter?",
-                "Vad skiljer dina produkter från andra?",
-                "Var är min beställning?"
-            ],
-            "PRODUCT": [
-                "Vad gör den här produkten unik?",
-                "Visa mig fler produkter som denna",
-                "Vad är returpolicy för den här produkten?"
-            ],
-            "SEARCH": [
-                "Visa mig de mest relevanta produkterna för mig",
-                "Förbättra resultaten baserat på mina krav",
-                "Vilka är några populära val bland dessa?"
-            ]
-        }
+  "others": {
+    "popUpMessages": {
+      "COLLECTION": "Letar du efter något speciellt i den här samlingen? Jag vet var du kan hitta det.",
+      "DEFAULT": "Hej! Letar du efter något speciellt? Jag är här för att erbjuda dig en personlig shoppingupplevelse.",
+      "PRODUCT": "Vill du veta mer om den här produkten? Jag har alla detaljer du behöver.",
+      "SEARCH": "Hittar du inte vad du letar efter? Låt mig hjälpa dig att hitta exakt det du söker."
     },
-    "translations": {
-        "AMA": "Fråga mig vad som helst",
-        "askAboutProduct": "Fråga mer om den här produkten",
-        "askAboutSpecificProduct": "Fråga om en specifik produkt",
-        "askAboutThis": "Fråga om detta",
-        "askMoreAboutThisProduct": "Fråga mer om denna produkt",
-        "availOngoingSpecialOffer": "Jag vill dra nytta av det pågående specialerbjudandet",
-        "cartWaiting": "Låt inte varorna i din kundvagn vänta, checka ut nu!",
-        "checkOutThese": "Kolla in dessa val istället",
-        "discountCouponTextBIC": "Hej! Vi har ett specialerbjudande på {{couponTitle}}. Vill du utnyttja detta erbjudande?",
-        "enterYourMessage": "Ange ditt meddelande...",
-        "goToCart": "Gå till kundvagnen",
-        "headerGreeting": "Hej, jag är",
-        "iHaveAQuestion": "Jag har en fråga",
-        "moreVariantsAvailable": "Fler varianter finns tillgängliga",
-        "navigationPageTitle": "Du har kommit in på sidan {{navigationContext}}",
-        "noThanks": "Nej tack",
-        "ourTopPicks": "Våra toppval",
-        "ourTopProduct": "Våra bästa produkter",
-        "poweredBy": "Drivs av",
-        "rewardForYou": "Belöningar bara för dig 🎉",
-        "searchQuery": "Fråga mig vad som helst om {{query}}",
-        "seeOurBestSellers": "Se våra bästsäljare",
-        "similarTo": "Liknande med",
-        "soldOut": "Slutsåld",
-        "spinTheWheel": "snurra hjulet",
-        "spinTheWheelExcitingRewards": "Snurra hjulet för att vinna spännande belöningar",
-        "tapOnTo": "Tryck på",
-        "tapToAsk": "Tryck för att ställa en fråga till mig",
-        "textLimit": "Maximigränsen för text är {{MAX_LIMIT}} tecken",
-        "tryYourLuck": "Prova din lycka",
-        "validEmailAddress": "Ange en giltig e-postadress",
-        "viewProduct": "Visa produkt",
-        "viewSimilarProducts": "visa liknande produkter",
-        "welcomeMessageCollectionPage": "Fråga mig vad som helst om dessa produkter",
-        "welcomeMessageCollectionNamePage": "Fråga mig vad som helst om {{collectionName}}-samlingen",
-        "welcomeMessageHomePage": "Låt mig hjälpa dig att hitta det du söker efter!",
-        "welcomeMessageProductPage": "Fråga mig vad som helst om den här produkten",
-        "whatAreYourBestSellers": "Vad är dina bästsäljande produkter?",
-        "yesSure": "Ja, självklart!"
+    "suggestedReplies": {
+      "COLLECTION": [
+        "Vilka är dina bästsäljande produkter?",
+        "Vad skiljer dina produkter från andra?",
+        "Var är min beställning?"
+      ],
+      "OTHER": [
+        "Vilka är dina bästsäljande produkter?",
+        "Vad skiljer dina produkter från andra?",
+        "Var är min beställning?"
+      ],
+      "PRODUCT": [
+        "Vad gör den här produkten unik?",
+        "Visa mig fler produkter som denna",
+        "Vad är returpolicy för den här produkten?"
+      ],
+      "SEARCH": [
+        "Visa mig de mest relevanta produkterna för mig",
+        "Förbättra resultaten baserat på mina krav",
+        "Vilka är några populära val bland dessa?"
+      ]
     }
+  },
+  "translations": {
+    "AMA": "Fråga mig vad som helst",
+    "askAboutProduct": "Fråga mer om den här produkten",
+    "askAboutSpecificProduct": "Fråga om en specifik produkt",
+    "askAboutThis": "Fråga om detta",
+    "askMoreAboutThisProduct": "Fråga mer om denna produkt",
+    "availOngoingSpecialOffer": "Jag vill dra nytta av det pågående specialerbjudandet",
+    "cartWaiting": "Låt inte varorna i din kundvagn vänta, checka ut nu!",
+    "checkOutThese": "Kolla in dessa val istället",
+    "discountCouponTextBIC": "Hej! Vi har ett specialerbjudande på {{couponTitle}}. Vill du få detta erbjudande?",
+    "enterYourMessage": "Ange ditt meddelande...",
+    "goToCart": "Gå till kundvagnen",
+    "headerGreeting": "Hej, jag är",
+    "iHaveAQuestion": "Jag har en fråga",
+    "moreVariantsAvailable": "Fler varianter finns tillgängliga",
+    "navigationPageTitle": "Du har kommit in på sidan {{navigationContext}}",
+    "noThanks": "Nej tack",
+    "ourTopPicks": "Våra toppval",
+    "ourTopProduct": "Våra bästa produkter",
+    "poweredBy": "Drivs av",
+    "rewardForYou": "Belöningar bara för dig 🎉",
+    "searchQuery": "Fråga mig vad som helst om {{query}}",
+    "seeOurBestSellers": "Se våra bästsäljare",
+    "similarTo": "Liknande med",
+    "soldOut": "Slutsåld",
+    "spinTheWheel": "snurra hjulet",
+    "spinTheWheelExcitingRewards": "Snurra hjulet för att vinna spännande belöningar",
+    "tapOnTo": "Tryck på",
+    "tapToAsk": "Tryck för att ställa en fråga till mig",
+    "textLimit": "Maximigränsen för text är {{MAX_LIMIT}} tecken",
+    "tryYourLuck": "Prova din lycka",
+    "validEmailAddress": "Ange en giltig e-postadress",
+    "viewProduct": "Visa produkt",
+    "viewSimilarProducts": "visa liknande produkter",
+    "welcomeMessageCollectionPage": "Fråga mig vad som helst om dessa produkter",
+    "welcomeMessageCollectionNamePage": "Fråga mig vad som helst om {{collectionName}}-samlingen",
+    "welcomeMessageHomePage": "Låt mig hjälpa dig att hitta det du söker efter!",
+    "welcomeMessageProductPage": "Fråga mig vad som helst om den här produkten",
+    "whatAreYourBestSellers": "Vad är dina bästsäljande produkter?",
+    "yesSure": "Ja, självklart!"
+  }
 }
