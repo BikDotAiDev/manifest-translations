@@ -1,73 +1,73 @@
 {
-    "others": {
-        "popUpMessages": {
-            "COLLECTION": "¿Buscas algo especial en esta colección? Sé dónde encontrarlo.",
-            "DEFAULT": "¡Hola! ¿Buscas algo especial? Estoy aquí para ofrecerte una experiencia de compra personalizada.",
-            "PRODUCT": "¿Quieres saber más sobre este producto? Tengo todos los detalles que necesitas.",
-            "SEARCH": "¿No puedes encontrar lo que buscas? Permíteme ayudarte a encontrar exactamente lo que necesitas."
-        },
-        "suggestedReplies": {
-            "COLLECTION": [
-                "¿Cuáles son tus productos más vendidos?",
-                "¿Qué diferencia tus productos de los demás?",
-                "¿Dónde está mi pedido?"
-            ],
-            "OTHER": [
-                "¿Cuáles son tus productos más vendidos?",
-                "¿Qué diferencia tus productos de los demás?",
-                "¿Dónde está mi pedido?"
-            ],
-            "PRODUCT": [
-                "¿Qué hace que este producto se destaque?",
-                "Muéstrame más productos como este",
-                "¿Cuál es la política de devoluciones de este producto?"
-            ],
-            "SEARCH": [
-                "Muéstrame los productos más relevantes para mí",
-                "Refina los resultados según mis requisitos",
-                "¿Cuáles son algunas opciones populares entre estos?"
-            ]
-        }
+  "others": {
+    "popUpMessages": {
+      "COLLECTION": "¿Buscas algo especial en esta colección? Sé dónde encontrarlo.",
+      "DEFAULT": "¡Hola! ¿Buscas algo especial? Estoy aquí para ofrecerte una experiencia de compra personalizada.",
+      "PRODUCT": "¿Quieres saber más sobre este producto? Tengo todos los detalles que necesitas.",
+      "SEARCH": "¿No puedes encontrar lo que buscas? Permíteme ayudarte a encontrar exactamente lo que necesitas."
     },
-    "translations": {
-        "AMA": "Pregúntame cualquier cosa",
-        "askAboutProduct": "Pregunta más sobre este producto",
-        "askAboutSpecificProduct": "Pregunta sobre un producto específico",
-        "askAboutThis": "Pregunta sobre esto",
-        "askMoreAboutThisProduct": "Pregunta más sobre este producto",
-        "availOngoingSpecialOffer": "Quiero aprovechar la oferta especial en curso",
-        "cartWaiting": "¡No dejes que los productos en tu carrito esperen, ¡compra ahora!",
-        "checkOutThese": "Echa un vistazo a estas selecciones en su lugar",
-        "discountCouponTextBIC": "¡Hola! Tenemos una oferta especial en {{couponTitle}}. ¿Te gustaría aprovechar esta oferta?",
-        "enterYourMessage": "Ingresa tu mensaje...",
-        "goToCart": "Ir al carrito",
-        "headerGreeting": "Hola, soy",
-        "iHaveAQuestion": "Tengo una pregunta",
-        "moreVariantsAvailable": "Más variantes disponibles",
-        "navigationPageTitle": "Has entrado en la página {{navigationContext}}",
-        "noThanks": "No, gracias",
-        "ourTopPicks": "Nuestras mejores opciones",
-        "ourTopProduct": "Nuestros mejores productos",
-        "poweredBy": "Desarrollado por",
-        "rewardForYou": "Recompensas solo para ti 🎉",
-        "searchQuery": "Pregúntame cualquier cosa sobre {{query}}",
-        "seeOurBestSellers": "Ver nuestros más vendidos",
-        "similarTo": "Similar a",
-        "soldOut": "Agotado",
-        "spinTheWheel": "gira la rueda",
-        "spinTheWheelExcitingRewards": "Gira la rueda para ganar emocionantes recompensas",
-        "tapOnTo": "Toca en",
-        "tapToAsk": "Toca para hacerme una pregunta.",
-        "textLimit": "El límite máximo de texto es de {{MAX_LIMIT}} caracteres",
-        "tryYourLuck": "Prueba tu suerte",
-        "validEmailAddress": "Por favor, introduce una dirección de correo electrónico válida",
-        "viewProduct": "Ver producto",
-        "viewSimilarProducts": "ver productos similares",
-        "welcomeMessageCollectionPage": "Pregúntame cualquier cosa sobre estos productos.",
-        "welcomeMessageHomePage": "Permíteme ayudarte a encontrar lo que estás buscando.",
-        "welcomeMessageProductPage": "Pregúntame cualquier cosa sobre este producto.",
-        "whatAreYourBestSellers": "¿Cuáles son tus productos más vendidos?",
-        "yesSure": "¡Sí, claro!",
-        "welcomeMessageCollectionNamePage": "Pregúntame cualquier cosa sobre la colección {{collectionName}}"
+    "suggestedReplies": {
+      "COLLECTION": [
+        "¿Cuáles son tus productos más vendidos?",
+        "¿Qué diferencia tus productos de los demás?",
+        "¿Dónde está mi pedido?"
+      ],
+      "OTHER": [
+        "¿Cuáles son tus productos más vendidos?",
+        "¿Qué diferencia tus productos de los demás?",
+        "¿Dónde está mi pedido?"
+      ],
+      "PRODUCT": [
+        "¿Qué hace que este producto se destaque?",
+        "Muéstrame más productos como este",
+        "¿Cuál es la política de devoluciones de este producto?"
+      ],
+      "SEARCH": [
+        "Muéstrame los productos más relevantes para mí",
+        "Refina los resultados según mis requisitos",
+        "¿Cuáles son algunas opciones populares entre estos?"
+      ]
     }
+  },
+  "translations": {
+    "AMA": "Pregúntame cualquier cosa",
+    "askAboutProduct": "Pregunta más sobre este producto",
+    "askAboutSpecificProduct": "Pregunta sobre un producto específico",
+    "askAboutThis": "Pregunta sobre esto",
+    "askMoreAboutThisProduct": "Pregunta más sobre este producto",
+    "availOngoingSpecialOffer": "Quiero aprovechar la oferta especial en curso",
+    "cartWaiting": "¡No dejes que los productos en tu carrito esperen, ¡compra ahora!",
+    "checkOutThese": "Echa un vistazo a estas selecciones en su lugar",
+    "discountCouponTextBIC": "¡Hola! Tenemos una oferta especial en {{couponTitle}}. ¿Te gustaría obtener esta oferta?",
+    "enterYourMessage": "Ingresa tu mensaje...",
+    "goToCart": "Ir al carrito",
+    "headerGreeting": "Hola, soy",
+    "iHaveAQuestion": "Tengo una pregunta",
+    "moreVariantsAvailable": "Más variantes disponibles",
+    "navigationPageTitle": "Has entrado en la página {{navigationContext}}",
+    "noThanks": "No, gracias",
+    "ourTopPicks": "Nuestras mejores opciones",
+    "ourTopProduct": "Nuestros mejores productos",
+    "poweredBy": "Desarrollado por",
+    "rewardForYou": "Recompensas solo para ti 🎉",
+    "searchQuery": "Pregúntame cualquier cosa sobre {{query}}",
+    "seeOurBestSellers": "Ver nuestros más vendidos",
+    "similarTo": "Similar a",
+    "soldOut": "Agotado",
+    "spinTheWheel": "gira la rueda",
+    "spinTheWheelExcitingRewards": "Gira la rueda para ganar emocionantes recompensas",
+    "tapOnTo": "Toca en",
+    "tapToAsk": "Toca para hacerme una pregunta.",
+    "textLimit": "El límite máximo de texto es de {{MAX_LIMIT}} caracteres",
+    "tryYourLuck": "Prueba tu suerte",
+    "validEmailAddress": "Por favor, introduce una dirección de correo electrónico válida",
+    "viewProduct": "Ver producto",
+    "viewSimilarProducts": "ver productos similares",
+    "welcomeMessageCollectionPage": "Pregúntame cualquier cosa sobre estos productos.",
+    "welcomeMessageHomePage": "Permíteme ayudarte a encontrar lo que estás buscando.",
+    "welcomeMessageProductPage": "Pregúntame cualquier cosa sobre este producto.",
+    "whatAreYourBestSellers": "¿Cuáles son tus productos más vendidos?",
+    "yesSure": "¡Sí, claro!",
+    "welcomeMessageCollectionNamePage": "Pregúntame cualquier cosa sobre la colección {{collectionName}}"
+  }
 }

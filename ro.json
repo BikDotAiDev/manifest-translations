@@ -1,73 +1,73 @@
 {
-    "others": {
-        "popUpMessages": {
-            "COLLECTION": "Cauti ceva special în această colecție? Știu unde să-l găsesc.",
-            "DEFAULT": "Salut! Cauti ceva special? Sunt aici să îți ofer o experiență de cumpărături personalizată.",
-            "PRODUCT": "Vrei să afli mai multe despre acest produs? Am toate detaliile de care ai nevoie.",
-            "SEARCH": "Nu găsești ce cauți? Lasă-mă să te ajut să găsești exact ceea ce cauți."
-        },
-        "suggestedReplies": {
-            "COLLECTION": [
-                "Care sunt cele mai bine vândute produse ale voastre?",
-                "Ce deosebește produsele voastre de cele ale altora?",
-                "Unde este comanda mea?"
-            ],
-            "OTHER": [
-                "Care sunt cele mai bine vândute produse ale voastre?",
-                "Ce deosebește produsele voastre de cele ale altora?",
-                "Unde este comanda mea?"
-            ],
-            "PRODUCT": [
-                "Ce face acest produs să se evidențieze?",
-                "Arată-mi mai multe produse asemănătoare",
-                "Care este politica de returnare a acestui produs?"
-            ],
-            "SEARCH": [
-                "Arată-mi cele mai relevante produse pentru mine",
-                "Rafinează rezultatele în funcție de cerințele mele",
-                "Care sunt alegerile populare dintre acestea?"
-            ]
-        }
+  "others": {
+    "popUpMessages": {
+      "COLLECTION": "Cauti ceva special în această colecție? Știu unde să-l găsesc.",
+      "DEFAULT": "Salut! Cauti ceva special? Sunt aici să îți ofer o experiență de cumpărături personalizată.",
+      "PRODUCT": "Vrei să afli mai multe despre acest produs? Am toate detaliile de care ai nevoie.",
+      "SEARCH": "Nu găsești ce cauți? Lasă-mă să te ajut să găsești exact ceea ce cauți."
     },
-    "translations": {
-        "AMA": "Întreabă-mă orice",
-        "askAboutProduct": "Întreabă mai mult despre acest produs",
-        "askAboutSpecificProduct": "Întreabă despre un produs specific",
-        "askAboutThis": "Întreabă despre asta",
-        "askMoreAboutThisProduct": "Întreabă mai mult despre acest produs",
-        "availOngoingSpecialOffer": "Vreau să profit de oferta specială în desfășurare",
-        "cartWaiting": "Nu lăsați produsele din coș să aștepte, plătiți acum!",
-        "checkOutThese": "Verificați aceste alegeri în schimb",
-        "discountCouponTextBIC": "Salut! Avem o ofertă specială la {{couponTitle}}. Doriți să profitați de această ofertă?",
-        "enterYourMessage": "Introdu mesajul tău ...",
-        "goToCart": "Mergi la coș",
-        "headerGreeting": "Salut, sunt",
-        "iHaveAQuestion": "Am o întrebare",
-        "moreVariantsAvailable": "Mai multe variante disponibile",
-        "navigationPageTitle": "Ai intrat pe pagina {{navigationContext}}",
-        "noThanks": "Nu, mulțumesc",
-        "ourTopPicks": "Alegerile noastre de top",
-        "ourTopProduct": "Produsele noastre de top",
-        "poweredBy": "Funcționează cu",
-        "rewardForYou": "Recompense doar pentru tine 🎉",
-        "searchQuery": "Întreabă-mă orice despre {{query}}",
-        "seeOurBestSellers": "Vezi cele mai vândute produse ale noastre",
-        "similarTo": "Asemănător cu",
-        "soldOut": "Epuizat",
-        "spinTheWheel": "învârte roata",
-        "spinTheWheelExcitingRewards": "Învârte roata pentru a câștiga recompense captivante",
-        "tapOnTo": "Atinge pentru a",
-        "tapToAsk": "Atinge pentru a-mi pune o întrebare",
-        "textLimit": "Limita maximă de text este de {{MAX_LIMIT}} caractere",
-        "tryYourLuck": "Încearcă-ți norocul",
-        "validEmailAddress": "Vă rugăm să introduceți o adresă de email validă",
-        "viewProduct": "Vizualizează produsul",
-        "viewSimilarProducts": "Vizualizează produse similare",
-        "welcomeMessageCollectionPage": "Întreabă-mă orice despre aceste produse",
-        "welcomeMessageCollectionNamePage": "Întrebați-mă orice despre colecția {{collectionName}}",
-        "welcomeMessageHomePage": "Lasă-mă să te ajut să găsești ce cauți!",
-        "welcomeMessageProductPage": "Întreabă-mă orice despre acest produs",
-        "whatAreYourBestSellers": "Care sunt produsele noastre cele mai bine vândute?",
-        "yesSure": "Da, sigur!"
+    "suggestedReplies": {
+      "COLLECTION": [
+        "Care sunt cele mai bine vândute produse ale voastre?",
+        "Ce deosebește produsele voastre de cele ale altora?",
+        "Unde este comanda mea?"
+      ],
+      "OTHER": [
+        "Care sunt cele mai bine vândute produse ale voastre?",
+        "Ce deosebește produsele voastre de cele ale altora?",
+        "Unde este comanda mea?"
+      ],
+      "PRODUCT": [
+        "Ce face acest produs să se evidențieze?",
+        "Arată-mi mai multe produse asemănătoare",
+        "Care este politica de returnare a acestui produs?"
+      ],
+      "SEARCH": [
+        "Arată-mi cele mai relevante produse pentru mine",
+        "Rafinează rezultatele în funcție de cerințele mele",
+        "Care sunt alegerile populare dintre acestea?"
+      ]
     }
+  },
+  "translations": {
+    "AMA": "Întreabă-mă orice",
+    "askAboutProduct": "Întreabă mai mult despre acest produs",
+    "askAboutSpecificProduct": "Întreabă despre un produs specific",
+    "askAboutThis": "Întreabă despre asta",
+    "askMoreAboutThisProduct": "Întreabă mai mult despre acest produs",
+    "availOngoingSpecialOffer": "Vreau să profit de oferta specială în desfășurare",
+    "cartWaiting": "Nu lăsați produsele din coș să aștepte, plătiți acum!",
+    "checkOutThese": "Verificați aceste alegeri în schimb",
+    "discountCouponTextBIC": "Salut! Avem o ofertă specială pentru {{couponTitle}}. Doriți să primiți această ofertă?",
+    "enterYourMessage": "Introdu mesajul tău ...",
+    "goToCart": "Mergi la coș",
+    "headerGreeting": "Salut, sunt",
+    "iHaveAQuestion": "Am o întrebare",
+    "moreVariantsAvailable": "Mai multe variante disponibile",
+    "navigationPageTitle": "Ai intrat pe pagina {{navigationContext}}",
+    "noThanks": "Nu, mulțumesc",
+    "ourTopPicks": "Alegerile noastre de top",
+    "ourTopProduct": "Produsele noastre de top",
+    "poweredBy": "Funcționează cu",
+    "rewardForYou": "Recompense doar pentru tine 🎉",
+    "searchQuery": "Întreabă-mă orice despre {{query}}",
+    "seeOurBestSellers": "Vezi cele mai vândute produse ale noastre",
+    "similarTo": "Asemănător cu",
+    "soldOut": "Epuizat",
+    "spinTheWheel": "învârte roata",
+    "spinTheWheelExcitingRewards": "Învârte roata pentru a câștiga recompense captivante",
+    "tapOnTo": "Atinge pentru a",
+    "tapToAsk": "Atinge pentru a-mi pune o întrebare",
+    "textLimit": "Limita maximă de text este de {{MAX_LIMIT}} caractere",
+    "tryYourLuck": "Încearcă-ți norocul",
+    "validEmailAddress": "Vă rugăm să introduceți o adresă de email validă",
+    "viewProduct": "Vizualizează produsul",
+    "viewSimilarProducts": "Vizualizează produse similare",
+    "welcomeMessageCollectionPage": "Întreabă-mă orice despre aceste produse",
+    "welcomeMessageCollectionNamePage": "Întrebați-mă orice despre colecția {{collectionName}}",
+    "welcomeMessageHomePage": "Lasă-mă să te ajut să găsești ce cauți!",
+    "welcomeMessageProductPage": "Întreabă-mă orice despre acest produs",
+    "whatAreYourBestSellers": "Care sunt produsele noastre cele mai bine vândute?",
+    "yesSure": "Da, sigur!"
+  }
 }

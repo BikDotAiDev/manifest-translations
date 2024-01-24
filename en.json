@@ -26,7 +26,7 @@
     "navigationPageTitle": "You entered the {{navigationContext}} page",
     "searchQuery": "Ask me anything about {{query}}",
     "ourTopProduct": "Our top products",
-    "discountCouponTextBIC": "Hey there! We have a special going on {{couponTitle}}. Would you like to avail this offer?",
+    "discountCouponTextBIC": "Hey there! We have a special going on {{couponTitle}}. Would you like to get this offer?",
     "soldOut": "Sold out",
     "validEmailAddress": "Please enter a valid email address",
     "rewardForYou": "Rewards just for you 🎉",

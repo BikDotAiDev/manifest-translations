@@ -1,73 +1,73 @@
 {
-    "others": {
-        "popUpMessages": {
-            "COLLECTION": "このコレクションで特別なものをお探しですか？ どこにあるか知っています。",
-            "DEFAULT": "こんにちは！ 特別なものをお探しですか？ 私はあなたにパーソナライズされたショッピング体験を提供するためにここにいます。",
-            "PRODUCT": "この製品について詳細を知りたいですか？ すべての詳細を持っています。",
-            "SEARCH": "お探しのものが見つからない場合は、正確にお探しのものを見つけるのをお手伝いいたします。"
-        },
-        "suggestedReplies": {
-            "COLLECTION": [
-                "販売の多い商品は何ですか？",
-                "あなたの商品を他の商品とどう違うと考えていますか？",
-                "私の注文はどこですか？"
-            ],
-            "OTHER": [
-                "販売の多い商品は何ですか？",
-                "あなたの商品を他の商品とどう違うと考えていますか？",
-                "私の注文はどこですか？"
-            ],
-            "PRODUCT": [
-                "この商品の特徴は何ですか？",
-                "このような商品をもっと見せて",
-                "この商品の返品ポリシーは？"
-            ],
-            "SEARCH": [
-                "私にとって最も関連性のある商品を表示してください",
-                "私の要件に基づいて結果を絞り込む",
-                "これらの中で人気のある選択肢は何ですか？"
-            ]
-        }
+  "others": {
+    "popUpMessages": {
+      "COLLECTION": "このコレクションで特別なものをお探しですか？ どこにあるか知っています。",
+      "DEFAULT": "こんにちは！ 特別なものをお探しですか？ 私はあなたにパーソナライズされたショッピング体験を提供するためにここにいます。",
+      "PRODUCT": "この製品について詳細を知りたいですか？ すべての詳細を持っています。",
+      "SEARCH": "お探しのものが見つからない場合は、正確にお探しのものを見つけるのをお手伝いいたします。"
     },
-    "translations": {
-        "AMA": "何でも聞いてください",
-        "askAboutProduct": "この商品についてもっと聞く",
-        "askAboutSpecificProduct": "特定の商品について聞く",
-        "askAboutThis": "これについて尋ねる",
-        "askMoreAboutThisProduct": "この製品について詳しく尋ねる",
-        "availOngoingSpecialOffer": "現行の特別オファーを利用したい",
-        "cartWaiting": "カートに入れた商品を待たせないで、今すぐ購入してください！",
-        "checkOutThese": "代わりにこれらの選択肢をチェックしてください",
-        "discountCouponTextBIC": "こんにちは！ {{couponTitle}} に特別なオファーがあります。このオファーを利用しますか？",
-        "enterYourMessage": "メッセージを入力してください...",
-        "goToCart": "カートに進む",
-        "headerGreeting": "こんにちは、私は",
-        "iHaveAQuestion": "質問があります",
-        "moreVariantsAvailable": "さらに多くのバリアントがあります",
-        "navigationPageTitle": "{{navigationContext}} ページに入りました",
-        "noThanks": "いいえ、結構です",
-        "ourTopPicks": "私たちのトップピック",
-        "ourTopProduct": "私たちのトップ製品",
-        "poweredBy": "提供",
-        "rewardForYou": "あなただけのリワード 🎉",
-        "searchQuery": "{{query}} について何でも聞いてください",
-        "seeOurBestSellers": "ベストセラーを見る",
-        "similarTo": "類似しています",
-        "soldOut": "売り切れ",
-        "spinTheWheel": "ホイールを回転",
-        "spinTheWheelExcitingRewards": "ワクワクする報酬を得るためにホイールを回転させる",
-        "tapOnTo": "タップして",
-        "tapToAsk": "質問するにはタップしてください",
-        "textLimit": "テキストの最大制限は {{MAX_LIMIT}} 文字です",
-        "tryYourLuck": "運試し",
-        "validEmailAddress": "有効なメールアドレスを入力してください",
-        "viewProduct": "商品を見る",
-        "viewSimilarProducts": "類似商品を表示",
-        "welcomeMessageCollectionPage": "これらの商品に関する質問は何でもどうぞ",
-        "welcomeMessageCollectionNamePage": "「{{collectionName}}」コレクションについて何でも質問してください」",
-        "welcomeMessageHomePage": "探しているものを見つけるお手伝いをさせてください！",
-        "welcomeMessageProductPage": "この商品に関する質問は何でもどうぞ",
-        "whatAreYourBestSellers": "貴社のベストセラー製品は何ですか？",
-        "yesSure": "はい、もちろん！"
+    "suggestedReplies": {
+      "COLLECTION": [
+        "販売の多い商品は何ですか？",
+        "あなたの商品を他の商品とどう違うと考えていますか？",
+        "私の注文はどこですか？"
+      ],
+      "OTHER": [
+        "販売の多い商品は何ですか？",
+        "あなたの商品を他の商品とどう違うと考えていますか？",
+        "私の注文はどこですか？"
+      ],
+      "PRODUCT": [
+        "この商品の特徴は何ですか？",
+        "このような商品をもっと見せて",
+        "この商品の返品ポリシーは？"
+      ],
+      "SEARCH": [
+        "私にとって最も関連性のある商品を表示してください",
+        "私の要件に基づいて結果を絞り込む",
+        "これらの中で人気のある選択肢は何ですか？"
+      ]
     }
+  },
+  "translations": {
+    "AMA": "何でも聞いてください",
+    "askAboutProduct": "この商品についてもっと聞く",
+    "askAboutSpecificProduct": "特定の商品について聞く",
+    "askAboutThis": "これについて尋ねる",
+    "askMoreAboutThisProduct": "この製品について詳しく尋ねる",
+    "availOngoingSpecialOffer": "現行の特別オファーを利用したい",
+    "cartWaiting": "カートに入れた商品を待たせないで、今すぐ購入してください！",
+    "checkOutThese": "代わりにこれらの選択肢をチェックしてください",
+    "discountCouponTextBIC": "こんにちは！{{couponTitle}}に特別なオファーがあります。このオファーを受け取りますか？",
+    "enterYourMessage": "メッセージを入力してください...",
+    "goToCart": "カートに進む",
+    "headerGreeting": "こんにちは、私は",
+    "iHaveAQuestion": "質問があります",
+    "moreVariantsAvailable": "さらに多くのバリアントがあります",
+    "navigationPageTitle": "{{navigationContext}} ページに入りました",
+    "noThanks": "いいえ、結構です",
+    "ourTopPicks": "私たちのトップピック",
+    "ourTopProduct": "私たちのトップ製品",
+    "poweredBy": "提供",
+    "rewardForYou": "あなただけのリワード 🎉",
+    "searchQuery": "{{query}} について何でも聞いてください",
+    "seeOurBestSellers": "ベストセラーを見る",
+    "similarTo": "類似しています",
+    "soldOut": "売り切れ",
+    "spinTheWheel": "ホイールを回転",
+    "spinTheWheelExcitingRewards": "ワクワクする報酬を得るためにホイールを回転させる",
+    "tapOnTo": "タップして",
+    "tapToAsk": "質問するにはタップしてください",
+    "textLimit": "テキストの最大制限は {{MAX_LIMIT}} 文字です",
+    "tryYourLuck": "運試し",
+    "validEmailAddress": "有効なメールアドレスを入力してください",
+    "viewProduct": "商品を見る",
+    "viewSimilarProducts": "類似商品を表示",
+    "welcomeMessageCollectionPage": "これらの商品に関する質問は何でもどうぞ",
+    "welcomeMessageCollectionNamePage": "「{{collectionName}}」コレクションについて何でも質問してください」",
+    "welcomeMessageHomePage": "探しているものを見つけるお手伝いをさせてください！",
+    "welcomeMessageProductPage": "この商品に関する質問は何でもどうぞ",
+    "whatAreYourBestSellers": "貴社のベストセラー製品は何ですか？",
+    "yesSure": "はい、もちろん！"
+  }
 }
