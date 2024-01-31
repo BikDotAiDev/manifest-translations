@@ -38,7 +38,9 @@
     "spinTheWheelExcitingRewards": "Drehen Sie das Rad, um aufregende Belohnungen zu gewinnen",
     "spinTheWheel": "das Rad drehen",
     "ourTopPicks": "Unsere Top-Auswahl",
-    "checkOutThese": "Schau dir stattdessen diese Auswahl an"
+    "checkOutThese": "Schau dir stattdessen diese Auswahl an",
+    "seeOtherPicks": "Schauen Sie sich unsere anderen Top-Auswahlmöglichkeiten an",
+    "directRewardNextPurchaseCoupon": "Vielen Dank für Ihren Einkauf bei uns! Wir haben ein Sonderangebot für {{couponTitle}}. Möchten Sie dieses Angebot bei Ihrem nächsten Kauf nutzen?"
   },
   "others": {
     "suggestedReplies": {

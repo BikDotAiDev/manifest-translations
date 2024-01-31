@@ -38,7 +38,9 @@
     "spinTheWheelExcitingRewards": "Spin the wheel to win exciting rewards",
     "spinTheWheel": "spin the wheel",
     "ourTopPicks": "Our top picks",
-    "checkOutThese": "Check out these picks instead"
+    "checkOutThese": "Check out these picks instead",
+    "seeOtherPicks": "See our other top picks",
+    "directRewardNextPurchaseCoupon": "Thanks for shopping with us! We have a special going on {{couponTitle}}. Would you like to use this offer on your next purchase?"
   },
   "others": {
     "suggestedReplies": {

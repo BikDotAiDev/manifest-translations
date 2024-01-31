@@ -68,6 +68,8 @@
     "welcomeMessageHomePage": "探しているものを見つけるお手伝いをさせてください！",
     "welcomeMessageProductPage": "この商品に関する質問は何でもどうぞ",
     "whatAreYourBestSellers": "貴社のベストセラー製品は何ですか？",
-    "yesSure": "はい、もちろん！"
+    "yesSure": "はい、もちろん！",
+    "seeOtherPicks": "他のおすすめ商品を見る",
+    "directRewardNextPurchaseCoupon": "お買い物いただきありがとうございます！{{couponTitle}}で特別なキャンペーンを実施中です。次回の購入にこのオファーを利用しますか？"
   }
 }
