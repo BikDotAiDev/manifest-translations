@@ -68,6 +68,8 @@
     "welcomeMessageHomePage": "Lasă-mă să te ajut să găsești ce cauți!",
     "welcomeMessageProductPage": "Întreabă-mă orice despre acest produs",
     "whatAreYourBestSellers": "Care sunt produsele noastre cele mai bine vândute?",
-    "yesSure": "Da, sigur!"
+    "yesSure": "Da, sigur!",
+    "seeOtherPicks": "Vezi alte opțiuni de top ale noastre",
+    "directRewardNextPurchaseCoupon": "Mulțumim că ați cumpărat de la noi! Avem o ofertă specială pentru {{couponTitle}}. Doriți să utilizați această ofertă la următoarea achiziție?"
   }
 }

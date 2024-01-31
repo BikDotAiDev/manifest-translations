@@ -68,6 +68,8 @@
     "welcomeMessageHomePage": "Aradığınızı bulmanıza yardımcı olayım!",
     "welcomeMessageProductPage": "Bu ürünle ilgili herhangi bir soru sorabilirsiniz",
     "whatAreYourBestSellers": "En çok satan ürünleriniz nelerdir?",
-    "yesSure": "Evet, tabii ki!"
+    "yesSure": "Evet, tabii ki!",
+    "seeOtherPicks": "Diğer en iyi seçeneklerimize göz atın",
+    "directRewardNextPurchaseCoupon": "Bizimle alışveriş yaptığınız için teşekkür ederiz! {{couponTitle}} üzerinde özel bir kampanyamız var. Bu teklifi bir sonraki satın alımınızda kullanmak ister misiniz?"
   }
 }

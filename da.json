@@ -68,6 +68,8 @@
     "welcomeMessageHomePage": "Lad mig hjælpe dig med at finde det, du leder efter!",
     "welcomeMessageProductPage": "Spørg mig om hvad som helst angående dette produkt",
     "whatAreYourBestSellers": "Hvad er dine bedstsælgende produkter?",
-    "yesSure": "Ja, selvfølgelig!"
+    "yesSure": "Ja, selvfølgelig!",
+    "seeOtherPicks": "Se vores andre bedste valgmuligheder",
+    "directRewardNextPurchaseCoupon": "Tak fordi du handler hos os! Vi har en særlig rabat på {{couponTitle}}. Vil du gerne bruge dette tilbud ved dit næste køb?"
   }
 }

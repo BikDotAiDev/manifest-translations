@@ -68,6 +68,8 @@
     "welcomeMessageHomePage": "Pomogę Ci znaleźć to, czego szukasz!",
     "welcomeMessageProductPage": "Zapytaj mnie o cokolwiek związanego z tym produktem",
     "whatAreYourBestSellers": "Jakie są nasze najlepiej sprzedające się produkty?",
-    "yesSure": "Tak, oczywiście!"
+    "yesSure": "Tak, oczywiście!",
+    "seeOtherPicks": "Zobacz nasze inne najlepsze wybory",
+    "directRewardNextPurchaseCoupon": "Dziękujemy za zakupy u nas! Mamy specjalną ofertę na {{couponTitle}}. Czy chciałbyś skorzystać z tej oferty przy następnych zakupach?"
   }
 }

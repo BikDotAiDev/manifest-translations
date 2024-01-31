@@ -68,6 +68,8 @@
     "welcomeMessageHomePage": "Segítek megtalálni, amit keresel!",
     "welcomeMessageProductPage": "Kérdezz bármit erről a termékről",
     "whatAreYourBestSellers": "Mi a legjobban eladott termékeitek?",
-    "yesSure": "Igen, persze!"
+    "yesSure": "Igen, persze!",
+    "seeOtherPicks": "Nézze meg más legjobb választásainkat",
+    "directRewardNextPurchaseCoupon": "Köszönjük, hogy velünk vásárolt! Van egy különleges ajánlatunk a {{couponTitle}}. Szeretné ezt az ajánlatot felhasználni a következő vásárlásánál?"
   }
 }
