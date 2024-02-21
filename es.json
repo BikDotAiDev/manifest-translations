@@ -68,6 +68,8 @@
     "welcomeMessageProductPage": "Pregúntame cualquier cosa sobre este producto.",
     "whatAreYourBestSellers": "¿Cuáles son tus productos más vendidos?",
     "yesSure": "¡Sí, claro!",
-    "welcomeMessageCollectionNamePage": "Pregúntame cualquier cosa sobre la colección {{collectionName}}"
+    "welcomeMessageCollectionNamePage": "Pregúntame cualquier cosa sobre la colección {{collectionName}}",
+    "seeCuratedRecommendations": "Ver recomendaciones seleccionadas",
+    "handpicked": "¡Seleccionado especialmente para ti!"
   }
 }

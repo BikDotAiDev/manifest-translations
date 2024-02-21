@@ -68,6 +68,8 @@
     "welcomeMessageHomePage": "Lad mig hjælpe dig med at finde det, du leder efter!",
     "welcomeMessageProductPage": "Spørg mig om hvad som helst angående dette produkt",
     "whatAreYourBestSellers": "Hvad er dine bedstsælgende produkter?",
-    "yesSure": "Ja, selvfølgelig!"
+    "yesSure": "Ja, selvfølgelig!",
+    "seeCuratedRecommendations": "Se udvalgte anbefalinger",
+    "handpicked": "Håndplukket kun til dig!"
   }
 }
