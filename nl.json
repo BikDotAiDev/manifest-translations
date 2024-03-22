@@ -26,7 +26,7 @@
     "navigationPageTitle": "U heeft de pagina {{navigationContext}} betreden",
     "searchQuery": "Vraag me iets over {{query}}",
     "ourTopProduct": "Onze top producten",
-    "discountCouponTextBIC": "Hoi! We hebben een speciale aanbieding voor {{couponTitle}}. Wil je deze aanbieding ontvangen?",
+    "directRewardNextPurchaseCoupon": "Hallo! Leuk om je te zien. 😃 We bieden een speciale deal aan: {{couponTitle}}. Klaar om je korting te claimen?",
     "soldOut": "Uitverkocht",
     "validEmailAddress": "Voer een geldig e-mailadres in",
     "rewardForYou": "Beloningen alleen voor jou 🎉",

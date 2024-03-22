@@ -38,7 +38,7 @@
     "availOngoingSpecialOffer": "Voglio usufruire dell'offerta speciale in corso",
     "cartWaiting": "Non lasciare gli articoli nel carrello ad aspettare, procedi con l'acquisto ora!",
     "checkOutThese": "Dai un'occhiata a queste scelte invece",
-    "discountCouponTextBIC": "Ciao! Abbiamo una promozione speciale su {{couponTitle}}. Vorresti ottenere questa offerta?",
+    "directRewardNextPurchaseCoupon": "Ciao! È bello vederti. 😃 Stiamo offrendo un'offerta speciale: {{couponTitle}}. Pronto a richiedere il tuo sconto?",
     "enterYourMessage": "Inserisci il tuo messaggio...",
     "goToCart": "Vai al carrello",
     "headerGreeting": "Ciao, sono",

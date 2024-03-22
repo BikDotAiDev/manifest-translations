@@ -26,7 +26,7 @@
     "navigationPageTitle": "Sie haben die Seite {{navigationContext}} betreten",
     "searchQuery": "Fragen Sie mich nach allem über {{query}}",
     "ourTopProduct": "Unsere Top-Produkte",
-    "discountCouponTextBIC": "Hallo! Wir haben gerade ein Sonderangebot für {{couponTitle}}. Möchten Sie dieses Angebot erhalten?",
+    "directRewardNextPurchaseCoupon": "Hallo! Schön, dich zu sehen. 😃 Wir bieten ein besonderes Angebot an: {{couponTitle}}. Bereit, deinen Rabatt zu beanspruchen?",
     "soldOut": "Ausverkauft",
     "validEmailAddress": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
     "rewardForYou": "Belohnungen nur für dich 🎉",

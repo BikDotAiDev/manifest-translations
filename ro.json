@@ -38,7 +38,7 @@
     "availOngoingSpecialOffer": "Vreau să profit de oferta specială în desfășurare",
     "cartWaiting": "Nu lăsați produsele din coș să aștepte, plătiți acum!",
     "checkOutThese": "Verificați aceste alegeri în schimb",
-    "discountCouponTextBIC": "Salut! Avem o ofertă specială pentru {{couponTitle}}. Doriți să primiți această ofertă?",
+    "directRewardNextPurchaseCoupon": "Bună! Bucuros să te văd. 😃 Oferim o ofertă specială: {{couponTitle}}. Gata să revendici reducerea ta?",
     "enterYourMessage": "Introdu mesajul tău ...",
     "goToCart": "Mergi la coș",
     "headerGreeting": "Salut, sunt",

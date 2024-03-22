@@ -38,7 +38,7 @@
     "availOngoingSpecialOffer": "Jeg vil benytte den pågående spesialtilbudet",
     "cartWaiting": "Ikke la varene i handlekurven vente, sjekk ut nå!",
     "checkOutThese": "Sjekk ut disse valgene i stedet",
-    "discountCouponTextBIC": "Hei der! Vi har et spesialtilbud på {{couponTitle}}. Vil du ha dette tilbudet?",
+    "directRewardNextPurchaseCoupon": "Hei der! Hyggelig å se deg. 😃 Vi tilbyr en spesiell avtale: {{couponTitle}}. Klar",
     "enterYourMessage": "Skriv inn meldingen din ...",
     "goToCart": "Gå til handlekurv",
     "headerGreeting": "Hei, jeg er",

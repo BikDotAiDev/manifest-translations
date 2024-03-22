@@ -38,7 +38,7 @@
     "availOngoingSpecialOffer": "Jeg vil gerne benytte den igangværende særlige tilbud",
     "cartWaiting": "Lad ikke varerne i din indkøbsvogn vente, tjek ud nu!",
     "checkOutThese": "Tjek disse valg i stedet",
-    "discountCouponTextBIC": "Hej! Vi har en særlig rabat på {{couponTitle}}. Vil du gerne modtage dette tilbud?",
+    "directRewardNextPurchaseCoupon": "Hej! Dejligt at se dig. 😃 Vi tilbyder en særlig aftale: {{couponTitle}}. Klar til at gøre krav på din rabat?",
     "enterYourMessage": "Indtast din besked ...",
     "goToCart": "Gå til indkøbsvognen",
     "headerGreeting": "Hej, jeg er",

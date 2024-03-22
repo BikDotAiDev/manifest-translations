@@ -38,7 +38,7 @@
     "availOngoingSpecialOffer": "Devam eden özel teklifi kullanmak istiyorum",
     "cartWaiting": "Sepetinizdeki ürünleri bekletmeyin, şimdi ödeme yapın!",
     "checkOutThese": "Bunun yerine bu seçeneklere göz atın",
-    "discountCouponTextBIC": "Merhaba! {{couponTitle}} için özel bir teklifimiz var. Bu teklifi almak ister misiniz?",
+    "directRewardNextPurchaseCoupon": "Merhaba! Seni görmek güzel. 😃 Özel bir teklif sunuyoruz: {{couponTitle}}. İndiriminizi talep etmeye hazır mısınız?",
     "enterYourMessage": "Mesajınızı girin...",
     "goToCart": "Sepete git",
     "headerGreeting": "Merhaba, ben",
