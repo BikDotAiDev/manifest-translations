@@ -2,7 +2,7 @@
   "welcomeMessageCollectionNamePage": "Ask me anything about the {{collectionName}} collection",
   "translations": {
     "welcomeToManifest": "Welcome to Manifest AI 🌟",
-    "gPT powered chatbotAssistantForYourEcommerceStore": "GPT powered chatbot assistant for your Ecommerce store",
+    "gPTPoweredChatbotAssistantForYourEcommerceStore": "GPT powered chatbot assistant for your Ecommerce store",
     "enterEmailID": "Enter email ID",
     "letsCreateGPTPoweredAssistantForYourStore!": "Let’s create GPT powered assistant for your store!",
     "chatInterfaceColour": "Chat interface colour",
