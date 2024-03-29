@@ -70,6 +70,33 @@
     "whatAreYourBestSellers": "Quais são seus produtos mais vendidos?",
     "yesSure": "Sim, claro!",
     "seeCuratedRecommendations": "Ver recomendações selecionadas",
-    "handpicked": "Escolhido especialmente para você!"
+    "handpicked": "Escolhido especialmente para você!",
+    "BikHelpMenu" : {
+      "managePlans": {
+        "displayName": "Gerenciar planos",
+        "key": "planos",
+        "description": "Personalize sua assinatura BIK de acordo com suas necessidades."
+      },
+      "helpCenter": {
+        "displayName": "Centro de ajuda",
+        "key": "ajuda",
+        "description": "Aproveite ao máximo o BIK com nossos guias detalhados"
+      },
+      "whatsNew": {
+        "displayName": "O que há de novo",
+        "key": "novo",
+        "description": "Fique por dentro dos recursos, atualizações e melhorias mais recentes."
+      },
+      "reportABug": {
+        "displayName": "Reportar um erro",
+        "key": "erro",
+        "description": "Ajude-nos a melhorar relatando quaisquer problemas/falhas que você encontrar."
+      },
+      "getSupport": {
+        "displayName": "Obtenha suporte",
+        "key": "apoiar",
+        "description": "Acesse assistência e orientação dedicadas para qualquer dúvida ou preocupação."
+      }
+    }
   }
 }

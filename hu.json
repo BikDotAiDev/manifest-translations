@@ -50,6 +50,33 @@
     "workingOurMagicToSetupManifestAI": "A Manifest AI beállításán dolgozunk...",
     "unleashThePowerOfManifest": "Engedd szabadjára a manifeszt erejét",
     "syncMadeSimple": "Egyszerű szinkronizálás",
-    "takeManifestForASpin": "Vedd egy körbe a Manifestet"
+    "takeManifestForASpin": "Vedd egy körbe a Manifestet",
+    "BikHelpMenu" : {
+      "managePlans": {
+        "displayName": "Tervek kezelése",
+        "key": "terveket",
+        "description": "Szabja testre BIK-előfizetését igényeinek megfelelően."
+      },
+      "helpCenter": {
+        "displayName": "Segítség Központ",
+        "key": "Segítség",
+        "description": "Hozd ki a legtöbbet a BIK-ből részletes útmutatóink segítségével"
+      },
+      "whatsNew": {
+        "displayName": "Mi újság",
+        "key": "új",
+        "description": "Maradjon naprakész a legújabb funkciókkal, frissítésekkel és fejlesztésekkel."
+      },
+      "reportABug": {
+        "displayName": "Hiba bejelentése",
+        "key": "bogár",
+        "description": "Segítsen nekünk a fejlesztésben azzal, hogy jelentse a talált problémákat/hibákat."
+      },
+      "getSupport": {
+        "displayName": "Támogatást kapni",
+        "key": "támogatás",
+        "description": "Kérjen segítséget és útmutatást bármilyen kérdés vagy probléma esetén."
+      }
+    }
   }
 }

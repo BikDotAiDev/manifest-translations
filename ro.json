@@ -50,6 +50,33 @@
     "workingOurMagicToSetupManifestAI": "Ne lucrăm magia pentru a configura Manifest AI...",
     "unleashThePowerOfManifest": "Eliberează puterea Manifestului",
     "syncMadeSimple": "Sincronizare simplă",
-    "takeManifestForASpin": "Luați Manifest pentru o învârtire"
+    "takeManifestForASpin": "Luați Manifest pentru o învârtire",
+    "BikHelpMenu" : {
+      "managePlans": {
+        "displayName": "Gestionați planurile",
+        "key": "planuri",
+        "description": "Personalizați-vă abonamentul BIK în funcție de nevoile dvs."
+      },
+      "helpCenter": {
+        "displayName": "Centru de ajutor",
+        "key": "Ajutor",
+        "description": "Profită la maximum de BIK cu ghidurile noastre aprofundate"
+      },
+      "whatsNew": {
+        "displayName": "Ce mai e nou",
+        "key": "nou",
+        "description": "Rămâneți la curent cu cele mai recente funcții, actualizări și îmbunătățiri."
+      },
+      "reportABug": {
+        "displayName": "Raporteaza o eroare",
+        "key": "gândac",
+        "description": "Ajutați-ne să ne îmbunătățim raportând orice probleme/difecțiuni pe care le găsiți."
+      },
+      "getSupport": {
+        "displayName": "Obțineți sprijin",
+        "key": "a sustine",
+        "description": "Accesați asistență și îndrumări dedicate pentru orice întrebări sau nelămuriri."
+      }
+    }
   }
 }

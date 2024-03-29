@@ -50,6 +50,33 @@
     "workingOurMagicToSetupManifestAI": "نعمل بسحرنا لإعداد Manifest AI...",
     "unleashThePowerOfManifest": "أطلق العنان لقوة البيان",
     "syncMadeSimple": "أصبحت المزامنة بسيطة",
-    "takeManifestForASpin": "خذ البيان في جولة"
+    "takeManifestForASpin": "خذ البيان في جولة",
+    "BikHelpMenu" : {
+      "managePlans": {
+        "displayName": "إدارة الخطط",
+        "key": "خطط",
+        "description": "قم بتخصيص اشتراك BIK الخاص بك وفقًا لاحتياجاتك."
+      },
+      "helpCenter": {
+        "displayName": "مركز المساعدة",
+        "key": "يساعد",
+        "description": "حقق أقصى استفادة من BIK من خلال أدلتنا المتعمقة"
+      },
+      "whatsNew": {
+        "displayName": "ما هو الجديد",
+        "key": "جديد",
+        "description": "ابق على اطلاع بأحدث الميزات والتحديثات والتحسينات."
+      },
+      "reportABug": {
+        "displayName": "الإبلاغ عن خطأ",
+        "key": "حشرة",
+        "description": "ساعدنا على التحسين من خلال الإبلاغ عن أي مشكلات/مواطن خلل تجدها."
+      },
+      "getSupport": {
+        "displayName": "احصل على الدعم",
+        "key": "يدعم",
+        "description": "الوصول إلى المساعدة والتوجيه المخصص لأية استفسارات أو مخاوف."
+      }
+    }
   }
 }

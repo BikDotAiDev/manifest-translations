@@ -50,6 +50,33 @@
     "workingOurMagicToSetupManifestAI": "Teemme taikuuttamme Manifest AI:n määrittämiseksi...",
     "unleashThePowerOfManifest": "Vapauta manifestin voima",
     "syncMadeSimple": "Synkronointi on tehty yksinkertaiseksi",
-    "takeManifestForASpin": "Kokeile Manifestiä"
+    "takeManifestForASpin": "Kokeile Manifestiä",
+    "BikHelpMenu" : {
+      "managePlans": {
+        "displayName": "Hallinnoi suunnitelmia",
+        "key": "suunnitelmia",
+        "description": "Mukauta BIK-tilauksesi tarpeidesi mukaan."
+      },
+      "helpCenter": {
+        "displayName": "Ohjekeskus",
+        "key": "auta",
+        "description": "Ota kaikki irti BIKistä perusteellisten oppaidemme avulla"
+      },
+      "whatsNew": {
+        "displayName": "Mikä on uutta",
+        "key": "Uusi",
+        "description": "Pysy ajan tasalla uusimpien ominaisuuksien, päivitysten ja parannusten kanssa."
+      },
+      "reportABug": {
+        "displayName": "Ilmoita virheestä",
+        "key": "bugi",
+        "description": "Auta meitä parantamaan toimintaamme ilmoittamalla kaikista löytämistäsi ongelmista/häiriöistä."
+      },
+      "getSupport": {
+        "displayName": "Saada tukea",
+        "key": "tuki",
+        "description": "Saat apua ja opastusta kaikkiin kyselyihin tai huolenaiheisiin."
+      }
+    }
   }
 }

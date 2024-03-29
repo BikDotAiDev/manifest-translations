@@ -21,7 +21,34 @@
     "workingOurMagicToSetupManifestAI": "Working our magic to setup Manifest AI...",
     "unleashThePowerOfManifest": "Unleash the Power of Manifest",
     "syncMadeSimple": "Sync Made Simple",
-    "takeManifestForASpin": "Take Manifest for a spin"
+    "takeManifestForASpin": "Take Manifest for a spin",
+    "BikHelpMenu" : {
+      "managePlans": {
+        "displayName": "Manage plans",
+        "key": "plans",
+        "description": "Customize your BIK subscription as per your needs."
+      },
+      "helpCenter": {
+        "displayName": "Help center",
+        "key": "help",
+        "description": "Make the most of BIK with our in-depth guides & documentation."
+      },
+      "whatsNew": {
+        "displayName": "What’s new",
+        "key": "new",
+        "description": "Stay in the loop with the latest features, updates, and improvements."
+      },
+      "reportABug": {
+        "displayName": "Report a bug",
+        "key": "bug",
+        "description": "Help us improve by reporting any issues/glitches you find."
+      },
+      "getSupport": {
+        "displayName": "Get support",
+        "key": "support",
+        "description": "Access dedicated assistance and guidance for any queries or concerns."
+      }
+    }    
   },
   "others": {
     "suggestedReplies": {

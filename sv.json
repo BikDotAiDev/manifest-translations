@@ -50,6 +50,33 @@
     "workingOurMagicToSetupManifestAI": "Vi arbetar med vår magi för att ställa in Manifest AI...",
     "unleashThePowerOfManifest": "Släpp lös kraften i Manifest",
     "syncMadeSimple": "Synkronisering på ett enkelt sätt",
-    "takeManifestForASpin": "Ta Manifest en sväng"
+    "takeManifestForASpin": "Ta Manifest en sväng",
+    "BikHelpMenu" : {
+      "managePlans": {
+        "displayName": "Hantera planer",
+        "key": "planer",
+        "description": "Anpassa ditt BIK-abonnemang efter dina behov."
+      },
+      "helpCenter": {
+        "displayName": "Hjälpcenter",
+        "key": "hjälp",
+        "description": "Få ut det mesta av BIK med våra djupgående guider"
+      },
+      "whatsNew": {
+        "displayName": "Vad är nytt",
+        "key": "ny",
+        "description": "Håll dig uppdaterad med de senaste funktionerna, uppdateringarna och förbättringarna."
+      },
+      "reportABug": {
+        "displayName": "Rapportera en bugg",
+        "key": "insekt",
+        "description": "Hjälp oss att förbättra genom att rapportera eventuella problem/fel som du hittar."
+      },
+      "getSupport": {
+        "displayName": "Få stöd",
+        "key": "Stöd",
+        "description": "Få tillgång till dedikerad hjälp och vägledning för alla frågor eller funderingar."
+      }
+    }
   }
 }

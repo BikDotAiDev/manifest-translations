@@ -20,7 +20,34 @@
     "workingOurMagicToSetupManifestAI": "Wir nutzen unsere Magie, um Manifest AI einzurichten ...",
     "unleashThePowerOfManifest": "Entfesseln Sie die Kraft des Manifestierens",
     "syncMadeSimple": "Synchronisierung leicht gemacht",
-    "takeManifestForASpin": "Probieren Sie Manifest aus"
+    "takeManifestForASpin": "Probieren Sie Manifest aus",    
+    "BikHelpMenu" : {
+      "managePlans": {
+        "displayName": "Pläne verwalten",
+        "key": "Pläne",
+        "description": "Passen Sie Ihr BIK-Abonnement an Ihre Bedürfnisse an."
+      },
+      "helpCenter": {
+        "displayName": "Hilfezentrum",
+        "key": "helfen",
+        "description": "Machen Sie mit unseren ausführlichen Leitfäden das Beste aus BIK"
+      },
+      "whatsNew": {
+        "displayName": "Was ist neu",
+        "key": "neu",
+        "description": "Bleiben Sie über die neuesten Funktionen, Updates und Verbesserungen auf dem Laufenden."
+      },
+      "reportABug": {
+        "displayName": "Melde einen technischen Fehler",
+        "key": "Insekt",
+        "description": "Helfen Sie uns, uns zu verbessern, indem Sie alle Probleme/Störungen melden, die Sie finden."
+      },
+      "getSupport": {
+        "displayName": "Hole dir Unterstützung",
+        "key": "Unterstützung",
+        "description": "Greifen Sie bei Fragen oder Bedenken auf spezielle Unterstützung und Anleitung zu."
+      }
+    }
   },
   "others": {
     "suggestedReplies": {

@@ -50,6 +50,33 @@
     "workingOurMagicToSetupManifestAI": "Manifest AI'yi kurmak için sihrimizi kullanıyoruz...",
     "unleashThePowerOfManifest": "Manifest Gücünü Serbest Bırakın",
     "syncMadeSimple": "Senkronizasyon Basitleştirildi",
-    "takeManifestForASpin": "Manifest'i bir tur atın"
+    "takeManifestForASpin": "Manifest'i bir tur atın",
+    "BikHelpMenu" : {
+      "managePlans": {
+        "displayName": "Planları yönet",
+        "key": "planlar",
+        "description": "BIK aboneliğinizi ihtiyaçlarınıza göre özelleştirin."
+      },
+      "helpCenter": {
+        "displayName": "Yardım Merkezi",
+        "key": "yardım",
+        "description": "Ayrıntılı kılavuzlarımızla BIK'ten en iyi şekilde yararlanın"
+      },
+      "whatsNew": {
+        "displayName": "Ne var ne yok",
+        "key": "yeni",
+        "description": "En son özellikler, güncellemeler ve iyileştirmelerle gelişmelerden haberdar olun."
+      },
+      "reportABug": {
+        "displayName": "Hata bildir",
+        "key": "böcek",
+        "description": "Bulduğunuz sorunları/aksaklıkları bildirerek iyileştirmemize yardımcı olun."
+      },
+      "getSupport": {
+        "displayName": "Destek almak",
+        "key": "Destek",
+        "description": "Her türlü soru veya endişeniz için özel yardım ve rehberliğe erişin."
+      }
+    }
   }
 }

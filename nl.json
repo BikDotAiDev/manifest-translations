@@ -20,7 +20,34 @@
     "workingOurMagicToSetupManifestAI": "Onze magie inzetten om Manifest AI op te zetten...",
     "unleashThePowerOfManifest": "Ontketen de kracht van manifesteren",
     "syncMadeSimple": "Synchronisatie eenvoudig gemaakt",
-    "takeManifestForASpin": "Probeer Manifest maar eens"
+    "takeManifestForASpin": "Probeer Manifest maar eens",
+    "BikHelpMenu" : {
+      "managePlans": {
+        "displayName": "Plannen beheren",
+        "key": "plannen",
+        "description": "Pas uw BIK-abonnement aan volgens uw behoeften."
+      },
+      "helpCenter": {
+        "displayName": "Helpcentrum",
+        "key": "hulp",
+        "description": "Haal het meeste uit BIK met onze diepgaande gidsen"
+      },
+      "whatsNew": {
+        "displayName": "Wat is er nieuw",
+        "key": "nieuw",
+        "description": "Blijf op de hoogte van de nieuwste functies, updates en verbeteringen."
+      },
+      "reportABug": {
+        "displayName": "Rapporteer een bug",
+        "key": "beestje",
+        "description": "Help ons verbeteren door eventuele problemen/storingen die u tegenkomt te melden."
+      },
+      "getSupport": {
+        "displayName": "Krijg ondersteuning",
+        "key": "steun",
+        "description": "Krijg toegang tot speciale hulp en begeleiding bij eventuele vragen of problemen."
+      }
+    }
   },
   "others": {
     "suggestedReplies": {

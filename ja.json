@@ -50,6 +50,33 @@
     "workingOurMagicToSetupManifestAI": "魔法をかけて Manifest AI をセットアップします...",
     "unleashThePowerOfManifest": "マニフェストの力を解き放つ",
     "syncMadeSimple": "同期を簡単に",
-    "takeManifestForASpin": "マニフェストを試してみる"
+    "takeManifestForASpin": "マニフェストを試してみる",
+    "BikHelpMenu" : {
+      "managePlans": {
+        "displayName": "計画を管理する",
+        "key": "予定",
+        "description": "ニーズに応じて BIK サブスクリプションをカスタマイズします。"
+      },
+      "helpCenter": {
+        "displayName": "ヘルプセンター",
+        "key": "ヘルプ",
+        "description": "詳細なガイドで BIK を最大限に活用しましょう"
+      },
+      "whatsNew": {
+        "displayName": "新着情報",
+        "key": "新しい",
+        "description": "最新の機能、アップデート、改善点を常に把握してください。"
+      },
+      "reportABug": {
+        "displayName": "バグを報告",
+        "key": "バグ",
+        "description": "発見した問題や不具合を報告して改善にご協力ください。"
+      },
+      "getSupport": {
+        "displayName": "支持を得ます",
+        "key": "サポート",
+        "description": "質問や懸念事項については、専用のサポートとガイダンスにアクセスしてください。"
+      }
+    }
   }
 }
