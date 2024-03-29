@@ -26,7 +26,6 @@
     "navigationPageTitle": "Sie haben die Seite {{navigationContext}} betreten",
     "searchQuery": "Fragen Sie mich nach allem über {{query}}",
     "ourTopProduct": "Unsere Top-Produkte",
-    "directRewardNextPurchaseCoupon": "Hallo! Schön, dich zu sehen. 😃 Wir bieten ein besonderes Angebot an: {{couponTitle}}. Bereit, deinen Rabatt zu beanspruchen?",
     "soldOut": "Ausverkauft",
     "validEmailAddress": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
     "rewardForYou": "Belohnungen nur für dich 🎉",
@@ -40,7 +39,9 @@
     "ourTopPicks": "Unsere Top-Auswahl",
     "checkOutThese": "Schau dir stattdessen diese Auswahl an",
     "seeCuratedRecommendations": "Sehen Sie sich kuratierte Empfehlungen an",
-    "handpicked": "Handverlesen nur für dich!"
+    "handpicked": "Handverlesen nur für dich!",
+    "discountCouponTextBIC": "Hallo! Schön, dich zu sehen. 😃 Wir bieten ein besonderes Angebot an: {{couponTitle}}. Bereit, deinen Rabatt zu beanspruchen?",
+    "directRewardNextPurchaseCoupon": "Vielen Dank für Ihren Einkauf bei uns! Wir haben ein Sonderangebot für {{couponTitle}}. Möchten Sie dieses Angebot bei Ihrem nächsten Kauf nutzen?"
   },
   "others": {
     "suggestedReplies": {

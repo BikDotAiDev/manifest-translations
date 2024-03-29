@@ -38,7 +38,6 @@
     "availOngoingSpecialOffer": "現行の特別オファーを利用したい",
     "cartWaiting": "カートに入れた商品を待たせないで、今すぐ購入してください！",
     "checkOutThese": "代わりにこれらの選択肢をチェックしてください",
-    "directRewardNextPurchaseCoupon": "こんにちは！ あなたに会えてうれしいです。 😃 特別な取引を提供しています: {{couponTitle}}。 あなたの割引を請求する準備はできていますか？",
     "enterYourMessage": "メッセージを入力してください...",
     "goToCart": "カートに進む",
     "headerGreeting": "こんにちは、私は",
@@ -70,6 +69,8 @@
     "whatAreYourBestSellers": "貴社のベストセラー製品は何ですか？",
     "yesSure": "はい、もちろん！",
     "seeCuratedRecommendations": "キュレーションされた推薦を見る",
-    "handpicked": "あなたのために厳選しました！"
+    "handpicked": "あなたのために厳選しました！",
+    "discountCouponTextBIC": "こんにちは！ あなたに会えてうれしいです。 😃 特別な取引を提供しています: {{couponTitle}}。 あなたの割引を請求する準備はできていますか？",
+    "directRewardNextPurchaseCoupon": "お買い物いただきありがとうございます！{{couponTitle}}で特別なキャンペーンを実施中です。次回の購入にこのオファーを利用しますか？"
   }
 }
