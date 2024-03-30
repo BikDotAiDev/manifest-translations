@@ -51,16 +51,16 @@
     "unleashThePowerOfManifest": "Eliberează puterea Manifestului",
     "syncMadeSimple": "Sincronizare simplă",
     "takeManifestForASpin": "Luați Manifest pentru o învârtire",
-    "BikHelpMenu" : {
+    "ManifestHelpMenu" : {
       "managePlans": {
         "displayName": "Gestionați planurile",
         "key": "planuri",
-        "description": "Personalizați-vă abonamentul BIK în funcție de nevoile dvs."
+        "description": "Personalizați-vă abonamentul Manifest AI în funcție de nevoile dvs."
       },
       "helpCenter": {
         "displayName": "Centru de ajutor",
         "key": "Ajutor",
-        "description": "Profită la maximum de BIK cu ghidurile noastre aprofundate"
+        "description": "Profitați la maximum de Manifest AI cu ghidurile noastre aprofundate"
       },
       "whatsNew": {
         "displayName": "Ce mai e nou",
@@ -77,6 +77,47 @@
         "key": "a sustine",
         "description": "Accesați asistență și îndrumări dedicate pentru orice întrebări sau nelămuriri."
       }
-    }
+    },
+    "headerGreeting": "Hei, sunt",
+    "welcomeMessageHomePage": "Lasă-mă să te ajut să găsești ceea ce cauți!",
+    "welcomeMessageProductPage": "Întrebați-mă orice despre acest produs",
+    "welcomeMessageCollectionPage": "Întrebați-mă orice despre aceste produse",
+    "tapToAsk": "Atingeți pentru a-mi pune o întrebare",
+    "poweredBy": "Cu sprijinul",
+    "viewProduct": "Vezi produsul",
+    "tapOnTo": "Atingeți pentru",
+    "viewSimilarProducts": "Vezi produse similare",
+    "askAboutSpecificProduct": "Întrebați despre un anumit produs",
+    "askAboutProduct": "Întrebați mai multe despre acest produs",
+    "moreVariantsAvailable": "Mai multe variante disponibile",
+    "enterYourMessage": "Introdu mesajul tau...",
+    "similarTo": "Similar cu",
+    "AMA": "Intreaba-ma orice",
+    "seeOurBestSellers": "Vezi bestsellerurile noastre",
+    "whatAreYourBestSellers": "Care sunt produsele tale cele mai vândute?",
+    "iHaveAQuestion": "Am o întrebare",
+    "goToCart": "Du-te la coș",
+    "yesSure": "Da sigur!",
+    "noThanks": "Nu, mulțumesc",
+    "cartWaiting": "Nu lăsați articolele din coș în așteptare, verificați acum!",
+    "navigationPageTitle": "Ai intrat în {{navigationContext}} pagină",
+    "searchQuery": "Întreabă-mă ceva despre {{query}}",
+    "ourTopProduct": "Produsele noastre de top",
+    "soldOut": "Vândut",
+    "validEmailAddress": "Vă rugăm să introduceți o adresă de email validă",
+    "rewardForYou": "Recompense doar pentru tine 🎉",
+    "tryYourLuck": "Incearca-ti norocul",
+    "textLimit": "Limita maximă de text este {{MAX_LIMIT}} personaje",
+    "askAboutThis": "Întrebați despre asta",
+    "askMoreAboutThisProduct": "Întrebați mai multe despre acest produs",
+    "availOngoingSpecialOffer": "Vreau să profit de oferta specială în curs",
+    "spinTheWheelExcitingRewards": "Rotiți roata pentru a câștiga recompense interesante",
+    "spinTheWheel": "învârte roata",
+    "ourTopPicks": "Alegerile noastre de top",
+    "checkOutThese": "În schimb, consultați aceste alegeri",
+    "seeCuratedRecommendations": "Vezi recomandări curate",
+    "handpicked": "Aleasă cu atenție doar pentru tine!",
+    "discountCouponTextBIC": "Bună!  {{couponTitle}}. ",
+    "directRewardNextPurchaseCoupon": "Vă mulțumim pentru cumpărături cu noi!  {{couponTitle}}. "
   }
 }

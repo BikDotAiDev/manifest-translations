@@ -51,16 +51,16 @@
     "unleashThePowerOfManifest": "Vapauta manifestin voima",
     "syncMadeSimple": "Synkronointi on tehty yksinkertaiseksi",
     "takeManifestForASpin": "Kokeile Manifestiä",
-    "BikHelpMenu" : {
+    "ManifestHelpMenu" : {
       "managePlans": {
         "displayName": "Hallinnoi suunnitelmia",
         "key": "suunnitelmia",
-        "description": "Mukauta BIK-tilauksesi tarpeidesi mukaan."
+        "description": "Mukauta Manifest AI -tilauksesi tarpeidesi mukaan."
       },
       "helpCenter": {
         "displayName": "Ohjekeskus",
         "key": "auta",
-        "description": "Ota kaikki irti BIKistä perusteellisten oppaidemme avulla"
+        "description": "Ota kaikki irti Manifest AI:stä perusteellisten oppaidemme avulla"
       },
       "whatsNew": {
         "displayName": "Mikä on uutta",
@@ -77,6 +77,47 @@
         "key": "tuki",
         "description": "Saat apua ja opastusta kaikkiin kyselyihin tai huolenaiheisiin."
       }
-    }
+    },
+    "headerGreeting": "Hei, olen",
+    "welcomeMessageHomePage": "Anna minun auttaa sinua löytämään etsimäsi!",
+    "welcomeMessageProductPage": "Kysy minulta jotain tästä tuotteesta",
+    "welcomeMessageCollectionPage": "Kysy minulta jotain näistä tuotteista",
+    "tapToAsk": "Napauta esittääksesi minulle kysymyksen",
+    "poweredBy": "Voimanlähteenä",
+    "viewProduct": "Näytä tuote",
+    "tapOnTo": "Napauta kohtaan",
+    "viewSimilarProducts": "Katso samanlaisia ​​tuotteita",
+    "askAboutSpecificProduct": "Kysy tietystä tuotteesta",
+    "askAboutProduct": "Kysy lisää tästä tuotteesta",
+    "moreVariantsAvailable": "Lisää muunnelmia saatavilla",
+    "enterYourMessage": "Kirjoita viestisi...",
+    "similarTo": "Samanlainen kuin",
+    "AMA": "Kysy minulta mitä tahansa",
+    "seeOurBestSellers": "Katso bestsellereihimme",
+    "whatAreYourBestSellers": "Mitkä ovat myydyimmät tuotteesi?",
+    "iHaveAQuestion": "minulla on kysymys",
+    "goToCart": "Siirry ostoskoriin",
+    "yesSure": "Toki!",
+    "noThanks": "Ei kiitos",
+    "cartWaiting": "Älä jätä ostoskorissasi olevia tuotteita odottamaan, katso nyt!",
+    "navigationPageTitle": "Sinä syötit {{navigationContext}} sivu",
+    "searchQuery": "Kysy minulta mitä tahansa {{query}}",
+    "ourTopProduct": "Huipputuotteemme",
+    "soldOut": "Loppuunmyyty",
+    "validEmailAddress": "Ole hyvä ja syötä toimiva sähköpostiosoite",
+    "rewardForYou": "Palkinnot vain sinulle 🎉",
+    "tryYourLuck": "Kokeile onneasi",
+    "textLimit": "Tekstin enimmäismäärä on {{MAX_LIMIT}} hahmoja",
+    "askAboutThis": "Kysy tästä",
+    "askMoreAboutThisProduct": "Kysy lisää tästä tuotteesta",
+    "availOngoingSpecialOffer": "Haluan hyödyntää voimassa olevaa erikoistarjousta",
+    "spinTheWheelExcitingRewards": "Pyöritä pyörää voittaaksesi jännittäviä palkintoja",
+    "spinTheWheel": "pyöritä pyörää",
+    "ourTopPicks": "Meidän parhaat valintamme",
+    "checkOutThese": "Katso sen sijaan nämä valinnat",
+    "seeCuratedRecommendations": "Katso kuratoidut suositukset",
+    "handpicked": "Käsin valittu juuri sinua varten!",
+    "discountCouponTextBIC": "Hei siellä!  {{couponTitle}}. ",
+    "directRewardNextPurchaseCoupon": "Kiitos ostoksista kanssamme!  {{couponTitle}}. "
   }
 }

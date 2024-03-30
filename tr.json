@@ -51,16 +51,16 @@
     "unleashThePowerOfManifest": "Manifest Gücünü Serbest Bırakın",
     "syncMadeSimple": "Senkronizasyon Basitleştirildi",
     "takeManifestForASpin": "Manifest'i bir tur atın",
-    "BikHelpMenu" : {
+    "ManifestHelpMenu" : {
       "managePlans": {
         "displayName": "Planları yönet",
         "key": "planlar",
-        "description": "BIK aboneliğinizi ihtiyaçlarınıza göre özelleştirin."
+        "description": "Manifest AI aboneliğinizi ihtiyaçlarınıza göre özelleştirin."
       },
       "helpCenter": {
         "displayName": "Yardım Merkezi",
         "key": "yardım",
-        "description": "Ayrıntılı kılavuzlarımızla BIK'ten en iyi şekilde yararlanın"
+        "description": "Ayrıntılı kılavuzlarımızla Manifest AI'dan en iyi şekilde yararlanın"
       },
       "whatsNew": {
         "displayName": "Ne var ne yok",
@@ -77,6 +77,47 @@
         "key": "Destek",
         "description": "Her türlü soru veya endişeniz için özel yardım ve rehberliğe erişin."
       }
-    }
+    },
+    "headerGreeting": "Selam ben",
+    "welcomeMessageHomePage": "Aradığınızı bulmanıza yardımcı olayım!",
+    "welcomeMessageProductPage": "Bu ürün hakkında bana bir şey sorun",
+    "welcomeMessageCollectionPage": "Bu ürünler hakkında bana her şeyi sorun",
+    "tapToAsk": "Bana bir soru sormak için dokunun",
+    "poweredBy": "Tarafından desteklenmektedir",
+    "viewProduct": "Ürünü görüntüle",
+    "tapOnTo": "üzerine dokunun",
+    "viewSimilarProducts": "Benzer ürünleri görüntüle",
+    "askAboutSpecificProduct": "Belirli bir ürün hakkında bilgi isteyin",
+    "askAboutProduct": "Bu ürün hakkında daha fazlasını sorun",
+    "moreVariantsAvailable": "Daha fazla çeşit mevcut",
+    "enterYourMessage": "Mesajınızı girin...",
+    "similarTo": "Benzer",
+    "AMA": "Bana istediğini sor",
+    "seeOurBestSellers": "En çok satan ürünlerimizi görün",
+    "whatAreYourBestSellers": "En çok satan ürünleriniz neler?",
+    "iHaveAQuestion": "Bir sorum var",
+    "goToCart": "Sepete git",
+    "yesSure": "Evet elbette!",
+    "noThanks": "Hayır, teşekkürler",
+    "cartWaiting": "Sepetinizdeki ürünleri bekletmeyin, hemen inceleyin!",
+    "navigationPageTitle": "girdiniz {{navigationContext}} sayfa",
+    "searchQuery": "Bana hakkında bir şey sor {{query}}",
+    "ourTopProduct": "En iyi ürünlerimiz",
+    "soldOut": "Hepsi satıldı",
+    "validEmailAddress": "Geçerli bir e",
+    "rewardForYou": "Sadece size özel ödüller 🎉",
+    "tryYourLuck": "Şansını dene",
+    "textLimit": "Maksimum metin sınırı: {{MAX_LIMIT}} karakterler",
+    "askAboutThis": "Bunu sor",
+    "askMoreAboutThisProduct": "Bu ürün hakkında daha fazlasını sorun",
+    "availOngoingSpecialOffer": "Devam eden özel tekliften yararlanmak istiyorum",
+    "spinTheWheelExcitingRewards": "Heyecan verici ödüller kazanmak için çarkı döndürün",
+    "spinTheWheel": "tekerleği döndür",
+    "ourTopPicks": "En iyi seçimlerimiz",
+    "checkOutThese": "Bunun yerine bu seçimlere göz atın",
+    "seeCuratedRecommendations": "Seçilmiş önerileri görün",
+    "handpicked": "Sadece sizin için özenle seçilmiş!",
+    "discountCouponTextBIC": "Merhaba!  {{couponTitle}}. ",
+    "directRewardNextPurchaseCoupon": "Bizimle alışveriş yaptığınız için teşekkür ederiz!  {{couponTitle}}. "
   }
 }

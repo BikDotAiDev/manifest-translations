@@ -1,86 +1,37 @@
 {
-  "others": {
-    "popUpMessages": {
-      "COLLECTION": "Procurando algo especial nesta coleção? Eu sei onde encontrar.",
-      "DEFAULT": "Olá! Procurando algo especial? Estou aqui para oferecer uma experiência de compra personalizada.",
-      "PRODUCT": "Quer saber mais sobre este produto? Eu tenho todos os detalhes que você precisa.",
-      "SEARCH": "Não consegue encontrar o que procura? Deixe-me ajudar você a encontrar exatamente o que procura."
-    },
-    "suggestedReplies": {
-      "COLLECTION": [
-        "Quais são os seus produtos mais vendidos?",
-        "O que distingue os seus produtos dos outros?",
-        "Onde está o meu pedido?"
-      ],
-      "OTHER": [
-        "Quais são os seus produtos mais vendidos?",
-        "O que distingue os seus produtos dos outros?",
-        "Onde está o meu pedido?"
-      ],
-      "PRODUCT": [
-        "O que torna este produto especial?",
-        "Mostre-me mais produtos como este",
-        "Qual é a política de devolução deste produto?"
-      ],
-      "SEARCH": [
-        "Mostre-me os produtos mais relevantes para mim",
-        "Refine os resultados com base nos meus requisitos",
-        "Quais são algumas opções populares entre estes?"
-      ]
-    }
-  },
+  "welcomeMessageCollectionNamePage": "Pergunte-me qualquer coisa sobre {{collectionName}} coleção",
   "translations": {
-    "AMA": "Pergunte-me qualquer coisa",
-    "askAboutProduct": "Pergunte mais sobre este produto",
-    "askAboutSpecificProduct": "Pergunte sobre um produto específico",
-    "askAboutThis": "Pergunte sobre isso",
-    "askMoreAboutThisProduct": "Pergunte mais sobre este produto",
-    "availOngoingSpecialOffer": "Quero aproveitar a oferta especial em andamento",
-    "cartWaiting": "Não deixe os itens no seu carrinho esperando, faça o check-out agora!",
-    "checkOutThese": "Confira estas opções em vez disso",
-    "directRewardNextPurchaseCoupon": "Olá! Bom te ver. 😃 Estamos oferecendo um negócio especial: {{couponTitle}}. Pronto para reivindicar seu desconto?",
-    "enterYourMessage": "Digite a sua mensagem...",
-    "goToCart": "Ir para o carrinho",
-    "headerGreeting": "Olá, sou",
-    "iHaveAQuestion": "Eu tenho uma pergunta",
-    "moreVariantsAvailable": "Mais variantes disponíveis",
-    "navigationPageTitle": "Você entrou na página {{navigationContext}}",
-    "noThanks": "Não, obrigado",
-    "ourTopPicks": "Nossas principais escolhas",
-    "ourTopProduct": "Nossos produtos principais",
-    "poweredBy": "Powered by",
-    "rewardForYou": "Recompensas só para você 🎉",
-    "searchQuery": "Pergunte-me qualquer coisa sobre {{query}}",
-    "seeOurBestSellers": "Ver nossos mais vendidos",
-    "similarTo": "Similar a",
-    "soldOut": "Esgotado",
-    "spinTheWheel": "gire a roda",
-    "spinTheWheelExcitingRewards": "Gire a roda para ganhar prêmios emocionantes",
-    "tapOnTo": "Toque em",
-    "tapToAsk": "Toque para me fazer uma pergunta",
-    "textLimit": "O limite máximo de texto é de {{MAX_LIMIT}} caracteres",
-    "tryYourLuck": "Tente a sua sorte",
-    "validEmailAddress": "Por favor, insira um endereço de e-mail válido",
-    "viewProduct": "Ver produto",
-    "viewSimilarProducts": "ver produtos similares",
-    "welcomeMessageCollectionPage": "Pergunte-me qualquer coisa sobre estes produtos",
-    "welcomeMessageCollectionNamePage": "Pergunte-me qualquer coisa sobre a coleção {{collectionName}}",
-    "welcomeMessageHomePage": "Deixe-me ajudá-lo a encontrar o que procura!",
-    "welcomeMessageProductPage": "Pergunte-me qualquer coisa sobre este produto",
-    "whatAreYourBestSellers": "Quais são seus produtos mais vendidos?",
-    "yesSure": "Sim, claro!",
-    "seeCuratedRecommendations": "Ver recomendações selecionadas",
-    "handpicked": "Escolhido especialmente para você!",
-    "BikHelpMenu" : {
+    "welcomeToManifest": "Bem-vindo ao Manifesto AI 🌟",
+    "gPTPoweredChatbotAssistantForYourEcommerceStore": "Assistente de chatbot com tecnologia GPT para sua loja de comércio eletrônico",
+    "enterEmailID": "Insira o ID do e-mail",
+    "letsCreateGPTPoweredAssistantForYourStore!": "Vamos criar um assistente com tecnologia GPT para sua loja!",
+    "chatInterfaceColour": "Cor da interface de bate-papo",
+    "assistantName": "Nome do assistente",
+    "thisCanBeCustomisedLaterAsWell": "Isso também pode ser personalizado posteriormente",
+    "timeToPersonaliseYourAssistant...": "É hora de personalizar seu assistente...",
+    "assistantAvatar": "Avatar do assistente",
+    "assistantPersonality": "Personalidade assistente",
+    "professional": "Profissional 😐",
+    "playful": "Brincalhão 😉",
+    "friendly": "Amigável 😄",
+    "empathetic": "Empático 🙂",
+    "next": "Próximo",
+    "back": "Voltar",
+    "setUpAssistant": "Assistente de configuração",
+    "workingOurMagicToSetupManifestAI": "Trabalhando nossa mágica para configurar o Manifest AI...",
+    "unleashThePowerOfManifest": "Liberte o poder do manifesto",
+    "syncMadeSimple": "Sincronização simplificada",
+    "takeManifestForASpin": "Dê uma olhada no Manifesto",
+    "ManifestHelpMenu": {
       "managePlans": {
         "displayName": "Gerenciar planos",
         "key": "planos",
-        "description": "Personalize sua assinatura BIK de acordo com suas necessidades."
+        "description": "Personalize sua assinatura do Manifest AI de acordo com suas necessidades."
       },
       "helpCenter": {
         "displayName": "Centro de ajuda",
         "key": "ajuda",
-        "description": "Aproveite ao máximo o BIK com nossos guias detalhados"
+        "description": "Aproveite ao máximo o Manifest AI com nossos guias detalhados"
       },
       "whatsNew": {
         "displayName": "O que há de novo",
@@ -97,6 +48,77 @@
         "key": "apoiar",
         "description": "Acesse assistência e orientação dedicadas para qualquer dúvida ou preocupação."
       }
+    },
+    "headerGreeting": "Ei, eu estou",
+    "welcomeMessageHomePage": "Deixe-me ajudá-lo a encontrar o que procura!",
+    "welcomeMessageProductPage": "Pergunte-me qualquer coisa sobre este produto",
+    "welcomeMessageCollectionPage": "Pergunte-me qualquer coisa sobre esses produtos",
+    "tapToAsk": "Toque para me fazer uma pergunta",
+    "poweredBy": "Distribuído por",
+    "viewProduct": "Ver Produto",
+    "tapOnTo": "Toque para",
+    "viewSimilarProducts": "Ver produtos semelhantes",
+    "askAboutSpecificProduct": "Pergunte sobre um produto específico",
+    "askAboutProduct": "Pergunte mais sobre este produto",
+    "moreVariantsAvailable": "Mais variantes disponíveis",
+    "enterYourMessage": "Digite sua mensagem...",
+    "similarTo": "Igual a",
+    "AMA": "Pergunte-me qualquer coisa",
+    "seeOurBestSellers": "Veja nossos best-sellers",
+    "whatAreYourBestSellers": "Quais são seus produtos mais vendidos?",
+    "iHaveAQuestion": "Eu tenho uma pergunta",
+    "goToCart": "Vá para o carrinho",
+    "yesSure": "Sim, claro!",
+    "noThanks": "Não, obrigado",
+    "cartWaiting": "Não deixe os itens no carrinho esperando, confira agora!",
+    "navigationPageTitle": "Você entrou no {{navigationContext}} página",
+    "searchQuery": "Pergunte-me qualquer coisa sobre {{query}}",
+    "ourTopProduct": "Nossos principais produtos",
+    "soldOut": "Vendido",
+    "validEmailAddress": "Por favor insira um endereço de e-mail válido",
+    "rewardForYou": "Recompensas só para você 🎉",
+    "tryYourLuck": "Tenta a tua sorte",
+    "textLimit": "O limite máximo de texto é {{MAX_LIMIT}} personagens",
+    "askAboutThis": "Pergunte sobre isso",
+    "askMoreAboutThisProduct": "Pergunte mais sobre este produto",
+    "availOngoingSpecialOffer": "Quero aproveitar a oferta especial em andamento",
+    "spinTheWheelExcitingRewards": "Gire a roda para ganhar recompensas emocionantes",
+    "spinTheWheel": "gire a roda",
+    "ourTopPicks": "Nossas principais escolhas",
+    "checkOutThese": "Confira essas escolhas",
+    "seeCuratedRecommendations": "Veja recomendações selecionadas",
+    "handpicked": "Escolhido a dedo só para você!",
+    "discountCouponTextBIC": "Olá!  {{couponTitle}}. ",
+    "directRewardNextPurchaseCoupon": "Obrigado por comprar conosco!  {{couponTitle}}. "
+  },
+  "others": {
+    "suggestedReplies": {
+      "PRODUCT": [
+        "O que faz este produto se destacar?",
+        "Mostre-me mais produtos como este",
+        "Qual é a política de devolução deste produto?"
+      ],
+      "COLLECTION": [
+        "Quais são seus produtos mais vendidos?",
+        "O que diferencia seus produtos dos outros?",
+        "Onde está meu pedido?"
+      ],
+      "SEARCH": [
+        "Mostre-me os produtos mais relevantes para mim",
+        "Refinar os resultados com base em meus requisitos",
+        "Quais são algumas escolhas populares entre elas?"
+      ],
+      "OTHER": [
+        "Quais são seus produtos mais vendidos?",
+        "O que diferencia seus produtos dos outros?",
+        "Onde está meu pedido?"
+      ]
+    },
+    "popUpMessages": {
+      "SEARCH": "Não consegue encontrar o que procura? ",
+      "COLLECTION": "Procurando algo especial nesta coleção? ",
+      "PRODUCT": "Quer saber mais sobre este produto? ",
+      "DEFAULT": "Ei! "
     }
   }
 }

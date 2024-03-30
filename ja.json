@@ -51,16 +51,16 @@
     "unleashThePowerOfManifest": "マニフェストの力を解き放つ",
     "syncMadeSimple": "同期を簡単に",
     "takeManifestForASpin": "マニフェストを試してみる",
-    "BikHelpMenu" : {
+    "ManifestHelpMenu" : {
       "managePlans": {
         "displayName": "計画を管理する",
         "key": "予定",
-        "description": "ニーズに応じて BIK サブスクリプションをカスタマイズします。"
+        "description": "ニーズに応じて Manifest AI サブスクリプションをカスタマイズします。"
       },
       "helpCenter": {
         "displayName": "ヘルプセンター",
         "key": "ヘルプ",
-        "description": "詳細なガイドで BIK を最大限に活用しましょう"
+        "description": "詳細なガイドで Manifest AI を最大限に活用する"
       },
       "whatsNew": {
         "displayName": "新着情報",
@@ -77,6 +77,47 @@
         "key": "サポート",
         "description": "質問や懸念事項については、専用のサポートとガイダンスにアクセスしてください。"
       }
-    }
+    },
+    "headerGreeting": "やあ、私は",
+    "welcomeMessageHomePage": "探しているものを見つけるお手伝いをさせてください!",
+    "welcomeMessageProductPage": "この商品について何でも聞いてください",
+    "welcomeMessageCollectionPage": "これらの製品について何でも聞いてください",
+    "tapToAsk": "タップして質問してください",
+    "poweredBy": "搭載",
+    "viewProduct": "製品を見る",
+    "tapOnTo": "をタップしてください",
+    "viewSimilarProducts": "類似製品を見る",
+    "askAboutSpecificProduct": "特定の製品について質問する",
+    "askAboutProduct": "この商品について詳しく質問する",
+    "moreVariantsAvailable": "さらに多くのバリエーションが利用可能",
+    "enterYourMessage": "メッセージを入力してください...",
+    "similarTo": "に似ている",
+    "AMA": "何でも聞いてください",
+    "seeOurBestSellers": "ベストセラーを見る",
+    "whatAreYourBestSellers": "最も売れている製品は何ですか?",
+    "iHaveAQuestion": "質問があります",
+    "goToCart": "カートに行く",
+    "yesSure": "はい、確かに！",
+    "noThanks": "結構です",
+    "cartWaiting": "カート内の商品を待たせずに、今すぐチェックしてください。",
+    "navigationPageTitle": "あなたが入力したのは、 {{navigationContext}} ページ",
+    "searchQuery": "について何でも聞いてください {{query}}",
+    "ourTopProduct": "当社のトップ製品",
+    "soldOut": "完売",
+    "validEmailAddress": "有効なメールアドレスを入力してください",
+    "rewardForYou": "あなただけにご褒美を🎉",
+    "tryYourLuck": "運試し",
+    "textLimit": "最大テキスト制限は次のとおりです {{MAX_LIMIT}} キャラクター",
+    "askAboutThis": "これについて質問してください",
+    "askMoreAboutThisProduct": "この商品について詳しく質問する",
+    "availOngoingSpecialOffer": "現在開催中の特別オファーを利用したい",
+    "spinTheWheelExcitingRewards": "ホイールを回してエキサイティングな報酬を獲得しましょう",
+    "spinTheWheel": "ホイールを回す",
+    "ourTopPicks": "私たちのトップピック",
+    "checkOutThese": "代わりにこれらのおすすめをチェックしてください",
+    "seeCuratedRecommendations": "厳選された推奨事項を参照",
+    "handpicked": "あなただけのために厳選しました！",
+    "discountCouponTextBIC": "やあ！ {{couponTitle}}。",
+    "directRewardNextPurchaseCoupon": "ご購入いただきありがとうございます。 {{couponTitle}}。"
   }
 }

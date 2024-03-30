@@ -51,16 +51,16 @@
     "unleashThePowerOfManifest": "Slip Manifestets kraft løs",
     "syncMadeSimple": "Synkronisering gjort enkel",
     "takeManifestForASpin": "Tag Manifest en tur",
-    "BikHelpMenu" : {
+    "ManifestHelpMenu" : {
       "managePlans": {
         "displayName": "Administrer planer",
         "key": "planer",
-        "description": "Tilpas dit BIK-abonnement efter dine behov."
+        "description": "Tilpas dit Manifest AI-abonnement efter dine behov."
       },
       "helpCenter": {
         "displayName": "Hjælpecenter",
         "key": "Hjælp",
-        "description": "Få mest muligt ud af BIK med vores dybdegående guider"
+        "description": "Få mest muligt ud af Manifest AI med vores dybdegående guider"
       },
       "whatsNew": {
         "displayName": "Hvad er nyt",
@@ -77,6 +77,47 @@
         "key": "support",
         "description": "Få adgang til dedikeret assistance og vejledning for alle spørgsmål eller bekymringer."
       }
-    }
+    },
+    "headerGreeting": "Hej, jeg er",
+    "welcomeMessageHomePage": "Lad mig hjælpe dig med at finde det, du leder efter!",
+    "welcomeMessageProductPage": "Spørg mig om noget om dette produkt",
+    "welcomeMessageCollectionPage": "Spørg mig om noget om disse produkter",
+    "tapToAsk": "Tryk for at stille mig et spørgsmål",
+    "poweredBy": "Drevet af",
+    "viewProduct": "Se produkt",
+    "tapOnTo": "Tryk på for at",
+    "viewSimilarProducts": "Se lignende produkter",
+    "askAboutSpecificProduct": "Spørg om et specifikt produkt",
+    "askAboutProduct": "Spørg mere om dette produkt",
+    "moreVariantsAvailable": "Flere varianter tilgængelige",
+    "enterYourMessage": "Indtast din besked...",
+    "similarTo": "Svarende til",
+    "AMA": "Spørg mig om hvad som helst",
+    "seeOurBestSellers": "Se vores bestsellere",
+    "whatAreYourBestSellers": "Hvad er dine bedst sælgende produkter?",
+    "iHaveAQuestion": "jeg har et spørgsmål",
+    "goToCart": "Gå til indkøbskurven",
+    "yesSure": "Ja sikkert!",
+    "noThanks": "Nej tak",
+    "cartWaiting": "Lad ikke varerne i din indkøbskurv vente, tjek ud nu!",
+    "navigationPageTitle": "Du kom ind i {{navigationContext}} side",
+    "searchQuery": "Spørg mig om noget {{query}}",
+    "ourTopProduct": "Vores topprodukter",
+    "soldOut": "Udsolgt",
+    "validEmailAddress": "Indtast venligst en gyldig e-mailadresse",
+    "rewardForYou": "Belønninger kun til dig 🎉",
+    "tryYourLuck": "Prøv lykken",
+    "textLimit": "Maksimal tekstgrænse er {{MAX_LIMIT}} tegn",
+    "askAboutThis": "Spørg om dette",
+    "askMoreAboutThisProduct": "Spørg mere om dette produkt",
+    "availOngoingSpecialOffer": "Jeg vil gerne benytte det løbende særtilbud",
+    "spinTheWheelExcitingRewards": "Drej hjulet for at vinde spændende belønninger",
+    "spinTheWheel": "dreje hjulet",
+    "ourTopPicks": "Vores topvalg",
+    "checkOutThese": "Tjek disse valg i stedet",
+    "seeCuratedRecommendations": "Se kuraterede anbefalinger",
+    "handpicked": "Håndplukket til dig!",
+    "discountCouponTextBIC": "Hej!  {{couponTitle}}. ",
+    "directRewardNextPurchaseCoupon": "Tak, fordi du handlede hos os!  {{couponTitle}}. "
   }
 }

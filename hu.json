@@ -51,16 +51,16 @@
     "unleashThePowerOfManifest": "Engedd szabadjára a manifeszt erejét",
     "syncMadeSimple": "Egyszerű szinkronizálás",
     "takeManifestForASpin": "Vedd egy körbe a Manifestet",
-    "BikHelpMenu" : {
+    "ManifestHelpMenu" : {
       "managePlans": {
         "displayName": "Tervek kezelése",
         "key": "terveket",
-        "description": "Szabja testre BIK-előfizetését igényeinek megfelelően."
+        "description": "Testreszabhatja Manifest AI-előfizetését igényei szerint."
       },
       "helpCenter": {
         "displayName": "Segítség Központ",
         "key": "Segítség",
-        "description": "Hozd ki a legtöbbet a BIK-ből részletes útmutatóink segítségével"
+        "description": "Hozd ki a legtöbbet a Manifest AI-ból részletes útmutatóink segítségével"
       },
       "whatsNew": {
         "displayName": "Mi újság",
@@ -77,6 +77,47 @@
         "key": "támogatás",
         "description": "Kérjen segítséget és útmutatást bármilyen kérdés vagy probléma esetén."
       }
-    }
+    },
+    "headerGreeting": "Hé, én",
+    "welcomeMessageHomePage": "Hadd segítsek megtalálni, amit keresel!",
+    "welcomeMessageProductPage": "Kérdezz bármit erről a termékről",
+    "welcomeMessageCollectionPage": "Kérdezz bármit ezekről a termékekről",
+    "tapToAsk": "Koppintson, ha kérdést szeretne feltenni",
+    "poweredBy": "Powered by",
+    "viewProduct": "Termék megtekintése",
+    "tapOnTo": "Koppintson a gombra",
+    "viewSimilarProducts": "Hasonló termékek megtekintése",
+    "askAboutSpecificProduct": "Konkrét termékről érdeklődjön",
+    "askAboutProduct": "Kérjen többet erről a termékről",
+    "moreVariantsAvailable": "Több változat elérhető",
+    "enterYourMessage": "Írja be üzenetét...",
+    "similarTo": "Hasonló",
+    "AMA": "Kérdezz bármit",
+    "seeOurBestSellers": "Tekintse meg bestsellereinket",
+    "whatAreYourBestSellers": "Melyek a legkelendőbb termékei?",
+    "iHaveAQuestion": "Kérdésem van",
+    "goToCart": "Tovább a kosárhoz",
+    "yesSure": "Igen, persze!",
+    "noThanks": "Nem köszönöm",
+    "cartWaiting": "Ne hagyja várakoztatni a kosarában lévő tételeket, nézze meg most!",
+    "navigationPageTitle": "Beírtad a {{navigationContext}} oldalon",
+    "searchQuery": "Kérdezz bármit róla {{query}}",
+    "ourTopProduct": "Legjobb termékeink",
+    "soldOut": "Eladva",
+    "validEmailAddress": "Kérjük valós e-mail címet adjon meg",
+    "rewardForYou": "Jutalmak csak neked 🎉",
+    "tryYourLuck": "Próbáljon szerencsét",
+    "textLimit": "A maximális szövegkorlát {{MAX_LIMIT}} karakterek",
+    "askAboutThis": "Kérdezz erről",
+    "askMoreAboutThisProduct": "Kérjen többet erről a termékről",
+    "availOngoingSpecialOffer": "Szeretnék élni az aktuális akcióval",
+    "spinTheWheelExcitingRewards": "Pörgesd meg a kereket, hogy izgalmas jutalmakat nyerj",
+    "spinTheWheel": "forgasd meg a kereket",
+    "ourTopPicks": "Legjobb választásaink",
+    "checkOutThese": "Inkább nézze meg ezeket a választásokat",
+    "seeCuratedRecommendations": "Tekintse meg a válogatott ajánlásokat",
+    "handpicked": "Kézzel válogatott, csak neked!",
+    "discountCouponTextBIC": "Szia!  {{couponTitle}}. ",
+    "directRewardNextPurchaseCoupon": "Köszönjük, hogy nálunk vásárolt!  {{couponTitle}}. "
   }
 }

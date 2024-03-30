@@ -51,16 +51,16 @@
     "unleashThePowerOfManifest": "Libera el poder del manifiesto",
     "syncMadeSimple": "Sincronización simplificada",
     "takeManifestForASpin": "Prueba Manifest",
-    "BikHelpMenu" : {
+    "ManifestHelpMenu" : {
       "managePlans": {
         "displayName": "Administrar planes",
         "key": "planes",
-        "description": "Personalice su suscripción BIK según sus necesidades."
+        "description": "Personalice su suscripción a Manifest AI según sus necesidades."
       },
       "helpCenter": {
         "displayName": "Centro de ayuda",
         "key": "ayuda",
-        "description": "Aprovecha BIK al máximo con nuestras guías detalladas"
+        "description": "Aproveche al máximo Manifest AI con nuestras guías detalladas"
       },
       "whatsNew": {
         "displayName": "Qué hay de nuevo",
@@ -77,6 +77,47 @@
         "key": "apoyo",
         "description": "Acceda a asistencia y orientación dedicadas para cualquier consulta o inquietud."
       }
-    }
+    },
+    "headerGreeting": "Hey Soy",
+    "welcomeMessageHomePage": "¡Déjame ayudarte a encontrar lo que estás buscando!",
+    "welcomeMessageProductPage": "Pregúntame cualquier cosa sobre este producto.",
+    "welcomeMessageCollectionPage": "Pregúntame cualquier cosa sobre estos productos.",
+    "tapToAsk": "Toca para hacerme una pregunta",
+    "poweredBy": "Energizado por",
+    "viewProduct": "Ver el producto",
+    "tapOnTo": "Toca para",
+    "viewSimilarProducts": "Ver productos similares",
+    "askAboutSpecificProduct": "Preguntar por producto específico",
+    "askAboutProduct": "Pregunta más sobre este producto",
+    "moreVariantsAvailable": "Más variantes disponibles",
+    "enterYourMessage": "Ingrese su mensaje ...",
+    "similarTo": "Similar a",
+    "AMA": "Pregúntame lo que sea",
+    "seeOurBestSellers": "Vea nuestros más vendidos",
+    "whatAreYourBestSellers": "¿Cuáles son sus productos más vendidos?",
+    "iHaveAQuestion": "Tengo una pregunta",
+    "goToCart": "Ir al carrito",
+    "yesSure": "¡Si seguro!",
+    "noThanks": "No, gracias",
+    "cartWaiting": "No haga esperar los artículos en su carrito, ¡compruébelo ahora!",
+    "navigationPageTitle": "Entraste al {{navigationContext}} página",
+    "searchQuery": "Pregúntame cualquier cosa sobre {{query}}",
+    "ourTopProduct": "Nuestros mejores productos",
+    "soldOut": "Agotado",
+    "validEmailAddress": "Por favor, introduce una dirección de correo electrónico válida",
+    "rewardForYou": "Recompensas solo para ti 🎉",
+    "tryYourLuck": "Prueba tu suerte",
+    "textLimit": "El límite máximo de texto es {{MAX_LIMIT}} caracteres",
+    "askAboutThis": "pregunta sobre esto",
+    "askMoreAboutThisProduct": "Pregunta más sobre este producto",
+    "availOngoingSpecialOffer": "Quiero aprovechar la oferta especial en curso",
+    "spinTheWheelExcitingRewards": "Gira la rueda para ganar emocionantes recompensas",
+    "spinTheWheel": "gira la rueda",
+    "ourTopPicks": "Nuestras mejores opciones",
+    "checkOutThese": "En su lugar, mira estas selecciones",
+    "seeCuratedRecommendations": "Ver recomendaciones seleccionadas",
+    "handpicked": "¡Elegido cuidadosamente solo para ti!",
+    "discountCouponTextBIC": "¡Hola!  {{couponTitle}}. ",
+    "directRewardNextPurchaseCoupon": "¡Gracias por comprar con nosotros!  {{couponTitle}}. "
   }
 }

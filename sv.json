@@ -51,16 +51,16 @@
     "unleashThePowerOfManifest": "Släpp lös kraften i Manifest",
     "syncMadeSimple": "Synkronisering på ett enkelt sätt",
     "takeManifestForASpin": "Ta Manifest en sväng",
-    "BikHelpMenu" : {
+    "ManifestHelpMenu" : {
       "managePlans": {
         "displayName": "Hantera planer",
         "key": "planer",
-        "description": "Anpassa ditt BIK-abonnemang efter dina behov."
+        "description": "Anpassa din Manifest AI-prenumeration enligt dina behov."
       },
       "helpCenter": {
         "displayName": "Hjälpcenter",
         "key": "hjälp",
-        "description": "Få ut det mesta av BIK med våra djupgående guider"
+        "description": "Få ut det mesta av Manifest AI med våra djupgående guider"
       },
       "whatsNew": {
         "displayName": "Vad är nytt",
@@ -77,6 +77,47 @@
         "key": "Stöd",
         "description": "Få tillgång till dedikerad hjälp och vägledning för alla frågor eller funderingar."
       }
-    }
+    },
+    "headerGreeting": "Hej, det är jag",
+    "welcomeMessageHomePage": "Låt mig hjälpa dig hitta det du letar efter!",
+    "welcomeMessageProductPage": "Fråga mig något om denna produkt",
+    "welcomeMessageCollectionPage": "Fråga mig något om dessa produkter",
+    "tapToAsk": "Tryck för att ställa en fråga till mig",
+    "poweredBy": "Drivs av",
+    "viewProduct": "Visa produkt",
+    "tapOnTo": "Tryck på för att",
+    "viewSimilarProducts": "Se liknande produkter",
+    "askAboutSpecificProduct": "Fråga om specifik produkt",
+    "askAboutProduct": "Fråga mer om denna produkt",
+    "moreVariantsAvailable": "Fler varianter tillgängliga",
+    "enterYourMessage": "Skriv ditt meddelande...",
+    "similarTo": "Liknande",
+    "AMA": "Fråga mig vad som helst",
+    "seeOurBestSellers": "Se våra storsäljare",
+    "whatAreYourBestSellers": "Vilka är dina bästsäljande produkter?",
+    "iHaveAQuestion": "jag har en fråga",
+    "goToCart": "Gå till varukorgen",
+    "yesSure": "Ja visst!",
+    "noThanks": "Nej tack",
+    "cartWaiting": "Låt inte varorna i din kundvagn vänta, kolla in nu!",
+    "navigationPageTitle": "Du gick in i {{navigationContext}} sida",
+    "searchQuery": "Fråga mig något om {{query}}",
+    "ourTopProduct": "Våra toppprodukter",
+    "soldOut": "Utsåld",
+    "validEmailAddress": "Ange en giltig e-postadress",
+    "rewardForYou": "Belöningar bara för dig 🎉",
+    "tryYourLuck": "Testa din tur",
+    "textLimit": "Maximal textgräns är {{MAX_LIMIT}} tecken",
+    "askAboutThis": "Fråga om detta",
+    "askMoreAboutThisProduct": "Fråga mer om denna produkt",
+    "availOngoingSpecialOffer": "Jag vill utnyttja det pågående specialerbjudandet",
+    "spinTheWheelExcitingRewards": "Snurra hjulet för att vinna spännande belöningar",
+    "spinTheWheel": "snurra hjulet",
+    "ourTopPicks": "Våra toppval",
+    "checkOutThese": "Kolla in dessa val istället",
+    "seeCuratedRecommendations": "Se utvalda rekommendationer",
+    "handpicked": "Handplockat bara för dig!",
+    "discountCouponTextBIC": "Hallå där!  {{couponTitle}}. ",
+    "directRewardNextPurchaseCoupon": "Tack för att du handlar hos oss!  {{couponTitle}}. "
   }
 }
