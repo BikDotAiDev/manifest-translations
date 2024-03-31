@@ -118,6 +118,9 @@
     "seeCuratedRecommendations": "Vezi recomandări curate",
     "handpicked": "Aleasă cu atenție doar pentru tine!",
     "discountCouponTextBIC": "Bună!  {{couponTitle}}. ",
-    "directRewardNextPurchaseCoupon": "Vă mulțumim pentru cumpărături cu noi!  {{couponTitle}}. "
+    "directRewardNextPurchaseCoupon": "Vă mulțumim pentru cumpărături cu noi!  {{couponTitle}}. ",
+    "tryOutYourAssistantHere": "Încercați-vă asistentul aici",
+    "waitForProductSyncToCompleteTo": "Așteptați ca sincronizarea produsului să se finalizeze la",
+    "testYourAIAssistant": "testează-ți asistentul AI"
   }
 }

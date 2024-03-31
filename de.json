@@ -88,7 +88,10 @@
     "seeCuratedRecommendations": "Sehen Sie sich kuratierte Empfehlungen an",
     "handpicked": "Handverlesen nur für Sie!",
     "discountCouponTextBIC": "Hallo!  {{couponTitle}}. ",
-    "directRewardNextPurchaseCoupon": "Vielen Dank für Ihren Einkauf bei uns!  {{couponTitle}}. "
+    "directRewardNextPurchaseCoupon": "Vielen Dank für Ihren Einkauf bei uns!  {{couponTitle}}. ",
+    "tryOutYourAssistantHere": "Probieren Sie Ihren Assistenten hier aus",
+    "waitForProductSyncToCompleteTo": "Warten Sie, bis die Produktsynchronisierung abgeschlossen ist",
+    "testYourAIAssistant": "Testen Sie Ihren KI-Assistenten"
   },
   "others": {
     "suggestedReplies": {

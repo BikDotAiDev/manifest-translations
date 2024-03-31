@@ -118,6 +118,9 @@
     "seeCuratedRecommendations": "Se utvalda rekommendationer",
     "handpicked": "Handplockat bara för dig!",
     "discountCouponTextBIC": "Hallå där!  {{couponTitle}}. ",
-    "directRewardNextPurchaseCoupon": "Tack för att du handlar hos oss!  {{couponTitle}}. "
+    "directRewardNextPurchaseCoupon": "Tack för att du handlar hos oss!  {{couponTitle}}. ",
+    "tryOutYourAssistantHere": "Testa din assistent här",
+    "waitForProductSyncToCompleteTo": "Vänta tills produktsynkroniseringen är klar till",
+    "testYourAIAssistant": "testa din AI-assistent"
   }
 }

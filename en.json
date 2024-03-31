@@ -89,7 +89,10 @@
     "seeCuratedRecommendations": "See curated recommendations",
     "handpicked": "Handpicked just for you!",
     "discountCouponTextBIC": "Hi there! Nice to see you. 😃 We're offering a special deal: {{couponTitle}}. Ready to claim your discount?",
-    "directRewardNextPurchaseCoupon": "Thanks for shopping with us! We have a special going on {{couponTitle}}. Would you like to use this offer on your next purchase?"
+    "directRewardNextPurchaseCoupon": "Thanks for shopping with us! We have a special going on {{couponTitle}}. Would you like to use this offer on your next purchase?",
+    "tryOutYourAssistantHere": "Try out your assistant here",
+    "waitForProductSyncToCompleteTo": "Wait for product sync to complete to",
+    "testYourAIAssistant": "test your AI assistant"
   },
   "others": {
     "suggestedReplies": {

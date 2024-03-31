@@ -118,6 +118,9 @@
     "seeCuratedRecommendations": "Seçilmiş önerileri görün",
     "handpicked": "Sadece sizin için özenle seçilmiş!",
     "discountCouponTextBIC": "Merhaba!  {{couponTitle}}. ",
-    "directRewardNextPurchaseCoupon": "Bizimle alışveriş yaptığınız için teşekkür ederiz!  {{couponTitle}}. "
+    "directRewardNextPurchaseCoupon": "Bizimle alışveriş yaptığınız için teşekkür ederiz!  {{couponTitle}}. ",
+    "tryOutYourAssistantHere": "Asistanınızı burada deneyin",
+    "waitForProductSyncToCompleteTo": "Ürün senkronizasyonunun tamamlanmasını bekleyin",
+    "testYourAIAssistant": "AI asistanınızı test edin"
   }
 }

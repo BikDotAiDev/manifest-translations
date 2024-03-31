@@ -118,6 +118,9 @@
     "seeCuratedRecommendations": "انظر التوصيات المنسقة",
     "handpicked": "اختارته فقط لأجلك!",
     "discountCouponTextBIC": "أهلاً!  {{couponTitle}}. ",
-    "directRewardNextPurchaseCoupon": "شكرا للتسوق معنا!  {{couponTitle}}. "
+    "directRewardNextPurchaseCoupon": "شكرا للتسوق معنا!  {{couponTitle}}. ",
+    "tryOutYourAssistantHere": "جرب مساعدك هنا",
+    "waitForProductSyncToCompleteTo": "انتظر حتى تكتمل مزامنة المنتج",
+    "testYourAIAssistant": "اختبر مساعد الذكاء الاصطناعي الخاص بك"
   }
 }

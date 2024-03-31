@@ -118,6 +118,9 @@
     "seeCuratedRecommendations": "Tekintse meg a válogatott ajánlásokat",
     "handpicked": "Kézzel válogatott, csak neked!",
     "discountCouponTextBIC": "Szia!  {{couponTitle}}. ",
-    "directRewardNextPurchaseCoupon": "Köszönjük, hogy nálunk vásárolt!  {{couponTitle}}. "
+    "directRewardNextPurchaseCoupon": "Köszönjük, hogy nálunk vásárolt!  {{couponTitle}}. ",
+    "tryOutYourAssistantHere": "Próbálja ki az asszisztensét itt",
+    "waitForProductSyncToCompleteTo": "Várja meg, amíg a termék szinkronizálása befejeződik",
+    "testYourAIAssistant": "tesztelje az AI-asszisztenst"
   }
 }

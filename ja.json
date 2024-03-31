@@ -118,6 +118,9 @@
     "seeCuratedRecommendations": "厳選された推奨事項を参照",
     "handpicked": "あなただけのために厳選しました！",
     "discountCouponTextBIC": "やあ！ {{couponTitle}}。",
-    "directRewardNextPurchaseCoupon": "ご購入いただきありがとうございます。 {{couponTitle}}。"
+    "directRewardNextPurchaseCoupon": "ご購入いただきありがとうございます。 {{couponTitle}}。",
+    "tryOutYourAssistantHere": "ここでアシスタントを試してみてください",
+    "waitForProductSyncToCompleteTo": "製品の同期が完了するまで待ちます",
+    "testYourAIAssistant": "AI アシスタントをテストする"
   }
 }

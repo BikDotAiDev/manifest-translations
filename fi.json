@@ -118,6 +118,9 @@
     "seeCuratedRecommendations": "Katso kuratoidut suositukset",
     "handpicked": "Käsin valittu juuri sinua varten!",
     "discountCouponTextBIC": "Hei siellä!  {{couponTitle}}. ",
-    "directRewardNextPurchaseCoupon": "Kiitos ostoksista kanssamme!  {{couponTitle}}. "
+    "directRewardNextPurchaseCoupon": "Kiitos ostoksista kanssamme!  {{couponTitle}}. ",
+    "tryOutYourAssistantHere": "Kokeile avustajaasi täällä",
+    "waitForProductSyncToCompleteTo": "Odota, että tuotteen synkronointi on valmis",
+    "testYourAIAssistant": "testaa tekoälyavustajaasi"
   }
 }

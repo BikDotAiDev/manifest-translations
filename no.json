@@ -118,6 +118,9 @@
     "seeCuratedRecommendations": "Se kuraterte anbefalinger",
     "handpicked": "Håndplukket bare for deg!",
     "discountCouponTextBIC": "Hei der!  {{couponTitle}}. ",
-    "directRewardNextPurchaseCoupon": "Takk for at du handler hos oss!  {{couponTitle}}. "
+    "directRewardNextPurchaseCoupon": "Takk for at du handler hos oss!  {{couponTitle}}. ",
+    "tryOutYourAssistantHere": "Prøv assistenten din her",
+    "waitForProductSyncToCompleteTo": "Vent til produktsynkronisering er fullført til",
+    "testYourAIAssistant": "test AI-assistenten din"
   }
 }

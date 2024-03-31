@@ -88,7 +88,10 @@
     "seeCuratedRecommendations": "Bekijk samengestelde aanbevelingen",
     "handpicked": "Speciaal voor jou uitgekozen!",
     "discountCouponTextBIC": "Hoi!  {{couponTitle}}. ",
-    "directRewardNextPurchaseCoupon": "Bedankt voor het winkelen bij ons!  {{couponTitle}}. "
+    "directRewardNextPurchaseCoupon": "Bedankt voor het winkelen bij ons!  {{couponTitle}}. ",
+    "tryOutYourAssistantHere": "Probeer hier uw assistent uit",
+    "waitForProductSyncToCompleteTo": "Wacht tot de productsynchronisatie is voltooid",
+    "testYourAIAssistant": "test je AI-assistent"
   },
   "others": {
     "suggestedReplies": {
