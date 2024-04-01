@@ -163,6 +163,8 @@
         "title": "Korjaa epätyydyttävä vastaus",
         "description": "Korjaa epätyydyttävät vastaukset, jos niitä on, tekemällä korjauksia tai lisäämällä asiaankuuluvia tietoja."
       }
-    }
+    },
+    "publishOnWebsite": "Julkaise verkkosivuilla",
+    "testOnWebsite": "Testi verkkosivuilla"
   }
 }

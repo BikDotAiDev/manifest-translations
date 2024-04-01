@@ -134,7 +134,9 @@
         "title": "Corrija uma resposta insatisfatória",
         "description": "Corrija as respostas insatisfatórias, se houver, fazendo correções ou adicionando dados mais relevantes."
       }
-    }
+    },
+    "publishOnWebsite": "Publicar no site",
+    "testOnWebsite": "Teste no site"
   },
   "others": {
     "suggestedReplies": {

@@ -163,6 +163,9 @@
         "title": "Korriger et utilfredsstillende svar",
         "description": "Rett opp utilfredsstillende svar, hvis noen, ved å gjøre rettelser eller legge til mer relevante data."
       }
-    }
+    },
+    "publishOnWebsite": "Publiser på nettsiden",
+    "testOnWebsite": "Test på nettsiden"
+  
   }
 }

@@ -162,6 +162,8 @@
         "title": "Javítsa ki a nem kielégítő választ",
         "description": "Javítsa ki a nem kielégítő válaszokat, ha van ilyen, javításokkal vagy további releváns adatok hozzáadásával."
       }
-    }
+    },
+    "publishOnWebsite": "Közzététel a weboldalon",
+    "testOnWebsite": "Teszt a weboldalon"
   }
 }

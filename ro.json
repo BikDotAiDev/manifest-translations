@@ -163,6 +163,8 @@
         "title": "Corectați un răspuns nesatisfăcător",
         "description": "Remediați răspunsurile nesatisfăcătoare, dacă există, făcând corecții sau adăugând date mai relevante."
       }
-    }
+    },
+    "publishOnWebsite": "Publicați pe site",
+    "testOnWebsite": "Test pe site"
   }
 }

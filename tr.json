@@ -163,6 +163,8 @@
         "title": "Tatmin edici olmayan bir yanıtı düzeltin",
         "description": "Varsa, tatmin edici olmayan yanıtları düzeltmeler yaparak veya daha alakalı veriler ekleyerek düzeltin."
       }
-    }
+    },
+    "publishOnWebsite": "Web sitesinde yayınla",
+    "testOnWebsite": "Web sitesinde test edin"
   }
 }

@@ -163,6 +163,8 @@
         "title": "Corregir una respuesta insatisfactoria",
         "description": "Corrija las respuestas insatisfactorias, si las hubiera, haciendo correcciones o agregando datos más relevantes."
       }
-    }
+    },
+    "publishOnWebsite": "Publicar en el sitio web",
+    "testOnWebsite": "Prueba en el sitio web"
   }
 }

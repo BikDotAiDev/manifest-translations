@@ -163,6 +163,8 @@
         "title": "Corriger une réponse insatisfaisante",
         "description": "Corrigez les réponses insatisfaisantes, le cas échéant, en apportant des corrections ou en ajoutant des données plus pertinentes."
       }
-    }
+    },
+    "publishOnWebsite": "Publier sur le site Web",
+    "testOnWebsite": "Test sur le site"
   }
 }

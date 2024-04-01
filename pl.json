@@ -163,6 +163,8 @@
         "title": "Popraw niezadowalającą odpowiedź",
         "description": "Napraw niezadowalające odpowiedzi, jeśli takie istnieją, dokonując poprawek lub dodając bardziej odpowiednie dane."
       }
-    }
+    },
+    "publishOnWebsite": "Opublikuj na stronie internetowej",
+    "testOnWebsite": "Przetestuj na stronie internetowej"
   }
 }

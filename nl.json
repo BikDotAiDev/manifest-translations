@@ -133,7 +133,9 @@
         "title": "Corrigeer een onbevredigend antwoord",
         "description": "Corrigeer eventuele onbevredigende reacties door correcties aan te brengen of relevantere gegevens toe te voegen."
       }
-    }
+    },
+    "publishOnWebsite": "Publiceren op website",
+    "testOnWebsite": "Testen op website"
   },
   "others": {
     "suggestedReplies": {

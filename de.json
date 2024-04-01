@@ -133,7 +133,9 @@
         "title": "Korrigieren Sie eine unbefriedigende Antwort",
         "description": "Korrigieren Sie etwaige unbefriedigende Antworten, indem Sie Korrekturen vornehmen oder relevantere Daten hinzufügen."
       }
-    }
+    },
+    "publishOnWebsite": "Auf der Website veröffentlichen",
+    "testOnWebsite": "Testen Sie auf der Website"
   },
   "others": {
     "suggestedReplies": {

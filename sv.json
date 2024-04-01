@@ -163,6 +163,8 @@
         "title": "Rätta ett otillfredsställande svar",
         "description": "Åtgärda otillfredsställande svar, om några, genom att göra korrigeringar eller lägga till mer relevant data."
       }
-    }
+    },
+    "publishOnWebsite": "Publicera på hemsidan",
+    "testOnWebsite": "Testa på hemsidan"
   }
 }

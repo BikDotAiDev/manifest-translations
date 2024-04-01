@@ -163,6 +163,8 @@
         "title": "Ret et utilfredsstillende svar",
         "description": "Ret eventuelt utilfredsstillende svar ved at foretage rettelser eller tilføje mere relevante data."
       }
-    }
+    },
+    "publishOnWebsite": "Offentliggøres på hjemmesiden",
+    "testOnWebsite": "Test på hjemmesiden"
   }
 }
