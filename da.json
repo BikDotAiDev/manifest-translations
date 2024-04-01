@@ -51,7 +51,7 @@
     "unleashThePowerOfManifest": "Slip Manifestets kraft løs",
     "syncMadeSimple": "Synkronisering gjort enkel",
     "takeManifestForASpin": "Tag Manifest en tur",
-    "ManifestHelpMenu" : {
+    "ManifestHelpMenu": {
       "managePlans": {
         "displayName": "Administrer planer",
         "key": "planer",
@@ -121,6 +121,48 @@
     "directRewardNextPurchaseCoupon": "Tak, fordi du handlede hos os!  {{couponTitle}}. ",
     "tryOutYourAssistantHere": "Prøv din assistent her",
     "waitForProductSyncToCompleteTo": "Vent på, at produktsynkronisering er fuldført til",
-    "testYourAIAssistant": "test din AI-assistent"
+    "testYourAIAssistant": "test din AI-assistent",
+    "trainYourAssistantToFurtherImproveResponses": "Træn din assistent til at forbedre svarene yderligere",
+    "yourAssistantIsPretrainedOnYourShopifyDataYouCanTrainItFurtherInTheseWays": "Din assistent er foruddannet i dine Shopify-data. ",
+    "reviseIncorrectAnswersByDirectlyAddingTheExpectedResponseInThe&apos;MessagesTab&apos": "Revider forkerte svar ved direkte at tilføje det forventede svar i",
+    "addAdditionalDataViaFAQsCustomLinksPDFFiles&More": "Tilføj yderligere data via ofte stillede spørgsmål, brugerdefinerede links, PDF-filer",
+    "linkYourDataWithAppropriateCustomerIntents": "Forbind dine data med passende kundehensigter",
+    "allTtasksAreCompleted": "Alle opgaver er løst",
+    "thingsToDoTtoday": "Ting at lave i dag",
+    "completeTheseTasksToFurtherEnhanceYourAIAssistant.": "Fuldfør disse opgaver for at forbedre din AI-assistent yderligere.",
+    "completeTheseQuickTasksToFinishSettingUpYourAccount.": "Udfør disse hurtige opgaver for at afslutte opsætningen af ​​din konto.",
+    "stepsData": {
+      "Test your AI assistant": {
+        "title": "Test din AI-assistent",
+        "description": "Spørg din assistent om noget, eller brug en samtalestarter til at begynde at tale."
+      },
+      "Review conversations & make corrections": {
+        "title": "Gennemgå samtaler",
+        "description": "Gennemgå din assistents svar og korrekt svar, hvis det kræves."
+      },
+      "Add at least one data source to one of the intents.": {
+        "title": "Tilføj mindst én datakilde til en af ​​hensigterne.",
+        "description": "Tilføj mindst én datakilde med alle formålene for optimal ydeevne."
+      },
+      "Set up agent handover flow": {
+        "title": "Opsæt agentoverdragelsesflow",
+        "description": "Gennemgå din assistents svar og korrekt svar, hvis det kræves."
+      },
+      "Go live": {
+        "title": "Gå live"
+      },
+      "Enable AI nudges": {
+        "title": "Aktiver AI-nudges",
+        "description": "Opsæt proaktive nudges for at engagere dine kunder."
+      },
+      "Configure AI powered quiz": {
+        "title": "Konfigurer AI-drevet quiz",
+        "description": "Byg en produktopdagelsesquiz for at hjælpe kunder med at finde de rigtige produkter."
+      },
+      "Correct an unsatisfactory response": {
+        "title": "Ret et utilfredsstillende svar",
+        "description": "Ret eventuelt utilfredsstillende svar ved at foretage rettelser eller tilføje mere relevante data."
+      }
+    }
   }
 }

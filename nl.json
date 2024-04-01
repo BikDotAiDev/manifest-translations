@@ -91,7 +91,49 @@
     "directRewardNextPurchaseCoupon": "Bedankt voor het winkelen bij ons!  {{couponTitle}}. ",
     "tryOutYourAssistantHere": "Probeer hier uw assistent uit",
     "waitForProductSyncToCompleteTo": "Wacht tot de productsynchronisatie is voltooid",
-    "testYourAIAssistant": "test je AI-assistent"
+    "testYourAIAssistant": "test je AI-assistent",
+    "trainYourAssistantToFurtherImproveResponses": "Train uw assistent om de reacties verder te verbeteren",
+    "yourAssistantIsPretrainedOnYourShopifyDataYouCanTrainItFurtherInTheseWays": "Uw assistent is vooraf getraind in uw Shopify-gegevens. ",
+    "reviseIncorrectAnswersByDirectlyAddingTheExpectedResponseInThe&apos;MessagesTab&apos": "Herzie onjuiste antwoorden door het verwachte antwoord direct toe te voegen aan de",
+    "addAdditionalDataViaFAQsCustomLinksPDFFiles&More": "Voeg extra gegevens toe via FAQ's, aangepaste links, PDF-bestanden",
+    "linkYourDataWithAppropriateCustomerIntents": "Koppel uw gegevens aan de juiste klantintenties",
+    "allTtasksAreCompleted": "Alle taken zijn voltooid",
+    "thingsToDoTtoday": "Dingen om vandaag te doen",
+    "completeTheseTasksToFurtherEnhanceYourAIAssistant.": "Voltooi deze taken om uw AI-assistent verder te verbeteren.",
+    "completeTheseQuickTasksToFinishSettingUpYourAccount.": "Voltooi deze snelle taken om het instellen van uw account te voltooien.",
+    "stepsData": {
+      "Test your AI assistant": {
+        "title": "Test uw AI-assistent",
+        "description": "Vraag uw assistent alles of gebruik een gespreksstarter om te beginnen met praten."
+      },
+      "Review conversations & make corrections": {
+        "title": "Gesprekken beoordelen",
+        "description": "Controleer de antwoorden van uw assistent en corrigeer indien nodig de antwoorden."
+      },
+      "Add at least one data source to one of the intents.": {
+        "title": "Voeg ten minste één gegevensbron toe aan een van de intenties.",
+        "description": "Voeg ten minste één gegevensbron toe met alle bedoelingen voor optimale prestaties."
+      },
+      "Set up agent handover flow": {
+        "title": "Overdrachtsstroom voor agenten instellen",
+        "description": "Controleer de antwoorden van uw assistent en corrigeer indien nodig de antwoorden."
+      },
+      "Go live": {
+        "title": "Ga leven"
+      },
+      "Enable AI nudges": {
+        "title": "Schakel AI-nudges in",
+        "description": "Stel proactieve nudges in om uw klanten te betrekken."
+      },
+      "Configure AI powered quiz": {
+        "title": "Configureer een door AI aangedreven quiz",
+        "description": "Bouw een productontdekkingsquiz om klanten te helpen de juiste producten te vinden."
+      },
+      "Correct an unsatisfactory response": {
+        "title": "Corrigeer een onbevredigend antwoord",
+        "description": "Corrigeer eventuele onbevredigende reacties door correcties aan te brengen of relevantere gegevens toe te voegen."
+      }
+    }
   },
   "others": {
     "suggestedReplies": {

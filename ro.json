@@ -121,6 +121,48 @@
     "directRewardNextPurchaseCoupon": "Vă mulțumim pentru cumpărături cu noi!  {{couponTitle}}. ",
     "tryOutYourAssistantHere": "Încercați-vă asistentul aici",
     "waitForProductSyncToCompleteTo": "Așteptați ca sincronizarea produsului să se finalizeze la",
-    "testYourAIAssistant": "testează-ți asistentul AI"
+    "testYourAIAssistant": "testează-ți asistentul AI",
+    "trainYourAssistantToFurtherImproveResponses": "Antrenați-vă asistentul pentru a îmbunătăți în continuare răspunsurile",
+    "yourAssistantIsPretrainedOnYourShopifyDataYouCanTrainItFurtherInTheseWays": "Asistentul dvs. este pregătit în prealabil cu privire la datele dvs. Shopify. ",
+    "reviseIncorrectAnswersByDirectlyAddingTheExpectedResponseInThe&apos;MessagesTab&apos": "Revizuiți răspunsurile incorecte adăugând direct răspunsul așteptat în",
+    "addAdditionalDataViaFAQsCustomLinksPDFFiles&More": "Adăugați date suplimentare prin întrebări frecvente, linkuri personalizate, fișiere PDF",
+    "linkYourDataWithAppropriateCustomerIntents": "Conectați-vă datele cu intențiile adecvate ale clienților",
+    "allTtasksAreCompleted": "Toate sarcinile sunt finalizate",
+    "thingsToDoTtoday": "Lucruri de făcut astăzi",
+    "completeTheseTasksToFurtherEnhanceYourAIAssistant.": "Finalizați aceste sarcini pentru a vă îmbunătăți și mai mult asistentul AI.",
+    "completeTheseQuickTasksToFinishSettingUpYourAccount.": "Finalizați aceste sarcini rapide pentru a finaliza configurarea contului.",
+    "stepsData": {
+      "Test your AI assistant": {
+        "title": "Testează-ți asistentul AI",
+        "description": "Întrebați-vă asistentul orice sau folosiți un inițiator de conversație pentru a începe să vorbiți."
+      },
+      "Review conversations & make corrections": {
+        "title": "Examinați conversațiile",
+        "description": "Examinați răspunsurile asistentului dvs. și corectați răspunsurile dacă este necesar."
+      },
+      "Add at least one data source to one of the intents.": {
+        "title": "Adăugați cel puțin o sursă de date la una dintre intenții.",
+        "description": "Adăugați cel puțin o sursă de date cu toate intențiile pentru o performanță optimă."
+      },
+      "Set up agent handover flow": {
+        "title": "Configurați fluxul de transfer al agenților",
+        "description": "Examinați răspunsurile asistentului dvs. și corectați răspunsurile dacă este necesar."
+      },
+      "Go live": {
+        "title": "Du-te si traieste"
+      },
+      "Enable AI nudges": {
+        "title": "Activați deplasările AI",
+        "description": "Configurați îndrumări proactive pentru a vă implica clienții."
+      },
+      "Configure AI powered quiz": {
+        "title": "Configurați testul bazat pe AI",
+        "description": "Creați un test de descoperire a produselor pentru a ajuta clienții să găsească produsele potrivite."
+      },
+      "Correct an unsatisfactory response": {
+        "title": "Corectați un răspuns nesatisfăcător",
+        "description": "Remediați răspunsurile nesatisfăcătoare, dacă există, făcând corecții sau adăugând date mai relevante."
+      }
+    }
   }
 }

@@ -121,6 +121,47 @@
     "directRewardNextPurchaseCoupon": "Köszönjük, hogy nálunk vásárolt!  {{couponTitle}}. ",
     "tryOutYourAssistantHere": "Próbálja ki az asszisztensét itt",
     "waitForProductSyncToCompleteTo": "Várja meg, amíg a termék szinkronizálása befejeződik",
-    "testYourAIAssistant": "tesztelje az AI-asszisztenst"
+    "testYourAIAssistant": "tesztelje az AI-asszisztenst",  "trainYourAssistantToFurtherImproveResponses": "Képezze asszisztensét a válaszok további javítására",
+    "yourAssistantIsPretrainedOnYourShopifyDataYouCanTrainItFurtherInTheseWays": "Az Ön asszisztense előképzett a Shopify-adataival kapcsolatban. ",
+    "reviseIncorrectAnswersByDirectlyAddingTheExpectedResponseInThe&apos;MessagesTab&apos": "Módosítsa a helytelen válaszokat a várt válasz közvetlen hozzáadásával",
+    "addAdditionalDataViaFAQsCustomLinksPDFFiles&More": "Adjon hozzá további adatokat a GYIK-en, egyéni hivatkozásokon és PDF-fájlokon keresztül",
+    "linkYourDataWithAppropriateCustomerIntents": "Kapcsolja össze adatait a megfelelő vásárlói szándékokkal",
+    "allTtasksAreCompleted": "Minden feladat teljesítve",
+    "thingsToDoTtoday": "Ma tennivalók",
+    "completeTheseTasksToFurtherEnhanceYourAIAssistant.": "Hajtsa végre ezeket a feladatokat az AI-asszisztens továbbfejlesztéséhez.",
+    "completeTheseQuickTasksToFinishSettingUpYourAccount.": "Fiókja beállításának befejezéséhez hajtsa végre ezeket a gyors feladatokat.",
+    "stepsData": {
+      "Test your AI assistant": {
+        "title": "Tesztelje AI-asszisztensét",
+        "description": "Kérdezzen meg bármit asszisztensétől, vagy használjon beszélgetésindítót a beszélgetés megkezdéséhez."
+      },
+      "Review conversations & make corrections": {
+        "title": "Tekintse át a beszélgetéseket",
+        "description": "Tekintse át asszisztense válaszait, és ha szükséges, javítsa ki a válaszokat."
+      },
+      "Add at least one data source to one of the intents.": {
+        "title": "Adjon hozzá legalább egy adatforrást az egyik szándékhoz.",
+        "description": "Adjon hozzá legalább egy adatforrást az optimális teljesítmény érdekében."
+      },
+      "Set up agent handover flow": {
+        "title": "Ügynök-átadási folyamat beállítása",
+        "description": "Tekintse át asszisztense válaszait, és ha szükséges, javítsa ki a válaszokat."
+      },
+      "Go live": {
+        "title": "Élesben"
+      },
+      "Enable AI nudges": {
+        "title": "Az AI-bökések engedélyezése",
+        "description": "Hozzon létre proaktív bökéseket, hogy bevonja ügyfeleit."
+      },
+      "Configure AI powered quiz": {
+        "title": "AI-alapú kvíz konfigurálása",
+        "description": "Készítsen termékfelfedezési kvízt, hogy segítsen az ügyfeleknek megtalálni a megfelelő termékeket."
+      },
+      "Correct an unsatisfactory response": {
+        "title": "Javítsa ki a nem kielégítő választ",
+        "description": "Javítsa ki a nem kielégítő válaszokat, ha van ilyen, javításokkal vagy további releváns adatok hozzáadásával."
+      }
+    }
   }
 }

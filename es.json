@@ -51,7 +51,7 @@
     "unleashThePowerOfManifest": "Libera el poder del manifiesto",
     "syncMadeSimple": "Sincronización simplificada",
     "takeManifestForASpin": "Prueba Manifest",
-    "ManifestHelpMenu" : {
+    "ManifestHelpMenu": {
       "managePlans": {
         "displayName": "Administrar planes",
         "key": "planes",
@@ -121,7 +121,48 @@
     "directRewardNextPurchaseCoupon": "¡Gracias por comprar con nosotros!  {{couponTitle}}. ",
     "tryOutYourAssistantHere": "Prueba tu asistente aquí",
     "waitForProductSyncToCompleteTo": "Espere a que se complete la sincronización del producto para",
-    "testYourAIAssistant": "prueba tu asistente de IA"
-  
+    "testYourAIAssistant": "prueba tu asistente de IA",
+    "trainYourAssistantToFurtherImproveResponses": "Entrena a tu asistente para mejorar aún más las respuestas",
+    "yourAssistantIsPretrainedOnYourShopifyDataYouCanTrainItFurtherInTheseWays": "Tu asistente está previamente capacitado con tus datos de Shopify. ",
+    "reviseIncorrectAnswersByDirectlyAddingTheExpectedResponseInThe&apos;MessagesTab&apos": "Revise las respuestas incorrectas agregando directamente la respuesta esperada en el",
+    "addAdditionalDataViaFAQsCustomLinksPDFFiles&More": "Agregue datos adicionales a través de preguntas frecuentes, enlaces personalizados y archivos PDF",
+    "linkYourDataWithAppropriateCustomerIntents": "Vincule sus datos con las intenciones adecuadas del cliente",
+    "allTtasksAreCompleted": "Todas las tareas están completadas.",
+    "thingsToDoTtoday": "Cosas que hacer hoy",
+    "completeTheseTasksToFurtherEnhanceYourAIAssistant.": "Complete estas tareas para mejorar aún más su asistente de IA.",
+    "completeTheseQuickTasksToFinishSettingUpYourAccount.": "Complete estas tareas rápidas para terminar de configurar su cuenta.",
+    "stepsData": {
+      "Test your AI assistant": {
+        "title": "Pon a prueba tu asistente de IA",
+        "description": "Pregúntale cualquier cosa a tu asistente o utiliza un iniciador de conversación para comenzar a hablar."
+      },
+      "Review conversations & make corrections": {
+        "title": "Revisar conversaciones",
+        "description": "Revise las respuestas de su asistente y corríjalas si es necesario."
+      },
+      "Add at least one data source to one of the intents.": {
+        "title": "Agregue al menos una fuente de datos a una de las intenciones.",
+        "description": "Agregue al menos una fuente de datos con todas las intenciones para un rendimiento óptimo."
+      },
+      "Set up agent handover flow": {
+        "title": "Configurar el flujo de transferencia del agente",
+        "description": "Revise las respuestas de su asistente y corríjalas si es necesario."
+      },
+      "Go live": {
+        "title": "Ir a vivir"
+      },
+      "Enable AI nudges": {
+        "title": "Habilitar empujones de IA",
+        "description": "Configure empujones proactivos para atraer a sus clientes."
+      },
+      "Configure AI powered quiz": {
+        "title": "Configurar cuestionario impulsado por IA",
+        "description": "Cree un cuestionario de descubrimiento de productos para ayudar a los clientes a encontrar los productos adecuados."
+      },
+      "Correct an unsatisfactory response": {
+        "title": "Corregir una respuesta insatisfactoria",
+        "description": "Corrija las respuestas insatisfactorias, si las hubiera, haciendo correcciones o agregando datos más relevantes."
+      }
+    }
   }
 }

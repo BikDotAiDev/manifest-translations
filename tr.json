@@ -51,7 +51,7 @@
     "unleashThePowerOfManifest": "Manifest Gücünü Serbest Bırakın",
     "syncMadeSimple": "Senkronizasyon Basitleştirildi",
     "takeManifestForASpin": "Manifest'i bir tur atın",
-    "ManifestHelpMenu" : {
+    "ManifestHelpMenu": {
       "managePlans": {
         "displayName": "Planları yönet",
         "key": "planlar",
@@ -121,6 +121,48 @@
     "directRewardNextPurchaseCoupon": "Bizimle alışveriş yaptığınız için teşekkür ederiz!  {{couponTitle}}. ",
     "tryOutYourAssistantHere": "Asistanınızı burada deneyin",
     "waitForProductSyncToCompleteTo": "Ürün senkronizasyonunun tamamlanmasını bekleyin",
-    "testYourAIAssistant": "AI asistanınızı test edin"
+    "testYourAIAssistant": "AI asistanınızı test edin",
+    "trainYourAssistantToFurtherImproveResponses": "Yanıtları daha da iyileştirmek için asistanınızı eğitin",
+    "yourAssistantIsPretrainedOnYourShopifyDataYouCanTrainItFurtherInTheseWays": "Asistanınız Shopify verileriniz konusunda önceden eğitilmiştir. ",
+    "reviseIncorrectAnswersByDirectlyAddingTheExpectedResponseInThe&apos;MessagesTab&apos": "Beklenen yanıtı doğrudan ekleyerek yanlış yanıtları düzeltin.",
+    "addAdditionalDataViaFAQsCustomLinksPDFFiles&More": "SSS'ler, özel bağlantılar ve PDF dosyaları aracılığıyla ek veriler ekleyin",
+    "linkYourDataWithAppropriateCustomerIntents": "Verilerinizi uygun müşteri amaçlarıyla bağlayın",
+    "allTtasksAreCompleted": "Tüm görevler tamamlandı",
+    "thingsToDoTtoday": "Bugün yapılacak şeyler",
+    "completeTheseTasksToFurtherEnhanceYourAIAssistant.": "Yapay zeka asistanınızı daha da geliştirmek için bu görevleri tamamlayın.",
+    "completeTheseQuickTasksToFinishSettingUpYourAccount.": "Hesabınızın kurulumunu tamamlamak için bu hızlı görevleri tamamlayın.",
+    "stepsData": {
+      "Test your AI assistant": {
+        "title": "Yapay zeka asistanınızı test edin",
+        "description": "Asistanınıza herhangi bir şey sorun veya konuşmaya başlamak için bir konuşma başlatıcı kullanın."
+      },
+      "Review conversations & make corrections": {
+        "title": "Görüşmeleri gözden geçirin",
+        "description": "Asistanınızın yanıtlarını gözden geçirin ve gerekirse yanıtları düzeltin."
+      },
+      "Add at least one data source to one of the intents.": {
+        "title": "Amaçlardan birine en az bir veri kaynağı ekleyin.",
+        "description": "Optimum performans için tüm amaçları içeren en az bir veri kaynağı ekleyin."
+      },
+      "Set up agent handover flow": {
+        "title": "Temsilci devir akışını ayarlama",
+        "description": "Asistanınızın yanıtlarını gözden geçirin ve gerekirse yanıtları düzeltin."
+      },
+      "Go live": {
+        "title": "Canlı yayına geç"
+      },
+      "Enable AI nudges": {
+        "title": "AI dürtülerini etkinleştir",
+        "description": "Müşterilerinizin ilgisini çekmek için proaktif dürtüler ayarlayın."
+      },
+      "Configure AI powered quiz": {
+        "title": "Yapay zeka destekli testi yapılandırın",
+        "description": "Müşterilerin doğru ürünleri bulmasına yardımcı olmak için bir ürün keşif testi oluşturun."
+      },
+      "Correct an unsatisfactory response": {
+        "title": "Tatmin edici olmayan bir yanıtı düzeltin",
+        "description": "Varsa, tatmin edici olmayan yanıtları düzeltmeler yaparak veya daha alakalı veriler ekleyerek düzeltin."
+      }
+    }
   }
 }

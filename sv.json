@@ -121,6 +121,48 @@
     "directRewardNextPurchaseCoupon": "Tack för att du handlar hos oss!  {{couponTitle}}. ",
     "tryOutYourAssistantHere": "Testa din assistent här",
     "waitForProductSyncToCompleteTo": "Vänta tills produktsynkroniseringen är klar till",
-    "testYourAIAssistant": "testa din AI-assistent"
+    "testYourAIAssistant": "testa din AI-assistent",
+    "trainYourAssistantToFurtherImproveResponses": "Träna din assistent för att förbättra svaren ytterligare",
+    "yourAssistantIsPretrainedOnYourShopifyDataYouCanTrainItFurtherInTheseWays": "Din assistent är förutbildad på din Shopify-data. ",
+    "reviseIncorrectAnswersByDirectlyAddingTheExpectedResponseInThe&apos;MessagesTab&apos": "Revidera felaktiga svar genom att direkt lägga till det förväntade svaret i",
+    "addAdditionalDataViaFAQsCustomLinksPDFFiles&More": "Lägg till ytterligare data via vanliga frågor, anpassade länkar, PDF-filer",
+    "linkYourDataWithAppropriateCustomerIntents": "Länka dina data med lämpliga kundavsikter",
+    "allTtasksAreCompleted": "Alla uppgifter är klara",
+    "thingsToDoTtoday": "Saker att göra idag",
+    "completeTheseTasksToFurtherEnhanceYourAIAssistant.": "Slutför dessa uppgifter för att ytterligare förbättra din AI-assistent.",
+    "completeTheseQuickTasksToFinishSettingUpYourAccount.": "Slutför dessa snabba uppgifter för att slutföra konfigureringen av ditt konto.",
+    "stepsData": {
+      "Test your AI assistant": {
+        "title": "Testa din AI-assistent",
+        "description": "Fråga din assistent vad som helst eller använd en konversationsstartare för att börja prata."
+      },
+      "Review conversations & make corrections": {
+        "title": "Granska konversationer",
+        "description": "Granska din assistents svar och korrigera svaren om det behövs."
+      },
+      "Add at least one data source to one of the intents.": {
+        "title": "Lägg till minst en datakälla till en av avsikterna.",
+        "description": "Lägg till minst en datakälla med alla syften för optimal prestanda."
+      },
+      "Set up agent handover flow": {
+        "title": "Ställ in agentöverlämningsflöde",
+        "description": "Granska din assistents svar och korrigera svaren om det behövs."
+      },
+      "Go live": {
+        "title": "Gå och lev"
+      },
+      "Enable AI nudges": {
+        "title": "Aktivera AI-nuffar",
+        "description": "Sätt upp proaktiva knuffar för att engagera dina kunder."
+      },
+      "Configure AI powered quiz": {
+        "title": "Konfigurera AI-drivet frågesport",
+        "description": "Bygg en produktupptäcktsquiz för att hjälpa kunderna att hitta rätt produkter."
+      },
+      "Correct an unsatisfactory response": {
+        "title": "Rätta ett otillfredsställande svar",
+        "description": "Åtgärda otillfredsställande svar, om några, genom att göra korrigeringar eller lägga till mer relevant data."
+      }
+    }
   }
 }

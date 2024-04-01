@@ -121,6 +121,48 @@
     "directRewardNextPurchaseCoupon": "Dziękujemy za zakupy u nas!  {{couponTitle}}. ",
     "tryOutYourAssistantHere": "Wypróbuj tutaj swojego asystenta",
     "waitForProductSyncToCompleteTo": "Poczekaj na zakończenie synchronizacji produktu",
-    "testYourAIAssistant": "przetestuj swojego asystenta AI"
+    "testYourAIAssistant": "przetestuj swojego asystenta AI",
+    "trainYourAssistantToFurtherImproveResponses": "Przeszkol swojego asystenta, aby jeszcze bardziej poprawiał reakcje",
+    "yourAssistantIsPretrainedOnYourShopifyDataYouCanTrainItFurtherInTheseWays": "Twój asystent został wstępnie przeszkolony w zakresie Twoich danych Shopify. ",
+    "reviseIncorrectAnswersByDirectlyAddingTheExpectedResponseInThe&apos;MessagesTab&apos": "Sprawdź nieprawidłowe odpowiedzi, bezpośrednio dodając oczekiwaną odpowiedź w pliku",
+    "addAdditionalDataViaFAQsCustomLinksPDFFiles&More": "Dodaj dodatkowe dane za pomocą często zadawanych pytań, niestandardowych łączy i plików PDF",
+    "linkYourDataWithAppropriateCustomerIntents": "Połącz swoje dane z odpowiednimi intencjami klientów",
+    "allTtasksAreCompleted": "Wszystkie zadania zostały zakończone",
+    "thingsToDoTtoday": "Rzeczy do zrobienia dzisiaj",
+    "completeTheseTasksToFurtherEnhanceYourAIAssistant.": "Wykonaj te zadania, aby jeszcze bardziej ulepszyć swojego asystenta AI.",
+    "completeTheseQuickTasksToFinishSettingUpYourAccount.": "Wykonaj te szybkie zadania, aby zakończyć konfigurowanie konta.",
+    "stepsData": {
+      "Test your AI assistant": {
+        "title": "Przetestuj swojego asystenta AI",
+        "description": "Zapytaj o cokolwiek swojego asystenta lub użyj przycisku rozpoczynającego rozmowę, aby rozpocząć rozmowę."
+      },
+      "Review conversations & make corrections": {
+        "title": "Przejrzyj rozmowy",
+        "description": "Przejrzyj odpowiedzi asystenta i w razie potrzeby popraw je."
+      },
+      "Add at least one data source to one of the intents.": {
+        "title": "Dodaj przynajmniej jedno źródło danych do jednej z intencji.",
+        "description": "Dodaj co najmniej jedno źródło danych ze wszystkimi założeniami, aby uzyskać optymalną wydajność."
+      },
+      "Set up agent handover flow": {
+        "title": "Skonfiguruj przepływ przekazywania agentów",
+        "description": "Przejrzyj odpowiedzi asystenta i w razie potrzeby popraw je."
+      },
+      "Go live": {
+        "title": "Przejdź na żywo"
+      },
+      "Enable AI nudges": {
+        "title": "Włącz podpowiedzi AI",
+        "description": "Ustaw proaktywne zachęty, aby zaangażować klientów."
+      },
+      "Configure AI powered quiz": {
+        "title": "Skonfiguruj quiz oparty na sztucznej inteligencji",
+        "description": "Stwórz quiz dotyczący odkrywania produktów, aby pomóc klientom znaleźć odpowiednie produkty."
+      },
+      "Correct an unsatisfactory response": {
+        "title": "Popraw niezadowalającą odpowiedź",
+        "description": "Napraw niezadowalające odpowiedzi, jeśli takie istnieją, dokonując poprawek lub dodając bardziej odpowiednie dane."
+      }
+    }
   }
 }

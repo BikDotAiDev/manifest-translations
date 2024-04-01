@@ -121,6 +121,48 @@
     "directRewardNextPurchaseCoupon": "Takk for at du handler hos oss!  {{couponTitle}}. ",
     "tryOutYourAssistantHere": "Prøv assistenten din her",
     "waitForProductSyncToCompleteTo": "Vent til produktsynkronisering er fullført til",
-    "testYourAIAssistant": "test AI-assistenten din"
+    "testYourAIAssistant": "test AI-assistenten din",
+    "trainYourAssistantToFurtherImproveResponses": "Tren assistenten din til å forbedre svarene ytterligere",
+    "yourAssistantIsPretrainedOnYourShopifyDataYouCanTrainItFurtherInTheseWays": "Assistenten din er forhåndsopplært på Shopify-dataene dine. ",
+    "reviseIncorrectAnswersByDirectlyAddingTheExpectedResponseInThe&apos;MessagesTab&apos": "Revider feil svar ved å legge til forventet respons direkte i",
+    "addAdditionalDataViaFAQsCustomLinksPDFFiles&More": "Legg til ytterligere data via vanlige spørsmål, tilpassede lenker, PDF-filer",
+    "linkYourDataWithAppropriateCustomerIntents": "Koble dataene dine med passende kundehensikter",
+    "allTtasksAreCompleted": "Alle oppgaver er fullført",
+    "thingsToDoTtoday": "Ting å gjøre i dag",
+    "completeTheseTasksToFurtherEnhanceYourAIAssistant.": "Fullfør disse oppgavene for å forbedre AI-assistenten din ytterligere.",
+    "completeTheseQuickTasksToFinishSettingUpYourAccount.": "Fullfør disse raske oppgavene for å fullføre konfigureringen av kontoen din.",
+    "stepsData": {
+      "Test your AI assistant": {
+        "title": "Test AI-assistenten din",
+        "description": "Spør assistenten om hva som helst eller bruk en samtalestarter for å begynne å snakke."
+      },
+      "Review conversations & make corrections": {
+        "title": "Gjennomgå samtaler",
+        "description": "Se gjennom assistentens svar og korrekt svar om nødvendig."
+      },
+      "Add at least one data source to one of the intents.": {
+        "title": "Legg til minst én datakilde til en av intensjonene.",
+        "description": "Legg til minst én datakilde med alle hensikter for optimal ytelse."
+      },
+      "Set up agent handover flow": {
+        "title": "Sett opp agentoverleveringsflyt",
+        "description": "Se gjennom assistentens svar og korrekt svar om nødvendig."
+      },
+      "Go live": {
+        "title": "Gå live"
+      },
+      "Enable AI nudges": {
+        "title": "Aktiver AI-dytt",
+        "description": "Sett opp proaktive dytt for å engasjere kundene dine."
+      },
+      "Configure AI powered quiz": {
+        "title": "Konfigurer AI-drevet quiz",
+        "description": "Bygg en produktoppdagelsesquiz for å hjelpe kundene med å finne de riktige produktene."
+      },
+      "Correct an unsatisfactory response": {
+        "title": "Korriger et utilfredsstillende svar",
+        "description": "Rett opp utilfredsstillende svar, hvis noen, ved å gjøre rettelser eller legge til mer relevante data."
+      }
+    }
   }
 }

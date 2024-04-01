@@ -121,6 +121,48 @@
     "directRewardNextPurchaseCoupon": "ご購入いただきありがとうございます。 {{couponTitle}}。",
     "tryOutYourAssistantHere": "ここでアシスタントを試してみてください",
     "waitForProductSyncToCompleteTo": "製品の同期が完了するまで待ちます",
-    "testYourAIAssistant": "AI アシスタントをテストする"
+    "testYourAIAssistant": "AI アシスタントをテストする",
+    "trainYourAssistantToFurtherImproveResponses": "応答をさらに向上させるためにアシスタントをトレーニングする",
+    "yourAssistantIsPretrainedOnYourShopifyDataYouCanTrainItFurtherInTheseWays": "アシスタントは Shopify データに基づいて事前にトレーニングされています。",
+    "reviseIncorrectAnswersByDirectlyAddingTheExpectedResponseInThe&apos;MessagesTab&apos": "予想される応答を直接追加して、間違った答えを修正します。",
+    "addAdditionalDataViaFAQsCustomLinksPDFFiles&More": "よくある質問、カスタム リンク、PDF ファイルを介して追加データを追加します",
+    "linkYourDataWithAppropriateCustomerIntents": "データを適切な顧客の意図と結び付ける",
+    "allTtasksAreCompleted": "すべてのタスクが完了しました",
+    "thingsToDoTtoday": "今日やるべきこと",
+    "completeTheseTasksToFurtherEnhanceYourAIAssistant.": "AI アシスタントをさらに強化するには、次のタスクを完了してください。",
+    "completeTheseQuickTasksToFinishSettingUpYourAccount.": "これらの簡単なタスクを完了して、アカウントの設定を完了します。",
+    "stepsData": {
+      "Test your AI assistant": {
+        "title": "AI アシスタントをテストする",
+        "description": "アシスタントに何でも質問するか、会話スターターを使って会話を始めてください。"
+      },
+      "Review conversations & make corrections": {
+        "title": "会話を確認する",
+        "description": "アシスタントの応答を確認し、必要に応じて応答を修正します。"
+      },
+      "Add at least one data source to one of the intents.": {
+        "title": "少なくとも 1 つのデータ ソースをインテントの 1 つに追加します。",
+        "description": "最適なパフォーマンスを実現するために、すべてのインテントを備えたデータ ソースを少なくとも 1 つ追加します。"
+      },
+      "Set up agent handover flow": {
+        "title": "エージェントのハンドオーバーフローを設定する",
+        "description": "アシスタントの応答を確認し、必要に応じて応答を修正します。"
+      },
+      "Go live": {
+        "title": "ライブに行く"
+      },
+      "Enable AI nudges": {
+        "title": "AI ナッジを有効にする",
+        "description": "顧客を引き付けるために積極的なナッジを設定します。"
+      },
+      "Configure AI powered quiz": {
+        "title": "AI を活用したクイズを構成する",
+        "description": "顧客が適切な製品を見つけられるように、製品発見クイズを作成します。"
+      },
+      "Correct an unsatisfactory response": {
+        "title": "不満足な応答を修正する",
+        "description": "満足のいかない応答がある場合は、修正するか、より関連性の高いデータを追加して修正します。"
+      }
+    }
   }
 }

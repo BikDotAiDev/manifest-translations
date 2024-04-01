@@ -20,8 +20,8 @@
     "workingOurMagicToSetupManifestAI": "Wir nutzen unsere Magie, um Manifest AI einzurichten ...",
     "unleashThePowerOfManifest": "Entfesseln Sie die Kraft des Manifestierens",
     "syncMadeSimple": "Synchronisierung leicht gemacht",
-    "takeManifestForASpin": "Probieren Sie Manifest aus",    
-    "ManifestHelpMenu" : {
+    "takeManifestForASpin": "Probieren Sie Manifest aus",
+    "ManifestHelpMenu": {
       "managePlans": {
         "displayName": "Pläne verwalten",
         "key": "Pläne",
@@ -91,7 +91,49 @@
     "directRewardNextPurchaseCoupon": "Vielen Dank für Ihren Einkauf bei uns!  {{couponTitle}}. ",
     "tryOutYourAssistantHere": "Probieren Sie Ihren Assistenten hier aus",
     "waitForProductSyncToCompleteTo": "Warten Sie, bis die Produktsynchronisierung abgeschlossen ist",
-    "testYourAIAssistant": "Testen Sie Ihren KI-Assistenten"
+    "testYourAIAssistant": "Testen Sie Ihren KI-Assistenten",
+    "trainYourAssistantToFurtherImproveResponses": "Schulen Sie Ihren Assistenten, um die Antworten weiter zu verbessern",
+    "yourAssistantIsPretrainedOnYourShopifyDataYouCanTrainItFurtherInTheseWays": "Ihr Assistent ist mit Ihren Shopify-Daten vorab geschult. ",
+    "reviseIncorrectAnswersByDirectlyAddingTheExpectedResponseInThe&apos;MessagesTab&apos": "Korrigieren Sie falsche Antworten, indem Sie die erwartete Antwort direkt hinzufügen",
+    "addAdditionalDataViaFAQsCustomLinksPDFFiles&More": "Fügen Sie zusätzliche Daten über FAQs, benutzerdefinierte Links und PDF-Dateien hinzu",
+    "linkYourDataWithAppropriateCustomerIntents": "Verknüpfen Sie Ihre Daten mit passenden Kundenabsichten",
+    "allTtasksAreCompleted": "Alle Aufgaben sind erledigt",
+    "thingsToDoTtoday": "Dinge die heute zu erledingen sind",
+    "completeTheseTasksToFurtherEnhanceYourAIAssistant.": "Führen Sie diese Aufgaben aus, um Ihren KI-Assistenten weiter zu verbessern.",
+    "completeTheseQuickTasksToFinishSettingUpYourAccount.": "Führen Sie diese kurzen Aufgaben aus, um die Einrichtung Ihres Kontos abzuschließen.",
+    "stepsData": {
+      "Test your AI assistant": {
+        "title": "Testen Sie Ihren KI-Assistenten",
+        "description": "Fragen Sie Ihren Assistenten etwas oder verwenden Sie einen Gesprächseinstieg, um mit dem Gespräch zu beginnen."
+      },
+      "Review conversations & make corrections": {
+        "title": "Überprüfen Sie Gespräche",
+        "description": "Überprüfen Sie die Antworten Ihres Assistenten und korrigieren Sie die Antworten bei Bedarf."
+      },
+      "Add at least one data source to one of the intents.": {
+        "title": "Fügen Sie mindestens eine Datenquelle zu einer der Absichten hinzu.",
+        "description": "Fügen Sie mindestens eine Datenquelle mit allen Absichten für eine optimale Leistung hinzu."
+      },
+      "Set up agent handover flow": {
+        "title": "Richten Sie den Ablauf für die Agentenübergabe ein",
+        "description": "Überprüfen Sie die Antworten Ihres Assistenten und korrigieren Sie die Antworten bei Bedarf."
+      },
+      "Go live": {
+        "title": "Geh Leben"
+      },
+      "Enable AI nudges": {
+        "title": "Aktivieren Sie KI-Anstupser",
+        "description": "Richten Sie proaktive Nudges ein, um Ihre Kunden anzusprechen."
+      },
+      "Configure AI powered quiz": {
+        "title": "Konfigurieren Sie ein KI-gestütztes Quiz",
+        "description": "Erstellen Sie ein Produktentdeckungsquiz, um Kunden dabei zu helfen, die richtigen Produkte zu finden."
+      },
+      "Correct an unsatisfactory response": {
+        "title": "Korrigieren Sie eine unbefriedigende Antwort",
+        "description": "Korrigieren Sie etwaige unbefriedigende Antworten, indem Sie Korrekturen vornehmen oder relevantere Daten hinzufügen."
+      }
+    }
   },
   "others": {
     "suggestedReplies": {

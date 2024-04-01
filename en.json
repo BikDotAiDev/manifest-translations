@@ -22,7 +22,7 @@
     "unleashThePowerOfManifest": "Unleash the Power of Manifest",
     "syncMadeSimple": "Sync Made Simple",
     "takeManifestForASpin": "Take Manifest for a spin",
-    "ManifestHelpMenu" : {
+    "ManifestHelpMenu": {
       "managePlans": {
         "displayName": "Manage plans",
         "key": "plans",
@@ -92,7 +92,57 @@
     "directRewardNextPurchaseCoupon": "Thanks for shopping with us! We have a special going on {{couponTitle}}. Would you like to use this offer on your next purchase?",
     "tryOutYourAssistantHere": "Try out your assistant here",
     "waitForProductSyncToCompleteTo": "Wait for product sync to complete to",
-    "testYourAIAssistant": "test your AI assistant"
+    "testYourAIAssistant": "test your AI assistant",
+    "pleaseWaitSyncingYourShopifyData": "Please wait, syncing your Shopify data..",
+    "meanwhileYouCanCustomiseYourAssistant": "Meanwhile you can customise your assistant",
+    "youCanCustomizeTheAppearanceAndBehaviourOfYourAIAssistant": "You can customize the appearance and behaviour of your AIassistant",
+    "customiseYourAssistant": "Customise your assistant",
+    "onceYouAreReadyGoLiveWithYourAssistant": "Once you're ready, go live with your assistant!",
+    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Publish on your website or preview how it would look like on your website",
+    "publishOnWebsite": "Publish on website",
+    "testOnWebsite": "Test on website",
+    "trainYourAssistantToFurtherImproveResponses": "Train your assistant to further improve responses",
+    "yourAssistantIsPretrainedOnYourShopifyDataYouCanTrainItFurtherInTheseWays": "Your assistant is pre-trained on your Shopify data. You cantrain it further in these ways:",
+    "reviseIncorrectAnswersByDirectlyAddingTheExpectedResponseInThe&apos;MessagesTab&apos": "Revise incorrect answers by directly adding the expected response in the &apos;Messages tab&apos;",
+    "addAdditionalDataViaFAQsCustomLinksPDFFiles&More": "Add additional data via FAQs, custom links, PDF files & more",
+    "linkYourDataWithAppropriateCustomerIntents": "Link your data with appropriate customer intents",
+    "allTtasksAreCompleted": "All tasks are completed",
+    "thingsToDoTtoday": "Things to do today",
+    "completeTheseTasksToFurtherEnhanceYourAIAssistant.": "Complete these tasks to further enhance your AI assistant.",
+    "completeTheseQuickTasksToFinishSettingUpYourAccount.": "Complete these quick tasks to finish setting up your account.",
+    "stepsData": {
+      "Test your AI assistant": {
+        "title": "Test your AI assistant",
+        "description": "Ask your assistant anything or use a conversation starter to begin talking."
+      },
+      "Review conversations & make corrections": {
+        "title": "Review conversations & make corrections",
+        "description": "Review your assistant's responses and correct responses if required."
+      },
+      "Add at least one data source to one of the intents.": {
+        "title": "Add at least one data source to one of the intents.",
+        "description": "Add at least one data source with all the intents for optimal performance."
+      },
+      "Set up agent handover flow": {
+        "title": "Set up agent handover flow",
+        "description": "Review your assistant's responses and correct responses if required."
+      },
+      "Go live": {
+        "title": "Go live"
+      },
+      "Enable AI nudges": {
+        "title": "Enable AI nudges",
+        "description": "Set up proactive nudges to engage your customers."
+      },
+      "Configure AI powered quiz": {
+        "title": "Configure AI powered quiz",
+        "description": "Build a product discovery quiz to help customers find the right products."
+      },
+      "Correct an unsatisfactory response": {
+        "title": "Correct an unsatisfactory response",
+        "description": "Fix unsatisfactory responses, if any, by making corrections or adding more relevant data."
+      }
+    }
   },
   "others": {
     "suggestedReplies": {

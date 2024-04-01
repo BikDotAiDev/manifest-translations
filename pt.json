@@ -92,7 +92,49 @@
     "directRewardNextPurchaseCoupon": "Obrigado por comprar conosco!  {{couponTitle}}. ",
     "tryOutYourAssistantHere": "Experimente seu assistente aqui",
     "waitForProductSyncToCompleteTo": "Aguarde a conclusão da sincronização do produto para",
-    "testYourAIAssistant": "teste seu assistente de IA"
+    "testYourAIAssistant": "teste seu assistente de IA",
+    "trainYourAssistantToFurtherImproveResponses": "Treine seu assistente para melhorar ainda mais as respostas",
+    "yourAssistantIsPretrainedOnYourShopifyDataYouCanTrainItFurtherInTheseWays": "Seu assistente é pré-treinado com seus dados do Shopify. ",
+    "reviseIncorrectAnswersByDirectlyAddingTheExpectedResponseInThe&apos;MessagesTab&apos": "Revise as respostas incorretas adicionando diretamente a resposta esperada no",
+    "addAdditionalDataViaFAQsCustomLinksPDFFiles&More": "Adicione dados adicionais por meio de perguntas frequentes, links personalizados, arquivos PDF",
+    "linkYourDataWithAppropriateCustomerIntents": "Vincule seus dados às intenções apropriadas do cliente",
+    "allTtasksAreCompleted": "Todas as tarefas foram concluídas",
+    "thingsToDoTtoday": "Coisas para fazer hoje",
+    "completeTheseTasksToFurtherEnhanceYourAIAssistant.": "Conclua estas tarefas para aprimorar ainda mais seu assistente de IA.",
+    "completeTheseQuickTasksToFinishSettingUpYourAccount.": "Conclua estas tarefas rápidas para concluir a configuração da sua conta.",
+    "stepsData": {
+      "Test your AI assistant": {
+        "title": "Teste seu assistente de IA",
+        "description": "Pergunte qualquer coisa ao seu assistente ou use um iniciador de conversa para começar a falar."
+      },
+      "Review conversations & make corrections": {
+        "title": "Revise conversas",
+        "description": "Revise as respostas do seu assistente e corrija as respostas, se necessário."
+      },
+      "Add at least one data source to one of the intents.": {
+        "title": "Adicione pelo menos uma fonte de dados a uma das intenções.",
+        "description": "Adicione pelo menos uma fonte de dados com todas as intenções para obter desempenho ideal."
+      },
+      "Set up agent handover flow": {
+        "title": "Configurar o fluxo de transferência do agente",
+        "description": "Revise as respostas do seu assistente e corrija as respostas, se necessário."
+      },
+      "Go live": {
+        "title": "Vá ao vivo"
+      },
+      "Enable AI nudges": {
+        "title": "Ativar estímulos de IA",
+        "description": "Configure estímulos proativos para envolver seus clientes."
+      },
+      "Configure AI powered quiz": {
+        "title": "Configurar questionário com tecnologia de IA",
+        "description": "Crie um questionário de descoberta de produtos para ajudar os clientes a encontrar os produtos certos."
+      },
+      "Correct an unsatisfactory response": {
+        "title": "Corrija uma resposta insatisfatória",
+        "description": "Corrija as respostas insatisfatórias, se houver, fazendo correções ou adicionando dados mais relevantes."
+      }
+    }
   },
   "others": {
     "suggestedReplies": {

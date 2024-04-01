@@ -51,7 +51,7 @@
     "unleashThePowerOfManifest": "Vapauta manifestin voima",
     "syncMadeSimple": "Synkronointi on tehty yksinkertaiseksi",
     "takeManifestForASpin": "Kokeile Manifestiä",
-    "ManifestHelpMenu" : {
+    "ManifestHelpMenu": {
       "managePlans": {
         "displayName": "Hallinnoi suunnitelmia",
         "key": "suunnitelmia",
@@ -121,6 +121,48 @@
     "directRewardNextPurchaseCoupon": "Kiitos ostoksista kanssamme!  {{couponTitle}}. ",
     "tryOutYourAssistantHere": "Kokeile avustajaasi täällä",
     "waitForProductSyncToCompleteTo": "Odota, että tuotteen synkronointi on valmis",
-    "testYourAIAssistant": "testaa tekoälyavustajaasi"
+    "testYourAIAssistant": "testaa tekoälyavustajaasi",
+    "trainYourAssistantToFurtherImproveResponses": "Kouluta avustajasi parantamaan vastauksia entisestään",
+    "yourAssistantIsPretrainedOnYourShopifyDataYouCanTrainItFurtherInTheseWays": "Assistenttisi on valmiiksi koulutettu Shopify-tietoihisi. ",
+    "reviseIncorrectAnswersByDirectlyAddingTheExpectedResponseInThe&apos;MessagesTab&apos": "Korjaa väärät vastaukset lisäämällä odotettu vastaus suoraan",
+    "addAdditionalDataViaFAQsCustomLinksPDFFiles&More": "Lisää tietoja usein kysyttyjen kysymysten, mukautettujen linkkien ja PDF-tiedostojen kautta",
+    "linkYourDataWithAppropriateCustomerIntents": "Yhdistä tietosi asianmukaisiin asiakastarkoituksiin",
+    "allTtasksAreCompleted": "Kaikki tehtävät on suoritettu",
+    "thingsToDoTtoday": "Tekemistä tänään",
+    "completeTheseTasksToFurtherEnhanceYourAIAssistant.": "Suorita nämä tehtävät parantaaksesi tekoälyavustajaasi entisestään.",
+    "completeTheseQuickTasksToFinishSettingUpYourAccount.": "Viimeistele tilisi määrittäminen suorittamalla nämä nopeat tehtävät.",
+    "stepsData": {
+      "Test your AI assistant": {
+        "title": "Testaa tekoälyavustajasi",
+        "description": "Kysy avustajalta mitä tahansa tai käytä keskustelun aloittajaa aloittaaksesi puhumisen."
+      },
+      "Review conversations & make corrections": {
+        "title": "Tarkista keskustelut",
+        "description": "Tarkista avustajasi vastaukset ja korjaa vastaukset tarvittaessa."
+      },
+      "Add at least one data source to one of the intents.": {
+        "title": "Lisää ainakin yksi tietolähde johonkin tarkoitukseen.",
+        "description": "Lisää vähintään yksi tietolähde, jolla on kaikki tarkoitukset optimaalisen suorituskyvyn saavuttamiseksi."
+      },
+      "Set up agent handover flow": {
+        "title": "Määritä agentin luovutuskulku",
+        "description": "Tarkista avustajasi vastaukset ja korjaa vastaukset tarvittaessa."
+      },
+      "Go live": {
+        "title": "Elä"
+      },
+      "Enable AI nudges": {
+        "title": "Ota tekoälylyönnit käyttöön",
+        "description": "Ota käyttöön ennakoivia töksähtelyjä asiakkaidesi mukaan."
+      },
+      "Configure AI powered quiz": {
+        "title": "Määritä AI-pohjainen tietokilpailu",
+        "description": "Luo tuotekehitysvisa, jonka avulla asiakkaat löytävät oikeat tuotteet."
+      },
+      "Correct an unsatisfactory response": {
+        "title": "Korjaa epätyydyttävä vastaus",
+        "description": "Korjaa epätyydyttävät vastaukset, jos niitä on, tekemällä korjauksia tai lisäämällä asiaankuuluvia tietoja."
+      }
+    }
   }
 }

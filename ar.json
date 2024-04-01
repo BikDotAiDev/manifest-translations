@@ -51,7 +51,7 @@
     "unleashThePowerOfManifest": "أطلق العنان لقوة البيان",
     "syncMadeSimple": "أصبحت المزامنة بسيطة",
     "takeManifestForASpin": "خذ البيان في جولة",
-    "ManifestHelpMenu" : {
+    "ManifestHelpMenu": {
       "managePlans": {
         "displayName": "إدارة الخطط",
         "key": "خطط",
@@ -61,7 +61,7 @@
         "displayName": "مركز المساعدة",
         "key": "يساعد",
         "description": "حقق أقصى استفادة من Manifest AI من خلال أدلتنا المتعمقة"
-      },    
+      },
       "whatsNew": {
         "displayName": "ما هو الجديد",
         "key": "جديد",
@@ -121,6 +121,48 @@
     "directRewardNextPurchaseCoupon": "شكرا للتسوق معنا!  {{couponTitle}}. ",
     "tryOutYourAssistantHere": "جرب مساعدك هنا",
     "waitForProductSyncToCompleteTo": "انتظر حتى تكتمل مزامنة المنتج",
-    "testYourAIAssistant": "اختبر مساعد الذكاء الاصطناعي الخاص بك"
+    "testOnWebsite": "اختبار على الموقع",
+    "trainYourAssistantToFurtherImproveResponses": "تدريب مساعدك لزيادة تحسين الاستجابات",
+    "yourAssistantIsPretrainedOnYourShopifyDataYouCanTrainItFurtherInTheseWays": "تم تدريب مساعدك مسبقًا على بيانات Shopify الخاصة بك. ",
+    "reviseIncorrectAnswersByDirectlyAddingTheExpectedResponseInThe&apos;MessagesTab&apos": "قم بمراجعة الإجابات غير الصحيحة عن طريق إضافة الاستجابة المتوقعة مباشرة في ملف",
+    "addAdditionalDataViaFAQsCustomLinksPDFFiles&More": "أضف بيانات إضافية عبر الأسئلة الشائعة والروابط المخصصة وملفات PDF",
+    "linkYourDataWithAppropriateCustomerIntents": "ربط بياناتك بنوايا العملاء المناسبة",
+    "allTtasksAreCompleted": "تم الانتهاء من جميع المهام",
+    "thingsToDoTtoday": "أشياء للقيام بها اليوم",
+    "completeTheseTasksToFurtherEnhanceYourAIAssistant.": "أكمل هذه المهام لتحسين مساعد الذكاء الاصطناعي لديك بشكل أكبر.",
+    "completeTheseQuickTasksToFinishSettingUpYourAccount.": "أكمل هذه المهام السريعة لإنهاء إعداد حسابك.",
+    "stepsData": {
+      "Test your AI assistant": {
+        "title": "اختبر مساعد الذكاء الاصطناعي الخاص بك",
+        "description": "اسأل مساعدك عن أي شيء أو استخدم أداة بدء المحادثة لبدء الحديث."
+      },
+      "Review conversations & make corrections": {
+        "title": "مراجعة المحادثات",
+        "description": "قم بمراجعة إجابات مساعدك والإجابات الصحيحة إذا لزم الأمر."
+      },
+      "Add at least one data source to one of the intents.": {
+        "title": "قم بإضافة مصدر بيانات واحد على الأقل إلى أحد الأغراض.",
+        "description": "قم بإضافة مصدر بيانات واحد على الأقل بجميع الأغراض للحصول على الأداء الأمثل."
+      },
+      "Set up agent handover flow": {
+        "title": "قم بإعداد تدفق تسليم الوكيل",
+        "description": "قم بمراجعة إجابات مساعدك والإجابات الصحيحة إذا لزم الأمر."
+      },
+      "Go live": {
+        "title": "اذهب للبث المباشر"
+      },
+      "Enable AI nudges": {
+        "title": "تمكين دفعات الذكاء الاصطناعي",
+        "description": "قم بإعداد تنبيهات استباقية لجذب عملائك."
+      },
+      "Configure AI powered quiz": {
+        "title": "قم بتكوين اختبار مدعوم بالذكاء الاصطناعي",
+        "description": "أنشئ اختبارًا لاكتشاف المنتج لمساعدة العملاء في العثور على المنتجات المناسبة."
+      },
+      "Correct an unsatisfactory response": {
+        "title": "تصحيح الاستجابة غير المرضية",
+        "description": "قم بإصلاح الاستجابات غير المرضية، إن وجدت، عن طريق إجراء التصحيحات أو إضافة المزيد من البيانات ذات الصلة."
+      }
+    }
   }
 }
