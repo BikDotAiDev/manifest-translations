@@ -170,6 +170,7 @@
     "pleaseWaitSyncingYourShopifyData": "Kérjük, várjon, a Shopify-adatok szinkronizálása...",
     "meanwhileYouCanCustomiseYourAssistant": "Eközben személyre szabhatja asszisztensét",
     "youCanCustomizeTheAppearanceAndBehaviourOfYourAIAssistant": "Testreszabhatja az AI-asszisztens megjelenését és viselkedését",
-    "customiseYourAssistant": "Szabja személyre asszisztensét"
+    "customiseYourAssistant": "Szabja személyre asszisztensét",
+    "startTestingYourAssistantUsingAConversationStarterOrAskYourOwnQuestion": "Kezdje el az asszisztens tesztelését egy beszélgetésindító segítségével, vagy tegye fel saját kérdését."
   }
 }

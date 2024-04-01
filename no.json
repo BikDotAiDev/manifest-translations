@@ -171,7 +171,8 @@
     "pleaseWaitSyncingYourShopifyData": "Vennligst vent, synkroniserer Shopify-dataene dine.",
     "meanwhileYouCanCustomiseYourAssistant": "I mellomtiden kan du tilpasse assistenten",
     "youCanCustomizeTheAppearanceAndBehaviourOfYourAIAssistant": "Du kan tilpasse utseendet og oppførselen til AI-assistenten",
-    "customiseYourAssistant": "Tilpass assistenten din"
+    "customiseYourAssistant": "Tilpass assistenten din",
+    "startTestingYourAssistantUsingAConversationStarterOrAskYourOwnQuestion": "Begynn å teste assistenten din med en samtalestarter eller still ditt eget spørsmål."
   
   }
 }

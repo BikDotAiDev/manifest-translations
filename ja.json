@@ -171,6 +171,7 @@
     "pleaseWaitSyncingYourShopifyData": "Shopify データを同期中です。お待​​ちください。",
     "meanwhileYouCanCustomiseYourAssistant": "その間、アシスタントをカスタマイズできます",
     "youCanCustomizeTheAppearanceAndBehaviourOfYourAIAssistant": "AIアシスタントの外観と動作をカスタマイズできます",
-    "customiseYourAssistant": "アシスタントをカスタマイズする"
+    "customiseYourAssistant": "アシスタントをカスタマイズする",
+    "startTestingYourAssistantUsingAConversationStarterOrAskYourOwnQuestion": "会話スターターを使用してアシスタントのテストを開始するか、独自の質問をしてください。"
   }
 }

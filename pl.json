@@ -171,6 +171,7 @@
     "pleaseWaitSyncingYourShopifyData": "Proszę czekać, synchronizuję dane Shopify..",
     "meanwhileYouCanCustomiseYourAssistant": "W międzyczasie możesz dostosować swojego asystenta",
     "youCanCustomizeTheAppearanceAndBehaviourOfYourAIAssistant": "Możesz dostosować wygląd i zachowanie swojego asystenta AI",
-    "customiseYourAssistant": "Dostosuj swojego asystenta"
+    "customiseYourAssistant": "Dostosuj swojego asystenta",
+    "startTestingYourAssistantUsingAConversationStarterOrAskYourOwnQuestion": "Rozpocznij testowanie swojego asystenta za pomocą startera konwersacji lub zadaj własne pytanie."
   }
 }

@@ -142,7 +142,8 @@
         "title": "Correct an unsatisfactory response",
         "description": "Fix unsatisfactory responses, if any, by making corrections or adding more relevant data."
       }
-    }
+    },
+    "startTestingYourAssistantUsingAConversationStarterOrAskYourOwnQuestion": "Start testing your assistant using a conversation starter or ask your own question."
   },
   "others": {
     "suggestedReplies": {

@@ -171,6 +171,7 @@
     "pleaseWaitSyncingYourShopifyData": "Lütfen bekleyin, Shopify verileriniz senkronize ediliyor..",
     "meanwhileYouCanCustomiseYourAssistant": "Bu arada asistanınızı özelleştirebilirsiniz",
     "youCanCustomizeTheAppearanceAndBehaviourOfYourAIAssistant": "Yapay zeka asistanınızın görünümünü ve davranışını özelleştirebilirsiniz",
-    "customiseYourAssistant": "Asistanınızı özelleştirin"
+    "customiseYourAssistant": "Asistanınızı özelleştirin",
+    "startTestingYourAssistantUsingAConversationStarterOrAskYourOwnQuestion": "Asistanınızı bir konuşma başlatıcı kullanarak test etmeye başlayın veya kendi sorunuzu sorun."
   }
 }

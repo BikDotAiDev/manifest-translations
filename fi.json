@@ -171,6 +171,7 @@
     "pleaseWaitSyncingYourShopifyData": "Odota, Shopify-tietosi synkronoidaan.",
     "meanwhileYouCanCustomiseYourAssistant": "Sillä välin voit muokata avustajaasi",
     "youCanCustomizeTheAppearanceAndBehaviourOfYourAIAssistant": "Voit mukauttaa AIassistantin ulkonäköä ja käyttäytymistä",
-    "customiseYourAssistant": "Mukauta avustajaasi"
+    "customiseYourAssistant": "Mukauta avustajaasi",
+    "startTestingYourAssistantUsingAConversationStarterOrAskYourOwnQuestion": "Aloita avustajan testaaminen keskustelunkäynnistimellä tai kysy oma kysymyksesi."
   }
 }
