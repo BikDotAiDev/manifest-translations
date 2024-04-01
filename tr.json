@@ -165,6 +165,8 @@
       }
     },
     "publishOnWebsite": "Web sitesinde yayınla",
-    "testOnWebsite": "Web sitesinde test edin"
+    "testOnWebsite": "Web sitesinde test edin",
+    "onceYouAreReadyGoLiveWithYourAssistant": "Hazır olduğunuzda asistanınızla canlı yayına geçin!",
+    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Web sitenizde yayınlayın veya web sitenizde nasıl görüneceğini önizleyin"
   }
 }

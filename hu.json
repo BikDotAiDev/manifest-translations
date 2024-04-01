@@ -164,6 +164,8 @@
       }
     },
     "publishOnWebsite": "Közzététel a weboldalon",
-    "testOnWebsite": "Teszt a weboldalon"
+    "testOnWebsite": "Teszt a weboldalon",
+    "onceYouAreReadyGoLiveWithYourAssistant": "Ha készen áll, közvetítse asszisztensével!",
+    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Tegye közzé webhelyén, vagy tekintse meg előnézetét, hogyan nézne ki a webhelyén"
   }
 }

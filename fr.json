@@ -165,6 +165,8 @@
       }
     },
     "publishOnWebsite": "Publier sur le site Web",
-    "testOnWebsite": "Test sur le site"
+    "testOnWebsite": "Test sur le site",
+    "onceYouAreReadyGoLiveWithYourAssistant": "Une fois que vous êtes prêt, passez en direct avec votre assistant !",
+    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Publiez sur votre site Web ou prévisualisez à quoi cela ressemblerait sur votre site Web"
   }
 }

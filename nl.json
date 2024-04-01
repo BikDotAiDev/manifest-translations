@@ -135,7 +135,9 @@
       }
     },
     "publishOnWebsite": "Publiceren op website",
-    "testOnWebsite": "Testen op website"
+    "testOnWebsite": "Testen op website",
+    "onceYouAreReadyGoLiveWithYourAssistant": "Zodra je er klaar voor bent, ga je live met je assistent!",
+    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Publiceer op uw website of bekijk een voorbeeld van hoe het eruit zou zien op uw website"
   },
   "others": {
     "suggestedReplies": {

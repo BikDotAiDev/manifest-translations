@@ -164,6 +164,8 @@
         "description": "قم بإصلاح الاستجابات غير المرضية، إن وجدت، عن طريق إجراء التصحيحات أو إضافة المزيد من البيانات ذات الصلة."
       }
     },
-    "publishOnWebsite": "نشر على الموقع"
+    "publishOnWebsite": "نشر على الموقع",
+    "onceYouAreReadyGoLiveWithYourAssistant": "بمجرد أن تصبح جاهزًا، ابدأ البث المباشر مع مساعدك!",
+    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "انشر على موقع الويب الخاص بك أو عاين كيف سيبدو على موقع الويب الخاص بك"
   }
 }

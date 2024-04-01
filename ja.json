@@ -165,6 +165,8 @@
       }
     },
     "publishOnWebsite": "ウェブサイトで公開する",
-    "testOnWebsite": "ウェブサイトでテストする"
+    "testOnWebsite": "ウェブサイトでテストする",
+    "onceYouAreReadyGoLiveWithYourAssistant": "準備ができたら、アシスタントと一緒にライブを始めましょう!",
+    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Web サイトに公開するか、Web サイトでどのように表示されるかをプレビューします"
   }
 }

@@ -135,7 +135,9 @@
       }
     },
     "publishOnWebsite": "Auf der Website veröffentlichen",
-    "testOnWebsite": "Testen Sie auf der Website"
+    "testOnWebsite": "Testen Sie auf der Website",
+    "onceYouAreReadyGoLiveWithYourAssistant": "Sobald Sie bereit sind, gehen Sie mit Ihrem Assistenten live!",
+    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Veröffentlichen Sie es auf Ihrer Website oder zeigen Sie in der Vorschau an, wie es auf Ihrer Website aussehen würde"
   },
   "others": {
     "suggestedReplies": {

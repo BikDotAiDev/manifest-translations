@@ -136,7 +136,10 @@
       }
     },
     "publishOnWebsite": "Publicar no site",
-    "testOnWebsite": "Teste no site"
+    "testOnWebsite": "Teste no site",
+    "onceYouAreReadyGoLiveWithYourAssistant": "Quando estiver pronto, transmita ao vivo com seu assistente!",
+    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Publique em seu site ou visualize como ficaria em seu site"
+  
   },
   "others": {
     "suggestedReplies": {

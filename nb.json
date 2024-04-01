@@ -165,6 +165,8 @@
       }
     },
     "publishOnWebsite": "Publiser på nettsiden",
-    "testOnWebsite": "Test på nettsiden"
+    "testOnWebsite": "Test på nettsiden",
+      "onceYouAreReadyGoLiveWithYourAssistant": "Når du er klar, gå live med assistenten din!",
+      "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Publiser på nettstedet ditt eller forhåndsvis hvordan det vil se ut på nettstedet ditt"
   }
 }

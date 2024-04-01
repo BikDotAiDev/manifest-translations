@@ -165,6 +165,8 @@
       }
     },
     "publishOnWebsite": "Publicar en el sitio web",
-    "testOnWebsite": "Prueba en el sitio web"
+    "testOnWebsite": "Prueba en el sitio web",
+    "onceYouAreReadyGoLiveWithYourAssistant": "Una vez que estés listo, ¡transmite en vivo con tu asistente!",
+    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Publicar en su sitio web o obtener una vista previa de cómo se vería en su sitio web"
   }
 }

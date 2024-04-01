@@ -51,7 +51,7 @@
     "unleashThePowerOfManifest": "Eliberează puterea Manifestului",
     "syncMadeSimple": "Sincronizare simplă",
     "takeManifestForASpin": "Luați Manifest pentru o învârtire",
-    "ManifestHelpMenu" : {
+    "ManifestHelpMenu": {
       "managePlans": {
         "displayName": "Gestionați planurile",
         "key": "planuri",
@@ -165,6 +165,8 @@
       }
     },
     "publishOnWebsite": "Publicați pe site",
-    "testOnWebsite": "Test pe site"
+    "testOnWebsite": "Test pe site",
+    "onceYouAreReadyGoLiveWithYourAssistant": "După ce ești gata, intră în direct cu asistentul tău!",
+    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Publicați pe site-ul dvs. web sau previzualizați cum ar arăta pe site-ul"
   }
 }

@@ -165,6 +165,8 @@
       }
     },
     "publishOnWebsite": "Julkaise verkkosivuilla",
-    "testOnWebsite": "Testi verkkosivuilla"
+    "testOnWebsite": "Testi verkkosivuilla",
+    "onceYouAreReadyGoLiveWithYourAssistant": "Kun olet valmis, lähetä live-lähetys avustajasi kanssa!",
+    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Julkaise verkkosivustollasi tai esikatsele, miltä se näyttäisi verkkosivustollasi"
   }
 }

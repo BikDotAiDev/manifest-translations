@@ -165,6 +165,8 @@
       }
     },
     "publishOnWebsite": "Publicera på hemsidan",
-    "testOnWebsite": "Testa på hemsidan"
+    "testOnWebsite": "Testa på hemsidan",
+    "onceYouAreReadyGoLiveWithYourAssistant": "När du är redo, gå live med din assistent!",
+    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Publicera på din webbplats eller förhandsgranska hur det skulle se ut på din webbplats"
   }
 }
