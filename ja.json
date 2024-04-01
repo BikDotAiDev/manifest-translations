@@ -71,6 +71,7 @@
     "seeCuratedRecommendations": "キュレーションされた推薦を見る",
     "handpicked": "あなたのために厳選しました！",
     "discountCouponTextBIC": "こんにちは！ あなたに会えてうれしいです。 😃 特別な取引を提供しています: {{couponTitle}}。 あなたの割引を請求する準備はできていますか？",
-    "directRewardNextPurchaseCoupon": "お買い物いただきありがとうございます！{{couponTitle}}で特別なキャンペーンを実施中です。次回の購入にこのオファーを利用しますか？"
+    "directRewardNextPurchaseCoupon": "お買い物いただきありがとうございます！{{couponTitle}}で特別なキャンペーンを実施中です。次回の購入にこのオファーを利用しますか？",
+    "thingsToDoTtoday": "今日やるべきこと"
   }
 }
