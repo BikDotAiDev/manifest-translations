@@ -167,6 +167,10 @@
     "publishOnWebsite": "Publicera på hemsidan",
     "testOnWebsite": "Testa på hemsidan",
     "onceYouAreReadyGoLiveWithYourAssistant": "När du är redo, gå live med din assistent!",
-    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Publicera på din webbplats eller förhandsgranska hur det skulle se ut på din webbplats"
+    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Publicera på din webbplats eller förhandsgranska hur det skulle se ut på din webbplats",
+    "pleaseWaitSyncingYourShopifyData": "Vänta, synkroniserar din Shopify-data..",
+    "meanwhileYouCanCustomiseYourAssistant": "Under tiden kan du anpassa din assistent",
+    "youCanCustomizeTheAppearanceAndBehaviourOfYourAIAssistant": "Du kan anpassa utseendet och beteendet för din AI-assistent",
+    "customiseYourAssistant": "Anpassa din assistent"
   }
 }

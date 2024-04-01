@@ -166,6 +166,10 @@
     "publishOnWebsite": "Közzététel a weboldalon",
     "testOnWebsite": "Teszt a weboldalon",
     "onceYouAreReadyGoLiveWithYourAssistant": "Ha készen áll, közvetítse asszisztensével!",
-    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Tegye közzé webhelyén, vagy tekintse meg előnézetét, hogyan nézne ki a webhelyén"
+    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Tegye közzé webhelyén, vagy tekintse meg előnézetét, hogyan nézne ki a webhelyén",
+    "pleaseWaitSyncingYourShopifyData": "Kérjük, várjon, a Shopify-adatok szinkronizálása...",
+    "meanwhileYouCanCustomiseYourAssistant": "Eközben személyre szabhatja asszisztensét",
+    "youCanCustomizeTheAppearanceAndBehaviourOfYourAIAssistant": "Testreszabhatja az AI-asszisztens megjelenését és viselkedését",
+    "customiseYourAssistant": "Szabja személyre asszisztensét"
   }
 }

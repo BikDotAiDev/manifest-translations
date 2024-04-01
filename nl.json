@@ -137,7 +137,11 @@
     "publishOnWebsite": "Publiceren op website",
     "testOnWebsite": "Testen op website",
     "onceYouAreReadyGoLiveWithYourAssistant": "Zodra je er klaar voor bent, ga je live met je assistent!",
-    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Publiceer op uw website of bekijk een voorbeeld van hoe het eruit zou zien op uw website"
+    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Publiceer op uw website of bekijk een voorbeeld van hoe het eruit zou zien op uw website",
+    "pleaseWaitSyncingYourShopifyData": "Een ogenblik geduld, uw Shopify-gegevens worden gesynchroniseerd..",
+    "meanwhileYouCanCustomiseYourAssistant": "Ondertussen kunt u uw assistent aanpassen",
+    "youCanCustomizeTheAppearanceAndBehaviourOfYourAIAssistant": "U kunt het uiterlijk en het gedrag van uw AI-assistent aanpassen",
+    "customiseYourAssistant": "Pas uw assistent aan"
   },
   "others": {
     "suggestedReplies": {

@@ -167,6 +167,10 @@
     "publishOnWebsite": "Pubblica sul sito web",
     "testOnWebsite": "Prova sul sito web",
     "onceYouAreReadyGoLiveWithYourAssistant": "Una volta che sei pronto, vai in diretta con il tuo assistente!",
-    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Pubblica sul tuo sito web o visualizza in anteprima come apparirebbe sul tuo sito web"
+    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Pubblica sul tuo sito web o visualizza in anteprima come apparirebbe sul tuo sito web",
+    "pleaseWaitSyncingYourShopifyData": "Attendi, sincronizzazione dei dati Shopify..",
+    "meanwhileYouCanCustomiseYourAssistant": "Nel frattempo puoi personalizzare il tuo assistente",
+    "youCanCustomizeTheAppearanceAndBehaviourOfYourAIAssistant": "Puoi personalizzare l'aspetto e il comportamento del tuo AIassistant",
+    "customiseYourAssistant": "Personalizza il tuo assistente"
   }
 }

@@ -167,6 +167,10 @@
     "publishOnWebsite": "Julkaise verkkosivuilla",
     "testOnWebsite": "Testi verkkosivuilla",
     "onceYouAreReadyGoLiveWithYourAssistant": "Kun olet valmis, lähetä live-lähetys avustajasi kanssa!",
-    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Julkaise verkkosivustollasi tai esikatsele, miltä se näyttäisi verkkosivustollasi"
+    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Julkaise verkkosivustollasi tai esikatsele, miltä se näyttäisi verkkosivustollasi",
+    "pleaseWaitSyncingYourShopifyData": "Odota, Shopify-tietosi synkronoidaan.",
+    "meanwhileYouCanCustomiseYourAssistant": "Sillä välin voit muokata avustajaasi",
+    "youCanCustomizeTheAppearanceAndBehaviourOfYourAIAssistant": "Voit mukauttaa AIassistantin ulkonäköä ja käyttäytymistä",
+    "customiseYourAssistant": "Mukauta avustajaasi"
   }
 }

@@ -167,6 +167,10 @@
     "publishOnWebsite": "ウェブサイトで公開する",
     "testOnWebsite": "ウェブサイトでテストする",
     "onceYouAreReadyGoLiveWithYourAssistant": "準備ができたら、アシスタントと一緒にライブを始めましょう!",
-    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Web サイトに公開するか、Web サイトでどのように表示されるかをプレビューします"
+    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Web サイトに公開するか、Web サイトでどのように表示されるかをプレビューします",
+    "pleaseWaitSyncingYourShopifyData": "Shopify データを同期中です。お待​​ちください。",
+    "meanwhileYouCanCustomiseYourAssistant": "その間、アシスタントをカスタマイズできます",
+    "youCanCustomizeTheAppearanceAndBehaviourOfYourAIAssistant": "AIアシスタントの外観と動作をカスタマイズできます",
+    "customiseYourAssistant": "アシスタントをカスタマイズする"
   }
 }

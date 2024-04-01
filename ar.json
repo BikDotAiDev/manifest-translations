@@ -166,6 +166,10 @@
     },
     "publishOnWebsite": "نشر على الموقع",
     "onceYouAreReadyGoLiveWithYourAssistant": "بمجرد أن تصبح جاهزًا، ابدأ البث المباشر مع مساعدك!",
-    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "انشر على موقع الويب الخاص بك أو عاين كيف سيبدو على موقع الويب الخاص بك"
+    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "انشر على موقع الويب الخاص بك أو عاين كيف سيبدو على موقع الويب الخاص بك",
+    "pleaseWaitSyncingYourShopifyData": "يرجى الانتظار، ومزامنة بيانات Shopify الخاصة بك..",
+    "meanwhileYouCanCustomiseYourAssistant": "وفي الوقت نفسه، يمكنك تخصيص مساعدك",
+    "youCanCustomizeTheAppearanceAndBehaviourOfYourAIAssistant": "يمكنك تخصيص مظهر وسلوك AIassistant الخاص بك",
+    "customiseYourAssistant": "تخصيص مساعدك"
   }
 }

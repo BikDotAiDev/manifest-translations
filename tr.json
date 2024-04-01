@@ -167,6 +167,10 @@
     "publishOnWebsite": "Web sitesinde yayınla",
     "testOnWebsite": "Web sitesinde test edin",
     "onceYouAreReadyGoLiveWithYourAssistant": "Hazır olduğunuzda asistanınızla canlı yayına geçin!",
-    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Web sitenizde yayınlayın veya web sitenizde nasıl görüneceğini önizleyin"
+    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Web sitenizde yayınlayın veya web sitenizde nasıl görüneceğini önizleyin",
+    "pleaseWaitSyncingYourShopifyData": "Lütfen bekleyin, Shopify verileriniz senkronize ediliyor..",
+    "meanwhileYouCanCustomiseYourAssistant": "Bu arada asistanınızı özelleştirebilirsiniz",
+    "youCanCustomizeTheAppearanceAndBehaviourOfYourAIAssistant": "Yapay zeka asistanınızın görünümünü ve davranışını özelleştirebilirsiniz",
+    "customiseYourAssistant": "Asistanınızı özelleştirin"
   }
 }

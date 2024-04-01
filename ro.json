@@ -167,6 +167,10 @@
     "publishOnWebsite": "Publicați pe site",
     "testOnWebsite": "Test pe site",
     "onceYouAreReadyGoLiveWithYourAssistant": "După ce ești gata, intră în direct cu asistentul tău!",
-    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Publicați pe site-ul dvs. web sau previzualizați cum ar arăta pe site-ul"
+    "publishOnYourWebsiteOrPreviewHowItWouldLookLikeOnYourWebsite": "Publicați pe site-ul dvs. web sau previzualizați cum ar arăta pe site-ul",
+    "pleaseWaitSyncingYourShopifyData": "Vă rugăm să așteptați, sincronizându-vă datele Shopify..",
+    "meanwhileYouCanCustomiseYourAssistant": "Între timp, vă puteți personaliza asistentul",
+    "youCanCustomizeTheAppearanceAndBehaviourOfYourAIAssistant": "Puteți personaliza aspectul și comportamentul asistentului dvs. AI",
+    "customiseYourAssistant": "Personalizați-vă asistentul"
   }
 }
