@@ -41,7 +41,18 @@
     "seeCuratedRecommendations": "Sehen Sie sich kuratierte Empfehlungen an",
     "handpicked": "Handverlesen nur für dich!",
     "discountCouponTextBIC": "Hallo! Schön, dich zu sehen. 😃 Wir bieten ein besonderes Angebot an: {{couponTitle}}. Bereit, deinen Rabatt zu beanspruchen?",
-    "directRewardNextPurchaseCoupon": "Vielen Dank für Ihren Einkauf bei uns! Wir haben ein Sonderangebot für {{couponTitle}}. Möchten Sie dieses Angebot bei Ihrem nächsten Kauf nutzen?"
+    "directRewardNextPurchaseCoupon": "Vielen Dank für Ihren Einkauf bei uns! Wir haben ein Sonderangebot für {{couponTitle}}. Möchten Sie dieses Angebot bei Ihrem nächsten Kauf nutzen?",
+    "veryHelpful": "Sehr hilfreich",
+    "notHelpful": "Nicht hilfreich",
+    "itWasOkay": "Es war in Ordnung",
+    "submit": "Einreichen",
+    "inaccurateInfo": "Unzutreffende Informationen",
+    "hallucinationResponse": "Halluzination in den Antworten",
+    "unableToUnderstandQuestion": "Frage nicht verstanden",
+    "incorrectRecommendations": "Falsche Empfehlungen",
+    "issueOptions": "Welche Option beschreibt das Problem am besten?",
+    "addtionalComments": "Zusätzliche Kommentare",
+    "thanksForTheFeedback": "Danke für das Feedback."
   },
   "others": {
     "suggestedReplies": {

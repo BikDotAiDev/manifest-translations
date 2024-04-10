@@ -71,6 +71,17 @@
     "whatAreYourBestSellers": "Mitkä ovat myydyimmät tuotteesi?",
     "yesSure": "Kyllä, totta kai!",
     "seeCuratedRecommendations": "Katso huolellisesti valittuja suosituksia",
-    "handpicked": "Valittu juuri sinulle!"
+    "handpicked": "Valittu juuri sinulle!",
+    "veryHelpful": "Hyvin hyödyllinen",
+    "notHelpful": "Ei hyödyllinen",
+    "itWasOkay": "Se oli ok",
+    "submit": "Lähetä",
+    "inaccurateInfo": "Epätarkka tieto",
+    "hallucinationResponse": "Hallusinaatio vastauksissa",
+    "unableToUnderstandQuestion": "Ei voitu ymmärtää kysymystä",
+    "incorrectRecommendations": "Virheelliset suositukset",
+    "issueOptions": "Mikä vaihtoehto kuvaa parhaiten ongelmaa?",
+    "addtionalComments": "Lisäkommentit",
+    "thanksForTheFeedback": "Kiitos palautteestasi."
   }
 }

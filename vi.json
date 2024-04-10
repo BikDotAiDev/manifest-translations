@@ -41,7 +41,18 @@
     "seeCuratedRecommendations": "Xem các gợi ý được chọn lọc",
     "handpicked": "Được lựa chọn đặc biệt cho bạn!",
     "discountCouponTextBIC": "Chào bạn! Rất vui được gặp bạn. 😃 Chúng tôi đang cung cấp một ưu đãi đặc biệt: {{couponTitle}}. Sẵn sàng để nhận ưu đãi của bạn?",
-    "directRewardNextPurchaseCoupon": "Cảm ơn bạn đã mua hàng với chúng tôi! Chúng tôi có một ưu đãi đặc biệt về {{couponTitle}}. Bạn có muốn sử dụng ưu đãi này cho lần mua tiếp theo của mình không?"
+    "directRewardNextPurchaseCoupon": "Cảm ơn bạn đã mua hàng với chúng tôi! Chúng tôi có một ưu đãi đặc biệt về {{couponTitle}}. Bạn có muốn sử dụng ưu đãi này cho lần mua tiếp theo của mình không?",
+    "veryHelpful": "Rất hữu ích",
+    "notHelpful": "Không hữu ích",
+    "itWasOkay": "Được rồi",
+    "submit": "Gửi",
+    "inaccurateInfo": "Thông tin không chính xác",
+    "hallucinationResponse": "ảo giác trong câu trả lời",
+    "unableToUnderstandQuestion": "Không thể hiểu câu hỏi",
+    "incorrectRecommendations": "Gợi ý không chính xác",
+    "issueOptions": "Lựa chọn nào mô tả tốt nhất vấn đề?",
+    "addtionalComments": "Ý kiến bổ sung",
+    "thanksForTheFeedback": "Cảm ơn bạn đã đóng góp ý kiến."
   },
   "others": {
     "suggestedReplies": {

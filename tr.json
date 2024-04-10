@@ -71,6 +71,17 @@
     "whatAreYourBestSellers": "En çok satan ürünleriniz nelerdir?",
     "yesSure": "Evet, tabii ki!",
     "seeCuratedRecommendations": "Özenle seçilmiş önerilere göz at",
-    "handpicked": "Sadece senin için seçildi!"
+    "handpicked": "Sadece senin için seçildi!",
+    "veryHelpful": "Çok faydalı",
+    "notHelpful": "Faydalı değil",
+    "itWasOkay": "İyi idi",
+    "submit": "Gönder",
+    "inaccurateInfo": "Doğru olmayan bilgi",
+    "hallucinationResponse": "Cevaplarda halüsinasyon",
+    "unableToUnderstandQuestion": "Soruyu anlayamadım",
+    "incorrectRecommendations": "Yanlış öneriler",
+    "issueOptions": "Hangi seçenek sorunu en iyi şekilde açıklar?",
+    "addtionalComments": "Ek yorumlar",
+    "thanksForTheFeedback": "Geribildiriminiz için teşekkür ederiz."
   }
 }

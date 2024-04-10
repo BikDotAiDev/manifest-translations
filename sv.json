@@ -71,6 +71,17 @@
     "whatAreYourBestSellers": "Vad är dina bästsäljande produkter?",
     "yesSure": "Ja, självklart!",
     "seeCuratedRecommendations": "Se kuraterade rekommendationer",
-    "handpicked": "Handplockad bara för dig!"
+    "handpicked": "Handplockad bara för dig!",
+    "veryHelpful": "Mycket hjälpsam",
+    "notHelpful": "Inte hjälpsam",
+    "itWasOkay": "Det var okej",
+    "submit": "Skicka",
+    "inaccurateInfo": "Oprecis information",
+    "hallucinationResponse": "Hallucination i svar",
+    "unableToUnderstandQuestion": "Kunde inte förstå frågan",
+    "incorrectRecommendations": "Felaktiga rekommendationer",
+    "issueOptions": "Vilket alternativ beskriver bäst problemet?",
+    "addtionalComments": "Ytterligare kommentarer",
+    "thanksForTheFeedback": "Tack för din feedback."
   }
 }

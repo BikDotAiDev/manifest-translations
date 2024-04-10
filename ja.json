@@ -72,6 +72,17 @@
     "handpicked": "あなたのために厳選しました！",
     "discountCouponTextBIC": "こんにちは！ あなたに会えてうれしいです。 😃 特別な取引を提供しています: {{couponTitle}}。 あなたの割引を請求する準備はできていますか？",
     "directRewardNextPurchaseCoupon": "お買い物いただきありがとうございます！{{couponTitle}}で特別なキャンペーンを実施中です。次回の購入にこのオファーを利用しますか？",
-    "thingsToDoTtoday": "今日やるべきこと"
+    "thingsToDoTtoday": "今日やるべきこと",
+    "veryHelpful": "とても役に立つ",
+    "notHelpful": "役に立たない",
+    "itWasOkay": "まあまあでした",
+    "submit": "提出する",
+    "inaccurateInfo": "不正確な情報",
+    "hallucinationResponse": "返信で幻覚",
+    "unableToUnderstandQuestion": "質問が理解できません",
+    "incorrectRecommendations": "不正確な推薦",
+    "issueOptions": "問題を最もよく表すオプションはどれですか？",
+    "addtionalComments": "追加コメント",
+    "thanksForTheFeedback": "フィードバックを提供していただきありがとうございます。"
   }
 }

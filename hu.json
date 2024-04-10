@@ -71,6 +71,17 @@
     "whatAreYourBestSellers": "Mi a legjobban eladott termékeitek?",
     "yesSure": "Igen, persze!",
     "seeCuratedRecommendations": "Tekintse meg a gondosan összeállított ajánlásokat",
-    "handpicked": "Kézzel válogatott csak neked!"
+    "handpicked": "Kézzel válogatott csak neked!",
+    "veryHelpful": "Nagyon hasznos",
+    "notHelpful": "Nem hasznos",
+    "itWasOkay": "Rendben volt",
+    "submit": "Küldés",
+    "inaccurateInfo": "Pontatlan információ",
+    "hallucinationResponse": "Hallucináció a válaszokban",
+    "unableToUnderstandQuestion": "Nem lehet megérteni a kérdést",
+    "incorrectRecommendations": "Helytelen ajánlások",
+    "issueOptions": "Melyik lehetőség írja le legjobban a problémát?",
+    "addtionalComments": "További megjegyzések",
+    "thanksForTheFeedback": "Köszönjük a visszajelzést."
   }
 }

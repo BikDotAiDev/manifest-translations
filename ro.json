@@ -71,6 +71,17 @@
     "whatAreYourBestSellers": "Care sunt produsele noastre cele mai bine vândute?",
     "yesSure": "Da, sigur!",
     "seeCuratedRecommendations": "Vezi recomandări selectate",
-    "handpicked": "Selectate special pentru tine!"
+    "handpicked": "Selectate special pentru tine!",
+    "veryHelpful": "Foarte util",
+    "notHelpful": "Nu este util",
+    "itWasOkay": "A fost ok",
+    "submit": "Trimite",
+    "inaccurateInfo": "Informații inexacte",
+    "hallucinationResponse": "Halucinație în răspunsuri",
+    "unableToUnderstandQuestion": "Imposibil de înțeles întrebarea",
+    "incorrectRecommendations": "Recomandări incorecte",
+    "issueOptions": "Care opțiune descrie cel mai bine problema?",
+    "addtionalComments": "Comentarii suplimentare",
+    "thanksForTheFeedback": "Mulțumesc pentru feedback."
   }
 }

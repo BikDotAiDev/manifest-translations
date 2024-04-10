@@ -71,6 +71,17 @@
     "whatAreYourBestSellers": "Quali sono i tuoi prodotti più venduti?",
     "yesSure": "Sì, certo!",
     "seeCuratedRecommendations": "Vedi raccomandazioni selezionate",
-    "handpicked": "Scelti apposta per te!"
+    "handpicked": "Scelti apposta per te!",
+    "veryHelpful": "Molto utile",
+    "notHelpful": "Non utile",
+    "itWasOkay": "È andato bene",
+    "submit": "Invia",
+    "inaccurateInfo": "Informazioni inaccurate",
+    "hallucinationResponse": "Allucinazioni nelle risposte",
+    "unableToUnderstandQuestion": "Impossibile comprendere la domanda",
+    "incorrectRecommendations": "Raccomandazioni errate",
+    "issueOptions": "Quale opzione descrive meglio il problema?",
+    "addtionalComments": "Commenti aggiuntivi",
+    "thanksForTheFeedback": "Grazie per il feedback."
   }
 }

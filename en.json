@@ -41,7 +41,18 @@
     "seeCuratedRecommendations": "See curated recommendations",
     "handpicked": "Handpicked just for you!",
     "discountCouponTextBIC": "Hi there! Nice to see you. 😃 We're offering a special deal: {{couponTitle}}. Ready to claim your discount?",
-    "directRewardNextPurchaseCoupon": "Thanks for shopping with us! We have a special going on {{couponTitle}}. Would you like to use this offer on your next purchase?"
+    "directRewardNextPurchaseCoupon": "Thanks for shopping with us! We have a special going on {{couponTitle}}. Would you like to use this offer on your next purchase?",
+    "veryHelpful": "Very helpful",
+    "notHelpful": "Not helpful",
+    "itWasOkay": "It was okay",
+    "submit": "Submit",
+    "inaccurateInfo": "Inaccurate information",
+    "hallucinationResponse": "Hallucination in responses",
+    "unableToUnderstandQuestion": "Unable to understand the question",
+    "incorrectRecommendations": "Incorrect recommendations",
+    "issueOptions": "Which option best describes the issue?",
+    "addtionalComments": "Additional comments",
+    "thanksForTheFeedback": "Thank you for providing feedback."
   },
   "others": {
     "suggestedReplies": {

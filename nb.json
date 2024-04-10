@@ -71,6 +71,17 @@
     "whatAreYourBestSellers": "Hva er dine bestselgende produkter?",
     "yesSure": "Ja, selvfølgelig!",
     "seeCuratedRecommendations": "Se kuraterte anbefalinger",
-    "handpicked": "Nøye utvalgt bare for deg!"
+    "handpicked": "Nøye utvalgt bare for deg!",
+    "veryHelpful": "Veldig hjelpsom",
+    "notHelpful": "Ikke hjelpsom",
+    "itWasOkay": "Det var greit",
+    "submit": "Send inn",
+    "inaccurateInfo": "Unøyaktig informasjon",
+    "hallucinationResponse": "Hallusinasjon i svarene",
+    "unableToUnderstandQuestion": "Kunne ikke forstå spørsmålet",
+    "incorrectRecommendations": "Feil anbefalinger",
+    "issueOptions": "Hvilket alternativ beskriver problemet best?",
+    "addtionalComments": "Tilleggsmerknader",
+    "thanksForTheFeedback": "Takk for tilbakemeldingen."
   }
 }

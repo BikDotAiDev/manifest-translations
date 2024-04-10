@@ -41,7 +41,18 @@
     "ourTopPicks": "Onze topkeuzes",
     "checkOutThese": "Bekijk in plaats daarvan deze keuzes",
     "seeCuratedRecommendations": "Bekijk samengestelde aanbevelingen",
-    "handpicked": "Speciaal voor jou gekozen!"
+    "handpicked": "Speciaal voor jou gekozen!",
+    "veryHelpful": "Zeer nuttig",
+    "notHelpful": "Niet nuttig",
+    "itWasOkay": "Het was okay",
+    "submit": "Verzenden",
+    "inaccurateInfo": "Onnauwkeurige informatie",
+    "hallucinationResponse": "Hallucinatie in antwoorden",
+    "unableToUnderstandQuestion": "Niet in staat om de vraag te begrijpen",
+    "incorrectRecommendations": "Onjuiste aanbevelingen",
+    "issueOptions": "Welke optie beschrijft het probleem het beste?",
+    "addtionalComments": "Aanvullende opmerkingen",
+    "thanksForTheFeedback": "Bedankt voor het geven van feedback."
   },
   "others": {
     "suggestedReplies": {

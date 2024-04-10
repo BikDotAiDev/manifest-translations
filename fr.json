@@ -71,6 +71,17 @@
     "yesSure": "Oui, bien sûr!",
     "welcomeMessageCollectionNamePage": "Posez-moi toutes vos questions sur la collection {{collectionName}}",
     "seeCuratedRecommendations": "Voir les recommandations sélectionnées",
-    "handpicked": "Choisi spécialement pour vous !"
+    "handpicked": "Choisi spécialement pour vous !",
+    "veryHelpful": "Très utile",
+    "notHelpful": "Pas utile",
+    "itWasOkay": "C'était correct",
+    "submit": "Soumettre",
+    "inaccurateInfo": "Informations inexactes",
+    "hallucinationResponse": "Hallucination dans les réponses",
+    "unableToUnderstandQuestion": "Impossible de comprendre la question",
+    "incorrectRecommendations": "Recommandations incorrectes",
+    "issueOptions": "Quelle option décrit le mieux le problème?",
+    "addtionalComments": "Commentaires supplémentaires",
+    "thanksForTheFeedback": "Merci d'avoir donné votre avis."
   }
 }

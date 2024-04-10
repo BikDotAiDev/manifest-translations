@@ -71,6 +71,17 @@
     "yesSure": "¡Sí, claro!",
     "welcomeMessageCollectionNamePage": "Pregúntame cualquier cosa sobre la colección {{collectionName}}",
     "seeCuratedRecommendations": "Ver recomendaciones seleccionadas",
-    "handpicked": "¡Seleccionado especialmente para ti!"
+    "handpicked": "¡Seleccionado especialmente para ti!",
+    "veryHelpful": "Muy útil",
+    "notHelpful": "No útil",
+    "itWasOkay": "Estuvo bien",
+    "submit": "Enviar",
+    "inaccurateInfo": "Información inexacta",
+    "hallucinationResponse": "Alucinación en las respuestas",
+    "unableToUnderstandQuestion": "No se pudo entender la pregunta",
+    "incorrectRecommendations": "Recomendaciones incorrectas",
+    "issueOptions": "¿Qué opción describe mejor el problema?",
+    "addtionalComments": "Comentarios adicionales",
+    "thanksForTheFeedback": "Gracias por proporcionar comentarios."
   }
 }
