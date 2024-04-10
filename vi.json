@@ -1,0 +1,76 @@
+{
+  "welcomeMessageCollectionNamePage": "Hỏi tôi về bất cứ điều gì về bộ sưu tập {{collectionName}}",
+  "translations": {
+    "headerGreeting": "Xin chào, tôi là",
+    "welcomeMessageHomePage": "Hãy để tôi giúp bạn tìm điều bạn đang tìm kiếm!",
+    "welcomeMessageProductPage": "Hỏi tôi về bất cứ điều gì về sản phẩm này",
+    "welcomeMessageCollectionPage": "Hỏi tôi về bất cứ điều gì về các sản phẩm này",
+    "tapToAsk": "Nhấn để hỏi tôi một câu hỏi",
+    "poweredBy": "Được cung cấp bởi",
+    "viewProduct": "Xem Sản phẩm",
+    "tapOnTo": "Nhấn vào để",
+    "viewSimilarProducts": "Xem các sản phẩm tương tự",
+    "askAboutSpecificProduct": "Hỏi về sản phẩm cụ thể",
+    "askAboutProduct": "Hỏi thêm về sản phẩm này",
+    "moreVariantsAvailable": "Có nhiều biến thể hơn",
+    "enterYourMessage": "Nhập tin nhắn của bạn ...",
+    "similarTo": "Tương tự",
+    "AMA": "Hỏi tôi về bất cứ điều gì",
+    "seeOurBestSellers": "Xem các sản phẩm bán chạy nhất của chúng tôi",
+    "whatAreYourBestSellers": "Các sản phẩm bán chạy nhất của bạn là gì?",
+    "iHaveAQuestion": "Tôi có một câu hỏi",
+    "goToCart": "Đi đến giỏ hàng",
+    "yesSure": "Có, chắc chắn!",
+    "noThanks": "Không, cảm ơn",
+    "cartWaiting": "Đừng để các mặt hàng trong giỏ hàng của bạn chờ đợi, thanh toán ngay bây giờ!",
+    "navigationPageTitle": "Bạn đã nhập trang {{navigationContext}}",
+    "searchQuery": "Hỏi tôi về bất cứ điều gì về {{query}}",
+    "ourTopProduct": "Sản phẩm hàng đầu của chúng tôi",
+    "soldOut": "Hết hàng",
+    "validEmailAddress": "Vui lòng nhập địa chỉ email hợp lệ",
+    "rewardForYou": "Phần thưởng dành riêng cho bạn 🎉",
+    "tryYourLuck": "Thử vận may của bạn",
+    "textLimit": "Giới hạn văn bản tối đa là {{MAX_LIMIT}} ký tự",
+    "askAboutThis": "Hỏi về điều này",
+    "askMoreAboutThisProduct": "Hỏi thêm về sản phẩm này",
+    "availOngoingSpecialOffer": "Tôi muốn sử dụng ưu đãi đang diễn ra",
+    "spinTheWheelExcitingRewards": "Quay cờ để nhận phần thưởng hấp dẫn",
+    "spinTheWheel": "quay cờ",
+    "ourTopPicks": "Sự chọn lọc hàng đầu của chúng tôi",
+    "checkOutThese": "Xem các sản phẩm được chọn lọc này thay vì",
+    "seeCuratedRecommendations": "Xem các gợi ý được chọn lọc",
+    "handpicked": "Được lựa chọn đặc biệt cho bạn!",
+    "discountCouponTextBIC": "Chào bạn! Rất vui được gặp bạn. 😃 Chúng tôi đang cung cấp một ưu đãi đặc biệt: {{couponTitle}}. Sẵn sàng để nhận ưu đãi của bạn?",
+    "directRewardNextPurchaseCoupon": "Cảm ơn bạn đã mua hàng với chúng tôi! Chúng tôi có một ưu đãi đặc biệt về {{couponTitle}}. Bạn có muốn sử dụng ưu đãi này cho lần mua tiếp theo của mình không?"
+  },
+  "others": {
+    "suggestedReplies": {
+      "PRODUCT": [
+        "Điều gì khiến sản phẩm này nổi bật?",
+        "Cho tôi xem thêm các sản phẩm giống như thế này",
+        "Chính sách đổi trả của sản phẩm này là gì?"
+      ],
+      "COLLECTION": [
+        "Các sản phẩm bán chạy nhất của bạn là gì?",
+        "Điều gì làm các sản phẩm của bạn nổi bật so với các sản phẩm khác?",
+        "Đơn hàng của tôi đang ở đâu?"
+      ],
+      "SEARCH": [
+        "Cho tôi xem các sản phẩm phù hợp nhất với tôi",
+        "Tinh chỉnh kết quả dựa trên yêu cầu của tôi",
+        "Có những lựa chọn phổ biến nào trong số này không?"
+      ],
+      "OTHER": [
+        "Các sản phẩm bán chạy nhất của bạn là gì?",
+        "Điều gì làm sản phẩm của bạn nổi bật so với các sản phẩm khác?",
+        "Đơn hàng của tôi đang ở đâu?"
+      ]
+    },
+    "popUpMessages": {
+      "SEARCH": "Không tìm thấy điều bạn đang tìm kiếm? Hãy để tôi giúp bạn tìm chính xác điều bạn đang tìm kiếm.",
+      "COLLECTION": "Bạn đang tìm kiếm điều gì đó đặc biệt trong bộ sưu tập này? Tôi biết nơi để tìm thấy nó.",
+      "PRODUCT": "Muốn biết thêm về sản phẩm này không? Tôi có tất cả các chi tiết bạn cần.",
+      "DEFAULT": "Xin chào! Đang tìm kiếm điều gì đặc biệt? Tôi ở đây để mang lại cho bạn một trải nghiệm mua sắm cá nhân."
+    }
+  }
+}
