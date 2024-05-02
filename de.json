@@ -1,10 +1,10 @@
 {
   "translations": {
     "headerGreeting": "Hallo, ich bin",
-    "welcomeMessageHomePage": "Lass mich dir dabei helfen, das zu finden, wonach du suchst!",
-    "welcomeMessageProductPage": "Frag mich alles über dieses Produkt",
-    "welcomeMessageCollectionPage": "Frag mich alles über diese Produkte",
-    "welcomeMessageCollectionNamePage": "Frag mich alles über die {{collectionName}} Sammlung",
+    "welcomeMessageHomePage": "Willkommen bei {{storeName}}! Wie kann ich Ihnen heute helfen?",
+    "welcomeMessageProductPage": "Fragen Sie mich alles über dieses Produkt",
+    "welcomeMessageCollectionPage": "Fragen Sie mich alles über unsere {{collectionName}} Kollektion!",
+    "welcomeMessageCollectionPageGeneric": "Fragen Sie mich alles über unsere Produkte!",
     "tapToAsk": "Tippe, um mir eine Frage zu stellen",
     "poweredBy": "Angetrieben von",
     "viewProduct": "Produkt anzeigen",

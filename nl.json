@@ -1,10 +1,10 @@
 {
   "translations": {
     "headerGreeting": "Hoi, ik ben",
-    "welcomeMessageHomePage": "Laat me je helpen vinden waar je naar op zoek bent!",
+    "welcomeMessageHomePage": "Welkom bij {{storeName}}! Hoe kan ik u vandaag helpen?",
     "welcomeMessageProductPage": "Vraag me alles over dit product",
-    "welcomeMessageCollectionPage": "Vraag me alles over deze producten",
-    "welcomeMessageCollectionNamePage": "Vraag me alles over de {{collectionName}} collectie",
+    "welcomeMessageCollectionPage": "Vraag me alles over onze {{collectionName}} collectie!",
+    "welcomeMessageCollectionPageGeneric": "Vraag me alles over onze producten!",
     "tapToAsk": "Tik om mij een vraag te stellen",
     "poweredBy": "Aangedreven door",
     "viewProduct": "Bekijk het product",
