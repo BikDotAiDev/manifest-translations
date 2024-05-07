@@ -2,9 +2,10 @@
   "welcomeMessageCollectionNamePage": "Hỏi tôi về bất cứ điều gì về bộ sưu tập {{collectionName}}",
   "translations": {
     "headerGreeting": "Xin chào, tôi là",
-    "welcomeMessageHomePage": "Hãy để tôi giúp bạn tìm điều bạn đang tìm kiếm!",
-    "welcomeMessageProductPage": "Hỏi tôi về bất cứ điều gì về sản phẩm này",
-    "welcomeMessageCollectionPage": "Hỏi tôi về bất cứ điều gì về các sản phẩm này",
+    "welcomeMessageHomePage": "Chào mừng bạn đến với {{storeName}}! Làm thế nào tôi có thể giúp bạn hôm nay?",
+    "welcomeMessageProductPage": "Hỏi tôi bất cứ điều gì về sản phẩm này",
+    "welcomeMessageCollectionPage": "Hỏi tôi bất cứ điều gì về bộ sưu tập {{collectionName}} của chúng tôi!",
+    "welcomeMessageCollectionPageGeneric": "Hỏi tôi bất cứ điều gì về sản phẩm của chúng tôi!",
     "tapToAsk": "Nhấn để hỏi tôi một câu hỏi",
     "poweredBy": "Được cung cấp bởi",
     "viewProduct": "Xem Sản phẩm",
