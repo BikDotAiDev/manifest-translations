@@ -64,13 +64,24 @@
     "validEmailAddress": "Inserisci un indirizzo email valido",
     "viewProduct": "Visualizza prodotto",
     "viewSimilarProducts": "visualizza prodotti simili",
-    "welcomeMessageCollectionPage": "Chiedimi qualsiasi cosa su questi prodotti",
-    "welcomeMessageCollectionNamePage": "Chiedimi qualsiasi cosa sulla collezione {{collectionName}}",
-    "welcomeMessageHomePage": "Lascia che ti aiuti a trovare ciò che stai cercando!",
+    "welcomeMessageHomePage": "Benvenuto su {{storeName}}! Come posso aiutarti oggi?",
     "welcomeMessageProductPage": "Chiedimi qualsiasi cosa su questo prodotto",
+    "welcomeMessageCollectionPage": "Chiedimi qualsiasi cosa sulla nostra collezione {{collectionName}}!",
+    "welcomeMessageCollectionPageGeneric": "Chiedimi qualsiasi cosa sui nostri prodotti!",
     "whatAreYourBestSellers": "Quali sono i tuoi prodotti più venduti?",
     "yesSure": "Sì, certo!",
     "seeCuratedRecommendations": "Vedi raccomandazioni selezionate",
-    "handpicked": "Scelti apposta per te!"
+    "handpicked": "Scelti apposta per te!",
+    "veryHelpful": "Molto utile",
+    "notHelpful": "Non utile",
+    "itWasOkay": "È andato bene",
+    "submit": "Invia",
+    "inaccurateInfo": "Informazioni inaccurate",
+    "hallucinationResponse": "Allucinazioni nelle risposte",
+    "unableToUnderstandQuestion": "Impossibile comprendere la domanda",
+    "incorrectRecommendations": "Raccomandazioni errate",
+    "issueOptions": "Quale opzione descrive meglio il problema?",
+    "addtionalComments": "Commenti aggiuntivi",
+    "thanksForTheFeedback": "Grazie per il feedback."
   }
 }

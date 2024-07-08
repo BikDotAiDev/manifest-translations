@@ -64,13 +64,24 @@
     "validEmailAddress": "Syötä kelvollinen sähköpostiosoite",
     "viewProduct": "Näytä tuote",
     "viewSimilarProducts": "Näytä samankaltaiset tuotteet",
-    "welcomeMessageCollectionPage": "Kysy minulta mitä tahansa näistä tuotteista",
-    "welcomeMessageCollectionNamePage": "Kysy minulta mitä tahansa {{collectionName}}-kokoelmasta",
-    "welcomeMessageHomePage": "Anna minun auttaa sinua löytämään etsimäsi!",
+    "welcomeMessageHomePage": "Tervetuloa {{storeName}}! Kuinka voin auttaa sinua tänään?",
     "welcomeMessageProductPage": "Kysy minulta mitä tahansa tästä tuotteesta",
+    "welcomeMessageCollectionPage": "Kysy minulta mitä tahansa meidän {{collectionName}} -kokoelmasta!",
+    "welcomeMessageCollectionPageGeneric": "Kysy minulta mitä tahansa meidän tuotteistamme!",
     "whatAreYourBestSellers": "Mitkä ovat myydyimmät tuotteesi?",
     "yesSure": "Kyllä, totta kai!",
     "seeCuratedRecommendations": "Katso huolellisesti valittuja suosituksia",
-    "handpicked": "Valittu juuri sinulle!"
+    "handpicked": "Valittu juuri sinulle!",
+    "veryHelpful": "Hyvin hyödyllinen",
+    "notHelpful": "Ei hyödyllinen",
+    "itWasOkay": "Se oli ok",
+    "submit": "Lähetä",
+    "inaccurateInfo": "Epätarkka tieto",
+    "hallucinationResponse": "Hallusinaatio vastauksissa",
+    "unableToUnderstandQuestion": "Ei voitu ymmärtää kysymystä",
+    "incorrectRecommendations": "Virheelliset suositukset",
+    "issueOptions": "Mikä vaihtoehto kuvaa parhaiten ongelmaa?",
+    "addtionalComments": "Lisäkommentit",
+    "thanksForTheFeedback": "Kiitos palautteestasi."
   }
 }

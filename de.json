@@ -1,10 +1,10 @@
 {
   "translations": {
     "headerGreeting": "Hallo, ich bin",
-    "welcomeMessageHomePage": "Lass mich dir dabei helfen, das zu finden, wonach du suchst!",
-    "welcomeMessageProductPage": "Frag mich alles über dieses Produkt",
-    "welcomeMessageCollectionPage": "Frag mich alles über diese Produkte",
-    "welcomeMessageCollectionNamePage": "Frag mich alles über die {{collectionName}} Sammlung",
+    "welcomeMessageHomePage": "Willkommen bei {{storeName}}! Wie kann ich Ihnen heute helfen?",
+    "welcomeMessageProductPage": "Fragen Sie mich alles über dieses Produkt",
+    "welcomeMessageCollectionPage": "Fragen Sie mich alles über unsere {{collectionName}} Kollektion!",
+    "welcomeMessageCollectionPageGeneric": "Fragen Sie mich alles über unsere Produkte!",
     "tapToAsk": "Tippe, um mir eine Frage zu stellen",
     "poweredBy": "Angetrieben von",
     "viewProduct": "Produkt anzeigen",
@@ -41,7 +41,18 @@
     "seeCuratedRecommendations": "Sehen Sie sich kuratierte Empfehlungen an",
     "handpicked": "Handverlesen nur für dich!",
     "discountCouponTextBIC": "Hallo! Schön, dich zu sehen. 😃 Wir bieten ein besonderes Angebot an: {{couponTitle}}. Bereit, deinen Rabatt zu beanspruchen?",
-    "directRewardNextPurchaseCoupon": "Vielen Dank für Ihren Einkauf bei uns! Wir haben ein Sonderangebot für {{couponTitle}}. Möchten Sie dieses Angebot bei Ihrem nächsten Kauf nutzen?"
+    "directRewardNextPurchaseCoupon": "Vielen Dank für Ihren Einkauf bei uns! Wir haben ein Sonderangebot für {{couponTitle}}. Möchten Sie dieses Angebot bei Ihrem nächsten Kauf nutzen?",
+    "veryHelpful": "Sehr hilfreich",
+    "notHelpful": "Nicht hilfreich",
+    "itWasOkay": "Es war in Ordnung",
+    "submit": "Einreichen",
+    "inaccurateInfo": "Unzutreffende Informationen",
+    "hallucinationResponse": "Halluzination in den Antworten",
+    "unableToUnderstandQuestion": "Frage nicht verstanden",
+    "incorrectRecommendations": "Falsche Empfehlungen",
+    "issueOptions": "Welche Option beschreibt das Problem am besten?",
+    "addtionalComments": "Zusätzliche Kommentare",
+    "thanksForTheFeedback": "Danke für das Feedback."
   },
   "others": {
     "suggestedReplies": {

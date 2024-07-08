@@ -64,13 +64,24 @@
     "validEmailAddress": "Vă rugăm să introduceți o adresă de email validă",
     "viewProduct": "Vizualizează produsul",
     "viewSimilarProducts": "Vizualizează produse similare",
-    "welcomeMessageCollectionPage": "Întreabă-mă orice despre aceste produse",
-    "welcomeMessageCollectionNamePage": "Întrebați-mă orice despre colecția {{collectionName}}",
-    "welcomeMessageHomePage": "Lasă-mă să te ajut să găsești ce cauți!",
+    "welcomeMessageHomePage": "Bine ai venit la {{storeName}}! Cum pot să te ajut azi?",
     "welcomeMessageProductPage": "Întreabă-mă orice despre acest produs",
+    "welcomeMessageCollectionPage": "Întreabă-mă orice despre colecția noastră {{collectionName}}!",
+    "welcomeMessageCollectionPageGeneric": "Întreabă-mă orice despre produsele noastre!",
     "whatAreYourBestSellers": "Care sunt produsele noastre cele mai bine vândute?",
     "yesSure": "Da, sigur!",
     "seeCuratedRecommendations": "Vezi recomandări selectate",
-    "handpicked": "Selectate special pentru tine!"
+    "handpicked": "Selectate special pentru tine!",
+    "veryHelpful": "Foarte util",
+    "notHelpful": "Nu este util",
+    "itWasOkay": "A fost ok",
+    "submit": "Trimite",
+    "inaccurateInfo": "Informații inexacte",
+    "hallucinationResponse": "Halucinație în răspunsuri",
+    "unableToUnderstandQuestion": "Imposibil de înțeles întrebarea",
+    "incorrectRecommendations": "Recomandări incorecte",
+    "issueOptions": "Care opțiune descrie cel mai bine problema?",
+    "addtionalComments": "Comentarii suplimentare",
+    "thanksForTheFeedback": "Mulțumesc pentru feedback."
   }
 }

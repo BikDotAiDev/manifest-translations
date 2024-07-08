@@ -64,13 +64,24 @@
     "validEmailAddress": "Por favor, insira um endereço de e-mail válido",
     "viewProduct": "Ver produto",
     "viewSimilarProducts": "ver produtos similares",
-    "welcomeMessageCollectionPage": "Pergunte-me qualquer coisa sobre estes produtos",
-    "welcomeMessageCollectionNamePage": "Pergunte-me qualquer coisa sobre a coleção {{collectionName}}",
-    "welcomeMessageHomePage": "Deixe-me ajudá-lo a encontrar o que procura!",
+    "welcomeMessageHomePage": "Bem-vindo(a) à {{storeName}}! Como posso ajudar você hoje?",
     "welcomeMessageProductPage": "Pergunte-me qualquer coisa sobre este produto",
+    "welcomeMessageCollectionPage": "Pergunte-me qualquer coisa sobre nossa coleção {{collectionName}}!",
+    "welcomeMessageCollectionPageGeneric": "Pergunte-me qualquer coisa sobre nossos produtos!",
     "whatAreYourBestSellers": "Quais são seus produtos mais vendidos?",
     "yesSure": "Sim, claro!",
     "seeCuratedRecommendations": "Ver recomendações selecionadas",
-    "handpicked": "Escolhido especialmente para você!"
+    "handpicked": "Escolhido especialmente para você!",
+    "veryHelpful": "Muito útil",
+    "notHelpful": "Não útil",
+    "itWasOkay": "Estava bom",
+    "submit": "Enviar",
+    "inaccurateInfo": "Informação imprecisa",
+    "hallucinationResponse": "Alucinação nas respostas",
+    "unableToUnderstandQuestion": "Não foi possível entender a pergunta",
+    "incorrectRecommendations": "Recomendações incorretas",
+    "issueOptions": "Qual opção descreve melhor o problema?",
+    "addtionalComments": "Comentários adicionais",
+    "thanksForTheFeedback": "Obrigado por fornecer feedback."
   }
 }

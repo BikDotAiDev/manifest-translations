@@ -2,9 +2,10 @@
   "welcomeMessageCollectionNamePage": "Ask me anything about the {{collectionName}} collection",
   "translations": {
     "headerGreeting": "Hey, I'm",
-    "welcomeMessageHomePage": "Let me help you find what you’re looking for!",
+    "welcomeMessageHomePage": "Welcome to {{storeName}}! How can I help you today?",
     "welcomeMessageProductPage": "Ask me anything about this product",
-    "welcomeMessageCollectionPage": "Ask me anything about these products",
+    "welcomeMessageCollectionPage": "Ask me anything about our {{collectionName}} collection!",
+    "welcomeMessageCollectionPageGeneric": "Ask me anything about our products!",
     "tapToAsk": "Tap to ask me a question",
     "poweredBy": "Powered by",
     "viewProduct": "View Product",
@@ -41,7 +42,18 @@
     "seeCuratedRecommendations": "See curated recommendations",
     "handpicked": "Handpicked just for you!",
     "discountCouponTextBIC": "Hi there! Nice to see you. 😃 We're offering a special deal: {{couponTitle}}. Ready to claim your discount?",
-    "directRewardNextPurchaseCoupon": "Thanks for shopping with us! We have a special going on {{couponTitle}}. Would you like to use this offer on your next purchase?"
+    "directRewardNextPurchaseCoupon": "Thanks for shopping with us! We have a special going on {{couponTitle}}. Would you like to use this offer on your next purchase?",
+    "veryHelpful": "Very helpful",
+    "notHelpful": "Not helpful",
+    "itWasOkay": "It was okay",
+    "submit": "Submit",
+    "inaccurateInfo": "Inaccurate information",
+    "hallucinationResponse": "Hallucination in responses",
+    "unableToUnderstandQuestion": "Unable to understand the question",
+    "incorrectRecommendations": "Incorrect recommendations",
+    "issueOptions": "Which option best describes the issue?",
+    "addtionalComments": "Additional comments",
+    "thanksForTheFeedback": "Thank you for providing feedback."
   },
   "others": {
     "suggestedReplies": {
