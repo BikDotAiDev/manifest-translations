@@ -53,7 +53,8 @@
     "incorrectRecommendations": "Incorrect recommendations",
     "issueOptions": "Which option best describes the issue?",
     "addtionalComments": "Additional comments",
-    "thanksForTheFeedback": "Thank you for providing feedback."
+    "thanksForTheFeedback": "Thank you for providing feedback.",
+    "enter_email_here": "Please enter your email here"
   },
   "others": {
     "suggestedReplies": {

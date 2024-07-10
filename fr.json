@@ -83,6 +83,7 @@
     "incorrectRecommendations": "Recommandations incorrectes",
     "issueOptions": "Quelle option décrit le mieux le problème?",
     "addtionalComments": "Commentaires supplémentaires",
-    "thanksForTheFeedback": "Merci d'avoir donné votre avis."
+    "thanksForTheFeedback": "Merci d'avoir donné votre avis.",
+    "enter_email_here": "Veuillez entrer votre email ici"
   }
 }

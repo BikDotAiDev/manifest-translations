@@ -82,6 +82,7 @@
     "incorrectRecommendations": "Helytelen ajánlások",
     "issueOptions": "Melyik lehetőség írja le legjobban a problémát?",
     "addtionalComments": "További megjegyzések",
-    "thanksForTheFeedback": "Köszönjük a visszajelzést."
+    "thanksForTheFeedback": "Köszönjük a visszajelzést.",
+    "enter_email_here": "Kérjük, adja meg e-mail címét itt"
   }
 }

@@ -109,5 +109,6 @@
     "order_return_and_refund_reply_text": "ฉันจะคืนสินค้าที่สั่งซื้อได้อย่างไร?",
     "email_support_cta": "กรอกอีเมล",
     "product_inventory_out_of_stock": "ขอบคุณที่ลงทะเบียน! ",
-    "view_product": "ดูผลิตภัณฑ์"
+    "view_product": "ดูผลิตภัณฑ์",
+    "enter_email_here": "กรุณากรอกอีเมล์ของคุณที่นี่"
   }

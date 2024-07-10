@@ -53,7 +53,8 @@
     "incorrectRecommendations": "Gợi ý không chính xác",
     "issueOptions": "Lựa chọn nào mô tả tốt nhất vấn đề?",
     "addtionalComments": "Ý kiến bổ sung",
-    "thanksForTheFeedback": "Cảm ơn bạn đã đóng góp ý kiến."
+    "thanksForTheFeedback": "Cảm ơn bạn đã đóng góp ý kiến.",
+    "enter_email_here": "Vui lòng điền email của bạn ở đây"
   },
   "others": {
     "suggestedReplies": {
