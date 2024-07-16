@@ -109,5 +109,6 @@
   "order_return_and_refund_reply_text": "我該如何退貨？",
   "email_support_cta": "輸入電子郵件",
   "product_inventory_out_of_stock": "謝謝您註冊！",
-  "view_product": "查看產品"
+  "view_product": "查看產品",
+  "enter_email_here": "請在此輸入您的電子郵件"
 }

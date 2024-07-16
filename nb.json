@@ -82,6 +82,7 @@
     "incorrectRecommendations": "Feil anbefalinger",
     "issueOptions": "Hvilket alternativ beskriver problemet best?",
     "addtionalComments": "Tilleggsmerknader",
-    "thanksForTheFeedback": "Takk for tilbakemeldingen."
+    "thanksForTheFeedback": "Takk for tilbakemeldingen.",
+    "enter_email_here": "Vennligst skriv inn e-posten din her"
   }
 }

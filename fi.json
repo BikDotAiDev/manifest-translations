@@ -82,6 +82,7 @@
     "incorrectRecommendations": "Virheelliset suositukset",
     "issueOptions": "Mikä vaihtoehto kuvaa parhaiten ongelmaa?",
     "addtionalComments": "Lisäkommentit",
-    "thanksForTheFeedback": "Kiitos palautteestasi."
+    "thanksForTheFeedback": "Kiitos palautteestasi.",
+    "enter_email_here": "Kirjoita sähköpostiosoitteesi tähän"
   }
 }

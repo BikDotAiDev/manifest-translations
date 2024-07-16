@@ -83,6 +83,7 @@
     "incorrectRecommendations": "不正確な推薦",
     "issueOptions": "問題を最もよく表すオプションはどれですか？",
     "addtionalComments": "追加コメント",
-    "thanksForTheFeedback": "フィードバックを提供していただきありがとうございます。"
+    "thanksForTheFeedback": "フィードバックを提供していただきありがとうございます。",
+    "enter_email_here": "ここにメールアドレスを入力してください"
   }
 }
