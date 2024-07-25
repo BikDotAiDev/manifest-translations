@@ -13,7 +13,6 @@
   "email_support": "您能否分享您的電子郵件，以便我們的團隊能夠與您聯繫並為您提供協助？",
   "order_support": "我理解您的擔憂，我們隨時為您提供協助。",
   "account_management_support": "請訪問我們網站上的帳戶頁面 {account_page} 以了解更多詳細信息，或者您也可以聯繫我們的支援團隊以獲得更多幫助",
-  "checkout": "抱歉，我無法將產品加入您的購物車。",
   "inventory": "您可以在相關產品頁面上找到有關此內容的更多詳細資訊。",
   "review_and_rating": "抱歉，我目前無法存取評論或評級。",
   "best_sellers_input": "查看我們的暢銷產品",
@@ -110,5 +109,8 @@
   "email_support_cta": "輸入電子郵件",
   "product_inventory_out_of_stock": "謝謝您註冊！",
   "view_product": "查看產品",
-  "enter_email_here": "請在此輸入您的電子郵件"
+  "enter_email_here": "請在此輸入您的電子郵件",
+  "addToCart": "加入購物車",
+  "outOfStock": "缺貨",
+  "checkout": "結帳"
 }

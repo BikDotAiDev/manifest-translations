@@ -53,7 +53,10 @@
     "issueOptions": "Welche Option beschreibt das Problem am besten?",
     "addtionalComments": "Zusätzliche Kommentare",
     "thanksForTheFeedback": "Danke für das Feedback.",
-    "enter_email_here": "Bitte geben Sie hier Ihre E-Mail-Adresse ein"
+    "enter_email_here": "Bitte geben Sie hier Ihre E-Mail-Adresse ein",
+    "addToCart": "In den Warenkorb",
+    "outOfStock": "Nicht vorrätig",
+    "checkout": "Zur Kasse"
   },
   "others": {
     "suggestedReplies": {

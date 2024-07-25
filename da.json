@@ -83,6 +83,9 @@
     "issueOptions": "Hvilket mulighed beskriver bedst problemet?",
     "addtionalComments": "Yderligere kommentarer",
     "thanksForTheFeedback": "Tak for feedbacken.",
-    "enter_email_here": "Indtast venligst din e-mail her"
+    "enter_email_here": "Indtast venligst din e-mail her",
+    "addToCart": "Læg i kurv",
+    "outOfStock": "Udsolgt",
+    "checkout": "Gå til kassen"
   }
 }

@@ -83,6 +83,9 @@
     "issueOptions": "Hangi seçenek sorunu en iyi şekilde açıklar?",
     "addtionalComments": "Ek yorumlar",
     "thanksForTheFeedback": "Geribildiriminiz için teşekkür ederiz.",
-    "enter_email_here": "Lütfen e-postanızı buraya girin"
+    "enter_email_here": "Lütfen e-postanızı buraya girin",
+    "addToCart": "Sepete ekle",
+    "outOfStock": "Stokta yok",
+    "checkout": "Ödeme"
   }
 }

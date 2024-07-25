@@ -84,6 +84,9 @@
     "issueOptions": "أي الخيارات الأربعة تصف الوضع بشكل أفضل؟",
     "addtionalComments": "تعليقات إضافية",
     "thanksForTheFeedback": "شكرا لتقديم التعليقات.",
-    "enter_email_here": "الرجاء إدخال البريد الإلكتروني الخاص بك هنا"
+    "enter_email_here": "الرجاء إدخال البريد الإلكتروني الخاص بك هنا",
+    "addToCart": "أضف إلى السلة",
+    "outOfStock": "غير متوفر",
+    "checkout": "الدفع"
   }
 }

@@ -54,7 +54,10 @@
     "issueOptions": "Which option best describes the issue?",
     "addtionalComments": "Additional comments",
     "thanksForTheFeedback": "Thank you for providing feedback.",
-    "enter_email_here": "Please enter your email here"
+    "enter_email_here": "Please enter your email here",
+    "addToCart": "Add to cart",
+    "outOfStock": "Out of stock",
+    "checkout": "Checkout"
   },
   "others": {
     "suggestedReplies": {

@@ -83,6 +83,9 @@
     "issueOptions": "Która opcja najlepiej opisuje problem?",
     "addtionalComments": "Dodatkowe komentarze",
     "thanksForTheFeedback": "Dziękujemy za przesłanie opinii.",
-    "enter_email_here": "Proszę wpisać tutaj swój adres e-mail"
+    "enter_email_here": "Proszę wpisać tutaj swój adres e-mail",
+    "addToCart": "Dodaj do koszyka",
+    "outOfStock": "Brak w magazynie",
+    "checkout": "Do kasy"
   }
 }

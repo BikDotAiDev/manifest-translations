@@ -53,7 +53,10 @@
     "issueOptions": "Welke optie beschrijft het probleem het beste?",
     "addtionalComments": "Aanvullende opmerkingen",
     "thanksForTheFeedback": "Bedankt voor het geven van feedback.",
-    "enter_email_here": "Voer hier uw e-mailadres in"
+    "enter_email_here": "Voer hier uw e-mailadres in",
+    "addToCart": "In winkelwagen",
+    "outOfStock": "Niet op voorraad",
+    "checkout": "Afrekenen"
   },
   "others": {
     "suggestedReplies": {

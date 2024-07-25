@@ -54,7 +54,10 @@
     "issueOptions": "Lựa chọn nào mô tả tốt nhất vấn đề?",
     "addtionalComments": "Ý kiến bổ sung",
     "thanksForTheFeedback": "Cảm ơn bạn đã đóng góp ý kiến.",
-    "enter_email_here": "Vui lòng điền email của bạn ở đây"
+    "enter_email_here": "Vui lòng điền email của bạn ở đây",
+    "addToCart": "Thêm vào giỏ hàng",
+    "outOfStock": "Hết hàng",
+    "checkout": "Thanh toán"
   },
   "others": {
     "suggestedReplies": {

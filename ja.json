@@ -84,6 +84,9 @@
     "issueOptions": "問題を最もよく表すオプションはどれですか？",
     "addtionalComments": "追加コメント",
     "thanksForTheFeedback": "フィードバックを提供していただきありがとうございます。",
-    "enter_email_here": "ここにメールアドレスを入力してください"
+    "enter_email_here": "ここにメールアドレスを入力してください",
+    "addToCart": "カートに追加",
+    "outOfStock": "在庫切れ",
+    "checkout": "チェックアウト"
   }
 }
