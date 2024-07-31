@@ -86,6 +86,7 @@
     "enter_email_here": "Per favore inserisci la tua email qui",
     "addToCart": "Aggiungi al carrello",
     "outOfStock": "Esaurito",
-    "checkout": "Cassa"
+    "checkout": "Cassa",
+    "AskYourQuestion": "Fai la tua domanda"
   }
 }

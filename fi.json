@@ -86,6 +86,7 @@
     "enter_email_here": "Kirjoita sähköpostiosoitteesi tähän",
     "addToCart": "Lisää ostoskoriin",
     "outOfStock": "Loppu varastosta",
-    "checkout": "Maksu"
+    "checkout": "Maksu",
+    "AskYourQuestion": "Esitä kysymyksesi"
   }
 }
