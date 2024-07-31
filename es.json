@@ -87,6 +87,7 @@
     "enter_email_here": "Por favor, introduzca aquí su correo electrónico",
     "addToCart": "Añadir al carrito",
     "outOfStock": "Agotado",
-    "checkout": "Pagar"
+    "checkout": "Pagar",
+    "AskYourQuestion": "Haz tu pregunta"
   }
 }
