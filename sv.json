@@ -82,6 +82,10 @@
     "incorrectRecommendations": "Felaktiga rekommendationer",
     "issueOptions": "Vilket alternativ beskriver bäst problemet?",
     "addtionalComments": "Ytterligare kommentarer",
-    "thanksForTheFeedback": "Tack för din feedback."
+    "thanksForTheFeedback": "Tack för din feedback.",
+    "enter_email_here": "Ange din e-postadress här",
+    "addToCart": "Lägg i kundvagn",
+    "outOfStock": "Slut i lager",
+    "checkout": "Kassa"
   }
 }
