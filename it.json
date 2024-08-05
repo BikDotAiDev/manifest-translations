@@ -87,6 +87,13 @@
     "addToCart": "Aggiungi al carrello",
     "outOfStock": "Esaurito",
     "checkout": "Cassa",
-    "AskYourQuestion": "Fai la tua domanda"
+    "AskYourQuestion": "Fai la tua domanda",
+
+    "chooseYourCountry": "Scegli il tuo paese",
+    "search": "Cerca",
+    "noSearchResultFound": "Nessun risultato trovato",
+    "askMeAnything": "Chiedimi qualsiasi cosa",
+    "validPhoneNumber": "Si prega di inserire un numero di telefono valido",
+    "enter_phone_here": "Si prega di inserire qui il proprio numero di telefono"
   }
 }

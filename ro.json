@@ -87,6 +87,12 @@
     "addToCart": "Adaugă în coș",
     "outOfStock": "Stoc epuizat",
     "checkout": "Finalizare",
-    "AskYourQuestion": "Spune intrebarea ta"
+    "AskYourQuestion": "Spune intrebarea ta",
+    "chooseYourCountry": "Alegeți țara dvs",
+    "search": "Căutare",
+    "noSearchResultFound": "Nu s-a găsit niciun rezultat",
+    "askMeAnything": "Întreabă-mă orice",
+    "validPhoneNumber": "Vă rugăm să introduceți un număr de telefon valid",
+    "enter_phone_here": "Vă rugăm să introduceți aici numărul dvs de telefon"
   }
 }

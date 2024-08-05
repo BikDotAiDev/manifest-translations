@@ -87,6 +87,12 @@
     "addToCart": "Kosárba",
     "outOfStock": "Nincs készleten",
     "checkout": "Pénztár",
-    "AskYourQuestion": "Tedd fel a kérdésed"
+    "AskYourQuestion": "Tedd fel a kérdésed",
+    "chooseYourCountry": "Válaszd ki az országodat",
+    "search": "Keresés",
+    "noSearchResultFound": "Nincs találat",
+    "askMeAnything": "Kérdezz tőlem bármit",
+    "validPhoneNumber": "Kérjük, adjon meg egy érvényes telefonszámot",
+    "enter_phone_here": "Kérjük, írja be a telefonszámát ide"
   }
 }

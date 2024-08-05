@@ -57,7 +57,13 @@
     "addToCart": "In winkelwagen",
     "outOfStock": "Niet op voorraad",
     "checkout": "Afrekenen",
-    "AskYourQuestion": "Stel je vraag"
+    "AskYourQuestion": "Stel je vraag",
+    "chooseYourCountry": "Kies uw land",
+    "search": "Zoeken",
+    "noSearchResultFound": "Geen resultaten gevonden",
+    "askMeAnything": "Vraag me alles",
+    "validPhoneNumber": "Voer een geldig telefoonnummer in",
+    "enter_phone_here": "Voer hier uw telefoonnummer in"
   },
   "others": {
     "suggestedReplies": {

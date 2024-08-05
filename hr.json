@@ -113,5 +113,11 @@
   "addToCart": "Dodaj u košaricu",
   "outOfStock": "Nema na skladištu",
   "checkout": "Blagajna",
-  "AskYourQuestion": "Postavite svoje pitanje"
+  "AskYourQuestion": "Postavite svoje pitanje",
+  "chooseYourCountry": "Odaberite svoju zemlju",
+  "search": "Traži",
+  "noSearchResultFound": "Nema rezultata",
+  "askMeAnything": "Pitaj me bilo što",
+  "validPhoneNumber": "Molimo unesite valjani telefonski broj",
+  "enter_phone_here": "Molimo unesite svoj telefonski broj ovdje"
 }

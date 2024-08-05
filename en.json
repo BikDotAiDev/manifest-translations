@@ -58,7 +58,13 @@
     "addToCart": "Add to cart",
     "outOfStock": "Out of stock",
     "checkout": "Checkout",
-    "AskYourQuestion": "Ask your question"
+    "AskYourQuestion": "Ask your question",
+    "chooseYourCountry": "Choose your country",
+    "search": "Search",
+    "noSearchResultFound": "No result found",
+    "askMeAnything": "Ask me anything",
+    "validPhoneNumber": "Please enter a valid phone number",
+    "enter_phone_here": "Please enter your phone no. here"
   },
   "others": {
     "suggestedReplies": {

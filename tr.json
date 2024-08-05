@@ -87,6 +87,12 @@
     "addToCart": "Sepete ekle",
     "outOfStock": "Stokta yok",
     "checkout": "Ödeme",
-    "AskYourQuestion": "Sorunu sor"
+    "AskYourQuestion": "Sorunu sor",
+    "chooseYourCountry": "Ülkenizi seçin",
+    "search": "Ara",
+    "noSearchResultFound": "Sonuç bulunamadı",
+    "askMeAnything": "Bana herhangi bir şey sor",
+    "validPhoneNumber": "Lütfen geçerli bir telefon numarası girin",
+    "enter_phone_here": "Lütfen telefon numaranızı buraya girin"
   }
 }

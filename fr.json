@@ -88,6 +88,12 @@
     "addToCart": "Ajouter au panier",
     "outOfStock": "En rupture de stock",
     "checkout": "Passer à la caisse",
-    "AskYourQuestion": "Pose ta question"
+    "AskYourQuestion": "Pose ta question",
+    "chooseYourCountry": "Choisissez votre pays",
+    "search": "Rechercher",
+    "noSearchResultFound": "Aucun résultat trouvé",
+    "askMeAnything": "Demande-moi n'importe quoi",
+    "validPhoneNumber": "Veuillez entrer un numéro de téléphone valide",
+    "enter_phone_here": "Veuillez entrer votre numéro de téléphone ici"
   }
 }

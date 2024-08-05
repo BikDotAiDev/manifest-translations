@@ -57,7 +57,13 @@
     "addToCart": "In den Warenkorb",
     "outOfStock": "Nicht vorrätig",
     "checkout": "Zur Kasse",
-    "AskYourQuestion": "Stell deine Frage"
+    "AskYourQuestion": "Stell deine Frage",
+    "chooseYourCountry": "Wählen Sie Ihr Land",
+    "search": "Suche",
+    "noSearchResultFound": "Keine Ergebnisse gefunden",
+    "askMeAnything": "Frag mich alles",
+    "validPhoneNumber": "Bitte geben Sie eine gültige Telefonnummer ein",
+    "enter_phone_here": "Bitte geben Sie hier Ihre Telefonnummer ein"
   },
   "others": {
     "suggestedReplies": {

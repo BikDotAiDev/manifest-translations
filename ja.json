@@ -88,6 +88,12 @@
     "addToCart": "カートに追加",
     "outOfStock": "在庫切れ",
     "checkout": "チェックアウト",
-    "AskYourQuestion": "質問してください"
+    "AskYourQuestion": "質問してください",
+    "chooseYourCountry": "国を選択してください",
+    "search": "検索",
+    "noSearchResultFound": "結果が見つかりません",
+    "askMeAnything": "何でも聞いてください",
+    "validPhoneNumber": "有効な電話番号を入力してください",
+    "enter_phone_here": "ここに電話番号を入力してください"
   }
 }

@@ -113,5 +113,11 @@
   "addToCart": "เพิ่มไปยังตะกร้า",
   "outOfStock": "สินค้าหมด",
   "checkout": "เช็คเอาท์",
-  "AskYourQuestion": "ถามคำถามของคุณ"
+  "AskYourQuestion": "ถามคำถามของคุณ",
+  "chooseYourCountry": "เลือกประเทศของคุณ",
+  "search": "ค้นหา",
+  "noSearchResultFound": "ไม่พบผลลัพธ์",
+  "askMeAnything": "ถามฉันได้ทุกอย่าง",
+  "validPhoneNumber": "กรุณาใส่หมายเลขโทรศัพท์ที่ถูกต้อง",
+  "enter_phone_here": "กรุณาใส่หมายเลขโทรศัพท์ของคุณที่นี่"
 }

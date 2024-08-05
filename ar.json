@@ -88,6 +88,12 @@
     "addToCart": "أضف إلى السلة",
     "outOfStock": "غير متوفر",
     "checkout": "الدفع",
-    "AskYourQuestion": "اسأل سؤالك"
+    "AskYourQuestion": "اسأل سؤالك",
+    "chooseYourCountry": "اختر بلدك",
+    "search": "بحث",
+    "noSearchResultFound": "لم يتم العثور على نتائج",
+    "askMeAnything": "اسألني أي شيء",
+    "validPhoneNumber": "يرجى إدخال رقم هاتف صالح",
+    "enter_phone_here": "يرجى إدخال رقم هاتفك هنا"
   }
 }

@@ -58,7 +58,13 @@
     "addToCart": "Thêm vào giỏ hàng",
     "outOfStock": "Hết hàng",
     "checkout": "Thanh toán",
-    "AskYourQuestion": "Đặt câu hỏi của bạn"
+    "AskYourQuestion": "Đặt câu hỏi của bạn",
+    "chooseYourCountry": "Chọn quốc gia của bạn",
+    "search": "Tìm kiếm",
+    "noSearchResultFound": "Không tìm thấy kết quả nào",
+    "askMeAnything": "Hỏi tôi bất cứ điều gì",
+    "validPhoneNumber": "Vui lòng nhập số điện thoại hợp lệ",
+    "enter_phone_here": "Vui lòng nhập số điện thoại của bạn ở đây"
   },
   "others": {
     "suggestedReplies": {

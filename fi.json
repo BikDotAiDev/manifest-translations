@@ -87,6 +87,12 @@
     "addToCart": "Lisää ostoskoriin",
     "outOfStock": "Loppu varastosta",
     "checkout": "Maksu",
-    "AskYourQuestion": "Esitä kysymyksesi"
+    "AskYourQuestion": "Esitä kysymyksesi",
+    "chooseYourCountry": "Valitse maasi",
+    "search": "Hae",
+    "noSearchResultFound": "Tuloksia ei löytynyt",
+    "askMeAnything": "Kysy mitä tahansa",
+    "validPhoneNumber": "Ole hyvä ja anna kelvollinen puhelinnumero",
+    "enter_phone_here": "Anna puhelinnumerosi tähän"
   }
 }

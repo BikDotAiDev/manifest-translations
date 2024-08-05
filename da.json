@@ -87,6 +87,12 @@
     "addToCart": "Læg i kurv",
     "outOfStock": "Udsolgt",
     "checkout": "Gå til kassen",
-    "AskYourQuestion": "Stil dit spørgsmål"
+    "AskYourQuestion": "Stil dit spørgsmål",
+    "chooseYourCountry": "Vælg dit land",
+    "search": "Søg",
+    "noSearchResultFound": "Ingen resultater fundet",
+    "askMeAnything": "Spørg mig om noget",
+    "validPhoneNumber": "Indtast venligst et gyldigt telefonnummer",
+    "enter_phone_here": "Indtast dit telefonnummer her"
   }
 }

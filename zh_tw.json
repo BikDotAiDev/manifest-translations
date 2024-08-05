@@ -113,5 +113,11 @@
   "addToCart": "加入購物車",
   "outOfStock": "缺貨",
   "checkout": "結帳",
-  "AskYourQuestion": "問你的問題"
+  "AskYourQuestion": "問你的問題",
+  "chooseYourCountry": "選擇您的國家",
+  "search": "搜索",
+  "noSearchResultFound": "未找到結果",
+  "askMeAnything": "問我任何事情",
+  "validPhoneNumber": "請輸入有效的電話號碼",
+  "enter_phone_here": "請在此輸入您的電話號碼"
 }
