@@ -1,11 +1,12 @@
 name: Sync Translation keys with EN
 
-
 on:
   workflow_dispatch:
-    branches: [ aniketh/test-ga ]
+    branches:
+      - aniketh/test-ga
   push:
-    branches: [ aniketh/test-ga ]
+    branches:
+      - aniketh/test-ga
 
 jobs:
   sync-translation:
@@ -19,6 +20,7 @@ jobs:
         uses: denoland/setup-deno@v2
 
       - name: Run Sync Translation
+        working-directory: .github
         env:
           OPENAI_API_KEY: ${{ secrets.OPEN_AI }}
         run: deno run syncWithEn.js
