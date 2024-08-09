@@ -1,6 +1,10 @@
 name: Sync Translation keys with EN
+
+
 on:
   workflow_dispatch:
+    branches: [ aniketh/test-ga ]
+  push:
     branches: [ aniketh/test-ga ]
 
 jobs:
