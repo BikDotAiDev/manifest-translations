@@ -23,4 +23,4 @@ jobs:
         working-directory: .github
         env:
           OPENAI_API_KEY: ${{ secrets.OPEN_AI }}
-        run: deno run syncWithEn.js
+        run: deno run syncWithEn.js --allow-env
