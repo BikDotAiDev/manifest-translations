@@ -1,0 +1,20 @@
+name: Sync Translation keys with EN
+on:
+  workflow_dispatch:
+    branches: [ aniketh/test-ga ]
+
+jobs:
+  sync-translation:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install Deno
+        uses: denoland/setup-deno@v2
+
+      - name: Run Sync Translation
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPEN_AI }}
+        run: deno run syncWithEn.js
