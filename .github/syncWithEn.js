@@ -1,8 +1,7 @@
-const fs = require("fs");
-const path = require("path");
-
 // deno
 import OpenAI from "https://deno.land/x/openai@v4.55.3/mod.ts";
+import { readFileSync, writeFileSync } from "https://deno.land/std/fs/mod.ts";
+import { join } from "https://deno.land/std/path/mod.ts";
 
 const LANGUAGES = [
   "ar",
@@ -69,12 +68,12 @@ async function translate(text) {
 }
 async function sync() {
   // Read en.json file
-  const enFilePath = path.join(__dirname, "..", "en.json");
-  const enData = JSON.parse(fs.readFileSync(enFilePath, "utf8"));
+  const enFilePath = join(__dirname, "..", "en.json");
+  const enData = JSON.parse(readFileSync(enFilePath, "utf8"));
 
   // Read ar.json file
-  const arFilePath = path.join(__dirname, "..", "ar.json");
-  const arData = JSON.parse(fs.readFileSync(arFilePath, "utf8"));
+  const arFilePath = join(__dirname, "..", "ar.json");
+  const arData = JSON.parse(readFileSync(arFilePath, "utf8"));
 
   // Check for missing keys in ar.json
   const missingKeys = Object.keys(enData).filter((key) => !arData[key]);
@@ -89,8 +88,8 @@ async function sync() {
     if (locale === "en") return; // Skip en.json file
 
     // Read locale file
-    const localeFilePath = path.join(__dirname, "..", `${locale}.json`);
-    const localeData = JSON.parse(fs.readFileSync(localeFilePath, "utf8"));
+    const localeFilePath = join(__dirname, "..", `${locale}.json`);
+    const localeData = JSON.parse(readFileSync(localeFilePath, "utf8"));
 
     // Update locale file with translated text
     missingKeys.forEach((key, index) => {
@@ -98,7 +97,7 @@ async function sync() {
     });
 
     // Write updated locale file
-    fs.writeFileSync(localeFilePath, JSON.stringify(localeData, null, 2));
+    writeFileSync(localeFilePath, JSON.stringify(localeData, null, 2));
   });
 }
 
