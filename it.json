@@ -94,6 +94,7 @@
     "noSearchResultFound": "Nessun risultato trovato",
     "askMeAnything": "Chiedimi qualsiasi cosa",
     "validPhoneNumber": "Si prega di inserire un numero di telefono valido",
-    "enter_phone_here": "Si prega di inserire qui il proprio numero di telefono"
+    "enter_phone_here": "Si prega di inserire qui il proprio numero di telefono",
+    "viewResultsFromCollection": "Visualizza i risultati di questa collezione"
   }
 }

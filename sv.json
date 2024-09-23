@@ -93,6 +93,7 @@
     "noSearchResultFound": "Inga resultat hittades",
     "askMeAnything": "Fråga mig vad som helst",
     "validPhoneNumber": "Vänligen ange ett giltigt telefonnummer",
-    "enter_phone_here": "Ange ditt telefonnummer här"
+    "enter_phone_here": "Ange ditt telefonnummer här",
+    "viewResultsFromCollection": "Visa resultat från denna samling"
   }
 }

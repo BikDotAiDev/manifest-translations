@@ -30,6 +30,7 @@
     }
   },
   "translations": {
+    "viewResultsFromCollection": "Näytä tulokset tästä kokoelmasta",
     "AMA": "Kysy minulta mitä tahansa",
     "askAboutProduct": "Kysy enemmän tästä tuotteesta",
     "askAboutSpecificProduct": "Kysy tietystä tuotteesta",

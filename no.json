@@ -93,6 +93,7 @@
     "noSearchResultFound": "Ingen resultater funnet",
     "askMeAnything": "Spør meg om hva som helst",
     "validPhoneNumber": "Vennligst skriv inn et gyldig telefonnummer",
-    "enter_phone_here": "Vennligst skriv inn telefonnummeret ditt her"
+    "enter_phone_here": "Vennligst skriv inn telefonnummeret ditt her",
+    "viewResultsFromCollection": "Vis resultater fra denne samlingen"
   }
 }

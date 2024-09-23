@@ -93,6 +93,7 @@
     "noSearchResultFound": "Nu s-a găsit niciun rezultat",
     "askMeAnything": "Întreabă-mă orice",
     "validPhoneNumber": "Vă rugăm să introduceți un număr de telefon valid",
-    "enter_phone_here": "Vă rugăm să introduceți aici numărul dvs de telefon"
+    "enter_phone_here": "Vă rugăm să introduceți aici numărul dvs de telefon",
+    "viewResultsFromCollection": "Vezi rezultatele din această colecție"
   }
 }

@@ -30,6 +30,7 @@
     }
   },
   "translations": {
+    "viewResultsFromCollection": "Eredmények megtekintése ebből a gyűjteményből",
     "AMA": "Kérdezz bármit tőlem",
     "askAboutProduct": "Kérdezz tovább erről a termékről",
     "askAboutSpecificProduct": "Kérdezz erről a konkrét termékről",
