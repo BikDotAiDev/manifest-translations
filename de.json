@@ -1,5 +1,6 @@
 {
   "translations": {
+    "viewResultsFromCollection": "Ergebnisse aus dieser Sammlung anzeigen",
     "headerGreeting": "Hallo, ich bin",
     "welcomeMessageHomePage": "Willkommen bei {{storeName}}! Wie kann ich Ihnen heute helfen?",
     "welcomeMessageProductPage": "Fragen Sie mich alles über dieses Produkt",

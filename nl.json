@@ -63,7 +63,8 @@
     "noSearchResultFound": "Geen resultaten gevonden",
     "askMeAnything": "Vraag me alles",
     "validPhoneNumber": "Voer een geldig telefoonnummer in",
-    "enter_phone_here": "Voer hier uw telefoonnummer in"
+    "enter_phone_here": "Voer hier uw telefoonnummer in",
+    "viewResultsFromCollection": "Bekijk resultaten van deze collectie"
   },
   "others": {
     "suggestedReplies": {

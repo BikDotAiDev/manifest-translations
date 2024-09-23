@@ -30,6 +30,7 @@
     }
   },
   "translations": {
+    "viewResultsFromCollection": "Ver resultados de esta colección",
     "AMA": "Pregúntame cualquier cosa",
     "askAboutProduct": "Pregunta más sobre este producto",
     "askAboutSpecificProduct": "Pregunta sobre un producto específico",

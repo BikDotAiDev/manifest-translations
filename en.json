@@ -1,6 +1,7 @@
 {
   "welcomeMessageCollectionNamePage": "Ask me anything about the {{collectionName}} collection",
   "translations": {
+    "viewResultsFromCollection": "View results from this collection",
     "headerGreeting": "Hey, I'm",
     "welcomeMessageHomePage": "Welcome to {{storeName}}! How can I help you today?",
     "welcomeMessageProductPage": "Ask me anything about this product",

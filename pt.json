@@ -93,6 +93,7 @@
     "noSearchResultFound": "Nenhum resultado encontrado",
     "askMeAnything": "Pergunte-me qualquer coisa",
     "validPhoneNumber": "Por favor, insira um número de telefone válido",
-    "enter_phone_here": "Por favor, insira seu número de telefone aqui"
+    "enter_phone_here": "Por favor, insira seu número de telefone aqui",
+    "viewResultsFromCollection": "Ver resultados desta coleção"
   }
 }

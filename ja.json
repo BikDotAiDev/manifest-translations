@@ -94,6 +94,7 @@
     "noSearchResultFound": "結果が見つかりません",
     "askMeAnything": "何でも聞いてください",
     "validPhoneNumber": "有効な電話番号を入力してください",
-    "enter_phone_here": "ここに電話番号を入力してください"
+    "enter_phone_here": "ここに電話番号を入力してください",
+    "viewResultsFromCollection": "このコレクションの結果を表示"
   }
 }

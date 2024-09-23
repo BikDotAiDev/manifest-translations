@@ -93,6 +93,7 @@
     "noSearchResultFound": "Sonuç bulunamadı",
     "askMeAnything": "Bana herhangi bir şey sor",
     "validPhoneNumber": "Lütfen geçerli bir telefon numarası girin",
-    "enter_phone_here": "Lütfen telefon numaranızı buraya girin"
+    "enter_phone_here": "Lütfen telefon numaranızı buraya girin",
+    "viewResultsFromCollection": "Bu koleksiyondan sonuçları görüntüle"
   }
 }

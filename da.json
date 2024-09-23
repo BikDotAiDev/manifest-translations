@@ -30,6 +30,7 @@
     }
   },
   "translations": {
+    "viewResultsFromCollection": "Se resultater fra denne samling",
     "AMA": "Spørg mig om hvad som helst.",
     "askAboutProduct": "Spørg mere om dette produkt",
     "askAboutSpecificProduct": "Spørg om et specifikt produkt",

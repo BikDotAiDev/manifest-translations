@@ -64,7 +64,8 @@
     "noSearchResultFound": "Không tìm thấy kết quả nào",
     "askMeAnything": "Hỏi tôi bất cứ điều gì",
     "validPhoneNumber": "Vui lòng nhập số điện thoại hợp lệ",
-    "enter_phone_here": "Vui lòng nhập số điện thoại của bạn ở đây"
+    "enter_phone_here": "Vui lòng nhập số điện thoại của bạn ở đây",
+    "viewResultsFromCollection": "Xem kết quả từ bộ sưu tập này"
   },
   "others": {
     "suggestedReplies": {

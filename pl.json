@@ -93,6 +93,7 @@
     "noSearchResultFound": "Nie znaleziono wyników",
     "askMeAnything": "Zapytaj mnie o cokolwiek",
     "validPhoneNumber": "Proszę wprowadzić prawidłowy numer telefonu",
-    "enter_phone_here": "Proszę wpisać tutaj swój numer telefonu"
+    "enter_phone_here": "Proszę wpisać tutaj swój numer telefonu",
+    "viewResultsFromCollection": "Zobacz wyniki z tej kolekcji"
   }
 }
