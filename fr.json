@@ -7,21 +7,9 @@
       "SEARCH": "Vous ne trouvez pas ce que vous cherchez ? Laissez-moi vous aider à trouver exactement ce que vous cherchez."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "Quels sont vos produits les plus vendus ?",
-        "Qu'est-ce qui distingue vos produits des autres ?",
-        "Où est ma commande ?"
-      ],
-      "OTHER": [
-        "Quels sont vos produits les plus vendus ?",
-        "Qu'est-ce qui distingue vos produits des autres ?",
-        "Où est ma commande ?"
-      ],
-      "PRODUCT": [
-        "Qu'est-ce qui rend ce produit unique ?",
-        "Montrez-moi plus de produits comme celui-ci",
-        "Quelle est la politique de retour de ce produit ?"
-      ],
+      "COLLECTION": ["Quels sont vos produits les plus vendus ?", "Qu'est-ce qui distingue vos produits des autres ?", "Où est ma commande ?"],
+      "OTHER": ["Quels sont vos produits les plus vendus ?", "Qu'est-ce qui distingue vos produits des autres ?", "Où est ma commande ?"],
+      "PRODUCT": ["Qu'est-ce qui rend ce produit unique ?", "Montrez-moi plus de produits comme celui-ci", "Quelle est la politique de retour de ce produit ?"],
       "SEARCH": [
         "Montrez-moi les produits les plus pertinents pour moi",
         "Affinez les résultats en fonction de mes exigences",
@@ -48,7 +36,7 @@
     "moreVariantsAvailable": "Plus de variantes disponibles",
     "navigationPageTitle": "Vous avez accédé à la page {{navigationContext}}",
     "noThanks": "Non, merci",
-    "ourTopPicks": "Nos meilleurs choix",
+    "ourTopPicks": "Meilleurs choix",
     "ourTopProduct": "Nos meilleurs produits",
     "poweredBy": "Propulsé par",
     "rewardForYou": "Récompenses rien que pour vous 🎉",
@@ -73,7 +61,7 @@
     "yesSure": "Oui, bien sûr!",
     "welcomeMessageCollectionNamePage": "Posez-moi toutes vos questions sur la collection {{collectionName}}",
     "seeCuratedRecommendations": "Voir les recommandations sélectionnées",
-    "handpicked": "Choisi spécialement pour vous !",
+    "handpicked": "Trié sur le volet",
     "veryHelpful": "Très utile",
     "notHelpful": "Pas utile",
     "itWasOkay": "C'était correct",

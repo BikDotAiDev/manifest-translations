@@ -7,26 +7,10 @@
       "SEARCH": "Nie możesz znaleźć tego, czego szukasz? Pozwól mi pomóc Ci znaleźć dokładnie to, czego szukasz."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "Jakie są nasze najlepiej sprzedające się produkty?",
-        "Co wyróżnia nasze produkty spośród innych?",
-        "Gdzie jest moje zamówienie?"
-      ],
-      "OTHER": [
-        "Jakie są nasze najlepiej sprzedające się produkty?",
-        "Co wyróżnia nasze produkty spośród innych?",
-        "Gdzie jest moje zamówienie?"
-      ],
-      "PRODUCT": [
-        "Co wyróżnia ten produkt?",
-        "Pokaż mi więcej produktów podobnych do tego",
-        "Jaka jest polityka zwrotów tego produktu?"
-      ],
-      "SEARCH": [
-        "Pokaż mi najbardziej odpowiednie produkty dla mnie",
-        "Uściślij wyniki na podstawie moich wymagań",
-        "Jakie są popularne wybory wśród tych produktów?"
-      ]
+      "COLLECTION": ["Jakie są nasze najlepiej sprzedające się produkty?", "Co wyróżnia nasze produkty spośród innych?", "Gdzie jest moje zamówienie?"],
+      "OTHER": ["Jakie są nasze najlepiej sprzedające się produkty?", "Co wyróżnia nasze produkty spośród innych?", "Gdzie jest moje zamówienie?"],
+      "PRODUCT": ["Co wyróżnia ten produkt?", "Pokaż mi więcej produktów podobnych do tego", "Jaka jest polityka zwrotów tego produktu?"],
+      "SEARCH": ["Pokaż mi najbardziej odpowiednie produkty dla mnie", "Uściślij wyniki na podstawie moich wymagań", "Jakie są popularne wybory wśród tych produktów?"]
     }
   },
   "translations": {
@@ -47,7 +31,7 @@
     "moreVariantsAvailable": "Dostępne więcej wariantów",
     "navigationPageTitle": "Wprowadziłeś się na stronę {{navigationContext}}",
     "noThanks": "Nie, dziękuję",
-    "ourTopPicks": "Nasze najlepsze wybory",
+    "ourTopPicks": "Najlepsze wybory",
     "ourTopProduct": "Nasze najlepsze produkty",
     "poweredBy": "Napędzane przez",
     "rewardForYou": "Nagrody tylko dla ciebie 🎉",
@@ -71,7 +55,7 @@
     "whatAreYourBestSellers": "Jakie są nasze najlepiej sprzedające się produkty?",
     "yesSure": "Tak, oczywiście!",
     "seeCuratedRecommendations": "Zobacz wybrane rekomendacje",
-    "handpicked": "Wybrane specjalnie dla Ciebie!",
+    "handpicked": "Wyselekcjonowany",
     "veryHelpful": "Bardzo pomocne",
     "notHelpful": "Nie pomocne",
     "itWasOkay": "Było w porządku",

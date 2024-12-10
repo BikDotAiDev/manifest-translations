@@ -37,10 +37,10 @@
     "availOngoingSpecialOffer": "Tôi muốn sử dụng ưu đãi đang diễn ra",
     "spinTheWheelExcitingRewards": "Quay cờ để nhận phần thưởng hấp dẫn",
     "spinTheWheel": "quay cờ",
-    "ourTopPicks": "Sự chọn lọc hàng đầu của chúng tôi",
+    "ourTopPicks": "Lựa chọn hàng đầu",
     "checkOutThese": "Xem các sản phẩm được chọn lọc này thay vì",
     "seeCuratedRecommendations": "Xem các gợi ý được chọn lọc",
-    "handpicked": "Được lựa chọn đặc biệt cho bạn!",
+    "handpicked": "Chọn lọc kỹ",
     "discountCouponTextBIC": "Chào bạn! Rất vui được gặp bạn. 😃 Chúng tôi đang cung cấp một ưu đãi đặc biệt: {{couponTitle}}. Sẵn sàng để nhận ưu đãi của bạn?",
     "directRewardNextPurchaseCoupon": "Cảm ơn bạn đã mua hàng với chúng tôi! Chúng tôi có một ưu đãi đặc biệt về {{couponTitle}}. Bạn có muốn sử dụng ưu đãi này cho lần mua tiếp theo của mình không?",
     "veryHelpful": "Rất hữu ích",
@@ -69,26 +69,10 @@
   },
   "others": {
     "suggestedReplies": {
-      "PRODUCT": [
-        "Điều gì khiến sản phẩm này nổi bật?",
-        "Cho tôi xem thêm các sản phẩm giống như thế này",
-        "Chính sách đổi trả của sản phẩm này là gì?"
-      ],
-      "COLLECTION": [
-        "Các sản phẩm bán chạy nhất của bạn là gì?",
-        "Điều gì làm các sản phẩm của bạn nổi bật so với các sản phẩm khác?",
-        "Đơn hàng của tôi đang ở đâu?"
-      ],
-      "SEARCH": [
-        "Cho tôi xem các sản phẩm phù hợp nhất với tôi",
-        "Tinh chỉnh kết quả dựa trên yêu cầu của tôi",
-        "Có những lựa chọn phổ biến nào trong số này không?"
-      ],
-      "OTHER": [
-        "Các sản phẩm bán chạy nhất của bạn là gì?",
-        "Điều gì làm sản phẩm của bạn nổi bật so với các sản phẩm khác?",
-        "Đơn hàng của tôi đang ở đâu?"
-      ]
+      "PRODUCT": ["Điều gì khiến sản phẩm này nổi bật?", "Cho tôi xem thêm các sản phẩm giống như thế này", "Chính sách đổi trả của sản phẩm này là gì?"],
+      "COLLECTION": ["Các sản phẩm bán chạy nhất của bạn là gì?", "Điều gì làm các sản phẩm của bạn nổi bật so với các sản phẩm khác?", "Đơn hàng của tôi đang ở đâu?"],
+      "SEARCH": ["Cho tôi xem các sản phẩm phù hợp nhất với tôi", "Tinh chỉnh kết quả dựa trên yêu cầu của tôi", "Có những lựa chọn phổ biến nào trong số này không?"],
+      "OTHER": ["Các sản phẩm bán chạy nhất của bạn là gì?", "Điều gì làm sản phẩm của bạn nổi bật so với các sản phẩm khác?", "Đơn hàng của tôi đang ở đâu?"]
     },
     "popUpMessages": {
       "SEARCH": "Không tìm thấy điều bạn đang tìm kiếm? Hãy để tôi giúp bạn tìm chính xác điều bạn đang tìm kiếm.",

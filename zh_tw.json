@@ -120,5 +120,7 @@
   "askMeAnything": "問我任何事情",
   "validPhoneNumber": "請輸入有效的電話號碼",
   "enter_phone_here": "請在此輸入您的電話號碼",
-  "viewResultsFromCollection": "查看此集合中的結果"
+  "viewResultsFromCollection": "查看此集合中的結果",
+  "handpicked": "精心挑選",
+  "ourTopPicks": "精選推薦"
 }

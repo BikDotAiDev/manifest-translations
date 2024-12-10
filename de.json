@@ -37,10 +37,10 @@
     "availOngoingSpecialOffer": "Ich möchte das laufende Sonderangebot nutzen",
     "spinTheWheelExcitingRewards": "Drehen Sie das Rad, um aufregende Belohnungen zu gewinnen",
     "spinTheWheel": "das Rad drehen",
-    "ourTopPicks": "Unsere Top-Auswahl",
+    "ourTopPicks": "Top-Auswahl",
     "checkOutThese": "Schau dir stattdessen diese Auswahl an",
     "seeCuratedRecommendations": "Sehen Sie sich kuratierte Empfehlungen an",
-    "handpicked": "Handverlesen nur für dich!",
+    "handpicked": "Handverlesen",
     "discountCouponTextBIC": "Hallo! Schön, dich zu sehen. 😃 Wir bieten ein besonderes Angebot an: {{couponTitle}}. Bereit, deinen Rabatt zu beanspruchen?",
     "directRewardNextPurchaseCoupon": "Vielen Dank für Ihren Einkauf bei uns! Wir haben ein Sonderangebot für {{couponTitle}}. Möchten Sie dieses Angebot bei Ihrem nächsten Kauf nutzen?",
     "veryHelpful": "Sehr hilfreich",
@@ -68,26 +68,14 @@
   },
   "others": {
     "suggestedReplies": {
-      "PRODUCT": [
-        "Was macht dieses Produkt besonders?",
-        "Zeige mir mehr Produkte wie dieses",
-        "Was ist die Rückgaberichtlinie für dieses Produkt?"
-      ],
-      "COLLECTION": [
-        "Welche sind deine meistverkauften Produkte?",
-        "Was unterscheidet deine Produkte von anderen?",
-        "Wo ist meine Bestellung?"
-      ],
+      "PRODUCT": ["Was macht dieses Produkt besonders?", "Zeige mir mehr Produkte wie dieses", "Was ist die Rückgaberichtlinie für dieses Produkt?"],
+      "COLLECTION": ["Welche sind deine meistverkauften Produkte?", "Was unterscheidet deine Produkte von anderen?", "Wo ist meine Bestellung?"],
       "SEARCH": [
         "Zeige mir die relevantesten Produkte für mich",
         "Verfeinere die Ergebnisse basierend auf meinen Anforderungen",
         "Was sind einige beliebte Optionen unter diesen?"
       ],
-      "OTHER": [
-        "Welche sind deine meistverkauften Produkte?",
-        "Was unterscheidet deine Produkte von anderen?",
-        "Wo ist meine Bestellung?"
-      ]
+      "OTHER": ["Welche sind deine meistverkauften Produkte?", "Was unterscheidet deine Produkte von anderen?", "Wo ist meine Bestellung?"]
     },
     "popUpMessages": {
       "SEARCH": "Kannst du nicht finden, wonach du suchst? Lass mich dir genau das finden, wonach du suchst.",

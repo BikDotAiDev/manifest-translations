@@ -7,26 +7,10 @@
       "SEARCH": "Aradığınızı bulamıyor musunuz? Sizi tam olarak aradığınızı bulmanıza yardımcı olabilirim."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "En çok satan ürünleriniz nelerdir?",
-        "Ürünlerinizi diğerlerinden ayıran nedir?",
-        "Siparişim nerede?"
-      ],
-      "OTHER": [
-        "En çok satan ürünleriniz nelerdir?",
-        "Ürünlerinizi diğerlerinden ayıran nedir?",
-        "Siparişim nerede?"
-      ],
-      "PRODUCT": [
-        "Bu ürünü öne çıkan kılan nedir?",
-        "Bana bu ürün gibi daha fazla ürün göster",
-        "Bu ürünün iade politikası nedir?"
-      ],
-      "SEARCH": [
-        "Benim için en ilgili ürünleri göster",
-        "Sonuçları gereksinimlerime göre iyileştir",
-        "Bunlar arasında popüler seçenekler neler?"
-      ]
+      "COLLECTION": ["En çok satan ürünleriniz nelerdir?", "Ürünlerinizi diğerlerinden ayıran nedir?", "Siparişim nerede?"],
+      "OTHER": ["En çok satan ürünleriniz nelerdir?", "Ürünlerinizi diğerlerinden ayıran nedir?", "Siparişim nerede?"],
+      "PRODUCT": ["Bu ürünü öne çıkan kılan nedir?", "Bana bu ürün gibi daha fazla ürün göster", "Bu ürünün iade politikası nedir?"],
+      "SEARCH": ["Benim için en ilgili ürünleri göster", "Sonuçları gereksinimlerime göre iyileştir", "Bunlar arasında popüler seçenekler neler?"]
     }
   },
   "translations": {
@@ -47,7 +31,7 @@
     "moreVariantsAvailable": "Daha fazla varyant mevcut",
     "navigationPageTitle": "{{navigationContext}} sayfasına girdiniz",
     "noThanks": "Hayır, teşekkürler",
-    "ourTopPicks": "En iyi seçimlerimiz",
+    "ourTopPicks": "En iyi seçimler",
     "ourTopProduct": "En İyi Ürünlerimiz",
     "poweredBy": "Tarafından desteklenmektedir",
     "rewardForYou": "Sadece sizin için ödüller 🎉",
@@ -71,7 +55,7 @@
     "whatAreYourBestSellers": "En çok satan ürünleriniz nelerdir?",
     "yesSure": "Evet, tabii ki!",
     "seeCuratedRecommendations": "Özenle seçilmiş önerilere göz at",
-    "handpicked": "Sadece senin için seçildi!",
+    "handpicked": "Özenle seçilmiş",
     "veryHelpful": "Çok faydalı",
     "notHelpful": "Faydalı değil",
     "itWasOkay": "İyi idi",
