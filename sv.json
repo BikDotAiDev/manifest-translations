@@ -7,26 +7,10 @@
       "SEARCH": "Hittar du inte vad du letar efter? Låt mig hjälpa dig att hitta exakt det du söker."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "Vilka är dina bästsäljande produkter?",
-        "Vad skiljer dina produkter från andra?",
-        "Var är min beställning?"
-      ],
-      "OTHER": [
-        "Vilka är dina bästsäljande produkter?",
-        "Vad skiljer dina produkter från andra?",
-        "Var är min beställning?"
-      ],
-      "PRODUCT": [
-        "Vad gör den här produkten unik?",
-        "Visa mig fler produkter som denna",
-        "Vad är returpolicy för den här produkten?"
-      ],
-      "SEARCH": [
-        "Visa mig de mest relevanta produkterna för mig",
-        "Förbättra resultaten baserat på mina krav",
-        "Vilka är några populära val bland dessa?"
-      ]
+      "COLLECTION": ["Vilka är dina bästsäljande produkter?", "Vad skiljer dina produkter från andra?", "Var är min beställning?"],
+      "OTHER": ["Vilka är dina bästsäljande produkter?", "Vad skiljer dina produkter från andra?", "Var är min beställning?"],
+      "PRODUCT": ["Vad gör den här produkten unik?", "Visa mig fler produkter som denna", "Vad är returpolicy för den här produkten?"],
+      "SEARCH": ["Visa mig de mest relevanta produkterna för mig", "Förbättra resultaten baserat på mina krav", "Vilka är några populära val bland dessa?"]
     }
   },
   "translations": {
@@ -47,7 +31,7 @@
     "moreVariantsAvailable": "Fler varianter finns tillgängliga",
     "navigationPageTitle": "Du har kommit in på sidan {{navigationContext}}",
     "noThanks": "Nej tack",
-    "ourTopPicks": "Våra toppval",
+    "ourTopPicks": "Toppval",
     "ourTopProduct": "Våra bästa produkter",
     "poweredBy": "Drivs av",
     "rewardForYou": "Belöningar bara för dig 🎉",
@@ -71,7 +55,7 @@
     "whatAreYourBestSellers": "Vad är dina bästsäljande produkter?",
     "yesSure": "Ja, självklart!",
     "seeCuratedRecommendations": "Se kuraterade rekommendationer",
-    "handpicked": "Handplockad bara för dig!",
+    "handpicked": "Handplockad",
     "veryHelpful": "Mycket hjälpsam",
     "notHelpful": "Inte hjälpsam",
     "itWasOkay": "Det var okej",

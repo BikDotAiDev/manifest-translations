@@ -7,26 +7,10 @@
       "SEARCH": "Kan du ikke finde det, du leder efter? Lad mig hjælpe dig med at finde præcis, hvad du leder efter."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "Hvilke produkter er dine bedst-sælgende?",
-        "Hvad adskiller jeres produkter fra andre?",
-        "Hvor er min ordre?"
-      ],
-      "OTHER": [
-        "Hvilke produkter er dine bedst-sælgende?",
-        "Hvad adskiller jeres produkter fra andre?",
-        "Hvor er min ordre?"
-      ],
-      "PRODUCT": [
-        "Hvad gør dette produkt unikt?",
-        "Vis mig flere produkter som dette",
-        "Hvad er returpolitikken for dette produkt?"
-      ],
-      "SEARCH": [
-        "Vis mig de mest relevante produkter for mig",
-        "Forfin resultaterne baseret på mine krav",
-        "Hvad er nogle populære valg blandt disse?"
-      ]
+      "COLLECTION": ["Hvilke produkter er dine bedst-sælgende?", "Hvad adskiller jeres produkter fra andre?", "Hvor er min ordre?"],
+      "OTHER": ["Hvilke produkter er dine bedst-sælgende?", "Hvad adskiller jeres produkter fra andre?", "Hvor er min ordre?"],
+      "PRODUCT": ["Hvad gør dette produkt unikt?", "Vis mig flere produkter som dette", "Hvad er returpolitikken for dette produkt?"],
+      "SEARCH": ["Vis mig de mest relevante produkter for mig", "Forfin resultaterne baseret på mine krav", "Hvad er nogle populære valg blandt disse?"]
     }
   },
   "translations": {
@@ -48,7 +32,7 @@
     "moreVariantsAvailable": "Flere varianter tilgængelige",
     "navigationPageTitle": "Du har indtastet siden {{navigationContext}}",
     "noThanks": "Nej tak",
-    "ourTopPicks": "Vores topvalg",
+    "ourTopPicks": "Topvalg",
     "ourTopProduct": "Vores bedste produkter",
     "poweredBy": "Drevet af",
     "rewardForYou": "Belønninger kun til dig 🎉",
@@ -72,7 +56,7 @@
     "whatAreYourBestSellers": "Hvad er dine bedstsælgende produkter?",
     "yesSure": "Ja, selvfølgelig!",
     "seeCuratedRecommendations": "Se udvalgte anbefalinger",
-    "handpicked": "Håndplukket kun til dig!",
+    "handpicked": "Håndplukket",
     "veryHelpful": "Meget hjælpsom",
     "notHelpful": "Ikke hjælpsom",
     "itWasOkay": "Det var okay",

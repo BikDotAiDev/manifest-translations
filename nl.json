@@ -38,10 +38,10 @@
     "availOngoingSpecialOffer": "Ik wil gebruikmaken van de lopende speciale aanbieding",
     "spinTheWheelExcitingRewards": "Draai aan het wiel om spannende beloningen te winnen",
     "spinTheWheel": "draai aan het wiel",
-    "ourTopPicks": "Onze topkeuzes",
+    "ourTopPicks": "Topkeuzes",
     "checkOutThese": "Bekijk in plaats daarvan deze keuzes",
     "seeCuratedRecommendations": "Bekijk samengestelde aanbevelingen",
-    "handpicked": "Speciaal voor jou gekozen!",
+    "handpicked": "Handgeplukt",
     "veryHelpful": "Zeer nuttig",
     "notHelpful": "Niet nuttig",
     "itWasOkay": "Het was okay",
@@ -68,26 +68,14 @@
   },
   "others": {
     "suggestedReplies": {
-      "PRODUCT": [
-        "Wat maakt dit product bijzonder?",
-        "Laat me meer producten zien zoals deze",
-        "Wat is het retourbeleid voor dit product?"
-      ],
+      "PRODUCT": ["Wat maakt dit product bijzonder?", "Laat me meer producten zien zoals deze", "Wat is het retourbeleid voor dit product?"],
       "COLLECTION": [
         "Laat me producten zien binnen een bepaalde prijsklasse",
         "Welke van deze producten zouden het beste aan mijn behoeften voldoen?",
         "Doe aanbevelingen voor populaire producten uit deze collectie"
       ],
-      "SEARCH": [
-        "Toon de meest relevante producten voor mij",
-        "Verfijn de resultaten op basis van mijn eisen",
-        "Wat zijn enkele populaire keuzes hieruit?"
-      ],
-      "OTHER": [
-        "Wat onderscheidt jullie producten van andere?",
-        "Wat zijn enkele trendy producten in jullie winkel?",
-        "Laat me jullie nieuwste aanbiedingen en kortingen zien"
-      ]
+      "SEARCH": ["Toon de meest relevante producten voor mij", "Verfijn de resultaten op basis van mijn eisen", "Wat zijn enkele populaire keuzes hieruit?"],
+      "OTHER": ["Wat onderscheidt jullie producten van andere?", "Wat zijn enkele trendy producten in jullie winkel?", "Laat me jullie nieuwste aanbiedingen en kortingen zien"]
     },
     "popUpMessages": {
       "SEARCH": "Kun je niet vinden wat je zoekt? Laat me je helpen precies te vinden wat je zoekt.",

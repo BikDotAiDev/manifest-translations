@@ -120,5 +120,7 @@
   "askMeAnything": "Pitaj me bilo što",
   "validPhoneNumber": "Molimo unesite valjani telefonski broj",
   "enter_phone_here": "Molimo unesite svoj telefonski broj ovdje",
-  "viewResultsFromCollection": "Pogledaj rezultate iz ove kolekcije"
+  "viewResultsFromCollection": "Pogledaj rezultate iz ove kolekcije",
+  "handpicked": "Pomno odabrano",
+  "ourTopPicks": "Najbolji odabiri"
 }

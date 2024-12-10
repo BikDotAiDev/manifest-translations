@@ -7,26 +7,10 @@
       "SEARCH": "¿No puedes encontrar lo que buscas? Permíteme ayudarte a encontrar exactamente lo que necesitas."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "¿Cuáles son tus productos más vendidos?",
-        "¿Qué diferencia tus productos de los demás?",
-        "¿Dónde está mi pedido?"
-      ],
-      "OTHER": [
-        "¿Cuáles son tus productos más vendidos?",
-        "¿Qué diferencia tus productos de los demás?",
-        "¿Dónde está mi pedido?"
-      ],
-      "PRODUCT": [
-        "¿Qué hace que este producto se destaque?",
-        "Muéstrame más productos como este",
-        "¿Cuál es la política de devoluciones de este producto?"
-      ],
-      "SEARCH": [
-        "Muéstrame los productos más relevantes para mí",
-        "Refina los resultados según mis requisitos",
-        "¿Cuáles son algunas opciones populares entre estos?"
-      ]
+      "COLLECTION": ["¿Cuáles son tus productos más vendidos?", "¿Qué diferencia tus productos de los demás?", "¿Dónde está mi pedido?"],
+      "OTHER": ["¿Cuáles son tus productos más vendidos?", "¿Qué diferencia tus productos de los demás?", "¿Dónde está mi pedido?"],
+      "PRODUCT": ["¿Qué hace que este producto se destaque?", "Muéstrame más productos como este", "¿Cuál es la política de devoluciones de este producto?"],
+      "SEARCH": ["Muéstrame los productos más relevantes para mí", "Refina los resultados según mis requisitos", "¿Cuáles son algunas opciones populares entre estos?"]
     }
   },
   "translations": {
@@ -48,7 +32,7 @@
     "moreVariantsAvailable": "Más variantes disponibles",
     "navigationPageTitle": "Has entrado en la página {{navigationContext}}",
     "noThanks": "No, gracias",
-    "ourTopPicks": "Nuestras mejores opciones",
+    "ourTopPicks": "Selecciones principales",
     "ourTopProduct": "Nuestros mejores productos",
     "poweredBy": "Desarrollado por",
     "rewardForYou": "Recompensas solo para ti 🎉",
@@ -73,7 +57,7 @@
     "yesSure": "¡Sí, claro!",
     "welcomeMessageCollectionNamePage": "Pregúntame cualquier cosa sobre la colección {{collectionName}}",
     "seeCuratedRecommendations": "Ver recomendaciones seleccionadas",
-    "handpicked": "¡Seleccionado especialmente para ti!",
+    "handpicked": "Seleccionado",
     "veryHelpful": "Muy útil",
     "notHelpful": "No útil",
     "itWasOkay": "Estuvo bien",

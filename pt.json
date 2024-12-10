@@ -7,26 +7,10 @@
       "SEARCH": "Não consegue encontrar o que procura? Deixe-me ajudar você a encontrar exatamente o que procura."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "Quais são os seus produtos mais vendidos?",
-        "O que distingue os seus produtos dos outros?",
-        "Onde está o meu pedido?"
-      ],
-      "OTHER": [
-        "Quais são os seus produtos mais vendidos?",
-        "O que distingue os seus produtos dos outros?",
-        "Onde está o meu pedido?"
-      ],
-      "PRODUCT": [
-        "O que torna este produto especial?",
-        "Mostre-me mais produtos como este",
-        "Qual é a política de devolução deste produto?"
-      ],
-      "SEARCH": [
-        "Mostre-me os produtos mais relevantes para mim",
-        "Refine os resultados com base nos meus requisitos",
-        "Quais são algumas opções populares entre estes?"
-      ]
+      "COLLECTION": ["Quais são os seus produtos mais vendidos?", "O que distingue os seus produtos dos outros?", "Onde está o meu pedido?"],
+      "OTHER": ["Quais são os seus produtos mais vendidos?", "O que distingue os seus produtos dos outros?", "Onde está o meu pedido?"],
+      "PRODUCT": ["O que torna este produto especial?", "Mostre-me mais produtos como este", "Qual é a política de devolução deste produto?"],
+      "SEARCH": ["Mostre-me os produtos mais relevantes para mim", "Refine os resultados com base nos meus requisitos", "Quais são algumas opções populares entre estes?"]
     }
   },
   "translations": {
@@ -47,7 +31,7 @@
     "moreVariantsAvailable": "Mais variantes disponíveis",
     "navigationPageTitle": "Você entrou na página {{navigationContext}}",
     "noThanks": "Não, obrigado",
-    "ourTopPicks": "Nossas principais escolhas",
+    "ourTopPicks": "Escolhas principais",
     "ourTopProduct": "Nossos produtos principais",
     "poweredBy": "Powered by",
     "rewardForYou": "Recompensas só para você 🎉",
@@ -71,7 +55,7 @@
     "whatAreYourBestSellers": "Quais são seus produtos mais vendidos?",
     "yesSure": "Sim, claro!",
     "seeCuratedRecommendations": "Ver recomendações selecionadas",
-    "handpicked": "Escolhido especialmente para você!",
+    "handpicked": "Selecionado",
     "veryHelpful": "Muito útil",
     "notHelpful": "Não útil",
     "itWasOkay": "Estava bom",

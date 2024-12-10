@@ -7,26 +7,10 @@
       "SEARCH": "Et löydä etsimääsi? Anna minun auttaa sinua löytämään juuri sen, mitä etsit."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "Mitkä ovat myydyimmät tuotteesi?",
-        "Mikä erottaa tuotteesi muista?",
-        "Missä on tilaukseni?"
-      ],
-      "OTHER": [
-        "Mitkä ovat myydyimmät tuotteesi?",
-        "Mikä erottaa tuotteesi muista?",
-        "Missä on tilaukseni?"
-      ],
-      "PRODUCT": [
-        "Mikä erottaa tämän tuotteen muista?",
-        "Näytä minulle lisää samanlaisia tuotteita",
-        "Mikä on tämän tuotteen palautuskäytäntö?"
-      ],
-      "SEARCH": [
-        "Näytä minulle sopivimmat tuotteet",
-        "Tarkenna tuloksia vaatimusteni perusteella",
-        "Mitkä ovat suosituimpia valintoja näiden joukosta?"
-      ]
+      "COLLECTION": ["Mitkä ovat myydyimmät tuotteesi?", "Mikä erottaa tuotteesi muista?", "Missä on tilaukseni?"],
+      "OTHER": ["Mitkä ovat myydyimmät tuotteesi?", "Mikä erottaa tuotteesi muista?", "Missä on tilaukseni?"],
+      "PRODUCT": ["Mikä erottaa tämän tuotteen muista?", "Näytä minulle lisää samanlaisia tuotteita", "Mikä on tämän tuotteen palautuskäytäntö?"],
+      "SEARCH": ["Näytä minulle sopivimmat tuotteet", "Tarkenna tuloksia vaatimusteni perusteella", "Mitkä ovat suosituimpia valintoja näiden joukosta?"]
     }
   },
   "translations": {
@@ -48,7 +32,7 @@
     "moreVariantsAvailable": "Lisää vaihtoehtoja saatavilla",
     "navigationPageTitle": "Olet siirtynyt sivulle {{navigationContext}}",
     "noThanks": "Ei kiitos",
-    "ourTopPicks": "Parhaat valintamme",
+    "ourTopPicks": "Huipputärpit",
     "ourTopProduct": "Parhaat tuotteemme",
     "poweredBy": "Toimii käyttäen",
     "rewardForYou": "Palkinnot vain sinulle 🎉",
@@ -72,7 +56,7 @@
     "whatAreYourBestSellers": "Mitkä ovat myydyimmät tuotteesi?",
     "yesSure": "Kyllä, totta kai!",
     "seeCuratedRecommendations": "Katso huolellisesti valittuja suosituksia",
-    "handpicked": "Valittu juuri sinulle!",
+    "handpicked": "Käsin poimittu",
     "veryHelpful": "Hyvin hyödyllinen",
     "notHelpful": "Ei hyödyllinen",
     "itWasOkay": "Se oli ok",

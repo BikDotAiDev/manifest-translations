@@ -7,26 +7,10 @@
       "SEARCH": "Nem találod, amit keresel? Segítek megtalálni pontosan azt, amit keresel."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "Mi a legjobban eladott termékeitek?",
-        "Mi különbözteti meg termékeiteket a többitől?",
-        "Hol van az rendelésem?"
-      ],
-      "OTHER": [
-        "Mi a legjobban eladott termékeitek?",
-        "Mi különbözteti meg termékeiteket a többitől?",
-        "Hol van az rendelésem?"
-      ],
-      "PRODUCT": [
-        "Mi teszi ezt a terméket különlegessé?",
-        "Mutass több olyan terméket, mint ez",
-        "Mi a termék visszaküldési politikája?"
-      ],
-      "SEARCH": [
-        "Mutass nekem a számomra legrelevánsabb termékeket",
-        "Finomítsd az eredményeket az igényeim alapján",
-        "Mi a népszerű választás ezek között?"
-      ]
+      "COLLECTION": ["Mi a legjobban eladott termékeitek?", "Mi különbözteti meg termékeiteket a többitől?", "Hol van az rendelésem?"],
+      "OTHER": ["Mi a legjobban eladott termékeitek?", "Mi különbözteti meg termékeiteket a többitől?", "Hol van az rendelésem?"],
+      "PRODUCT": ["Mi teszi ezt a terméket különlegessé?", "Mutass több olyan terméket, mint ez", "Mi a termék visszaküldési politikája?"],
+      "SEARCH": ["Mutass nekem a számomra legrelevánsabb termékeket", "Finomítsd az eredményeket az igényeim alapján", "Mi a népszerű választás ezek között?"]
     }
   },
   "translations": {
@@ -48,7 +32,7 @@
     "moreVariantsAvailable": "Több változat elérhető",
     "navigationPageTitle": "Beléptél a(z) {{navigationContext}} oldalra",
     "noThanks": "Nem, köszönöm",
-    "ourTopPicks": "Legjobb választásaink",
+    "ourTopPicks": "Legjobb választások",
     "ourTopProduct": "Legjobb termékeink",
     "poweredBy": "Működtetve:",
     "rewardForYou": "Jutalmak csak neked 🎉",
@@ -72,7 +56,7 @@
     "whatAreYourBestSellers": "Mi a legjobban eladott termékeitek?",
     "yesSure": "Igen, persze!",
     "seeCuratedRecommendations": "Tekintse meg a gondosan összeállított ajánlásokat",
-    "handpicked": "Kézzel válogatott csak neked!",
+    "handpicked": "Gondosan válogatott",
     "veryHelpful": "Nagyon hasznos",
     "notHelpful": "Nem hasznos",
     "itWasOkay": "Rendben volt",

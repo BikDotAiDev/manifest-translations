@@ -120,5 +120,7 @@
   "askMeAnything": "ถามฉันได้ทุกอย่าง",
   "validPhoneNumber": "กรุณาใส่หมายเลขโทรศัพท์ที่ถูกต้อง",
   "enter_phone_here": "กรุณาใส่หมายเลขโทรศัพท์ของคุณที่นี่",
-  "viewResultsFromCollection": "ดูผลลัพธ์จากคอลเลกชันนี้"
+  "viewResultsFromCollection": "ดูผลลัพธ์จากคอลเลกชันนี้",
+  "handpicked": "คัดสรรมาอย่างดี",
+  "ourTopPicks": "ตัวเลือกยอดนิยม"
 }

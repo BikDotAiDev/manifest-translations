@@ -7,26 +7,10 @@
       "SEARCH": "Non riesci a trovare ciò che cerchi? Lascia che ti aiuti a trovare esattamente ciò che stai cercando."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "Quali sono i tuoi prodotti più venduti?",
-        "Cosa distingue i tuoi prodotti dagli altri?",
-        "Dov'è il mio ordine?"
-      ],
-      "OTHER": [
-        "Quali sono i tuoi prodotti più venduti?",
-        "Cosa distingue i tuoi prodotti dagli altri?",
-        "Dov'è il mio ordine?"
-      ],
-      "PRODUCT": [
-        "Cosa rende questo prodotto speciale?",
-        "Mostrami più prodotti simili a questo",
-        "Qual è la politica di reso di questo prodotto?"
-      ],
-      "SEARCH": [
-        "Mostrami i prodotti più rilevanti per me",
-        "Raffina i risultati in base alle mie esigenze",
-        "Quali sono alcune scelte popolari tra questi?"
-      ]
+      "COLLECTION": ["Quali sono i tuoi prodotti più venduti?", "Cosa distingue i tuoi prodotti dagli altri?", "Dov'è il mio ordine?"],
+      "OTHER": ["Quali sono i tuoi prodotti più venduti?", "Cosa distingue i tuoi prodotti dagli altri?", "Dov'è il mio ordine?"],
+      "PRODUCT": ["Cosa rende questo prodotto speciale?", "Mostrami più prodotti simili a questo", "Qual è la politica di reso di questo prodotto?"],
+      "SEARCH": ["Mostrami i prodotti più rilevanti per me", "Raffina i risultati in base alle mie esigenze", "Quali sono alcune scelte popolari tra questi?"]
     }
   },
   "translations": {
@@ -47,7 +31,7 @@
     "moreVariantsAvailable": "Più varianti disponibili",
     "navigationPageTitle": "Hai inserito la pagina {{navigationContext}}",
     "noThanks": "No, grazie",
-    "ourTopPicks": "Le nostre migliori scelte",
+    "ourTopPicks": "Scelte migliori",
     "ourTopProduct": "I nostri prodotti migliori",
     "poweredBy": "Powered by",
     "rewardForYou": "Ricompense solo per te 🎉",
@@ -71,7 +55,7 @@
     "whatAreYourBestSellers": "Quali sono i tuoi prodotti più venduti?",
     "yesSure": "Sì, certo!",
     "seeCuratedRecommendations": "Vedi raccomandazioni selezionate",
-    "handpicked": "Scelti apposta per te!",
+    "handpicked": "Selezionato",
     "veryHelpful": "Molto utile",
     "notHelpful": "Non utile",
     "itWasOkay": "È andato bene",
