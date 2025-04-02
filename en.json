@@ -65,14 +65,31 @@
     "noSearchResultFound": "No result found",
     "askMeAnything": "Ask me anything",
     "validPhoneNumber": "Please enter a valid phone number",
-    "enter_phone_here": "Enter phone number"
+    "enter_phone_here": "Enter phone number",
+    "additionalDetails": "Additional details"
   },
   "others": {
     "suggestedReplies": {
-      "PRODUCT": ["What makes this product stand out?", "Show me more products like this", "What is the return policy of this product?"],
-      "COLLECTION": ["What are your best-selling products?", "What sets your products apart from others?", "Where is my order?"],
-      "SEARCH": ["Show me the most relevant products for me", "Refine the results based on my requirements", "What are some popular picks among these?"],
-      "OTHER": ["What are your best-selling products?", "What sets your products apart from others?", "Where is my order?"]
+      "PRODUCT": [
+        "What makes this product stand out?",
+        "Show me more products like this",
+        "What is the return policy of this product?"
+      ],
+      "COLLECTION": [
+        "What are your best-selling products?",
+        "What sets your products apart from others?",
+        "Where is my order?"
+      ],
+      "SEARCH": [
+        "Show me the most relevant products for me",
+        "Refine the results based on my requirements",
+        "What are some popular picks among these?"
+      ],
+      "OTHER": [
+        "What are your best-selling products?",
+        "What sets your products apart from others?",
+        "Where is my order?"
+      ]
     },
     "popUpMessages": {
       "SEARCH": "Can't find what you're looking for? Let me help you find exactly what you're looking for.",
