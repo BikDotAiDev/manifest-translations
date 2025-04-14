@@ -66,7 +66,8 @@
     "askMeAnything": "Ask me anything",
     "validPhoneNumber": "Please enter a valid phone number",
     "enter_phone_here": "Enter phone number",
-    "additionalDetails": "Additional details"
+    "additionalDetails": "Additional details",
+    "addCommentsHere": "Add comments here"
   },
   "others": {
     "suggestedReplies": {
