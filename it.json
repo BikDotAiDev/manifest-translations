@@ -96,6 +96,8 @@
         "welcomeMessageHomePage": "Benvenuto su {{storeName}}! Come posso aiutarti oggi?",
         "welcomeMessageProductPage": "Chiedimi qualsiasi cosa su questo prodotto",
         "whatAreYourBestSellers": "Quali sono i tuoi prodotti più venduti?",
-        "yesSure": "Sì, certo!"
+        "yesSure": "Sì, certo!",
+        "insideCustomWorkflow": "Sei all'interno del flusso {{query}}",
+        "leaveCustomWorkflow": "Stai per uscire dal flusso {{query}}"
     }
 }

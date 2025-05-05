@@ -122,5 +122,7 @@
   "enter_phone_here": "กรุณาใส่หมายเลขโทรศัพท์ของคุณที่นี่",
   "viewResultsFromCollection": "ดูผลลัพธ์จากคอลเลกชันนี้",
   "handpicked": "คัดสรรมาอย่างดี",
-  "ourTopPicks": "ตัวเลือกยอดนิยม"
+  "ourTopPicks": "ตัวเลือกยอดนิยม",
+  "insideCustomWorkflow": "คุณอยู่ในโฟลว์ {{query}}",
+  "leaveCustomWorkflow": "คุณกำลังจะออกจากโฟลว์ {{query}}"
 }

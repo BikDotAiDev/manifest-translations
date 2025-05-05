@@ -97,6 +97,8 @@
         "welcomeMessageHomePage": "{{storeName}}へようこそ！今日はどのようにお手伝いしましょうか？",
         "welcomeMessageProductPage": "この商品について何でもお聞きください",
         "whatAreYourBestSellers": "貴社のベストセラー製品は何ですか？",
-        "yesSure": "はい、もちろん！"
+        "yesSure": "はい、もちろん！",
+        "insideCustomWorkflow": "{{query}}フローの中にいます",
+        "leaveCustomWorkflow": "{{query}}フローを離れようとしています"
     }
 }

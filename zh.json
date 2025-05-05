@@ -96,7 +96,9 @@
         "welcomeMessageHomePage": "歡迎來到 {{storeName}}！今天我能幫您什麼？",
         "welcomeMessageProductPage": "問我任何關於該產品的問題",
         "whatAreYourBestSellers": "你們的暢銷產品有哪些？",
-        "yesSure": "好的，當然！"
+        "yesSure": "好的，當然！",
+        "insideCustomWorkflow": "您正在 {{query}} 流程中",
+        "leaveCustomWorkflow": "您即将离开 {{query}} 流程"
     },
     "welcomeMessageCollectionNamePage": "問我任何關於 {{collectionName}} 系列的問題"
 }

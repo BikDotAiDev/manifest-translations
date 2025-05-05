@@ -67,7 +67,9 @@
     "validPhoneNumber": "Please enter a valid phone number",
     "enter_phone_here": "Enter phone number",
     "additionalDetails": "Additional details",
-    "addCommentsHere": "Add comments here"
+    "addCommentsHere": "Add comments here",
+    "insideCustomWorkflow": "You’re inside {{query}} flow",
+    "leaveCustomWorkflow": "You’re about to leave the {{query}} flow"
   },
   "others": {
     "suggestedReplies": {

@@ -122,5 +122,7 @@
   "enter_phone_here": "Molimo unesite svoj telefonski broj ovdje",
   "viewResultsFromCollection": "Pogledaj rezultate iz ove kolekcije",
   "handpicked": "Pomno odabrano",
-  "ourTopPicks": "Najbolji odabiri"
+  "ourTopPicks": "Najbolji odabiri",
+  "insideCustomWorkflow": "Nalazite se unutar toka {{query}}",
+  "leaveCustomWorkflow": "Upravo ćete napustiti tok {{query}}"
 }

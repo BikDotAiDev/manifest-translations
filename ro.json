@@ -96,6 +96,8 @@
         "welcomeMessageHomePage": "Bine ai venit la {{storeName}}! Cum pot să te ajut azi?",
         "welcomeMessageProductPage": "Întreabă-mă orice despre acest produs",
         "whatAreYourBestSellers": "Care sunt produsele noastre cele mai bine vândute?",
-        "yesSure": "Da, sigur!"
+        "yesSure": "Da, sigur!",
+        "insideCustomWorkflow": "Ești în fluxul {{query}}",
+        "leaveCustomWorkflow": "Ești pe cale să părăsești fluxul {{query}}"
     }
 }

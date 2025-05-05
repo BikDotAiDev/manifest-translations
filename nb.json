@@ -96,6 +96,8 @@
         "welcomeMessageHomePage": "Velkommen til {{storeName}}! Hvordan kan jeg hjelpe deg i dag?",
         "welcomeMessageProductPage": "Spør meg om hva som helst angående dette produktet",
         "whatAreYourBestSellers": "Hva er dine bestselgende produkter?",
-        "yesSure": "Ja, selvfølgelig!"
+        "yesSure": "Ja, selvfølgelig!",
+        "insideCustomWorkflow": "Du er inne i {{query}}-flyten",
+        "leaveCustomWorkflow": "Du er i ferd med å forlate {{query}}-flyten"
     }
 }

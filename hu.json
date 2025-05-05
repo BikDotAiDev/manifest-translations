@@ -96,6 +96,8 @@
         "welcomeMessageHomePage": "Üdvözöljük a(z) {{storeName}} üzletben! Hogyan segíthetek Önnek ma?",
         "welcomeMessageProductPage": "Kérdezzen bármit erről a termékről",
         "whatAreYourBestSellers": "Mi a legjobban eladott termékeitek?",
-        "yesSure": "Igen, persze!"
+        "yesSure": "Igen, persze!",
+        "insideCustomWorkflow": "A(z) {{query}} folyamatban vagy",
+        "leaveCustomWorkflow": "Hamarosan elhagyod a(z) {{query}} folyamatot"
     }
 }
