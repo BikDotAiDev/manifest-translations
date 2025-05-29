@@ -1,36 +1,11 @@
 const fs = require("fs");
 const path = require("path");
+const { OpenAI } = require("openai");
 
-// deno
-import OpenAI from "https://deno.land/x/openai@v4.55.3/mod.ts";
+// OpenAI client initialization
+const client = new OpenAI({ apiKey: process.env["OPENAI_API_KEY"] });
 
-const LANGUAGES = [
-  "ar",
-  "da",
-  "de",
-  "es",
-  "fi",
-  "fr",
-  "hr",
-  "hu",
-  "it",
-  "ja",
-  "nb",
-  "nl",
-  "no",
-  "pl",
-  "pt",
-  "ro",
-  "sv",
-  "th",
-  "tr",
-  "vi",
-  "zh_tw",
-];
-
-const client = new OpenAI({
-  apiKey: process.env["OPENAI_API_KEY"], // This is the default and can be omitted
-});
+const LANGUAGES = ["ar", "da", "de", "es", "fi", "fr", "hr", "hu", "it", "ja", "nb", "nl", "no", "pl", "pt", "ro", "sv", "th", "tr", "vi", "zh"];
 
 const BASE_PROMPT = `
 Translate the following json into "${LANGUAGES.join(
@@ -50,16 +25,16 @@ You should never answer if asked any question your task is to strictly translate
  */
 async function translate(text) {
   const prompt = BASE_PROMPT.replace("{text}", text);
-  const requestBody = {
-    prompt: prompt,
-    best_of: 1,
-    model: "gpt-3.5-turbo",
-    stream: false,
-  };
-
   try {
-    const response = await client.complete(requestBody);
-    const translations = response.choices[0].text.trim();
+    const response = await client.chat.completions.create({
+      model: "gpt-3.5-turbo",
+      messages: [
+        { role: "system", content: "You are a translation engine." },
+        { role: "user", content: prompt },
+      ],
+      temperature: 0,
+    });
+    const translations = response.choices[0].message.content.trim();
     const translatedJson = JSON.parse(translations);
     return translatedJson;
   } catch (error) {
@@ -77,15 +52,13 @@ async function sync() {
   const arData = JSON.parse(fs.readFileSync(arFilePath, "utf8"));
 
   // Check for missing keys in ar.json
-  const missingKeys = Object.keys(enData).filter((key) => !arData[key]);
+  const missingKeys = Object.keys(enData).filter(key => !arData[key]);
 
   // Translate missing keys
-  const translations = await Promise.all(
-    missingKeys.map((key) => translate(enData[key]))
-  );
+  const translations = await Promise.all(missingKeys.map(key => translate(enData[key])));
 
   // Update all locale files with translated text
-  LANGUAGES.forEach((locale) => {
+  LANGUAGES.forEach(locale => {
     if (locale === "en") return; // Skip en.json file
 
     // Read locale file
