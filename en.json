@@ -69,7 +69,9 @@
     "additionalDetails": "Additional details",
     "addCommentsHere": "Add comments here",
     "insideCustomWorkflow": "You’re inside the {{query}} flow",
-    "leaveCustomWorkflow": "You’re about to leave the {{query}} flow"
+    "leaveCustomWorkflow": "You’re about to leave the {{query}} flow",
+    "faqFull": "Frequently Asked Questions",
+    "needHelpAskAi": "Need help? Ask AI anything!"
   },
   "others": {
     "suggestedReplies": {
