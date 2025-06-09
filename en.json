@@ -71,30 +71,15 @@
     "insideCustomWorkflow": "You’re inside the {{query}} flow",
     "leaveCustomWorkflow": "You’re about to leave the {{query}} flow",
     "faqFull": "Frequently Asked Questions",
-    "needHelpAskAi": "Need help? Ask AI anything!"
+    "needHelpAskAi": "Need help? Ask AI anything!",
+    "quickActions": "Quick Actions"
   },
   "others": {
     "suggestedReplies": {
-      "PRODUCT": [
-        "What makes this product stand out?",
-        "Show me more products like this",
-        "What is the return policy of this product?"
-      ],
-      "COLLECTION": [
-        "What are your best-selling products?",
-        "What sets your products apart from others?",
-        "Where is my order?"
-      ],
-      "SEARCH": [
-        "Show me the most relevant products for me",
-        "Refine the results based on my requirements",
-        "What are some popular picks among these?"
-      ],
-      "OTHER": [
-        "What are your best-selling products?",
-        "What sets your products apart from others?",
-        "Where is my order?"
-      ]
+      "PRODUCT": ["What makes this product stand out?", "Show me more products like this", "What is the return policy of this product?"],
+      "COLLECTION": ["What are your best-selling products?", "What sets your products apart from others?", "Where is my order?"],
+      "SEARCH": ["Show me the most relevant products for me", "Refine the results based on my requirements", "What are some popular picks among these?"],
+      "OTHER": ["What are your best-selling products?", "What sets your products apart from others?", "Where is my order?"]
     },
     "popUpMessages": {
       "SEARCH": "Can't find what you're looking for? Let me help you find exactly what you're looking for.",

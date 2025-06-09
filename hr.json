@@ -126,5 +126,6 @@
   "insideCustomWorkflow": "Nalazite se unutar toka {{query}}",
   "leaveCustomWorkflow": "Upravo ćete napustiti tok {{query}}",
   "faqFull": "Često postavljana pitanja",
-  "needHelpAskAi": "Trebate pomoć? Pitajte AI bilo što!"
+  "needHelpAskAi": "Trebate pomoć? Pitajte AI bilo što!",
+  "quickActions": "Brze radnje"
 }
