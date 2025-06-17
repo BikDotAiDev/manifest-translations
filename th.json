@@ -124,5 +124,8 @@
   "handpicked": "คัดสรรมาอย่างดี",
   "ourTopPicks": "ตัวเลือกยอดนิยม",
   "insideCustomWorkflow": "คุณอยู่ในโฟลว์ {{query}}",
-  "leaveCustomWorkflow": "คุณกำลังจะออกจากโฟลว์ {{query}}"
+  "leaveCustomWorkflow": "คุณกำลังจะออกจากโฟลว์ {{query}}",
+  "faqFull": "คำถามที่พบบ่อย",
+  "needHelpAskAi": "ต้องการความช่วยเหลือหรือไม่? ถาม AI ได้ทุกเรื่อง!",
+  "quickActions": "การดำเนินการด่วน"
 }
