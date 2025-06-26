@@ -84,7 +84,7 @@
     "yesSure": "Kyllä, totta kai!",
     "insideCustomWorkflow": "Olet sisällä {{query}}-prosessissa",
     "leaveCustomWorkflow": "Olet poistumassa {{query}}-prosessista",
-    "faqFull": "Usein kysytyt kysymykset",
+    "faqFull": "Usein kysytty",
     "needHelpAskAi": "Tarvitsetko apua? Kysy tekoälyltä mitä tahansa!"
   }
 }
