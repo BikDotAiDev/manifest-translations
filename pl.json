@@ -84,7 +84,7 @@
     "yesSure": "Tak, oczywiście!",
     "insideCustomWorkflow": "Jesteś w przepływie {{query}}",
     "leaveCustomWorkflow": "Zaraz opuścisz przepływ {{query}}",
-    "faqFull": "Najczęściej zadawane pytania",
+    "faqFull": "Często zadawane",
     "needHelpAskAi": "Potrzebujesz pomocy? Zapytaj AI o cokolwiek!"
   }
 }

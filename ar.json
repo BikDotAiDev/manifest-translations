@@ -84,7 +84,7 @@
     "yesSure": "نعم، بالتأكيد!",
     "insideCustomWorkflow": "أنت داخل سير عمل {{query}}",
     "leaveCustomWorkflow": "أنت على وشك مغادرة سير العمل {{query}}",
-    "faqFull": "الأسئلة الشائعة",
+    "faqFull": "أسئلة متكررة",
     "needHelpAskAi": "هل تحتاج إلى مساعدة؟ اسأل الذكاء الاصطناعي عن أي شيء!"
   }
 }

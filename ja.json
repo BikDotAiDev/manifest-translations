@@ -85,7 +85,7 @@
     "yesSure": "はい、もちろん！",
     "insideCustomWorkflow": "{{query}}フローの中にいます",
     "leaveCustomWorkflow": "{{query}}フローを離れようとしています",
-    "faqFull": "よくある質問",
+    "faqFull": "よく聞かれる",
     "needHelpAskAi": "お困りですか？AIに何でも聞いてください！"
   }
 }

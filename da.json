@@ -84,7 +84,7 @@
     "yesSure": "Ja, selvfølgelig!",
     "insideCustomWorkflow": "Du er inde i {{query}}-flowet",
     "leaveCustomWorkflow": "Du er ved at forlade {{query}}-flowet",
-    "faqFull": "Ofte stillede spørgsmål",
+    "faqFull": "Ofte stillede",
     "needHelpAskAi": "Brug for hjælp? Spørg AI om hvad som helst!"
   }
 }

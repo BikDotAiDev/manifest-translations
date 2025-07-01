@@ -84,7 +84,7 @@
     "yesSure": "Ja, sicher!",
     "insideCustomWorkflow": "Du befindest dich im {{query}}-Flow",
     "leaveCustomWorkflow": "Du bist dabei, den {{query}}-Flow zu verlassen",
-    "faqFull": "Häufig gestellte Fragen",
+    "faqFull": "Häufig gestellt",
     "needHelpAskAi": "Brauchst du Hilfe? Frag die KI alles!"
   }
 }

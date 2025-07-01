@@ -89,7 +89,7 @@
     "yesSure": "Oui, bien sûr!",
     "insideCustomWorkflow": "Vous êtes dans le flux {{query}}",
     "leaveCustomWorkflow": "Vous êtes sur le point de quitter le flux {{query}}",
-    "faqFull": "Foire aux questions",
+    "faqFull": "Fréquemment posé",
     "needHelpAskAi": "Besoin d'aide ? Demandez n'importe quoi à l'IA !"
   }
 }
