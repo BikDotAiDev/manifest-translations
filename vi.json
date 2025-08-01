@@ -85,6 +85,13 @@
     "insideCustomWorkflow": "Bạn đang ở trong luồng {{query}}",
     "leaveCustomWorkflow": "Bạn sắp rời khỏi luồng {{query}}",
     "faqFull": "Câu hỏi thường gặp",
-    "needHelpAskAi": "Cần giúp đỡ? Hãy hỏi AI bất cứ điều gì!"
+    "needHelpAskAi": "Cần giúp đỡ? Hãy hỏi AI bất cứ điều gì!",
+    "orderFormUnverifiedTrackOrderPrompt": "Xin vui lòng nhập thông tin để theo dõi đơn hàng của bạn",
+    "orderFormUnverifiedOrderDetailsLabel": "Chi tiết đơn hàng",
+    "orderFormUnverifiedInputPlaceholder": "Địa chỉ Email / Số điện thoại / Mã đơn hàng",
+    "orderFormUnverifiedTooltipText": "Bạn có thể nhập Email, Số điện thoại hoặc Mã đơn hàng bắt đầu bằng '#'",
+    "orderFormSubmitButton": "Gửi đi",
+    "orderFormDontRememberLink": "Không nhớ bất kỳ thông tin nào?",
+    "orderFormTrackingPortalLink": "Kiểm tra cổng theo dõi của chúng tôi"
   }
 }
