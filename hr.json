@@ -158,5 +158,20 @@
   "orderFormEmailOnlyResend": "Pošaljite ponovo",
   "orderFormEmailOnlyVerifyButton": "Potvrdite",
   "orderFormEmailOnlyDontRememberEmail": "Ne sjećate se svoje e-mail adrese?",
-  "orderFormEmailOnlyResendIn": "Ponovno pošalji za {{countdown}}s"
+  "orderFormEmailOnlyResendIn": "Ponovno pošalji za {{countdown}}s",
+  "orderFormFallbackNoOtherOptions": "Nema problema, imamo druge opcije dostupne za pomoć s vašom narudžbom.",
+  "orderFormFallbackTalkToAgent": "Razgovarajte s agentom",
+  "orderFormFallbackCheckTrackingPortal": "Provjerite naš portal za praćenje",
+  "insideOrderTrackingFlow": "Nalazite se u tijeku praćenja narudžbe",
+  "startNewConversation": "Započnite novi razgovor",
+  "orderItemsHeader": "Evo vaših zadnjih 5 narudžbi",
+  "orderItemsSubtitle": "Odaberite onu za koju želite vidjeti detalje",
+  "orderDetailsHeader": "Evo detalja vaše narudžbe",
+  "clickHereToTrack": "Kliknite ovdje za praćenje",
+  "usingTrackingNumber": "koristebroj [{{trackingNumber}}]",
+  "orderTrackingComplete": "Vaš zadatak praćenja narudžbe je završen",
+  "orderFormNoOrderFoundForType": "Nijedna narudžba nije pronađena za ovaj {{inputTypeLabel}}. Molimo pokušajte ponovno.",
+  "orderFormInputTypeEmail": "E-mail adresa",
+  "orderFormInputTypePhone": "broj telefona",
+  "orderFormInputTypeOrderId": "ID narudžbe"
 }

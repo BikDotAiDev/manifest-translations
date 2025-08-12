@@ -158,5 +158,20 @@
   "orderFormEmailOnlyResend": "ส่งใหม่",
   "orderFormEmailOnlyVerifyButton": "ยืนยัน",
   "orderFormEmailOnlyDontRememberEmail": "จำที่อยู่อีเมลของคุณไม่ได้ใช่ไหม?",
-  "orderFormEmailOnlyResendIn": "ส่งใหม่ในอีก {{countdown}} วินาที"
+  "orderFormEmailOnlyResendIn": "ส่งใหม่ในอีก {{countdown}} วินาที",
+  "orderFormFallbackNoOtherOptions": "ไม่เป็นไร เรามีตัวเลือกอื่นๆ ที่สามารถช่วยเหลือคุณเกี่ยวกับคำสั่งซื้อของคุณได้",
+  "orderFormFallbackTalkToAgent": "พูดคุยกับเอเจนต์",
+  "orderFormFallbackCheckTrackingPortal": "ตรวจสอบพอร์ทัลการติดตามของเรา",
+  "insideOrderTrackingFlow": "คุณอยู่ในขั้นตอนการติดตามคำสั่งซื้อ",
+  "startNewConversation": "เริ่มการสนทนาใหม่",
+  "orderItemsHeader": "นี่คือคำสั่งซื้อ 5 รายการล่าสุดของคุณ",
+  "orderItemsSubtitle": "เลือกรายการที่คุณต้องการดูรายละเอียด",
+  "orderDetailsHeader": "นี่คือรายละเอียดคำสั่งซื้อของคุณ",
+  "clickHereToTrack": "คลิกที่นี่เพื่อติดตาม",
+  "usingTrackingNumber": "โดยใช้หมายเลข [{{trackingNumber}}]",
+  "orderTrackingComplete": "งานติดตามคำสั่งซื้อของคุณเสร็จสิ้นแล้ว",
+  "orderFormNoOrderFoundForType": "ไม่พบคำสั่งซื้อสำหรับ {{inputTypeLabel}} นี้ กรุณาลองใหม่อีกครั้ง",
+  "orderFormInputTypeEmail": "ที่อยู่อีเมล",
+  "orderFormInputTypePhone": "หมายเลขโทรศัพท์",
+  "orderFormInputTypeOrderId": "รหัสคำสั่งซื้อ"
 }

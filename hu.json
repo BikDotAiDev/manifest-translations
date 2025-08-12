@@ -116,6 +116,21 @@
     "welcomeMessageHomePage": "Üdvözlünk a {{storeName}}-ban! Hogyan segíthetek ma?",
     "welcomeMessageProductPage": "Kérdezz bármit erről a termékről",
     "whatAreYourBestSellers": "Melyek a legkelendőbb termékeitek?",
-    "yesSure": "Igen, természetesen!"
+    "yesSure": "Igen, természetesen!",
+    "orderFormFallbackNoOtherOptions": "Semmi baj, más lehetőségek is rendelkezésre állnak a rendelésével kapcsolatos segítségnyújtáshoz.",
+    "orderFormFallbackTalkToAgent": "Beszélj egy ügynökkel",
+    "orderFormFallbackCheckTrackingPortal": "Nézd meg a nyomkövetési portálunkat",
+    "insideOrderTrackingFlow": "A rendeléskövetési folyamatban vagy",
+    "startNewConversation": "Új beszélgetés kezdése",
+    "orderItemsHeader": "Itt vannak az utolsó 5 rendelésed",
+    "orderItemsSubtitle": "Válaszd ki azt, amelyről részleteket szeretnél látni",
+    "orderDetailsHeader": "Itt vannak a rendelés részletei",
+    "clickHereToTrack": "Kattints ide a követéshez",
+    "usingTrackingNumber": "a [{{trackingNumber}}] szám használatával",
+    "orderTrackingComplete": "A rendeléskövetési feladat befejeződött",
+    "orderFormNoOrderFoundForType": "Nincs rendelés ehhez a {{inputTypeLabel}}-hoz. Kérlek próbáld újra.",
+    "orderFormInputTypeEmail": "Email cím",
+    "orderFormInputTypePhone": "telefonszám",
+    "orderFormInputTypeOrderId": "Rendelési azonosító"
   }
 }

@@ -116,6 +116,21 @@
     "orderFormEmailOnlyResend": "重新发送",
     "orderFormEmailOnlyVerifyButton": "验证",
     "orderFormEmailOnlyDontRememberEmail": "不记得您的邮箱地址？",
-    "orderFormEmailOnlyResendIn": "{{countdown}}秒后重新发送"
+    "orderFormEmailOnlyResendIn": "{{countdown}}秒后重新发送",
+    "orderFormFallbackNoOtherOptions": "没问题，我们还有其他选项可以帮助您处理订单。",
+    "orderFormFallbackTalkToAgent": "与客服对话",
+    "orderFormFallbackCheckTrackingPortal": "查看我们的追踪门户",
+    "insideOrderTrackingFlow": "您正在订单追踪流程中",
+    "startNewConversation": "开始新对话",
+    "orderItemsHeader": "这是您最近的5个订单",
+    "orderItemsSubtitle": "选择您想查看详情的订单",
+    "orderDetailsHeader": "这是您的订单详情",
+    "clickHereToTrack": "点击此处追踪",
+    "usingTrackingNumber": "使用编号[{{trackingNumber}}]",
+    "orderTrackingComplete": "您的订单追踪任务已完成",
+    "orderFormNoOrderFoundForType": "未找到此{{inputTypeLabel}}的订单。请重试。",
+    "orderFormInputTypeEmail": "邮箱地址",
+    "orderFormInputTypePhone": "电话号码",
+    "orderFormInputTypeOrderId": "订单ID"
   }
 }

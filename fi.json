@@ -116,6 +116,21 @@
     "orderFormEmailOnlyResend": "Lähetä uudelleen",
     "orderFormEmailOnlyVerifyButton": "Vahvista",
     "orderFormEmailOnlyDontRememberEmail": "Et muista sähköpostiosoitettasi?",
-    "orderFormEmailOnlyResendIn": "Lähetä uudelleen {{countdown}}s kuluttua"
+    "orderFormEmailOnlyResendIn": "Lähetä uudelleen {{countdown}}s kuluttua",
+    "orderFormFallbackNoOtherOptions": "Ei ongelmaa, meillä on muita vaihtoehtoja auttaa sinua tilauksesi kanssa.",
+    "orderFormFallbackTalkToAgent": "Keskustele asiakaspalvelijan kanssa",
+    "orderFormFallbackCheckTrackingPortal": "Tarkista seurantaportaalimme",
+    "insideOrderTrackingFlow": "Olet tilauksen seurantavirrassa",
+    "startNewConversation": "Aloita uusi keskustelu",
+    "orderItemsHeader": "Tässä ovat 5 viimeisintä tilaustasi",
+    "orderItemsSubtitle": "Valitse se, jonka tiedot haluat nähdä",
+    "orderDetailsHeader": "Tässä ovat tilauksesi tiedot",
+    "clickHereToTrack": "Klikkaa tästä seurataksesi",
+    "usingTrackingNumber": "numerolla [{{trackingNumber}}]",
+    "orderTrackingComplete": "Tilauksen seurantatehtäväsi on valmis",
+    "orderFormNoOrderFoundForType": "Tälle {{inputTypeLabel}} ei löytynyt tilausta. Yritä uudelleen.",
+    "orderFormInputTypeEmail": "Sähköpostiosoite",
+    "orderFormInputTypePhone": "puhelinnumero",
+    "orderFormInputTypeOrderId": "Tilausnumero"
   }
 }

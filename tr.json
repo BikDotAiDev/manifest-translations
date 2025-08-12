@@ -116,6 +116,21 @@
     "orderFormEmailOnlyResend": "Tekrar gönder",
     "orderFormEmailOnlyVerifyButton": "Doğrula",
     "orderFormEmailOnlyDontRememberEmail": "E-posta adresinizi hatırlamıyor musunuz?",
-    "orderFormEmailOnlyResendIn": "{{countdown}}s sonra tekrar gönder"
+    "orderFormEmailOnlyResendIn": "{{countdown}}s sonra tekrar gönder",
+    "orderFormFallbackNoOtherOptions": "Sorun değil, siparişinizle ilgili size yardımcı olacak başka seçeneklerimiz var.",
+    "orderFormFallbackTalkToAgent": "Bir temsilciyle konuşun",
+    "orderFormFallbackCheckTrackingPortal": "Takip portalımızı kontrol edin",
+    "insideOrderTrackingFlow": "Sipariş takip akışındasınız",
+    "startNewConversation": "Yeni konuşma başlat",
+    "orderItemsHeader": "İşte son 5 siparişiniz",
+    "orderItemsSubtitle": "Detaylarını görmek istediğinizi seçin",
+    "orderDetailsHeader": "İşte sipariş detaylarınız",
+    "clickHereToTrack": "Takip etmek için buraya tıklayın",
+    "usingTrackingNumber": "[{{trackingNumber}}] numarasını kullanarak",
+    "orderTrackingComplete": "Sipariş takip göreviniz tamamlandı",
+    "orderFormNoOrderFoundForType": "Bu {{inputTypeLabel}} için sipariş bulunamadı. Lütfen tekrar deneyin.",
+    "orderFormInputTypeEmail": "E-posta adresi",
+    "orderFormInputTypePhone": "telefon numarası",
+    "orderFormInputTypeOrderId": "Sipariş kimliği"
   }
 }

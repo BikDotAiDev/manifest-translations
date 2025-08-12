@@ -116,6 +116,21 @@
     "orderFormEmailOnlyResend": "Send på nytt",
     "orderFormEmailOnlyVerifyButton": "Bekreft",
     "orderFormEmailOnlyDontRememberEmail": "Husker du ikke e-postadressen din?",
-    "orderFormEmailOnlyResendIn": "Send på nytt om {{countdown}}s"
+    "orderFormEmailOnlyResendIn": "Send på nytt om {{countdown}}s",
+    "orderFormFallbackNoOtherOptions": "Ikke noe problem, vi har andre alternativer tilgjengelig for å hjelpe deg med bestillingen din.",
+    "orderFormFallbackTalkToAgent": "Snakk med en agent",
+    "orderFormFallbackCheckTrackingPortal": "Sjekk vårt sporingsportal",
+    "insideOrderTrackingFlow": "Du er inne i bestillingssporingsflyt",
+    "startNewConversation": "Start ny samtale",
+    "orderItemsHeader": "Her er dine siste 5 bestillinger",
+    "orderItemsSubtitle": "Velg den du vil se detaljer for",
+    "orderDetailsHeader": "Her er bestillingsdetaljene dine",
+    "clickHereToTrack": "Klikk her for å spore",
+    "usingTrackingNumber": "ved bruk av nummeret [{{trackingNumber}}]",
+    "orderTrackingComplete": "Din bestillingssporingsoppgave er fullført",
+    "orderFormNoOrderFoundForType": "Ingen bestilling funnet for denne {{inputTypeLabel}}. Prøv igjen.",
+    "orderFormInputTypeEmail": "E-postadresse",
+    "orderFormInputTypePhone": "telefonnummer",
+    "orderFormInputTypeOrderId": "Bestillings-ID"
   }
 }

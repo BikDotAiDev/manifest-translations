@@ -117,6 +117,21 @@
     "orderFormEmailOnlyResend": "再送信",
     "orderFormEmailOnlyVerifyButton": "認証する",
     "orderFormEmailOnlyDontRememberEmail": "メールアドレスを覚えていませんか？",
-    "orderFormEmailOnlyResendIn": "{{countdown}}秒後に再送信"
+    "orderFormEmailOnlyResendIn": "{{countdown}}秒後に再送信",
+    "orderFormFallbackNoOtherOptions": "問題ありません。ご注文に関してお手伝いできる他のオプションがあります。",
+    "orderFormFallbackTalkToAgent": "エージェントと話す",
+    "orderFormFallbackCheckTrackingPortal": "追跡ポータルを確認する",
+    "insideOrderTrackingFlow": "注文追跡フローの中にいます",
+    "startNewConversation": "新しい会話を開始",
+    "orderItemsHeader": "こちらが最新の5件のご注文です",
+    "orderItemsSubtitle": "詳細を見たいものを選択してください",
+    "orderDetailsHeader": "こちらがご注文の詳細です",
+    "clickHereToTrack": "追跡するにはここをクリック",
+    "usingTrackingNumber": "番号[{{trackingNumber}}]を使用",
+    "orderTrackingComplete": "注文追跡タスクが完了しました",
+    "orderFormNoOrderFoundForType": "この{{inputTypeLabel}}の注文が見つかりません。再度お試しください。",
+    "orderFormInputTypeEmail": "メールアドレス",
+    "orderFormInputTypePhone": "電話番号",
+    "orderFormInputTypeOrderId": "注文ID"
   }
 }

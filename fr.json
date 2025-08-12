@@ -121,6 +121,21 @@
     "orderFormEmailOnlyResend": "Renvoyer",
     "orderFormEmailOnlyVerifyButton": "Vérifier",
     "orderFormEmailOnlyDontRememberEmail": "Vous ne vous souvenez plus de votre adresse e-mail ?",
-    "orderFormEmailOnlyResendIn": "Renvoyer dans {{countdown}}s"
+    "orderFormEmailOnlyResendIn": "Renvoyer dans {{countdown}}s",
+    "orderFormFallbackNoOtherOptions": "Pas de problème, nous avons d'autres options disponibles pour vous aider avec votre commande.",
+    "orderFormFallbackTalkToAgent": "Parler à un agent",
+    "orderFormFallbackCheckTrackingPortal": "Vérifier notre portail de suivi",
+    "insideOrderTrackingFlow": "Vous êtes dans le flux de suivi de commande",
+    "startNewConversation": "Démarrer une nouvelle conversation",
+    "orderItemsHeader": "Voici vos 5 dernières commandes",
+    "orderItemsSubtitle": "Sélectionnez celle pour laquelle vous voulez voir les détails",
+    "orderDetailsHeader": "Voici les détails de votre commande",
+    "clickHereToTrack": "Cliquez ici pour suivre",
+    "usingTrackingNumber": "en utilisant le numéro [{{trackingNumber}}]",
+    "orderTrackingComplete": "Votre tâche de suivi de commande est terminée",
+    "orderFormNoOrderFoundForType": "Aucune commande trouvée pour cette {{inputTypeLabel}}. Veuillez réessayer.",
+    "orderFormInputTypeEmail": "Adresse e-mail",
+    "orderFormInputTypePhone": "numéro de téléphone",
+    "orderFormInputTypeOrderId": "ID de commande"
   }
 }

@@ -103,7 +103,22 @@
     "orderFormEmailOnlyResend": "Resend",
     "orderFormEmailOnlyVerifyButton": "Verify",
     "orderFormEmailOnlyDontRememberEmail": "Don't remember your email address?",
-    "orderFormEmailOnlyResendIn": "Resend in {{countdown}}s"
+    "orderFormEmailOnlyResendIn": "Resend in {{countdown}}s",
+    "orderFormFallbackNoOtherOptions": "No problem, we have other options available to assist you with your order.",
+    "orderFormFallbackTalkToAgent": "Talk to an agent",
+    "orderFormFallbackCheckTrackingPortal": "Check our tracking portal",
+    "insideOrderTrackingFlow": "You're inside order tracking flow",
+    "startNewConversation": "Start new conversation",
+    "orderItemsHeader": "Here are your last 5 orders",
+    "orderItemsSubtitle": "Select the one for which you want to see the details",
+    "orderDetailsHeader": "Here are your order details",
+    "clickHereToTrack": "Click here to track",
+    "usingTrackingNumber": "using the number [{{trackingNumber}}]",
+    "orderTrackingComplete": "Your order tracking task is complete",
+    "orderFormNoOrderFoundForType": "No order found for this {{inputTypeLabel}}. Please try again.",
+    "orderFormInputTypeEmail": "Email address",
+    "orderFormInputTypePhone": "phone number",
+    "orderFormInputTypeOrderId": "Order ID"
   },
   "others": {
     "suggestedReplies": {
