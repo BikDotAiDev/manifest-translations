@@ -116,6 +116,21 @@
     "welcomeMessageHomePage": "Bun venit la {{storeName}}! Cum te pot ajuta astăzi?",
     "welcomeMessageProductPage": "Întreabă-mă orice despre acest produs",
     "whatAreYourBestSellers": "Care sunt produsele tale cele mai bine vândute?",
-    "yesSure": "Da, sigur!"
+    "yesSure": "Da, sigur!",
+    "orderFormFallbackNoOtherOptions": "Nu e problemă, avem alte opțiuni disponibile pentru a vă ajuta cu comanda dumneavoastră.",
+    "orderFormFallbackTalkToAgent": "Discutați cu un agent",
+    "orderFormFallbackCheckTrackingPortal": "Verificați portalul nostru de urmărire",
+    "insideOrderTrackingFlow": "Sunteți în fluxul de urmărire a comenzii",
+    "startNewConversation": "Începeți o conversație nouă",
+    "orderItemsHeader": "Iată ultimele dumneavoastră 5 comenzi",
+    "orderItemsSubtitle": "Selectați cea pentru care doriți să vedeți detaliile",
+    "orderDetailsHeader": "Iată detaliile comenzii dumneavoastră",
+    "clickHereToTrack": "Faceți clic aici pentru a urmări",
+    "usingTrackingNumber": "folosind numărul [{{trackingNumber}}]",
+    "orderTrackingComplete": "Sarcina dumneavoastră de urmărire a comenzii este completă",
+    "orderFormNoOrderFoundForType": "Nu s-a găsit nicio comandă pentru acest {{inputTypeLabel}}. Vă rugăm să încercați din nou.",
+    "orderFormInputTypeEmail": "Adresa de e-mail",
+    "orderFormInputTypePhone": "numărul de telefon",
+    "orderFormInputTypeOrderId": "ID comandă"
   }
 }

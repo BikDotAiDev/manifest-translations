@@ -116,6 +116,21 @@
     "orderFormEmailOnlyResend": "Wyślij ponownie",
     "orderFormEmailOnlyVerifyButton": "Zweryfikuj",
     "orderFormEmailOnlyDontRememberEmail": "Nie pamiętasz adresu e-mail?",
-    "orderFormEmailOnlyResendIn": "Wyślij ponownie za {{countdown}}s"
+    "orderFormEmailOnlyResendIn": "Wyślij ponownie za {{countdown}}s",
+    "orderFormFallbackNoOtherOptions": "Nie ma problemu, mamy inne opcje dostępne, aby pomóc Ci z Twoim zamówieniem.",
+    "orderFormFallbackTalkToAgent": "Porozmawiaj z agentem",
+    "orderFormFallbackCheckTrackingPortal": "Sprawdź nasz portal śledzenia",
+    "insideOrderTrackingFlow": "Jesteś w przepływie śledzenia zamówienia",
+    "startNewConversation": "Rozpocznij nową rozmowę",
+    "orderItemsHeader": "Oto Twoje ostatnie 5 zamówień",
+    "orderItemsSubtitle": "Wybierz to, dla którego chcesz zobaczyć szczegóły",
+    "orderDetailsHeader": "Oto szczegóły Twojego zamówienia",
+    "clickHereToTrack": "Kliknij tutaj, aby śledzić",
+    "usingTrackingNumber": "używając numeru [{{trackingNumber}}]",
+    "orderTrackingComplete": "Twoje zadanie śledzenia zamówienia jest zakończone",
+    "orderFormNoOrderFoundForType": "Nie znaleziono zamówienia dla tego {{inputTypeLabel}}. Spróbuj ponownie.",
+    "orderFormInputTypeEmail": "Adres e-mail",
+    "orderFormInputTypePhone": "numer telefonu",
+    "orderFormInputTypeOrderId": "ID zamówienia"
   }
 }

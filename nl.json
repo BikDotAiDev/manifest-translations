@@ -120,6 +120,21 @@
     "orderFormEmailOnlyResend": "Opnieuw verzenden",
     "orderFormEmailOnlyVerifyButton": "Verifiëren",
     "orderFormEmailOnlyDontRememberEmail": "Weet je je e-mailadres niet meer?",
-    "orderFormEmailOnlyResendIn": "Opnieuw verzenden over {{countdown}}s"
+    "orderFormEmailOnlyResendIn": "Opnieuw verzenden over {{countdown}}s",
+    "orderFormFallbackNoOtherOptions": "Geen probleem, we hebben andere opties beschikbaar om je te helpen met je bestelling.",
+    "orderFormFallbackTalkToAgent": "Praat met een agent",
+    "orderFormFallbackCheckTrackingPortal": "Bekijk ons trackingportaal",
+    "insideOrderTrackingFlow": "Je bevindt je in de bestellingstracking flow",
+    "startNewConversation": "Nieuw gesprek starten",
+    "orderItemsHeader": "Hier zijn je laatste 5 bestellingen",
+    "orderItemsSubtitle": "Selecteer degene waarvan je de details wilt zien",
+    "orderDetailsHeader": "Hier zijn je bestellingsdetails",
+    "clickHereToTrack": "Klik hier om te volgen",
+    "usingTrackingNumber": "met het nummer [{{trackingNumber}}]",
+    "orderTrackingComplete": "Je bestellingstracking taak is voltooid",
+    "orderFormNoOrderFoundForType": "Geen bestelling gevonden voor deze {{inputTypeLabel}}. Probeer het opnieuw.",
+    "orderFormInputTypeEmail": "E-mailadres",
+    "orderFormInputTypePhone": "telefoonnummer",
+    "orderFormInputTypeOrderId": "Bestelling ID"
   }
 }

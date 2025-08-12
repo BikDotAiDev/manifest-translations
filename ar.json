@@ -116,6 +116,21 @@
     "orderFormEmailOnlyResend": "إعادة الإرسال",
     "orderFormEmailOnlyVerifyButton": "تحقق",
     "orderFormEmailOnlyDontRememberEmail": "ألا تتذكر عنوان بريدك الإلكتروني؟",
-    "orderFormEmailOnlyResendIn": "إعادة الإرسال خلال {{countdown}} ثانية"
+    "orderFormEmailOnlyResendIn": "إعادة الإرسال خلال {{countdown}} ثانية",
+    "orderFormFallbackNoOtherOptions": "لا مشكلة، لدينا خيارات أخرى متاحة لمساعدتك مع طلبك.",
+    "orderFormFallbackTalkToAgent": "تحدث مع وكيل",
+    "orderFormFallbackCheckTrackingPortal": "تحقق من بوابة التتبع الخاصة بنا",
+    "insideOrderTrackingFlow": "أنت داخل تدفق تتبع الطلب",
+    "startNewConversation": "بدء محادثة جديدة",
+    "orderItemsHeader": "إليك آخر 5 طلبات لك",
+    "orderItemsSubtitle": "اختر الطلب الذي تريد رؤية تفاصيله",
+    "orderDetailsHeader": "إليك تفاصيل طلبك",
+    "clickHereToTrack": "انقر هنا للتتبع",
+    "usingTrackingNumber": "باستخدام الرقم [{{trackingNumber}}]",
+    "orderTrackingComplete": "تم إكمال مهمة تتبع طلبك",
+    "orderFormNoOrderFoundForType": "لم يتم العثور على طلب لهذا {{inputTypeLabel}}. يرجى المحاولة مرة أخرى.",
+    "orderFormInputTypeEmail": "عنوان البريد الإلكتروني",
+    "orderFormInputTypePhone": "رقم الهاتف",
+    "orderFormInputTypeOrderId": "معرف الطلب"
   }
 }

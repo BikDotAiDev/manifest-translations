@@ -116,6 +116,21 @@
     "orderFormEmailOnlyResend": "Gửi lại",
     "orderFormEmailOnlyVerifyButton": "Xác minh",
     "orderFormEmailOnlyDontRememberEmail": "Bạn không nhớ địa chỉ email của mình?",
-    "orderFormEmailOnlyResendIn": "Gửi lại sau {{countdown}}s"
+    "orderFormEmailOnlyResendIn": "Gửi lại sau {{countdown}}s",
+    "orderFormFallbackNoOtherOptions": "Không sao cả, chúng tôi có các tùy chọn khác để hỗ trợ bạn với đơn hàng của mình.",
+    "orderFormFallbackTalkToAgent": "Nói chuyện với đại lý",
+    "orderFormFallbackCheckTrackingPortal": "Kiểm tra cổng theo dõi của chúng tôi",
+    "insideOrderTrackingFlow": "Bạn đang ở trong luồng theo dõi đơn hàng",
+    "startNewConversation": "Bắt đầu cuộc trò chuyện mới",
+    "orderItemsHeader": "Đây là 5 đơn hàng gần nhất của bạn",
+    "orderItemsSubtitle": "Chọn đơn hàng mà bạn muốn xem chi tiết",
+    "orderDetailsHeader": "Đây là chi tiết đơn hàng của bạn",
+    "clickHereToTrack": "Nhấp vào đây để theo dõi",
+    "usingTrackingNumber": "sử dụng số [{{trackingNumber}}]",
+    "orderTrackingComplete": "Nhiệm vụ theo dõi đơn hàng của bạn đã hoàn thành",
+    "orderFormNoOrderFoundForType": "Không tìm thấy đơn hàng cho {{inputTypeLabel}} này. Vui lòng thử lại.",
+    "orderFormInputTypeEmail": "Địa chỉ email",
+    "orderFormInputTypePhone": "số điện thoại",
+    "orderFormInputTypeOrderId": "ID đơn hàng"
   }
 }

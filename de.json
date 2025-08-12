@@ -116,6 +116,21 @@
     "orderFormEmailOnlyResend": "Erneut senden",
     "orderFormEmailOnlyVerifyButton": "Verifizieren",
     "orderFormEmailOnlyDontRememberEmail": "E-Mail-Adresse vergessen?",
-    "orderFormEmailOnlyResendIn": "Erneut senden in {{countdown}}s"
+    "orderFormEmailOnlyResendIn": "Erneut senden in {{countdown}}s",
+    "orderFormFallbackNoOtherOptions": "Kein Problem, wir haben andere Optionen verfügbar, um Ihnen bei Ihrer Bestellung zu helfen.",
+    "orderFormFallbackTalkToAgent": "Mit einem Agenten sprechen",
+    "orderFormFallbackCheckTrackingPortal": "Überprüfen Sie unser Tracking-Portal",
+    "insideOrderTrackingFlow": "Sie befinden sich im Bestellverfolgungsflow",
+    "startNewConversation": "Neue Unterhaltung beginnen",
+    "orderItemsHeader": "Hier sind Ihre letzten 5 Bestellungen",
+    "orderItemsSubtitle": "Wählen Sie die aus, für die Sie Details sehen möchten",
+    "orderDetailsHeader": "Hier sind Ihre Bestelldetails",
+    "clickHereToTrack": "Hier klicken zum Verfolgen",
+    "usingTrackingNumber": "mit der Nummer [{{trackingNumber}}]",
+    "orderTrackingComplete": "Ihre Bestellverfolgungsaufgabe ist abgeschlossen",
+    "orderFormNoOrderFoundForType": "Keine Bestellung für diese {{inputTypeLabel}} gefunden. Bitte versuchen Sie es erneut.",
+    "orderFormInputTypeEmail": "E-Mail-Adresse",
+    "orderFormInputTypePhone": "Telefonnummer",
+    "orderFormInputTypeOrderId": "Bestellnummer"
   }
 }

@@ -116,6 +116,21 @@
     "orderFormEmailOnlyResend": "Invia di nuovo",
     "orderFormEmailOnlyVerifyButton": "Verifica",
     "orderFormEmailOnlyDontRememberEmail": "Non ricordi il tuo indirizzo email?",
-    "orderFormEmailOnlyResendIn": "Invia di nuovo tra {{countdown}}s"
+    "orderFormEmailOnlyResendIn": "Invia di nuovo tra {{countdown}}s",
+    "orderFormFallbackNoOtherOptions": "Nessun problema, abbiamo altre opzioni disponibili per aiutarti con il tuo ordine.",
+    "orderFormFallbackTalkToAgent": "Parla con un agente",
+    "orderFormFallbackCheckTrackingPortal": "Controlla il nostro portale di tracciamento",
+    "insideOrderTrackingFlow": "Sei nel flusso di tracciamento ordini",
+    "startNewConversation": "Inizia una nuova conversazione",
+    "orderItemsHeader": "Ecco i tuoi ultimi 5 ordini",
+    "orderItemsSubtitle": "Seleziona quello di cui vuoi vedere i dettagli",
+    "orderDetailsHeader": "Ecco i dettagli del tuo ordine",
+    "clickHereToTrack": "Clicca qui per tracciare",
+    "usingTrackingNumber": "usando il numero [{{trackingNumber}}]",
+    "orderTrackingComplete": "Il tuo compito di tracciamento ordine è completato",
+    "orderFormNoOrderFoundForType": "Nessun ordine trovato per questo {{inputTypeLabel}}. Per favore riprova.",
+    "orderFormInputTypeEmail": "Indirizzo email",
+    "orderFormInputTypePhone": "numero di telefono",
+    "orderFormInputTypeOrderId": "ID ordine"
   }
 }

@@ -116,6 +116,21 @@
     "welcomeMessageHomePage": "Välkommen till {{storeName}}! Hur kan jag hjälpa dig idag?",
     "welcomeMessageProductPage": "Fråga mig vad som helst om denna produkt",
     "whatAreYourBestSellers": "Vilka är dina bästsäljande produkter?",
-    "yesSure": "Ja, visst!"
+    "yesSure": "Ja, visst!",
+    "orderFormFallbackNoOtherOptions": "Inga problem, vi har andra alternativ tillgängliga för att hjälpa dig med din beställning.",
+    "orderFormFallbackTalkToAgent": "Prata med en agent",
+    "orderFormFallbackCheckTrackingPortal": "Kolla vår spårningsportal",
+    "insideOrderTrackingFlow": "Du är inne i beställningsspårningsflödet",
+    "startNewConversation": "Starta ny konversation",
+    "orderItemsHeader": "Här är dina senaste 5 beställningar",
+    "orderItemsSubtitle": "Välj den som du vill se detaljer för",
+    "orderDetailsHeader": "Här är dina beställningsdetaljer",
+    "clickHereToTrack": "Klicka här för att spåra",
+    "usingTrackingNumber": "med numret [{{trackingNumber}}]",
+    "orderTrackingComplete": "Din beställningsspårningsuppgift är klar",
+    "orderFormNoOrderFoundForType": "Ingen beställning hittades för denna {{inputTypeLabel}}. Försök igen.",
+    "orderFormInputTypeEmail": "E-postadress",
+    "orderFormInputTypePhone": "telefonnummer",
+    "orderFormInputTypeOrderId": "Beställnings-ID"
   }
 }
