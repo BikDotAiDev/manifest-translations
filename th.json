@@ -127,5 +127,12 @@
   "leaveCustomWorkflow": "คุณกำลังจะออกจากโฟลว์ {{query}}",
   "faqFull": "คำถามที่พบบ่อย",
   "needHelpAskAi": "ต้องการความช่วยเหลือหรือไม่? ถาม AI ได้ทุกเรื่อง!",
-  "quickActions": "การดำเนินการด่วน"
+  "quickActions": "การดำเนินการด่วน",
+  "orderFormUnverifiedTrackOrderPrompt": "กรุณากรอกรายละเอียดเพื่อติดตามคำสั่งซื้อของคุณ",
+  "orderFormUnverifiedOrderDetailsLabel": "รายละเอียดคำสั่งซื้อ",
+  "orderFormUnverifiedInputPlaceholder": "ที่อยู่อีเมล / เบอร์โทรศัพท์ / รหัสคำสั่งซื้อ",
+  "orderFormUnverifiedTooltipText": "คุณสามารถกรอกอีเมล เบอร์โทรศัพท์ หรือรหัสคำสั่งซื้อที่ขึ้นต้นด้วย '#'",
+  "orderFormSubmitButton": "ส่ง",
+  "orderFormDontRememberLink": "จำอะไรไม่ได้เลย?",
+  "orderFormTrackingPortalLink": "ตรวจสอบพอร์ทัลติดตามของเรา"
 }
