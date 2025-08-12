@@ -114,6 +114,8 @@
     "orderFormEmailOnlyOtpExpired": "Kertakäyttökoodi on vanhentunut. Yritä uudelleen.",
     "orderFormEmailOnlyOtpError": "Kertakäyttökoodi ei täsmää. Yritä uudelleen.",
     "orderFormEmailOnlyResend": "Lähetä uudelleen",
-    "orderFormEmailOnlyVerifyButton": "Vahvista"
+    "orderFormEmailOnlyVerifyButton": "Vahvista",
+    "orderFormEmailOnlyDontRememberEmail": "Et muista sähköpostiosoitettasi?",
+    "orderFormEmailOnlyResendIn": "Lähetä uudelleen {{countdown}}s kuluttua"
   }
 }

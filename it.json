@@ -114,6 +114,8 @@
     "orderFormEmailOnlyOtpExpired": "L'OTP è scaduto. Riprova.",
     "orderFormEmailOnlyOtpError": "L'OTP non corrisponde. Riprova.",
     "orderFormEmailOnlyResend": "Invia di nuovo",
-    "orderFormEmailOnlyVerifyButton": "Verifica"
+    "orderFormEmailOnlyVerifyButton": "Verifica",
+    "orderFormEmailOnlyDontRememberEmail": "Non ricordi il tuo indirizzo email?",
+    "orderFormEmailOnlyResendIn": "Invia di nuovo tra {{countdown}}s"
   }
 }

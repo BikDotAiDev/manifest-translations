@@ -101,7 +101,9 @@
     "orderFormEmailOnlyOtpExpired": "OTP has expired. Please try again.",
     "orderFormEmailOnlyOtpError": "OTP doesn't match. Please try again.",
     "orderFormEmailOnlyResend": "Resend",
-    "orderFormEmailOnlyVerifyButton": "Verify"
+    "orderFormEmailOnlyVerifyButton": "Verify",
+    "orderFormEmailOnlyDontRememberEmail": "Don't remember your email address?",
+    "orderFormEmailOnlyResendIn": "Resend in {{countdown}}s"
   },
   "others": {
     "suggestedReplies": {

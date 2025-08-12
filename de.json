@@ -114,6 +114,8 @@
     "orderFormEmailOnlyOtpExpired": "OTP ist abgelaufen. Bitte versuchen Sie es erneut.",
     "orderFormEmailOnlyOtpError": "OTP stimmt nicht überein. Bitte versuchen Sie es erneut.",
     "orderFormEmailOnlyResend": "Erneut senden",
-    "orderFormEmailOnlyVerifyButton": "Verifizieren"
+    "orderFormEmailOnlyVerifyButton": "Verifizieren",
+    "orderFormEmailOnlyDontRememberEmail": "E-Mail-Adresse vergessen?",
+    "orderFormEmailOnlyResendIn": "Erneut senden in {{countdown}}s"
   }
 }
