@@ -114,6 +114,8 @@
     "orderFormEmailOnlyOtpExpired": "Engangskoden er udløbet. Prøv igen.",
     "orderFormEmailOnlyOtpError": "Engangskoden matcher ikke. Prøv igen.",
     "orderFormEmailOnlyResend": "Send igen",
-    "orderFormEmailOnlyVerifyButton": "Bekræft"
+    "orderFormEmailOnlyVerifyButton": "Bekræft",
+    "orderFormEmailOnlyDontRememberEmail": "Kan du ikke huske din e-mailadresse?",
+    "orderFormEmailOnlyResendIn": "Send igen om {{countdown}}s"
   }
 }

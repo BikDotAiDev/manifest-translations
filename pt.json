@@ -90,6 +90,9 @@
     "orderFormUnverifiedOrderDetailsLabel": "Detalhes do pedido",
     "orderFormUnverifiedInputPlaceholder": "Endereço de e-mail / Número de telefone / ID do pedido",
     "orderFormUnverifiedTooltipText": "Você pode inserir seu e-mail, telefone ou um ID de pedido que começa com '#'",
+    "orderFormSubmitButton": "Enviar",
+    "orderFormDontRememberLink": "Não se lembra de nenhum deles?",
+    "orderFormTrackingPortalLink": "Verifique nosso portal de rastreamento",
     "orderFormVerifyTrackOrderPrompt": "Digite os seguintes dados para rastrear seu pedido.",
     "orderFormVerifyOrderIdLabel": "ID do pedido",
     "orderFormVerifyOrderIdPlaceholder": "ID do pedido",
@@ -111,6 +114,8 @@
     "orderFormEmailOnlyOtpExpired": "O código expirou. Tente novamente.",
     "orderFormEmailOnlyOtpError": "O código não confere. Tente novamente.",
     "orderFormEmailOnlyResend": "Reenviar",
-    "orderFormEmailOnlyVerifyButton": "Verificar"
+    "orderFormEmailOnlyVerifyButton": "Verificar",
+    "orderFormEmailOnlyDontRememberEmail": "Não se lembra do seu endereço de e-mail?",
+    "orderFormEmailOnlyResendIn": "Reenviar em {{countdown}}s"
   }
 }

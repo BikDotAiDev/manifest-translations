@@ -90,6 +90,13 @@
     "leaveCustomWorkflow": "Je staat op het punt de {{query}}-flow te verlaten",
     "faqFull": "Veel gesteld",
     "needHelpAskAi": "Hulp nodig? Vraag AI alles!",
+    "orderFormUnverifiedTrackOrderPrompt": "Voer alstublieft de gegevens in om uw bestelling te volgen",
+    "orderFormUnverifiedOrderDetailsLabel": "Bestelgegevens",
+    "orderFormUnverifiedInputPlaceholder": "E-mailadres / Telefoonnummer / Bestel-ID",
+    "orderFormUnverifiedTooltipText": "U kunt uw e-mail, telefoonnummer of een bestel-ID invoeren dat begint met '#'",
+    "orderFormSubmitButton": "Verzenden",
+    "orderFormDontRememberLink": "Herinnert u zich geen van deze gegevens?",
+    "orderFormTrackingPortalLink": "Bekijk ons tracking portal",
     "orderFormVerifyTrackOrderPrompt": "Voer de volgende gegevens in om uw bestelling te volgen.",
     "orderFormVerifyOrderIdLabel": "Bestel-ID",
     "orderFormVerifyOrderIdPlaceholder": "Bestel-ID",
@@ -111,6 +118,8 @@
     "orderFormEmailOnlyOtpExpired": "De eenmalige code is verlopen. Probeer het opnieuw.",
     "orderFormEmailOnlyOtpError": "De eenmalige code komt niet overeen. Probeer het opnieuw.",
     "orderFormEmailOnlyResend": "Opnieuw verzenden",
-    "orderFormEmailOnlyVerifyButton": "Verifiëren"
+    "orderFormEmailOnlyVerifyButton": "Verifiëren",
+    "orderFormEmailOnlyDontRememberEmail": "Weet je je e-mailadres niet meer?",
+    "orderFormEmailOnlyResendIn": "Opnieuw verzenden over {{countdown}}s"
   }
 }
