@@ -139,6 +139,7 @@
     "orderTrackingIntent": "Chcę śledzić moje zamówienie",
     "orderCancellationIntent": "Chcę anulować moje zamówienie",
     "returnsRefundsPolicyIntent": "Chcę dowiedzieć się o polityce zwrotów i refundacji",
-    "offersRewardsIntent": "Chcę dowiedzieć się o aktualnych ofertach lub nagrodach"
+    "offersRewardsIntent": "Chcę dowiedzieć się o aktualnych ofertach lub nagrodach",
+    "offersEnquiryIntent": "Chcę wiedzieć o moim zamówieniu"
   }
 }

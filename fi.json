@@ -139,6 +139,7 @@
     "orderTrackingIntent": "Haluan seurata tilaustani",
     "orderCancellationIntent": "Haluan peruuttaa tilaukseni",
     "returnsRefundsPolicyIntent": "Haluan tietää palautus- ja hyvityskäytännöstä",
-    "offersRewardsIntent": "Haluan tietää meneillään olevista tarjouksista tai palkinnoista"
+    "offersRewardsIntent": "Haluan tietää meneillään olevista tarjouksista tai palkinnoista",
+    "offersEnquiryIntent": "Haluan tietää tilauksestani"
   }
 }

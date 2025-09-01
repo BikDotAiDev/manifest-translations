@@ -139,6 +139,7 @@
     "orderTrackingIntent": "Vreau să urmăresc comanda mea",
     "orderCancellationIntent": "Vreau să anulez comanda mea",
     "returnsRefundsPolicyIntent": "Vreau să aflu despre politica de retur și rambursare",
-    "offersRewardsIntent": "Vreau să aflu despre oferte sau recompense în curs"
+    "offersRewardsIntent": "Vreau să aflu despre oferte sau recompense în curs",
+    "offersEnquiryIntent": "Vreau să aflu despre comanda mea"
   }
 }

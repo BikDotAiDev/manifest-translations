@@ -139,6 +139,7 @@
     "orderTrackingIntent": "Vorrei tracciare il mio ordine",
     "orderCancellationIntent": "Vorrei annullare il mio ordine",
     "returnsRefundsPolicyIntent": "Vorrei sapere di più sulla politica di resi e rimborsi",
-    "offersRewardsIntent": "Vorrei sapere di più sulle offerte o premi in corso"
+    "offersRewardsIntent": "Vorrei sapere di più sulle offerte o premi in corso",
+    "offersEnquiryIntent": "Voglio sapere del mio ordine"
   }
 }

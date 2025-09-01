@@ -7,10 +7,26 @@
       "SEARCH": "Kan du ikke finde det, du leder efter? Lad mig hjælpe dig med at finde præcis, hvad du leder efter."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Hvilke produkter er dine bedst-sælgende?", "Hvad adskiller jeres produkter fra andre?", "Hvor er min ordre?"],
-      "OTHER": ["Hvilke produkter er dine bedst-sælgende?", "Hvad adskiller jeres produkter fra andre?", "Hvor er min ordre?"],
-      "PRODUCT": ["Hvad gør dette produkt unikt?", "Vis mig flere produkter som dette", "Hvad er returpolitiken for dette produkt?"],
-      "SEARCH": ["Vis mig de mest relevante produkter for mig", "Forfin resultaterne baseret på mine krav", "Hvad er nogle populære valg blandt disse?"]
+      "COLLECTION": [
+        "Hvilke produkter er dine bedst-sælgende?",
+        "Hvad adskiller jeres produkter fra andre?",
+        "Hvor er min ordre?"
+      ],
+      "OTHER": [
+        "Hvilke produkter er dine bedst-sælgende?",
+        "Hvad adskiller jeres produkter fra andre?",
+        "Hvor er min ordre?"
+      ],
+      "PRODUCT": [
+        "Hvad gør dette produkt unikt?",
+        "Vis mig flere produkter som dette",
+        "Hvad er returpolitiken for dette produkt?"
+      ],
+      "SEARCH": [
+        "Vis mig de mest relevante produkter for mig",
+        "Forfin resultaterne baseret på mine krav",
+        "Hvad er nogle populære valg blandt disse?"
+      ]
     }
   },
   "translations": {
@@ -139,6 +155,7 @@
     "orderTrackingIntent": "Jeg vil gerne spore min ordre",
     "orderCancellationIntent": "Jeg vil gerne annullere min ordre",
     "returnsRefundsPolicyIntent": "Jeg vil gerne vide mere om retur- og refusionspolitik",
-    "offersRewardsIntent": "Jeg vil gerne vide mere om aktuelle tilbud eller belønninger"
+    "offersRewardsIntent": "Jeg vil gerne vide mere om aktuelle tilbud eller belønninger",
+    "offersEnquiryIntent": "Jeg vil gerne vide mere om min ordre"
   }
 }

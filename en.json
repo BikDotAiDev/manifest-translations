@@ -126,7 +126,8 @@
     "orderTrackingIntent": "I want to track my order",
     "orderCancellationIntent": "I want to cancel my order",
     "returnsRefundsPolicyIntent": "I want to know about return and refund policy",
-    "offersRewardsIntent": "I want to know about ongoing offers or rewards"
+    "offersRewardsIntent": "I want to know about ongoing offers or rewards",
+    "offersEnquiryIntent": "I want to know about my order"
   },
   "others": {
     "suggestedReplies": {

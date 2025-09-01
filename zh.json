@@ -139,6 +139,7 @@
     "orderTrackingIntent": "我想跟踪我的订单",
     "orderCancellationIntent": "我想取消我的订单",
     "returnsRefundsPolicyIntent": "我想了解退货和退款政策",
-    "offersRewardsIntent": "我想了解当前的优惠或奖励"
+    "offersRewardsIntent": "我想了解当前的优惠或奖励",
+    "offersEnquiryIntent": "我想了解我的订单"
   }
 }

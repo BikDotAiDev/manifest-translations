@@ -139,6 +139,7 @@
     "orderTrackingIntent": "أريد تتبع طلبي",
     "orderCancellationIntent": "أريد إلغاء طلبي",
     "returnsRefundsPolicyIntent": "أريد معرفة سياسة الإرجاع والاسترداد",
-    "offersRewardsIntent": "أريد معرفة العروض أو المكافآت الحالية"
+    "offersRewardsIntent": "أريد معرفة العروض أو المكافآت الحالية",
+    "offersEnquiryIntent": "أريد معرفة حالة طلبي"
   }
 }

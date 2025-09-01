@@ -140,6 +140,7 @@
     "orderTrackingIntent": "注文を追跡したいです",
     "orderCancellationIntent": "注文をキャンセルしたいです",
     "returnsRefundsPolicyIntent": "返品・返金ポリシーについて知りたいです",
-    "offersRewardsIntent": "現在のオファーや報酬について知りたいです"
+    "offersRewardsIntent": "現在のオファーや報酬について知りたいです",
+    "offersEnquiryIntent": "注文について知りたいです"
   }
 }

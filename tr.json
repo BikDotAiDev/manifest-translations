@@ -139,6 +139,7 @@
     "orderTrackingIntent": "Siparişimi takip etmek istiyorum",
     "orderCancellationIntent": "Siparişimi iptal etmek istiyorum",
     "returnsRefundsPolicyIntent": "İade ve geri ödeme politikanız hakkında bilgi almak istiyorum",
-    "offersRewardsIntent": "Devam eden kampanya veya ödüller hakkında bilgi almak istiyorum"
+    "offersRewardsIntent": "Devam eden kampanya veya ödüller hakkında bilgi almak istiyorum",
+    "offersEnquiryIntent": "Siparişim hakkında bilgi almak istiyorum"
   }
 }

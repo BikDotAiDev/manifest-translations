@@ -139,6 +139,7 @@
     "orderTrackingIntent": "Szeretném nyomon követni a rendelésemet",
     "orderCancellationIntent": "Szeretném lemondani a rendelésemet",
     "returnsRefundsPolicyIntent": "Szeretnék többet megtudni a visszaküldési és visszatérítési politikáról",
-    "offersRewardsIntent": "Szeretnék többet megtudni a jelenlegi ajánlatokról vagy jutalmakról"
+    "offersRewardsIntent": "Szeretnék többet megtudni a jelenlegi ajánlatokról vagy jutalmakról",
+    "offersEnquiryIntent": "Szeretnék többet megtudni a rendelésemről"
   }
 }

@@ -139,6 +139,7 @@
     "orderTrackingIntent": "Tôi muốn theo dõi đơn hàng của mình",
     "orderCancellationIntent": "Tôi muốn hủy đơn hàng của mình",
     "returnsRefundsPolicyIntent": "Tôi muốn biết về chính sách hoàn trả và hoàn tiền",
-    "offersRewardsIntent": "Tôi muốn biết về các ưu đãi hoặc phần thưởng hiện tại"
+    "offersRewardsIntent": "Tôi muốn biết về các ưu đãi hoặc phần thưởng hiện tại",
+    "offersEnquiryIntent": "Tôi muốn biết về đơn hàng của mình"
   }
 }

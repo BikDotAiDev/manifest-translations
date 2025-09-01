@@ -139,6 +139,7 @@
     "orderTrackingIntent": "Jag vill spåra min order",
     "orderCancellationIntent": "Jag vill avboka min order",
     "returnsRefundsPolicyIntent": "Jag vill veta mer om retur- och återbetalningspolicy",
-    "offersRewardsIntent": "Jag vill veta mer om aktuella erbjudanden eller belöningar"
+    "offersRewardsIntent": "Jag vill veta mer om aktuella erbjudanden eller belöningar",
+    "offersEnquiryIntent": "Jag vill veta mer om min beställning"
   }
 }

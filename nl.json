@@ -143,6 +143,7 @@
     "orderTrackingIntent": "Ik wil mijn bestelling volgen",
     "orderCancellationIntent": "Ik wil mijn bestelling annuleren",
     "returnsRefundsPolicyIntent": "Ik wil meer weten over het retour- en restitutiebeleid",
-    "offersRewardsIntent": "Ik wil meer weten over lopende aanbiedingen of beloningen"
+    "offersRewardsIntent": "Ik wil meer weten over lopende aanbiedingen of beloningen",
+    "offersEnquiryIntent": "Ik wil meer weten over mijn bestelling"
   }
 }
