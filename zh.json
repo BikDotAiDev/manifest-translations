@@ -131,6 +131,14 @@
     "orderFormNoOrderFoundForType": "未找到此{{inputTypeLabel}}的订单。请重试。",
     "orderFormInputTypeEmail": "邮箱地址",
     "orderFormInputTypePhone": "电话号码",
-    "orderFormInputTypeOrderId": "订单ID"
+    "orderFormInputTypeOrderId": "订单ID",
+    "shippingPolicyIntent": "您的运输政策是什么",
+    "contactDetailsIntent": "我如何联系您的商店",
+    "storeLocationIntent": "您的商店在哪里",
+    "subscriptionEnquiryIntent": "我想了解订阅",
+    "orderTrackingIntent": "我想跟踪我的订单",
+    "orderCancellationIntent": "我想取消我的订单",
+    "returnsRefundsPolicyIntent": "我想了解退货和退款政策",
+    "offersRewardsIntent": "我想了解当前的优惠或奖励"
   }
 }

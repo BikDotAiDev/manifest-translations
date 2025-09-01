@@ -173,5 +173,13 @@
   "orderFormNoOrderFoundForType": "Nijedna narudžba nije pronađena za ovaj {{inputTypeLabel}}. Molimo pokušajte ponovno.",
   "orderFormInputTypeEmail": "E-mail adresa",
   "orderFormInputTypePhone": "broj telefona",
-  "orderFormInputTypeOrderId": "ID narudžbe"
+  "orderFormInputTypeOrderId": "ID narudžbe",
+  "shippingPolicyIntent": "Koja je vaša politika dostave",
+  "contactDetailsIntent": "Kako mogu kontaktirati vašu trgovinu",
+  "storeLocationIntent": "Gdje se nalaze vaše trgovine",
+  "subscriptionEnquiryIntent": "Želim znati više o pretplati",
+  "orderTrackingIntent": "Želim pratiti svoju narudžbu",
+  "orderCancellationIntent": "Želim otkazati svoju narudžbu",
+  "returnsRefundsPolicyIntent": "Želim znati više o politici povrata i povrata novca",
+  "offersRewardsIntent": "Želim znati više o trenutnim ponudama ili nagradama"
 }

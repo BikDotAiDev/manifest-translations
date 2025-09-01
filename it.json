@@ -131,6 +131,14 @@
     "orderFormNoOrderFoundForType": "Nessun ordine trovato per questo {{inputTypeLabel}}. Per favore riprova.",
     "orderFormInputTypeEmail": "Indirizzo email",
     "orderFormInputTypePhone": "numero di telefono",
-    "orderFormInputTypeOrderId": "ID ordine"
+    "orderFormInputTypeOrderId": "ID ordine",
+    "shippingPolicyIntent": "Qual è la vostra politica di spedizione",
+    "contactDetailsIntent": "Come posso contattare il vostro negozio",
+    "storeLocationIntent": "Dove si trovano i vostri negozi",
+    "subscriptionEnquiryIntent": "Vorrei sapere di più sull'abbonamento",
+    "orderTrackingIntent": "Vorrei tracciare il mio ordine",
+    "orderCancellationIntent": "Vorrei annullare il mio ordine",
+    "returnsRefundsPolicyIntent": "Vorrei sapere di più sulla politica di resi e rimborsi",
+    "offersRewardsIntent": "Vorrei sapere di più sulle offerte o premi in corso"
   }
 }

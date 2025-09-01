@@ -131,6 +131,14 @@
     "orderFormNoOrderFoundForType": "Bu {{inputTypeLabel}} için sipariş bulunamadı. Lütfen tekrar deneyin.",
     "orderFormInputTypeEmail": "E-posta adresi",
     "orderFormInputTypePhone": "telefon numarası",
-    "orderFormInputTypeOrderId": "Sipariş kimliği"
+    "orderFormInputTypeOrderId": "Sipariş kimliği",
+    "shippingPolicyIntent": "Mağazanızın gönderim politikası nedir",
+    "contactDetailsIntent": "Mağazanızla nasıl iletişime geçebilirim",
+    "storeLocationIntent": "Mağazalarınız nerede bulunuyor",
+    "subscriptionEnquiryIntent": "Abonelik hakkında bilgi almak istiyorum",
+    "orderTrackingIntent": "Siparişimi takip etmek istiyorum",
+    "orderCancellationIntent": "Siparişimi iptal etmek istiyorum",
+    "returnsRefundsPolicyIntent": "İade ve geri ödeme politikanız hakkında bilgi almak istiyorum",
+    "offersRewardsIntent": "Devam eden kampanya veya ödüller hakkında bilgi almak istiyorum"
   }
 }

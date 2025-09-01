@@ -131,6 +131,14 @@
     "orderFormNoOrderFoundForType": "Keine Bestellung für diese {{inputTypeLabel}} gefunden. Bitte versuchen Sie es erneut.",
     "orderFormInputTypeEmail": "E-Mail-Adresse",
     "orderFormInputTypePhone": "Telefonnummer",
-    "orderFormInputTypeOrderId": "Bestellnummer"
+    "orderFormInputTypeOrderId": "Bestellnummer",
+    "shippingPolicyIntent": "Wie ist Ihre Versandrichtlinie",
+    "contactDetailsIntent": "Wie kann ich Ihr Geschäft kontaktieren",
+    "storeLocationIntent": "Wo befinden sich Ihre Geschäfte",
+    "subscriptionEnquiryIntent": "Ich möchte mehr über das Abonnement erfahren",
+    "orderTrackingIntent": "Ich möchte meine Bestellung verfolgen",
+    "orderCancellationIntent": "Ich möchte meine Bestellung stornieren",
+    "returnsRefundsPolicyIntent": "Ich möchte mehr über die Rückgabe- und Erstattungsrichtlinie erfahren",
+    "offersRewardsIntent": "Ich möchte mehr über aktuelle Angebote oder Prämien erfahren"
   }
 }

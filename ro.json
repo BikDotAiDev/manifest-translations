@@ -131,6 +131,14 @@
     "orderFormNoOrderFoundForType": "Nu s-a găsit nicio comandă pentru acest {{inputTypeLabel}}. Vă rugăm să încercați din nou.",
     "orderFormInputTypeEmail": "Adresa de e-mail",
     "orderFormInputTypePhone": "numărul de telefon",
-    "orderFormInputTypeOrderId": "ID comandă"
+    "orderFormInputTypeOrderId": "ID comandă",
+    "shippingPolicyIntent": "Care este politica dvs. de livrare",
+    "contactDetailsIntent": "Cum pot contacta magazinul dvs.",
+    "storeLocationIntent": "Unde sunt localizate magazinele dvs.",
+    "subscriptionEnquiryIntent": "Vreau să aflu despre abonament",
+    "orderTrackingIntent": "Vreau să urmăresc comanda mea",
+    "orderCancellationIntent": "Vreau să anulez comanda mea",
+    "returnsRefundsPolicyIntent": "Vreau să aflu despre politica de retur și rambursare",
+    "offersRewardsIntent": "Vreau să aflu despre oferte sau recompense în curs"
   }
 }

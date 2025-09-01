@@ -131,6 +131,14 @@
     "orderFormNoOrderFoundForType": "Không tìm thấy đơn hàng cho {{inputTypeLabel}} này. Vui lòng thử lại.",
     "orderFormInputTypeEmail": "Địa chỉ email",
     "orderFormInputTypePhone": "số điện thoại",
-    "orderFormInputTypeOrderId": "ID đơn hàng"
+    "orderFormInputTypeOrderId": "ID đơn hàng",
+    "shippingPolicyIntent": "Chính sách vận chuyển của bạn là gì",
+    "contactDetailsIntent": "Làm thế nào để tôi liên hệ với cửa hàng của bạn",
+    "storeLocationIntent": "Các cửa hàng của bạn nằm ở đâu",
+    "subscriptionEnquiryIntent": "Tôi muốn biết về đăng ký",
+    "orderTrackingIntent": "Tôi muốn theo dõi đơn hàng của mình",
+    "orderCancellationIntent": "Tôi muốn hủy đơn hàng của mình",
+    "returnsRefundsPolicyIntent": "Tôi muốn biết về chính sách hoàn trả và hoàn tiền",
+    "offersRewardsIntent": "Tôi muốn biết về các ưu đãi hoặc phần thưởng hiện tại"
   }
 }

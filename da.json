@@ -131,6 +131,14 @@
     "orderFormNoOrderFoundForType": "Ingen bestilling fundet for denne {{inputTypeLabel}}. Prøv igen.",
     "orderFormInputTypeEmail": "E-mailadresse",
     "orderFormInputTypePhone": "telefonnummer",
-    "orderFormInputTypeOrderId": "Bestillings-ID"
+    "orderFormInputTypeOrderId": "Bestillings-ID",
+    "shippingPolicyIntent": "Hvad er jeres leveringspolitik",
+    "contactDetailsIntent": "Hvordan kan jeg kontakte jeres butik",
+    "storeLocationIntent": "Hvor ligger jeres butikker",
+    "subscriptionEnquiryIntent": "Jeg vil gerne vide mere om abonnement",
+    "orderTrackingIntent": "Jeg vil gerne spore min ordre",
+    "orderCancellationIntent": "Jeg vil gerne annullere min ordre",
+    "returnsRefundsPolicyIntent": "Jeg vil gerne vide mere om retur- og refusionspolitik",
+    "offersRewardsIntent": "Jeg vil gerne vide mere om aktuelle tilbud eller belønninger"
   }
 }

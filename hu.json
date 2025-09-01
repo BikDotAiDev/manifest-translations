@@ -131,6 +131,14 @@
     "orderFormNoOrderFoundForType": "Nincs rendelés ehhez a {{inputTypeLabel}}-hoz. Kérlek próbáld újra.",
     "orderFormInputTypeEmail": "Email cím",
     "orderFormInputTypePhone": "telefonszám",
-    "orderFormInputTypeOrderId": "Rendelési azonosító"
+    "orderFormInputTypeOrderId": "Rendelési azonosító",
+    "shippingPolicyIntent": "Mi az Önök szállítási politikája",
+    "contactDetailsIntent": "Hogyan léphetek kapcsolatba az Önök áruházával",
+    "storeLocationIntent": "Hol találhatók az Önök üzletei",
+    "subscriptionEnquiryIntent": "Szeretnék többet megtudni az előfizetésről",
+    "orderTrackingIntent": "Szeretném nyomon követni a rendelésemet",
+    "orderCancellationIntent": "Szeretném lemondani a rendelésemet",
+    "returnsRefundsPolicyIntent": "Szeretnék többet megtudni a visszaküldési és visszatérítési politikáról",
+    "offersRewardsIntent": "Szeretnék többet megtudni a jelenlegi ajánlatokról vagy jutalmakról"
   }
 }

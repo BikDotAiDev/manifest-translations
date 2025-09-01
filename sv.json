@@ -131,6 +131,14 @@
     "orderFormNoOrderFoundForType": "Ingen beställning hittades för denna {{inputTypeLabel}}. Försök igen.",
     "orderFormInputTypeEmail": "E-postadress",
     "orderFormInputTypePhone": "telefonnummer",
-    "orderFormInputTypeOrderId": "Beställnings-ID"
+    "orderFormInputTypeOrderId": "Beställnings-ID",
+    "shippingPolicyIntent": "Vilken är er fraktpolicy",
+    "contactDetailsIntent": "Hur kan jag kontakta er butik",
+    "storeLocationIntent": "Var ligger era butiker",
+    "subscriptionEnquiryIntent": "Jag vill veta mer om prenumeration",
+    "orderTrackingIntent": "Jag vill spåra min order",
+    "orderCancellationIntent": "Jag vill avboka min order",
+    "returnsRefundsPolicyIntent": "Jag vill veta mer om retur- och återbetalningspolicy",
+    "offersRewardsIntent": "Jag vill veta mer om aktuella erbjudanden eller belöningar"
   }
 }

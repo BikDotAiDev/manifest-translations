@@ -131,6 +131,14 @@
     "orderFormNoOrderFoundForType": "Tälle {{inputTypeLabel}} ei löytynyt tilausta. Yritä uudelleen.",
     "orderFormInputTypeEmail": "Sähköpostiosoite",
     "orderFormInputTypePhone": "puhelinnumero",
-    "orderFormInputTypeOrderId": "Tilausnumero"
+    "orderFormInputTypeOrderId": "Tilausnumero",
+    "shippingPolicyIntent": "Mikä on toimituskäytäntönne",
+    "contactDetailsIntent": "Miten voin ottaa yhteyttä kauppaanne",
+    "storeLocationIntent": "Missä kauppanne sijaitsevat",
+    "subscriptionEnquiryIntent": "Haluan tietää tilauksesta",
+    "orderTrackingIntent": "Haluan seurata tilaustani",
+    "orderCancellationIntent": "Haluan peruuttaa tilaukseni",
+    "returnsRefundsPolicyIntent": "Haluan tietää palautus- ja hyvityskäytännöstä",
+    "offersRewardsIntent": "Haluan tietää meneillään olevista tarjouksista tai palkinnoista"
   }
 }

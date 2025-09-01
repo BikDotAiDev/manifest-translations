@@ -131,6 +131,14 @@
     "orderFormNoOrderFoundForType": "لم يتم العثور على طلب لهذا {{inputTypeLabel}}. يرجى المحاولة مرة أخرى.",
     "orderFormInputTypeEmail": "عنوان البريد الإلكتروني",
     "orderFormInputTypePhone": "رقم الهاتف",
-    "orderFormInputTypeOrderId": "معرف الطلب"
+    "orderFormInputTypeOrderId": "معرف الطلب",
+    "shippingPolicyIntent": "ما هي سياسة الشحن الخاصة بكم",
+    "contactDetailsIntent": "كيف يمكنني التواصل مع متجركم",
+    "storeLocationIntent": "أين تقع متاجركم",
+    "subscriptionEnquiryIntent": "أريد معرفة المزيد عن الاشتراك",
+    "orderTrackingIntent": "أريد تتبع طلبي",
+    "orderCancellationIntent": "أريد إلغاء طلبي",
+    "returnsRefundsPolicyIntent": "أريد معرفة سياسة الإرجاع والاسترداد",
+    "offersRewardsIntent": "أريد معرفة العروض أو المكافآت الحالية"
   }
 }
