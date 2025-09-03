@@ -140,6 +140,14 @@
     "orderCancellationIntent": "Ich möchte meine Bestellung stornieren",
     "returnsRefundsPolicyIntent": "Ich möchte mehr über die Rückgabe- und Erstattungsrichtlinie erfahren",
     "offersRewardsIntent": "Ich möchte mehr über aktuelle Angebote oder Prämien erfahren",
-    "offersEnquiryIntent": "Ich möchte mehr über meine Bestellung erfahren"
+    "offersEnquiryIntent": "Ich möchte mehr über meine Bestellung erfahren",
+    "shipping_policy": "Versandrichtlinie",
+    "contact_details": "Kontaktdaten",
+    "store_location": "Geschäftsstandort",
+    "subscription_enquiry": "Abonnement-Anfrage",
+    "order_tracking": "Bestellverfolgung",
+    "order_cancellation": "Bestellstornierung",
+    "returns_refunds_policy": "Rückgabe- und Erstattungsrichtlinie",
+    "offers_rewards": "Angebote und Prämien"
   }
 }

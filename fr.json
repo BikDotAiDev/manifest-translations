@@ -145,6 +145,14 @@
     "orderCancellationIntent": "Je souhaite annuler ma commande",
     "returnsRefundsPolicyIntent": "Je souhaite connaître la politique de retour et de remboursement",
     "offersRewardsIntent": "Je souhaite connaître les offres ou récompenses en cours",
-    "offersEnquiryIntent": "Je veux en savoir plus sur ma commande"
+    "offersEnquiryIntent": "Je veux en savoir plus sur ma commande",
+    "shipping_policy": "Politique d'expédition",
+    "contact_details": "Coordonnées",
+    "store_location": "Emplacement du magasin",
+    "subscription_enquiry": "Demande d'abonnement",
+    "order_tracking": "Suivi de commande",
+    "order_cancellation": "Annulation de commande",
+    "returns_refunds_policy": "Politique de retour et de remboursement",
+    "offers_rewards": "Offres et récompenses"
   }
 }

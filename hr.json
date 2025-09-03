@@ -182,5 +182,13 @@
   "orderCancellationIntent": "Želim otkazati svoju narudžbu",
   "returnsRefundsPolicyIntent": "Želim znati više o politici povrata i povrata novca",
   "offersRewardsIntent": "Želim znati više o trenutnim ponudama ili nagradama",
-  "offersEnquiryIntent": "Želim znati više o svojoj narudžbi"
+  "offersEnquiryIntent": "Želim znati više o svojoj narudžbi",
+  "shipping_policy": "Politika dostave",
+  "contact_details": "Podaci za kontakt",
+  "store_location": "Lokacija trgovine",
+  "subscription_enquiry": "Upit o pretplati",
+  "order_tracking": "Praćenje narudžbe",
+  "order_cancellation": "Otkazivanje narudžbe",
+  "returns_refunds_policy": "Politika povrata i refundacija",
+  "offers_rewards": "Ponude i nagrade"
 }

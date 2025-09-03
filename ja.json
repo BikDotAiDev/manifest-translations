@@ -141,6 +141,14 @@
     "orderCancellationIntent": "注文をキャンセルしたいです",
     "returnsRefundsPolicyIntent": "返品・返金ポリシーについて知りたいです",
     "offersRewardsIntent": "現在のオファーや報酬について知りたいです",
-    "offersEnquiryIntent": "注文について知りたいです"
+    "offersEnquiryIntent": "注文について知りたいです",
+    "shipping_policy": "配送ポリシー",
+    "contact_details": "連絡先",
+    "store_location": "店舗所在地",
+    "subscription_enquiry": "サブスクリプションのお問い合わせ",
+    "order_tracking": "注文追跡",
+    "order_cancellation": "注文キャンセル",
+    "returns_refunds_policy": "返品・返金ポリシー",
+    "offers_rewards": "オファーと報酬"
   }
 }

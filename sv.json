@@ -140,6 +140,14 @@
     "orderCancellationIntent": "Jag vill avboka min order",
     "returnsRefundsPolicyIntent": "Jag vill veta mer om retur- och återbetalningspolicy",
     "offersRewardsIntent": "Jag vill veta mer om aktuella erbjudanden eller belöningar",
-    "offersEnquiryIntent": "Jag vill veta mer om min beställning"
+    "offersEnquiryIntent": "Jag vill veta mer om min beställning",
+    "shipping_policy": "Fraktpolicy",
+    "contact_details": "Kontaktuppgifter",
+    "store_location": "Butiksplats",
+    "subscription_enquiry": "Prenumerationsförfrågan",
+    "order_tracking": "Orderspårning",
+    "order_cancellation": "Orderavbokning",
+    "returns_refunds_policy": "Retur- och återbetalningspolicy",
+    "offers_rewards": "Erbjudanden och belöningar"
   }
 }

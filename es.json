@@ -141,6 +141,14 @@
     "orderCancellationIntent": "Quiero cancelar mi pedido",
     "returnsRefundsPolicyIntent": "Quiero saber sobre la política de devoluciones y reembolsos",
     "offersRewardsIntent": "Quiero saber sobre ofertas o recompensas vigentes",
-    "offersEnquiryIntent": "Quiero saber sobre mi pedido"
+    "offersEnquiryIntent": "Quiero saber sobre mi pedido",
+    "shipping_policy": "Política de envío",
+    "contact_details": "Detalles de contacto",
+    "store_location": "Ubicación de la tienda",
+    "subscription_enquiry": "Consulta de suscripción",
+    "order_tracking": "Seguimiento de pedido",
+    "order_cancellation": "Cancelación de pedido",
+    "returns_refunds_policy": "Política de devoluciones y reembolsos",
+    "offers_rewards": "Ofertas y recompensas"
   }
 }

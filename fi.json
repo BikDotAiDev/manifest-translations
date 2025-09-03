@@ -140,6 +140,14 @@
     "orderCancellationIntent": "Haluan peruuttaa tilaukseni",
     "returnsRefundsPolicyIntent": "Haluan tietää palautus- ja hyvityskäytännöstä",
     "offersRewardsIntent": "Haluan tietää meneillään olevista tarjouksista tai palkinnoista",
-    "offersEnquiryIntent": "Haluan tietää tilauksestani"
+    "offersEnquiryIntent": "Haluan tietää tilauksestani",
+    "shipping_policy": "Toimituskäytäntö",
+    "contact_details": "Yhteystiedot",
+    "store_location": "Kaupan sijainti",
+    "subscription_enquiry": "Tilauskyselyt",
+    "order_tracking": "Tilauksen seuranta",
+    "order_cancellation": "Tilauksen peruutus",
+    "returns_refunds_policy": "Palautus- ja hyvityskäytäntö",
+    "offers_rewards": "Tarjoukset ja palkinnot"
   }
 }

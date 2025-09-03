@@ -140,6 +140,14 @@
     "orderCancellationIntent": "Jeg vil kansellere bestillingen min",
     "returnsRefundsPolicyIntent": "Jeg vil vite mer om retur- og refusjonspolicy",
     "offersRewardsIntent": "Jeg vil vite mer om pågående tilbud eller belønninger",
-    "offersEnquiryIntent": "Jeg vil vite mer om bestillingen min"
+    "offersEnquiryIntent": "Jeg vil vite mer om bestillingen min",
+    "shipping_policy": "Fraktpolicy",
+    "contact_details": "Kontaktdetaljer",
+    "store_location": "Butikkplassering",
+    "subscription_enquiry": "Abonnementsforespørsel",
+    "order_tracking": "Ordresporing",
+    "order_cancellation": "Ordrekansellering",
+    "returns_refunds_policy": "Retur- og refusjonspolicy",
+    "offers_rewards": "Tilbud og belønninger"
   }
 }

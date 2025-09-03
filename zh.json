@@ -140,6 +140,14 @@
     "orderCancellationIntent": "我想取消我的订单",
     "returnsRefundsPolicyIntent": "我想了解退货和退款政策",
     "offersRewardsIntent": "我想了解当前的优惠或奖励",
-    "offersEnquiryIntent": "我想了解我的订单"
+    "offersEnquiryIntent": "我想了解我的订单",
+    "shipping_policy": "运输政策",
+    "contact_details": "联系方式",
+    "store_location": "商店位置",
+    "subscription_enquiry": "订阅咨询",
+    "order_tracking": "订单跟踪",
+    "order_cancellation": "订单取消",
+    "returns_refunds_policy": "退货退款政策",
+    "offers_rewards": "优惠和奖励"
   }
 }

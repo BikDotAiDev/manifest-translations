@@ -140,6 +140,14 @@
     "orderCancellationIntent": "أريد إلغاء طلبي",
     "returnsRefundsPolicyIntent": "أريد معرفة سياسة الإرجاع والاسترداد",
     "offersRewardsIntent": "أريد معرفة العروض أو المكافآت الحالية",
-    "offersEnquiryIntent": "أريد معرفة حالة طلبي"
+    "offersEnquiryIntent": "أريد معرفة حالة طلبي",
+    "shipping_policy": "سياسة الشحن",
+    "contact_details": "تفاصيل التواصل",
+    "store_location": "موقع المتجر",
+    "subscription_enquiry": "استفسار الاشتراك",
+    "order_tracking": "تتبع الطلب",
+    "order_cancellation": "إلغاء الطلب",
+    "returns_refunds_policy": "سياسة الإرجاع والاسترداد",
+    "offers_rewards": "العروض والمكافآت"
   }
 }

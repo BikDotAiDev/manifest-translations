@@ -182,5 +182,13 @@
   "orderCancellationIntent": "ฉันต้องการยกเลิกคำสั่งซื้อของฉัน",
   "returnsRefundsPolicyIntent": "ฉันต้องการทราบเกี่ยวกับนโยบายการคืนสินค้าและคืนเงิน",
   "offersRewardsIntent": "ฉันต้องการทราบเกี่ยวกับข้อเสนอหรือรางวัลที่กำลังดำเนินอยู่",
-  "offersEnquiryIntent": "ฉันต้องการทราบเกี่ยวกับคำสั่งซื้อของฉัน"
+  "offersEnquiryIntent": "ฉันต้องการทราบเกี่ยวกับคำสั่งซื้อของฉัน",
+  "shipping_policy": "นโยบายการจัดส่ง",
+  "contact_details": "รายละเอียดการติดต่อ",
+  "store_location": "ที่ตั้งร้าน",
+  "subscription_enquiry": "คำถามเกี่ยวกับการสมัครสมาชิก",
+  "order_tracking": "การติดตามคำสั่งซื้อ",
+  "order_cancellation": "การยกเลิกคำสั่งซื้อ",
+  "returns_refunds_policy": "นโยบายการคืนสินค้าและคืนเงิน",
+  "offers_rewards": "ข้อเสนอและรางวัล"
 }

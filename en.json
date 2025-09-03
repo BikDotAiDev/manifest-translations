@@ -127,7 +127,15 @@
     "orderCancellationIntent": "I want to cancel my order",
     "returnsRefundsPolicyIntent": "I want to know about return and refund policy",
     "offersRewardsIntent": "I want to know about ongoing offers or rewards",
-    "offersEnquiryIntent": "I want to know about my order"
+    "offersEnquiryIntent": "I want to know about my order",
+    "shipping_policy": "Shipping policy",
+    "contact_details": "Contact Details",
+    "store_location": "Store Location",
+    "subscription_enquiry": "Subscription Enquiry",
+    "order_tracking": "Order Tracking",
+    "order_cancellation": "Order Cancellation",
+    "returns_refunds_policy": "Returns and Refunds Policy",
+    "offers_rewards": "Offers and Rewards"
   },
   "others": {
     "suggestedReplies": {

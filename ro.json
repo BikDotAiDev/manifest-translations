@@ -140,6 +140,14 @@
     "orderCancellationIntent": "Vreau să anulez comanda mea",
     "returnsRefundsPolicyIntent": "Vreau să aflu despre politica de retur și rambursare",
     "offersRewardsIntent": "Vreau să aflu despre oferte sau recompense în curs",
-    "offersEnquiryIntent": "Vreau să aflu despre comanda mea"
+    "offersEnquiryIntent": "Vreau să aflu despre comanda mea",
+    "shipping_policy": "Politica de livrare",
+    "contact_details": "Detalii de contact",
+    "store_location": "Locația magazinului",
+    "subscription_enquiry": "Întrebare despre abonament",
+    "order_tracking": "Urmărirea comenzii",
+    "order_cancellation": "Anularea comenzii",
+    "returns_refunds_policy": "Politica de retur și rambursare",
+    "offers_rewards": "Oferte și recompense"
   }
 }
