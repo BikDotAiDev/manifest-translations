@@ -136,6 +136,8 @@
     "orderFormNoOrderFoundForType": "Aucune commande trouvée pour cette {{inputTypeLabel}}. Veuillez réessayer.",
     "orderFormInputTypeEmail": "Adresse e-mail",
     "orderFormInputTypePhone": "numéro de téléphone",
-    "orderFormInputTypeOrderId": "ID de commande"
+    "orderFormInputTypeOrderId": "ID de commande",
+    "bannerExitText": "Quitter",
+    "bannerProceedText": "Continuer ?"
   }
 }

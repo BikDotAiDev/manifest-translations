@@ -132,6 +132,8 @@
     "orderFormNoOrderFoundForType": "この{{inputTypeLabel}}の注文が見つかりません。再度お試しください。",
     "orderFormInputTypeEmail": "メールアドレス",
     "orderFormInputTypePhone": "電話番号",
-    "orderFormInputTypeOrderId": "注文ID"
+    "orderFormInputTypeOrderId": "注文ID",
+    "bannerExitText": "終了",
+    "bannerProceedText": "続行しますか？"
   }
 }

@@ -131,6 +131,8 @@
     "orderFormNoOrderFoundForType": "Ingen bestilling fundet for denne {{inputTypeLabel}}. Prøv igen.",
     "orderFormInputTypeEmail": "E-mailadresse",
     "orderFormInputTypePhone": "telefonnummer",
-    "orderFormInputTypeOrderId": "Bestillings-ID"
+    "orderFormInputTypeOrderId": "Bestillings-ID",
+    "bannerExitText": "Afslut",
+    "bannerProceedText": "Fortsæt?"
   }
 }

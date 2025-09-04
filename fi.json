@@ -131,6 +131,8 @@
     "orderFormNoOrderFoundForType": "Tälle {{inputTypeLabel}} ei löytynyt tilausta. Yritä uudelleen.",
     "orderFormInputTypeEmail": "Sähköpostiosoite",
     "orderFormInputTypePhone": "puhelinnumero",
-    "orderFormInputTypeOrderId": "Tilausnumero"
+    "orderFormInputTypeOrderId": "Tilausnumero",
+    "bannerExitText": "Poistu",
+    "bannerProceedText": "Jatka?"
   }
 }

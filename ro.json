@@ -131,6 +131,8 @@
     "orderFormNoOrderFoundForType": "Nu s-a găsit nicio comandă pentru acest {{inputTypeLabel}}. Vă rugăm să încercați din nou.",
     "orderFormInputTypeEmail": "Adresa de e-mail",
     "orderFormInputTypePhone": "numărul de telefon",
-    "orderFormInputTypeOrderId": "ID comandă"
+    "orderFormInputTypeOrderId": "ID comandă",
+    "bannerExitText": "Ieșire",
+    "bannerProceedText": "Continuați?"
   }
 }

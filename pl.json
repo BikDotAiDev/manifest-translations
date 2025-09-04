@@ -131,6 +131,8 @@
     "orderFormNoOrderFoundForType": "Nie znaleziono zamówienia dla tego {{inputTypeLabel}}. Spróbuj ponownie.",
     "orderFormInputTypeEmail": "Adres e-mail",
     "orderFormInputTypePhone": "numer telefonu",
-    "orderFormInputTypeOrderId": "ID zamówienia"
+    "orderFormInputTypeOrderId": "ID zamówienia",
+    "bannerExitText": "Wyjście",
+    "bannerProceedText": "Kontynuować?"
   }
 }

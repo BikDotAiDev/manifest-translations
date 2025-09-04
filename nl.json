@@ -135,6 +135,8 @@
     "orderFormNoOrderFoundForType": "Geen bestelling gevonden voor deze {{inputTypeLabel}}. Probeer het opnieuw.",
     "orderFormInputTypeEmail": "E-mailadres",
     "orderFormInputTypePhone": "telefoonnummer",
-    "orderFormInputTypeOrderId": "Bestelling ID"
+    "orderFormInputTypeOrderId": "Bestelling ID",
+    "bannerExitText": "Afsluiten",
+    "bannerProceedText": "Doorgaan?"
   }
 }

@@ -118,7 +118,9 @@
     "orderFormNoOrderFoundForType": "No order found for this {{inputTypeLabel}}. Please try again.",
     "orderFormInputTypeEmail": "Email address",
     "orderFormInputTypePhone": "phone number",
-    "orderFormInputTypeOrderId": "Order ID"
+    "orderFormInputTypeOrderId": "Order ID",
+    "bannerExitText": "Exit",
+    "bannerProceedText": "Proceed?"
   },
   "others": {
     "suggestedReplies": {

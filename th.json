@@ -173,5 +173,7 @@
   "orderFormNoOrderFoundForType": "ไม่พบคำสั่งซื้อสำหรับ {{inputTypeLabel}} นี้ กรุณาลองใหม่อีกครั้ง",
   "orderFormInputTypeEmail": "ที่อยู่อีเมล",
   "orderFormInputTypePhone": "หมายเลขโทรศัพท์",
-  "orderFormInputTypeOrderId": "รหัสคำสั่งซื้อ"
+  "orderFormInputTypeOrderId": "รหัสคำสั่งซื้อ",
+  "bannerExitText": "ออก",
+  "bannerProceedText": "ดำเนินการต่อ?"
 }

@@ -173,5 +173,7 @@
   "orderFormNoOrderFoundForType": "Nijedna narudžba nije pronađena za ovaj {{inputTypeLabel}}. Molimo pokušajte ponovno.",
   "orderFormInputTypeEmail": "E-mail adresa",
   "orderFormInputTypePhone": "broj telefona",
-  "orderFormInputTypeOrderId": "ID narudžbe"
+  "orderFormInputTypeOrderId": "ID narudžbe",
+  "bannerExitText": "Izlaz",
+  "bannerProceedText": "Nastaviti?"
 }

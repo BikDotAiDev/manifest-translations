@@ -131,6 +131,8 @@
     "orderFormNoOrderFoundForType": "未找到此{{inputTypeLabel}}的订单。请重试。",
     "orderFormInputTypeEmail": "邮箱地址",
     "orderFormInputTypePhone": "电话号码",
-    "orderFormInputTypeOrderId": "订单ID"
+    "orderFormInputTypeOrderId": "订单ID",
+    "bannerExitText": "退出",
+    "bannerProceedText": "继续？"
   }
 }

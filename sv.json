@@ -131,6 +131,8 @@
     "orderFormNoOrderFoundForType": "Ingen beställning hittades för denna {{inputTypeLabel}}. Försök igen.",
     "orderFormInputTypeEmail": "E-postadress",
     "orderFormInputTypePhone": "telefonnummer",
-    "orderFormInputTypeOrderId": "Beställnings-ID"
+    "orderFormInputTypeOrderId": "Beställnings-ID",
+    "bannerExitText": "Avsluta",
+    "bannerProceedText": "Fortsätt?"
   }
 }

@@ -131,6 +131,8 @@
     "orderFormNoOrderFoundForType": "Bu {{inputTypeLabel}} için sipariş bulunamadı. Lütfen tekrar deneyin.",
     "orderFormInputTypeEmail": "E-posta adresi",
     "orderFormInputTypePhone": "telefon numarası",
-    "orderFormInputTypeOrderId": "Sipariş kimliği"
+    "orderFormInputTypeOrderId": "Sipariş kimliği",
+    "bannerExitText": "Çıkış",
+    "bannerProceedText": "Devam et?"
   }
 }

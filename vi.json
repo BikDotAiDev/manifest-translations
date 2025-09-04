@@ -131,6 +131,8 @@
     "orderFormNoOrderFoundForType": "Không tìm thấy đơn hàng cho {{inputTypeLabel}} này. Vui lòng thử lại.",
     "orderFormInputTypeEmail": "Địa chỉ email",
     "orderFormInputTypePhone": "số điện thoại",
-    "orderFormInputTypeOrderId": "ID đơn hàng"
+    "orderFormInputTypeOrderId": "ID đơn hàng",
+    "bannerExitText": "Thoát",
+    "bannerProceedText": "Tiếp tục?"
   }
 }

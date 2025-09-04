@@ -131,6 +131,8 @@
     "orderFormNoOrderFoundForType": "Nincs rendelés ehhez a {{inputTypeLabel}}-hoz. Kérlek próbáld újra.",
     "orderFormInputTypeEmail": "Email cím",
     "orderFormInputTypePhone": "telefonszám",
-    "orderFormInputTypeOrderId": "Rendelési azonosító"
+    "orderFormInputTypeOrderId": "Rendelési azonosító",
+    "bannerExitText": "Kilépés",
+    "bannerProceedText": "Folytatás?"
   }
 }

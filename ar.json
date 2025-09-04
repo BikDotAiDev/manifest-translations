@@ -131,6 +131,8 @@
     "orderFormNoOrderFoundForType": "لم يتم العثور على طلب لهذا {{inputTypeLabel}}. يرجى المحاولة مرة أخرى.",
     "orderFormInputTypeEmail": "عنوان البريد الإلكتروني",
     "orderFormInputTypePhone": "رقم الهاتف",
-    "orderFormInputTypeOrderId": "معرف الطلب"
+    "orderFormInputTypeOrderId": "معرف الطلب",
+    "bannerExitText": "خروج",
+    "bannerProceedText": "متابعة؟"
   }
 }

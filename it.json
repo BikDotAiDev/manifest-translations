@@ -131,6 +131,8 @@
     "orderFormNoOrderFoundForType": "Nessun ordine trovato per questo {{inputTypeLabel}}. Per favore riprova.",
     "orderFormInputTypeEmail": "Indirizzo email",
     "orderFormInputTypePhone": "numero di telefono",
-    "orderFormInputTypeOrderId": "ID ordine"
+    "orderFormInputTypeOrderId": "ID ordine",
+    "bannerExitText": "Esci",
+    "bannerProceedText": "Procedi?"
   }
 }
