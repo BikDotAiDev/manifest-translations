@@ -120,14 +120,47 @@
     "orderFormInputTypePhone": "phone number",
     "orderFormInputTypeOrderId": "Order ID",
     "bannerExitText": "Exit",
-    "bannerProceedText": "Proceed?"
+    "bannerProceedText": "Proceed?",
+    "shippingPolicyIntent": "What is your shipping policy",
+    "contactDetailsIntent": "How can I contact your store",
+    "storeLocationIntent": "Where are your stores Located",
+    "subscriptionEnquiryIntent": "I want to know about subscription",
+    "orderTrackingIntent": "I want to track my order",
+    "orderCancellationIntent": "I want to cancel my order",
+    "returnsRefundsPolicyIntent": "I want to know about return and refund policy",
+    "offersRewardsIntent": "I want to know about ongoing offers or rewards",
+    "offersEnquiryIntent": "I want to know about my order",
+    "shipping_policy": "Shipping policy",
+    "contact_details": "Contact Details",
+    "store_location": "Store Location",
+    "subscription_enquiry": "Subscription Enquiry",
+    "order_tracking": "Order Tracking",
+    "order_cancellation": "Order Cancellation",
+    "returns_refunds_policy": "Returns and Refunds Policy",
+    "offers_rewards": "Offers and Rewards"
   },
   "others": {
     "suggestedReplies": {
-      "PRODUCT": ["What makes this product stand out?", "Show me more products like this", "What is the return policy of this product?"],
-      "COLLECTION": ["What are your best-selling products?", "What sets your products apart from others?", "Where is my order?"],
-      "SEARCH": ["Show me the most relevant products for me", "Refine the results based on my requirements", "What are some popular picks among these?"],
-      "OTHER": ["What are your best-selling products?", "What sets your products apart from others?", "Where is my order?"]
+      "PRODUCT": [
+        "What makes this product stand out?",
+        "Show me more products like this",
+        "What is the return policy of this product?"
+      ],
+      "COLLECTION": [
+        "What are your best-selling products?",
+        "What sets your products apart from others?",
+        "Where is my order?"
+      ],
+      "SEARCH": [
+        "Show me the most relevant products for me",
+        "Refine the results based on my requirements",
+        "What are some popular picks among these?"
+      ],
+      "OTHER": [
+        "What are your best-selling products?",
+        "What sets your products apart from others?",
+        "Where is my order?"
+      ]
     },
     "popUpMessages": {
       "SEARCH": "Can't find what you're looking for? Let me help you find exactly what you're looking for.",

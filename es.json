@@ -134,6 +134,23 @@
     "orderFormInputTypePhone": "número de teléfono",
     "orderFormInputTypeOrderId": "ID de pedido",
     "bannerExitText": "Salir",
-    "bannerProceedText": "¿Continuar?"
+    "bannerProceedText": "¿Continuar?",
+    "shippingPolicyIntent": "¿Cuál es su política de envío",
+    "contactDetailsIntent": "¿Cómo puedo contactar con su tienda",
+    "storeLocationIntent": "¿Dónde están ubicadas sus tiendas",
+    "subscriptionEnquiryIntent": "Quiero saber sobre la suscripción",
+    "orderTrackingIntent": "Quiero rastrear mi pedido",
+    "orderCancellationIntent": "Quiero cancelar mi pedido",
+    "returnsRefundsPolicyIntent": "Quiero saber sobre la política de devoluciones y reembolsos",
+    "offersRewardsIntent": "Quiero saber sobre ofertas o recompensas vigentes",
+    "offersEnquiryIntent": "Quiero saber sobre mi pedido",
+    "shipping_policy": "Política de envío",
+    "contact_details": "Detalles de contacto",
+    "store_location": "Ubicación de la tienda",
+    "subscription_enquiry": "Consulta de suscripción",
+    "order_tracking": "Seguimiento de pedido",
+    "order_cancellation": "Cancelación de pedido",
+    "returns_refunds_policy": "Política de devoluciones y reembolsos",
+    "offers_rewards": "Ofertas y recompensas"
   }
 }

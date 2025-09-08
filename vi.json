@@ -133,6 +133,23 @@
     "orderFormInputTypePhone": "số điện thoại",
     "orderFormInputTypeOrderId": "ID đơn hàng",
     "bannerExitText": "Thoát",
-    "bannerProceedText": "Tiếp tục?"
+    "bannerProceedText": "Tiếp tục?",
+    "shippingPolicyIntent": "Chính sách vận chuyển của bạn là gì",
+    "contactDetailsIntent": "Làm thế nào để tôi liên hệ với cửa hàng của bạn",
+    "storeLocationIntent": "Các cửa hàng của bạn nằm ở đâu",
+    "subscriptionEnquiryIntent": "Tôi muốn biết về đăng ký",
+    "orderTrackingIntent": "Tôi muốn theo dõi đơn hàng của mình",
+    "orderCancellationIntent": "Tôi muốn hủy đơn hàng của mình",
+    "returnsRefundsPolicyIntent": "Tôi muốn biết về chính sách hoàn trả và hoàn tiền",
+    "offersRewardsIntent": "Tôi muốn biết về các ưu đãi hoặc phần thưởng hiện tại",
+    "offersEnquiryIntent": "Tôi muốn biết về đơn hàng của mình",
+    "shipping_policy": "Chính sách vận chuyển",
+    "contact_details": "Chi tiết liên hệ",
+    "store_location": "Vị trí cửa hàng",
+    "subscription_enquiry": "Câu hỏi về đăng ký",
+    "order_tracking": "Theo dõi đơn hàng",
+    "order_cancellation": "Hủy đơn hàng",
+    "returns_refunds_policy": "Chính sách hoàn trả và hoàn tiền",
+    "offers_rewards": "Ưu đãi và phần thưởng"
   }
 }

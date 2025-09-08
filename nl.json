@@ -137,6 +137,23 @@
     "orderFormInputTypePhone": "telefoonnummer",
     "orderFormInputTypeOrderId": "Bestelling ID",
     "bannerExitText": "Afsluiten",
-    "bannerProceedText": "Doorgaan?"
+    "bannerProceedText": "Doorgaan?",
+    "shippingPolicyIntent": "Wat is uw verzendbeleid",
+    "contactDetailsIntent": "Hoe kan ik contact opnemen met uw winkel",
+    "storeLocationIntent": "Waar zijn uw winkels gevestigd",
+    "subscriptionEnquiryIntent": "Ik wil meer weten over het abonnement",
+    "orderTrackingIntent": "Ik wil mijn bestelling volgen",
+    "orderCancellationIntent": "Ik wil mijn bestelling annuleren",
+    "returnsRefundsPolicyIntent": "Ik wil meer weten over het retour- en restitutiebeleid",
+    "offersRewardsIntent": "Ik wil meer weten over lopende aanbiedingen of beloningen",
+    "offersEnquiryIntent": "Ik wil meer weten over mijn bestelling",
+    "shipping_policy": "Verzendbeleid",
+    "contact_details": "Contactgegevens",
+    "store_location": "Winkellocatie",
+    "subscription_enquiry": "Abonnementsvraag",
+    "order_tracking": "Bestelling volgen",
+    "order_cancellation": "Bestelling annuleren",
+    "returns_refunds_policy": "Retour- en restitutiebeleid",
+    "offers_rewards": "Aanbiedingen en beloningen"
   }
 }

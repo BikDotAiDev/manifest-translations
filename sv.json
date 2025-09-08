@@ -133,6 +133,23 @@
     "orderFormInputTypePhone": "telefonnummer",
     "orderFormInputTypeOrderId": "Beställnings-ID",
     "bannerExitText": "Avsluta",
-    "bannerProceedText": "Fortsätt?"
+    "bannerProceedText": "Fortsätt?",
+    "shippingPolicyIntent": "Vilken är er fraktpolicy",
+    "contactDetailsIntent": "Hur kan jag kontakta er butik",
+    "storeLocationIntent": "Var ligger era butiker",
+    "subscriptionEnquiryIntent": "Jag vill veta mer om prenumeration",
+    "orderTrackingIntent": "Jag vill spåra min order",
+    "orderCancellationIntent": "Jag vill avboka min order",
+    "returnsRefundsPolicyIntent": "Jag vill veta mer om retur- och återbetalningspolicy",
+    "offersRewardsIntent": "Jag vill veta mer om aktuella erbjudanden eller belöningar",
+    "offersEnquiryIntent": "Jag vill veta mer om min beställning",
+    "shipping_policy": "Fraktpolicy",
+    "contact_details": "Kontaktuppgifter",
+    "store_location": "Butiksplats",
+    "subscription_enquiry": "Prenumerationsförfrågan",
+    "order_tracking": "Orderspårning",
+    "order_cancellation": "Orderavbokning",
+    "returns_refunds_policy": "Retur- och återbetalningspolicy",
+    "offers_rewards": "Erbjudanden och belöningar"
   }
 }

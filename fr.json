@@ -138,6 +138,23 @@
     "orderFormInputTypePhone": "numéro de téléphone",
     "orderFormInputTypeOrderId": "ID de commande",
     "bannerExitText": "Quitter",
-    "bannerProceedText": "Continuer ?"
+    "bannerProceedText": "Continuer ?",
+    "shippingPolicyIntent": "Quelle est votre politique d'expédition",
+    "contactDetailsIntent": "Comment puis-je contacter votre magasin",
+    "storeLocationIntent": "Où sont situés vos magasins",
+    "subscriptionEnquiryIntent": "Je souhaite en savoir plus sur l'abonnement",
+    "orderTrackingIntent": "Je souhaite suivre ma commande",
+    "orderCancellationIntent": "Je souhaite annuler ma commande",
+    "returnsRefundsPolicyIntent": "Je souhaite connaître la politique de retour et de remboursement",
+    "offersRewardsIntent": "Je souhaite connaître les offres ou récompenses en cours",
+    "offersEnquiryIntent": "Je veux en savoir plus sur ma commande",
+    "shipping_policy": "Politique d'expédition",
+    "contact_details": "Coordonnées",
+    "store_location": "Emplacement du magasin",
+    "subscription_enquiry": "Demande d'abonnement",
+    "order_tracking": "Suivi de commande",
+    "order_cancellation": "Annulation de commande",
+    "returns_refunds_policy": "Politique de retour et de remboursement",
+    "offers_rewards": "Offres et récompenses"
   }
 }

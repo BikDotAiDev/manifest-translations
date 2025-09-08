@@ -133,6 +133,23 @@
     "orderFormInputTypePhone": "telefonszám",
     "orderFormInputTypeOrderId": "Rendelési azonosító",
     "bannerExitText": "Kilépés",
-    "bannerProceedText": "Folytatás?"
+    "bannerProceedText": "Folytatás?",
+    "shippingPolicyIntent": "Mi az Önök szállítási politikája",
+    "contactDetailsIntent": "Hogyan léphetek kapcsolatba az Önök áruházával",
+    "storeLocationIntent": "Hol találhatók az Önök üzletei",
+    "subscriptionEnquiryIntent": "Szeretnék többet megtudni az előfizetésről",
+    "orderTrackingIntent": "Szeretném nyomon követni a rendelésemet",
+    "orderCancellationIntent": "Szeretném lemondani a rendelésemet",
+    "returnsRefundsPolicyIntent": "Szeretnék többet megtudni a visszaküldési és visszatérítési politikáról",
+    "offersRewardsIntent": "Szeretnék többet megtudni a jelenlegi ajánlatokról vagy jutalmakról",
+    "offersEnquiryIntent": "Szeretnék többet megtudni a rendelésemről",
+    "shipping_policy": "Szállítási politika",
+    "contact_details": "Elérhetőségek",
+    "store_location": "Üzlet helye",
+    "subscription_enquiry": "Előfizetési kérdés",
+    "order_tracking": "Rendelés követése",
+    "order_cancellation": "Rendelés lemondása",
+    "returns_refunds_policy": "Visszaküldési és visszatérítési politika",
+    "offers_rewards": "Ajánlatok és jutalmak"
   }
 }

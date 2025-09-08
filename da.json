@@ -7,10 +7,26 @@
       "SEARCH": "Kan du ikke finde det, du leder efter? Lad mig hjælpe dig med at finde præcis, hvad du leder efter."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Hvilke produkter er dine bedst-sælgende?", "Hvad adskiller jeres produkter fra andre?", "Hvor er min ordre?"],
-      "OTHER": ["Hvilke produkter er dine bedst-sælgende?", "Hvad adskiller jeres produkter fra andre?", "Hvor er min ordre?"],
-      "PRODUCT": ["Hvad gør dette produkt unikt?", "Vis mig flere produkter som dette", "Hvad er returpolitiken for dette produkt?"],
-      "SEARCH": ["Vis mig de mest relevante produkter for mig", "Forfin resultaterne baseret på mine krav", "Hvad er nogle populære valg blandt disse?"]
+      "COLLECTION": [
+        "Hvilke produkter er dine bedst-sælgende?",
+        "Hvad adskiller jeres produkter fra andre?",
+        "Hvor er min ordre?"
+      ],
+      "OTHER": [
+        "Hvilke produkter er dine bedst-sælgende?",
+        "Hvad adskiller jeres produkter fra andre?",
+        "Hvor er min ordre?"
+      ],
+      "PRODUCT": [
+        "Hvad gør dette produkt unikt?",
+        "Vis mig flere produkter som dette",
+        "Hvad er returpolitiken for dette produkt?"
+      ],
+      "SEARCH": [
+        "Vis mig de mest relevante produkter for mig",
+        "Forfin resultaterne baseret på mine krav",
+        "Hvad er nogle populære valg blandt disse?"
+      ]
     }
   },
   "translations": {
@@ -133,6 +149,23 @@
     "orderFormInputTypePhone": "telefonnummer",
     "orderFormInputTypeOrderId": "Bestillings-ID",
     "bannerExitText": "Afslut",
-    "bannerProceedText": "Fortsæt?"
+    "bannerProceedText": "Fortsæt?",
+    "shippingPolicyIntent": "Hvad er jeres leveringspolitik",
+    "contactDetailsIntent": "Hvordan kan jeg kontakte jeres butik",
+    "storeLocationIntent": "Hvor ligger jeres butikker",
+    "subscriptionEnquiryIntent": "Jeg vil gerne vide mere om abonnement",
+    "orderTrackingIntent": "Jeg vil gerne spore min ordre",
+    "orderCancellationIntent": "Jeg vil gerne annullere min ordre",
+    "returnsRefundsPolicyIntent": "Jeg vil gerne vide mere om retur- og refusionspolitik",
+    "offersRewardsIntent": "Jeg vil gerne vide mere om aktuelle tilbud eller belønninger",
+    "offersEnquiryIntent": "Jeg vil gerne vide mere om min ordre",
+    "shipping_policy": "Leveringspolitik",
+    "contact_details": "Kontaktoplysninger",
+    "store_location": "Butiksplacering",
+    "subscription_enquiry": "Abonnementsforespørgsel",
+    "order_tracking": "Ordresporing",
+    "order_cancellation": "Ordreannullering",
+    "returns_refunds_policy": "Retur- og refusionspolitik",
+    "offers_rewards": "Tilbud og belønninger"
   }
 }
