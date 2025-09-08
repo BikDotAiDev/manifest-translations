@@ -132,6 +132,8 @@
     "orderFormInputTypeEmail": "Sähköpostiosoite",
     "orderFormInputTypePhone": "puhelinnumero",
     "orderFormInputTypeOrderId": "Tilausnumero",
+    "bannerExitText": "Poistu",
+    "bannerProceedText": "Jatka?",
     "shippingPolicyIntent": "Mikä on toimituskäytäntönne",
     "contactDetailsIntent": "Miten voin ottaa yhteyttä kauppaanne",
     "storeLocationIntent": "Missä kauppanne sijaitsevat",

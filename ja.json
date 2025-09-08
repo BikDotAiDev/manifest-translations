@@ -133,6 +133,8 @@
     "orderFormInputTypeEmail": "メールアドレス",
     "orderFormInputTypePhone": "電話番号",
     "orderFormInputTypeOrderId": "注文ID",
+    "bannerExitText": "終了",
+    "bannerProceedText": "続行しますか？",
     "shippingPolicyIntent": "あなたの配送ポリシーは何ですか",
     "contactDetailsIntent": "店舗への連絡方法を教えてください",
     "storeLocationIntent": "店舗はどこにありますか",

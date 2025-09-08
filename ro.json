@@ -132,6 +132,8 @@
     "orderFormInputTypeEmail": "Adresa de e-mail",
     "orderFormInputTypePhone": "numărul de telefon",
     "orderFormInputTypeOrderId": "ID comandă",
+    "bannerExitText": "Ieșire",
+    "bannerProceedText": "Continuați?",
     "shippingPolicyIntent": "Care este politica dvs. de livrare",
     "contactDetailsIntent": "Cum pot contacta magazinul dvs.",
     "storeLocationIntent": "Unde sunt localizate magazinele dvs.",

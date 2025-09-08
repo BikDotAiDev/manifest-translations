@@ -132,6 +132,8 @@
     "orderFormInputTypeEmail": "E-Mail-Adresse",
     "orderFormInputTypePhone": "Telefonnummer",
     "orderFormInputTypeOrderId": "Bestellnummer",
+    "bannerExitText": "Beenden",
+    "bannerProceedText": "Fortfahren?",
     "shippingPolicyIntent": "Wie ist Ihre Versandrichtlinie",
     "contactDetailsIntent": "Wie kann ich Ihr Geschäft kontaktieren",
     "storeLocationIntent": "Wo befinden sich Ihre Geschäfte",

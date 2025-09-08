@@ -132,6 +132,8 @@
     "orderFormInputTypeEmail": "E-posta adresi",
     "orderFormInputTypePhone": "telefon numarası",
     "orderFormInputTypeOrderId": "Sipariş kimliği",
+    "bannerExitText": "Çıkış",
+    "bannerProceedText": "Devam et?",
     "shippingPolicyIntent": "Mağazanızın gönderim politikası nedir",
     "contactDetailsIntent": "Mağazanızla nasıl iletişime geçebilirim",
     "storeLocationIntent": "Mağazalarınız nerede bulunuyor",

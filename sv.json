@@ -132,6 +132,8 @@
     "orderFormInputTypeEmail": "E-postadress",
     "orderFormInputTypePhone": "telefonnummer",
     "orderFormInputTypeOrderId": "Beställnings-ID",
+    "bannerExitText": "Avsluta",
+    "bannerProceedText": "Fortsätt?",
     "shippingPolicyIntent": "Vilken är er fraktpolicy",
     "contactDetailsIntent": "Hur kan jag kontakta er butik",
     "storeLocationIntent": "Var ligger era butiker",

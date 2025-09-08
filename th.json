@@ -174,6 +174,8 @@
   "orderFormInputTypeEmail": "ที่อยู่อีเมล",
   "orderFormInputTypePhone": "หมายเลขโทรศัพท์",
   "orderFormInputTypeOrderId": "รหัสคำสั่งซื้อ",
+  "bannerExitText": "ออก",
+  "bannerProceedText": "ดำเนินการต่อ?",
   "shippingPolicyIntent": "นโยบายการจัดส่งของคุณคืออะไร",
   "contactDetailsIntent": "ฉันจะติดต่อร้านของคุณได้อย่างไร",
   "storeLocationIntent": "ร้านของคุณตั้งอยู่ที่ไหน",

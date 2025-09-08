@@ -132,6 +132,8 @@
     "orderFormInputTypeEmail": "Email cím",
     "orderFormInputTypePhone": "telefonszám",
     "orderFormInputTypeOrderId": "Rendelési azonosító",
+    "bannerExitText": "Kilépés",
+    "bannerProceedText": "Folytatás?",
     "shippingPolicyIntent": "Mi az Önök szállítási politikája",
     "contactDetailsIntent": "Hogyan léphetek kapcsolatba az Önök áruházával",
     "storeLocationIntent": "Hol találhatók az Önök üzletei",

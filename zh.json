@@ -132,6 +132,8 @@
     "orderFormInputTypeEmail": "邮箱地址",
     "orderFormInputTypePhone": "电话号码",
     "orderFormInputTypeOrderId": "订单ID",
+    "bannerExitText": "退出",
+    "bannerProceedText": "继续？",
     "shippingPolicyIntent": "您的运输政策是什么",
     "contactDetailsIntent": "我如何联系您的商店",
     "storeLocationIntent": "您的商店在哪里",

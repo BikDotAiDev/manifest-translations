@@ -136,6 +136,8 @@
     "orderFormInputTypeEmail": "E-mailadres",
     "orderFormInputTypePhone": "telefoonnummer",
     "orderFormInputTypeOrderId": "Bestelling ID",
+    "bannerExitText": "Afsluiten",
+    "bannerProceedText": "Doorgaan?",
     "shippingPolicyIntent": "Wat is uw verzendbeleid",
     "contactDetailsIntent": "Hoe kan ik contact opnemen met uw winkel",
     "storeLocationIntent": "Waar zijn uw winkels gevestigd",

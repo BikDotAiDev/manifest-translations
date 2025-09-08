@@ -148,6 +148,8 @@
     "orderFormInputTypeEmail": "E-mailadresse",
     "orderFormInputTypePhone": "telefonnummer",
     "orderFormInputTypeOrderId": "Bestillings-ID",
+    "bannerExitText": "Afslut",
+    "bannerProceedText": "Fortsæt?",
     "shippingPolicyIntent": "Hvad er jeres leveringspolitik",
     "contactDetailsIntent": "Hvordan kan jeg kontakte jeres butik",
     "storeLocationIntent": "Hvor ligger jeres butikker",

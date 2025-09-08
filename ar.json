@@ -132,6 +132,8 @@
     "orderFormInputTypeEmail": "عنوان البريد الإلكتروني",
     "orderFormInputTypePhone": "رقم الهاتف",
     "orderFormInputTypeOrderId": "معرف الطلب",
+    "bannerExitText": "خروج",
+    "bannerProceedText": "متابعة؟",
     "shippingPolicyIntent": "ما هي سياسة الشحن الخاصة بكم",
     "contactDetailsIntent": "كيف يمكنني التواصل مع متجركم",
     "storeLocationIntent": "أين تقع متاجركم",

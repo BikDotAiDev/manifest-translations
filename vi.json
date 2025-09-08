@@ -132,6 +132,8 @@
     "orderFormInputTypeEmail": "Địa chỉ email",
     "orderFormInputTypePhone": "số điện thoại",
     "orderFormInputTypeOrderId": "ID đơn hàng",
+    "bannerExitText": "Thoát",
+    "bannerProceedText": "Tiếp tục?",
     "shippingPolicyIntent": "Chính sách vận chuyển của bạn là gì",
     "contactDetailsIntent": "Làm thế nào để tôi liên hệ với cửa hàng của bạn",
     "storeLocationIntent": "Các cửa hàng của bạn nằm ở đâu",
