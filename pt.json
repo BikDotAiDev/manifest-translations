@@ -52,7 +52,7 @@
     "ourTopPicks": "Escolhas principais",
     "ourTopProduct": "Nossos produtos principais",
     "outOfStock": "Esgotado",
-    "poweredBy": "Powered by",
+    "poweredBy": "Desenvolvido por",
     "quickActions": "Ações rápidas",
     "rewardForYou": "Recompensas só para você 🎉",
     "search": "Pesquisar",
@@ -165,6 +165,14 @@
     "order_tracking": "Rastreamento de pedido",
     "order_cancellation": "Cancelamento de pedido",
     "returns_refunds_policy": "Política de devolução e reembolso",
-    "offers_rewards": "Ofertas e recompensas"
+    "offers_rewards": "Ofertas e recompensas",
+    "orderListShowMore": "Mostrar mais",
+    "orderListScrollToTop": "Rolar para o topo",
+    "orderListNeedHelp": "Precisa de ajuda?",
+    "orderListCancelOrder": "Cancelar pedido",
+    "orderListReturnOrder": "Devolver pedido",
+    "orderListCancelOrderMessage": "Meu ID de pedido é {{orderId}}. Quero cancelar meu pedido.",
+    "orderListReturnOrderMessage": "Meu ID de pedido é {{orderId}}. Quero devolver meu pedido.",
+    "orderListNeedHelpMessage": "Precisa de ajuda com o pedido {{orderId}}"
   }
 }

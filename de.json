@@ -165,6 +165,14 @@
     "order_tracking": "Bestellverfolgung",
     "order_cancellation": "Bestellstornierung",
     "returns_refunds_policy": "Rückgabe- und Erstattungsrichtlinie",
-    "offers_rewards": "Angebote und Prämien"
+    "offers_rewards": "Angebote und Prämien",
+    "orderListShowMore": "Mehr anzeigen",
+    "orderListScrollToTop": "Nach oben scrollen",
+    "orderListNeedHelp": "Brauchen Sie Hilfe?",
+    "orderListCancelOrder": "Bestellung stornieren",
+    "orderListReturnOrder": "Bestellung zurückgeben",
+    "orderListCancelOrderMessage": "Meine Bestellnummer ist {{orderId}}. Ich möchte meine Bestellung stornieren.",
+    "orderListReturnOrderMessage": "Meine Bestellnummer ist {{orderId}}. Ich möchte meine Bestellung zurückgeben.",
+    "orderListNeedHelpMessage": "Brauchen Sie Hilfe bei Bestellung {{orderId}}"
   }
 }
