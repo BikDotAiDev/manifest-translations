@@ -113,7 +113,7 @@
     "orderFormEnterOrderId": "Skriv inn ordre-ID",
     "orderFormEnterEmailOrPhone": "Skriv inn e-post eller telefonnummer",
     "orderFormOrderIdPlaceholder": "123456",
-    "orderFormEmailPhonePlaceholder": "alex@email.com or +91 9876543210",
+    "orderFormEmailPhonePlaceholder": "alex@email.com eller +47 123 45 678",
     "orderFormTrackUsingEmailPhone": "Spor ved å bruke e-post/telefon",
     "orderFormTrackUsingOrderId": "Spor ved å bruke ordre-ID",
     "orderFormForgotOrderId": "Glemt ordre-ID?",

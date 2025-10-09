@@ -79,7 +79,7 @@
     "orderFormEnterOrderId": "Introdu ID-ul comenzii",
     "orderFormEnterEmailOrPhone": "Introdu email-ul sau numărul de telefon",
     "orderFormOrderIdPlaceholder": "123456",
-    "orderFormEmailPhonePlaceholder": "alex@email.com or +91 9876543210",
+    "orderFormEmailPhonePlaceholder": "alex@email.com sau +40 712 345 678",
     "orderFormTrackUsingEmailPhone": "Urmărește folosind email/telefon",
     "orderFormTrackUsingOrderId": "Urmărește folosind ID comandă",
     "orderFormForgotOrderId": "Ai uitat ID-ul comenzii?",

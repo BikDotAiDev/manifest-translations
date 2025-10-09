@@ -113,7 +113,7 @@
     "orderFormEnterOrderId": "Sipariş ID'sini girin",
     "orderFormEnterEmailOrPhone": "E-posta veya telefon numarasını girin",
     "orderFormOrderIdPlaceholder": "123456",
-    "orderFormEmailPhonePlaceholder": "alex@email.com or +91 9876543210",
+    "orderFormEmailPhonePlaceholder": "alex@email.com veya +90 532 123 4567",
     "orderFormTrackUsingEmailPhone": "E-posta/telefon kullanarak takip et",
     "orderFormTrackUsingOrderId": "Sipariş ID'si kullanarak takip et",
     "orderFormForgotOrderId": "Sipariş ID'sini unuttunuz mu?",
