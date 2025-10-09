@@ -125,7 +125,7 @@
     "orderFormNoOrdersFoundPhone": "Tälle numerolle ei löytynyt tilauksia. Yritä uudelleen",
     "orderFormNoOrdersFoundOrderId": "Tälle tilausnumerolle ei löytynyt tilauksia. Yritä uudelleen",
     "orderFormEmailOnlyOtpLabel": "Syötä vahvistuskoodi",
-    "orderFormEmailOnlyOtpPlaceholder": "Kertakäyttökoodi",
+    "orderFormEmailOnlyOtpPlaceholder": "Kertakäyttöinen salasana",
     "orderFormEmailOnlyOtpExpired": "Kertakäyttökoodi on vanhentunut. Yritä uudelleen.",
     "orderFormEmailOnlyOtpError": "Kertakäyttökoodi ei täsmää. Yritä uudelleen.",
     "orderFormEmailOnlyResend": "Lähetä uudelleen",

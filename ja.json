@@ -125,7 +125,7 @@
     "orderFormNoAccountFoundEmail": "このメールアドレスのアカウントが見つかりません。もう一度お試しください",
     "orderFormNoOrdersFoundPhone": "この番号の注文が見つかりません。もう一度お試しください",
     "orderFormNoOrdersFoundOrderId": "この注文IDの注文が見つかりません。もう一度お試しください",
-    "orderFormEmailOnlyOtpLabel": "確認コードを入力してください",
+    "orderFormEmailOnlyOtpLabel": "確認コードを入力",
     "orderFormEmailOnlyOtpPlaceholder": "ワンタイムパスワード",
     "orderFormEmailOnlyOtpExpired": "OTPの有効期限が切れています。もう一度お試しください。",
     "orderFormEmailOnlyOtpError": "OTPが一致しません。もう一度お試しください。",

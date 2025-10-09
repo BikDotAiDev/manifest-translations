@@ -166,7 +166,7 @@
   "orderFormNoAccountFoundEmail": "ไม่พบบัญชีสำหรับอีเมลนี้ กรุณาลองใหม่",
   "orderFormNoOrdersFoundPhone": "ไม่พบคำสั่งซื้อสำหรับเบอร์นี้ กรุณาลองใหม่",
   "orderFormNoOrdersFoundOrderId": "ไม่พบคำสั่งซื้อสำหรับรหัสคำสั่งซื้อนี้ กรุณาลองใหม่",
-  "orderFormEmailOnlyOtpLabel": "กรอกรหัสยืนยัน",
+  "orderFormEmailOnlyOtpLabel": "ป้อนรหัสยืนยัน",
   "orderFormEmailOnlyOtpPlaceholder": "รหัสผ่านใช้ครั้งเดียว",
   "orderFormEmailOnlyOtpExpired": "รหัส OTP หมดอายุแล้ว กรุณาลองใหม่",
   "orderFormEmailOnlyOtpError": "รหัส OTP ไม่ตรงกัน กรุณาลองใหม่",

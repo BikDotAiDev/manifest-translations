@@ -129,6 +129,7 @@
     "orderFormFallbackNoOtherOptions": "No problem, we have other options available to assist you with your order.",
     "orderFormFallbackTalkToAgent": "Talk to an agent",
     "orderFormFallbackCheckTrackingPortal": "Check our tracking portal",
+    "orderFormTrackingPortalLink": "Check our tracking portal",
     "insideOrderTrackingFlow": "You're inside order tracking flow",
     "startNewConversation": "Start new conversation",
     "returnToChat": "Return to chat",

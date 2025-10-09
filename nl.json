@@ -129,7 +129,7 @@
     "orderFormNoOrdersFoundPhone": "Geen bestellingen gevonden voor dit nummer. Probeer het opnieuw",
     "orderFormNoOrdersFoundOrderId": "Geen bestellingen gevonden voor dit bestel-ID. Probeer het opnieuw",
     "orderFormEmailOnlyOtpLabel": "Voer verificatiecode in",
-    "orderFormEmailOnlyOtpPlaceholder": "Eenmalige code",
+    "orderFormEmailOnlyOtpPlaceholder": "Eenmalig wachtwoord",
     "orderFormEmailOnlyOtpExpired": "De eenmalige code is verlopen. Probeer het opnieuw.",
     "orderFormEmailOnlyOtpError": "De eenmalige code komt niet overeen. Probeer het opnieuw.",
     "orderFormEmailOnlyResend": "Opnieuw verzenden",

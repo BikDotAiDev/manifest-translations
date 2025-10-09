@@ -125,7 +125,7 @@
     "orderFormNoOrdersFoundPhone": "Nie znaleziono zamówień dla tego numeru. Spróbuj ponownie",
     "orderFormNoOrdersFoundOrderId": "Nie znaleziono zamówień dla tego ID zamówienia. Spróbuj ponownie",
     "orderFormEmailOnlyOtpLabel": "Wprowadź kod weryfikacyjny",
-    "orderFormEmailOnlyOtpPlaceholder": "Kod jednorazowy",
+    "orderFormEmailOnlyOtpPlaceholder": "Hasło jednorazowe",
     "orderFormEmailOnlyOtpExpired": "Kod jednorazowy wygasł. Spróbuj ponownie.",
     "orderFormEmailOnlyOtpError": "Kod jednorazowy nie pasuje. Spróbuj ponownie.",
     "orderFormEmailOnlyResend": "Wyślij ponownie",

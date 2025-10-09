@@ -141,7 +141,7 @@
     "orderFormNoOrdersFoundPhone": "Ingen ordrer fundet for dette nummer. Prøv igen",
     "orderFormNoOrdersFoundOrderId": "Ingen ordrer fundet for dette ordre-ID. Prøv igen",
     "orderFormEmailOnlyOtpLabel": "Indtast verifikationskode",
-    "orderFormEmailOnlyOtpPlaceholder": "Engangskode",
+    "orderFormEmailOnlyOtpPlaceholder": "Engangsadgangskode",
     "orderFormEmailOnlyOtpExpired": "Engangskoden er udløbet. Prøv igen.",
     "orderFormEmailOnlyOtpError": "Engangskoden matcher ikke. Prøv igen.",
     "orderFormEmailOnlyResend": "Send igen",
