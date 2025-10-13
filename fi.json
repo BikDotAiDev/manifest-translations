@@ -7,10 +7,26 @@
       "SEARCH": "Et löydä etsimääsi? Anna minun auttaa sinua löytämään juuri sen, mitä etsit."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Mitkä ovat myydyimmät tuotteesi?", "Mikä erottaa tuotteesi muista?", "Missä on tilaukseni?"],
-      "OTHER": ["Mitkä ovat myydyimmät tuotteesi?", "Mikä erottaa tuotteesi muista?", "Missä on tilaukseni?"],
-      "PRODUCT": ["Mikä erottaa tämän tuotteen muista?", "Näytä minulle lisää samanlaisia tuotteita", "Mikä on tämän tuotteen palautuskäytäntö?"],
-      "SEARCH": ["Näytä minulle sopivimmat tuotteet", "Tarkenna tuloksia vaatimusteni perusteella", "Mitkä ovat suosituimpia valintoja näiden joukosta?"]
+      "COLLECTION": [
+        "Mitkä ovat myydyimmät tuotteesi?",
+        "Mikä erottaa tuotteesi muista?",
+        "Missä on tilaukseni?"
+      ],
+      "OTHER": [
+        "Mitkä ovat myydyimmät tuotteesi?",
+        "Mikä erottaa tuotteesi muista?",
+        "Missä on tilaukseni?"
+      ],
+      "PRODUCT": [
+        "Mikä erottaa tämän tuotteen muista?",
+        "Näytä minulle lisää samanlaisia tuotteita",
+        "Mikä on tämän tuotteen palautuskäytäntö?"
+      ],
+      "SEARCH": [
+        "Näytä minulle sopivimmat tuotteet",
+        "Tarkenna tuloksia vaatimusteni perusteella",
+        "Mitkä ovat suosituimpia valintoja näiden joukosta?"
+      ]
     }
   },
   "translations": {
@@ -32,7 +48,9 @@
     "chooseYourCountry": "Valitse maasi",
     "directRewardNextPurchaseCoupon": "Kiitos ostoksistasi kanssamme! Meillä on meneillään erikoistarjous {{couponTitle}}. Haluaisitko käyttää tätä tarjousta seuraavassa ostossasi?",
     "discountCouponTextBIC": "Hei! Kiva nähdä sinut. 😃 Tarjoamme erikoistarjouksen: {{couponTitle}}. Oletko valmis hyödyntämään alennuksesi?",
-    "enterYourMessage": "Kirjoita viestisi...",
+    "discountCouponText": "Woohoo 🎉 Olet oikeutettu {{couponTitle}}.",
+    "getOffer": "Hanki tarjous",
+    "enterYourMessage": "Kirjoita viestisi ...",
     "enter_email_here": "Kirjoita sähköpostiosoitteesi tähän",
     "enter_phone_here": "Anna puhelinnumerosi tähän",
     "goToCart": "Mene ostoskoriin",

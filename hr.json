@@ -208,5 +208,7 @@
   "order_cancellation": "Otkazivanje narudžbe",
   "returns_refunds_policy": "Politika povrata i refundacija",
   "offers_rewards": "Ponude i nagrade",
-  "directRewardNextPurchaseCoupon": "Hvala što ste kupovali kod nas! Imamo posebnu ponudu za {{couponTitle}}. Želite li iskoristiti ovu ponudu prilikom sljedeće kupnje"
+  "directRewardNextPurchaseCoupon": "Hvala što ste kupovali kod nas! Imamo posebnu ponudu za {{couponTitle}}. Želite li iskoristiti ovu ponudu prilikom sljedeće kupnje",
+  "discountCouponText": "Woohoo 🎉 Imate pravo na {{couponTitle}}.",
+  "getOffer": "Dobiti ponudu"
 }

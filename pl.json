@@ -7,10 +7,26 @@
       "SEARCH": "Nie możesz znaleźć tego, czego szukasz? Pozwól mi pomóc Ci znaleźć dokładnie to, czego szukasz."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Jakie są nasze najlepiej sprzedające się produkty?", "Co wyróżnia nasze produkty spośród innych?", "Gdzie jest moje zamówienie?"],
-      "OTHER": ["Jakie są nasze najlepiej sprzedające się produkty?", "Co wyróżnia nasze produkty spośród innych?", "Gdzie jest moje zamówienie?"],
-      "PRODUCT": ["Co wyróżnia ten produkt?", "Pokaż mi więcej produktów podobnych do tego", "Jaka jest polityka zwrotów tego produktu?"],
-      "SEARCH": ["Pokaż mi najbardziej odpowiednie produkty dla mnie", "Uściślij wyniki na podstawie moich wymagań", "Jakie są popularne wybory wśród tych produktów?"]
+      "COLLECTION": [
+        "Jakie są nasze najlepiej sprzedające się produkty?",
+        "Co wyróżnia nasze produkty spośród innych?",
+        "Gdzie jest moje zamówienie?"
+      ],
+      "OTHER": [
+        "Jakie są nasze najlepiej sprzedające się produkty?",
+        "Co wyróżnia nasze produkty spośród innych?",
+        "Gdzie jest moje zamówienie?"
+      ],
+      "PRODUCT": [
+        "Co wyróżnia ten produkt?",
+        "Pokaż mi więcej produktów podobnych do tego",
+        "Jaka jest polityka zwrotów tego produktu?"
+      ],
+      "SEARCH": [
+        "Pokaż mi najbardziej odpowiednie produkty dla mnie",
+        "Uściślij wyniki na podstawie moich wymagań",
+        "Jakie są popularne wybory wśród tych produktów?"
+      ]
     }
   },
   "translations": {
@@ -32,6 +48,8 @@
     "chooseYourCountry": "Wybierz swój kraj",
     "directRewardNextPurchaseCoupon": "Dziękujemy za zakupy u nas! Mamy specjalną ofertę na {{couponTitle}}. Czy chciałbyś skorzystać z tej oferty przy następnych zakupach?",
     "discountCouponTextBIC": "Cześć! Miło cię widzieć. 😃 Oferujemy specjalną ofertę: {{couponTitle}}. Gotowy do skorzystania ze zniżki?",
+    "discountCouponText": "Woohoo 🎉 Jesteś uprawniony do {{couponTitle}}.",
+    "getOffer": "Uzyskaj ofertę",
     "enterYourMessage": "Wprowadź swoją wiadomość ...",
     "enter_email_here": "Proszę wpisać tutaj swój adres e-mail",
     "enter_phone_here": "Proszę wpisać tutaj swój numer telefonu",

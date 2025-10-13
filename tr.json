@@ -7,10 +7,26 @@
       "SEARCH": "Aradığınızı bulamıyor musunuz? Sizi tam olarak aradığınızı bulmanıza yardımcı olabilirim."
     },
     "suggestedReplies": {
-      "COLLECTION": ["En çok satan ürünleriniz nelerdir?", "Ürünlerinizi diğerlerinden ayıran nedir?", "Siparişim nerede?"],
-      "OTHER": ["En çok satan ürünleriniz nelerdir?", "Ürünlerinizi diğerlerinden ayıran nedir?", "Siparişim nerede?"],
-      "PRODUCT": ["Bu ürünü öne çıkan kılan nedir?", "Bana bu ürün gibi daha fazla ürün göster", "Bu ürünün iade politikası nedir?"],
-      "SEARCH": ["Benim için en ilgili ürünleri göster", "Sonuçları gereksinimlerime göre iyileştir", "Bunlar arasında popüler seçenekler neler?"]
+      "COLLECTION": [
+        "En çok satan ürünleriniz nelerdir?",
+        "Ürünlerinizi diğerlerinden ayıran nedir?",
+        "Siparişim nerede?"
+      ],
+      "OTHER": [
+        "En çok satan ürünleriniz nelerdir?",
+        "Ürünlerinizi diğerlerinden ayıran nedir?",
+        "Siparişim nerede?"
+      ],
+      "PRODUCT": [
+        "Bu ürünü öne çıkan kılan nedir?",
+        "Bana bu ürün gibi daha fazla ürün göster",
+        "Bu ürünün iade politikası nedir?"
+      ],
+      "SEARCH": [
+        "Benim için en ilgili ürünleri göster",
+        "Sonuçları gereksinimlerime göre iyileştir",
+        "Bunlar arasında popüler seçenekler neler?"
+      ]
     }
   },
   "translations": {
@@ -32,6 +48,8 @@
     "chooseYourCountry": "Ülkenizi seçin",
     "directRewardNextPurchaseCoupon": "Bizimle alışveriş yaptığınız için teşekkürler! {{couponTitle}} için özel bir teklifimiz var. Bu teklifi bir sonraki alışverişinizde kullanmak ister misiniz?",
     "discountCouponTextBIC": "Merhaba! Seni görmek güzel. 😃 Özel bir teklif sunuyoruz: {{couponTitle}}. İndiriminizi talep etmeye hazır mısınız?",
+    "discountCouponText": "Woohoo 🎉 {{couponTitle}} için uygunsunuz.",
+    "getOffer": "Teklif al",
     "enterYourMessage": "Mesajınızı girin...",
     "enter_email_here": "Lütfen e-postanızı buraya girin",
     "enter_phone_here": "Lütfen telefon numaranızı buraya girin",

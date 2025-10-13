@@ -7,10 +7,26 @@
       "SEARCH": "Nem találod, amit keresel? Segítek megtalálni pontosan azt, amit keresel."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Mi a legjobban eladott termékeitek?", "Mi különbözteti meg termékeiteket a többitől?", "Hol van az rendelésem?"],
-      "OTHER": ["Mi a legjobban eladott termékeitek?", "Mi különbözteti meg termékeiteket a többitől?", "Hol van az rendelésem?"],
-      "PRODUCT": ["Mi teszi ezt a terméket különlegessé?", "Mutass több olyan terméket, mint ez", "Mi a termék visszaküldési politikája?"],
-      "SEARCH": ["Mutass nekem a számomra legrelevánsabb termékeket", "Finomítsd az eredményeket az igényeim alapján", "Mi a népszerű választás ezek között?"]
+      "COLLECTION": [
+        "Mi a legjobban eladott termékeitek?",
+        "Mi különbözteti meg termékeiteket a többitől?",
+        "Hol van az rendelésem?"
+      ],
+      "OTHER": [
+        "Mi a legjobban eladott termékeitek?",
+        "Mi különbözteti meg termékeiteket a többitől?",
+        "Hol van az rendelésem?"
+      ],
+      "PRODUCT": [
+        "Mi teszi ezt a terméket különlegessé?",
+        "Mutass több olyan terméket, mint ez",
+        "Mi a termék visszaküldési politikája?"
+      ],
+      "SEARCH": [
+        "Mutass nekem a számomra legrelevánsabb termékeket",
+        "Finomítsd az eredményeket az igényeim alapján",
+        "Mi a népszerű választás ezek között?"
+      ]
     }
   },
   "translations": {
@@ -32,6 +48,8 @@
     "chooseYourCountry": "Válaszd ki az országod",
     "directRewardNextPurchaseCoupon": "Köszönjük, hogy nálunk vásárolsz! Van egy különleges ajánlatunk: {{couponTitle}}. Szeretnéd használni ezt az ajánlatot a következő vásárlásnál?",
     "discountCouponTextBIC": "Szia! Örülök, hogy látlak. 😃 Különleges ajánlatot kínálunk: {{couponTitle}}. Készen állsz az kedvezmény igénylésére?",
+    "discountCouponText": "Woohoo 🎉 Jogosult vagy a {{couponTitle}} kedvezményre.",
+    "getOffer": "Ajánlat megszerzése",
     "enter_email_here": "Kérlek, add meg az email címed itt",
     "enter_phone_here": "Add meg a telefonszámod",
     "enterYourMessage": "Írd be az üzeneted ...",

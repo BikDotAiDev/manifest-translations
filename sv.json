@@ -7,10 +7,26 @@
       "SEARCH": "Hittar du inte vad du letar efter? Låt mig hjälpa dig att hitta exakt det du söker."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Vilka är dina bästsäljande produkter?", "Vad skiljer dina produkter från andra?", "Var är min beställning?"],
-      "OTHER": ["Vilka är dina bästsäljande produkter?", "Vad skiljer dina produkter från andra?", "Var är min beställning?"],
-      "PRODUCT": ["Vad utmärker den här produkten?", "Visa mig fler produkter som denna", "Vad är returpolicyn för den här produkten?"],
-      "SEARCH": ["Visa de mest relevanta produkterna för mig", "Förfina resultaten baserat på mina krav", "Vilka är några populära val bland dessa?"]
+      "COLLECTION": [
+        "Vilka är dina bästsäljande produkter?",
+        "Vad skiljer dina produkter från andra?",
+        "Var är min beställning?"
+      ],
+      "OTHER": [
+        "Vilka är dina bästsäljande produkter?",
+        "Vad skiljer dina produkter från andra?",
+        "Var är min beställning?"
+      ],
+      "PRODUCT": [
+        "Vad utmärker den här produkten?",
+        "Visa mig fler produkter som denna",
+        "Vad är returpolicyn för den här produkten?"
+      ],
+      "SEARCH": [
+        "Visa de mest relevanta produkterna för mig",
+        "Förfina resultaten baserat på mina krav",
+        "Vilka är några populära val bland dessa?"
+      ]
     }
   },
   "translations": {
@@ -32,6 +48,8 @@
     "chooseYourCountry": "Välj ditt land",
     "directRewardNextPurchaseCoupon": "Tack för att du handlar hos oss! Vi har ett specialerbjudande på {{couponTitle}}. Vill du använda detta erbjudande vid ditt nästa köp?",
     "discountCouponTextBIC": "Hej där! Kul att se dig. 😃 Vi erbjuder en specialaffär: {{couponTitle}}. Redo att göra anspråk på din rabatt?",
+    "discountCouponText": "Woohoo 🎉 Du är berättigad till {{couponTitle}}.",
+    "getOffer": "Få erbjudande",
     "enter_email_here": "Ange din e-post här",
     "enter_phone_here": "Ange telefonnummer",
     "enterYourMessage": "Skriv ditt meddelande ...",

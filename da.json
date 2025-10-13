@@ -48,6 +48,8 @@
     "chooseYourCountry": "Vælg dit land",
     "directRewardNextPurchaseCoupon": "Tak fordi du handler hos os! Vi har en særlig rabat på {{couponTitle}}. Vil du gerne bruge dette tilbud ved dit næste køb?",
     "discountCouponTextBIC": "Hej! Dejligt at se dig. 😃 Vi tilbyder en særlig aftale: {{couponTitle}}. Klar til at gøre krav på din rabat?",
+    "discountCouponText": "Woohoo 🎉 Du er berettiget til {{couponTitle}}.",
+    "getOffer": "Få tilbud",
     "enterYourMessage": "Indtast din besked ...",
     "enter_email_here": "Indtast venligst din e-mail her",
     "enter_phone_here": "Indtast dit telefonnummer her",

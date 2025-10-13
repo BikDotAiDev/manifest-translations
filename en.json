@@ -43,6 +43,8 @@
     "seeCuratedRecommendations": "See curated recommendations",
     "handpicked": "Handpicked",
     "discountCouponTextBIC": "Hi there! Nice to see you. 😃 We're offering a special deal: {{couponTitle}}. Ready to claim your discount?",
+    "discountCouponText": "Woohoo 🎉 You are eligible for {{couponTitle}}.",
+    "getOffer": "Get offer",
     "directRewardNextPurchaseCoupon": "Thanks for shopping with us! We have a special going on {{couponTitle}}. Would you like to use this offer on your next purchase",
     "veryHelpful": "Very helpful",
     "notHelpful": "Not helpful",
