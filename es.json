@@ -7,10 +7,26 @@
       "SEARCH": "¿No puedes encontrar lo que buscas? Permíteme ayudarte a encontrar exactamente lo que necesitas."
     },
     "suggestedReplies": {
-      "COLLECTION": ["¿Cuáles son tus productos más vendidos?", "¿Qué diferencia tus productos de los demás?", "¿Dónde está mi pedido?"],
-      "OTHER": ["¿Cuáles son tus productos más vendidos?", "¿Qué diferencia tus productos de los demás?", "¿Dónde está mi pedido?"],
-      "PRODUCT": ["¿Qué hace que este producto se destaque?", "Muéstrame más productos como este", "¿Cuál es la política de devoluciones de este producto?"],
-      "SEARCH": ["Muéstrame los productos más relevantes para mí", "Refina los resultados según mis requisitos", "¿Cuáles son algunas opciones populares entre estos?"]
+      "COLLECTION": [
+        "¿Cuáles son tus productos más vendidos?",
+        "¿Qué diferencia tus productos de los demás?",
+        "¿Dónde está mi pedido?"
+      ],
+      "OTHER": [
+        "¿Cuáles son tus productos más vendidos?",
+        "¿Qué diferencia tus productos de los demás?",
+        "¿Dónde está mi pedido?"
+      ],
+      "PRODUCT": [
+        "¿Qué hace que este producto se destaque?",
+        "Muéstrame más productos como este",
+        "¿Cuál es la política de devoluciones de este producto?"
+      ],
+      "SEARCH": [
+        "Muéstrame los productos más relevantes para mí",
+        "Refina los resultados según mis requisitos",
+        "¿Cuáles son algunas opciones populares entre estos?"
+      ]
     }
   },
   "translations": {
@@ -27,11 +43,14 @@
     "askMoreAboutThisProduct": "Pregunta más sobre este producto",
     "availOngoingSpecialOffer": "Quiero aprovechar la oferta especial en curso",
     "cartWaiting": "¡No dejes que los productos en tu carrito esperen, ¡compra ahora!",
+    "chatWithUS": "Chatea con nosotros 👋🏻",
     "checkOutThese": "Echa un vistazo a estas selecciones en su lugar",
     "checkout": "Pagar",
     "chooseYourCountry": "Elige tu país",
     "directRewardNextPurchaseCoupon": "Gracias por comprar con nosotros! Tenemos una oferta especial en {{couponTitle}}. ¿Te gustaría usar esta oferta en tu próxima compra?",
     "discountCouponTextBIC": "¡Hola! ¡Qué bueno verte! 😃 Estamos ofreciendo una oferta especial: {{couponTitle}}. ¿Listo para reclamar tu descuento?",
+    "discountCouponText": "¡Woohoo! 🎉 Eres elegible para {{couponTitle}}.",
+    "getOffer": "Obtener oferta",
     "enterYourMessage": "Ingresa tu mensaje...",
     "enter_email_here": "Por favor, introduzca aquí su correo electrónico",
     "enter_phone_here": "Por favor, introduce tu número de teléfono aquí",

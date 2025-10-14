@@ -7,10 +7,26 @@
       "SEARCH": "Nu găsești ce cauți? Lasă-mă să te ajut să găsești exact ceea ce cauți."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Care sunt cele mai bine vândute produse ale voastre?", "Ce deosebește produsele voastre de cele ale altora?", "Unde este comanda mea?"],
-      "OTHER": ["Care sunt cele mai bine vândute produse ale voastre?", "Ce deosebește produsele voastre de cele ale altora?", "Unde este comanda mea?"],
-      "PRODUCT": ["Ce face acest produs să se remarce?", "Arată-mi mai multe produse ca acesta", "Care este politica de returnare pentru acest produs?"],
-      "SEARCH": ["Arată-mi cele mai relevante produse pentru mine", "Rafineaza rezultatele pe baza cerințelor mele", "Care sunt câteva opțiuni populare printre acestea?"]
+      "COLLECTION": [
+        "Care sunt cele mai bine vândute produse ale voastre?",
+        "Ce deosebește produsele voastre de cele ale altora?",
+        "Unde este comanda mea?"
+      ],
+      "OTHER": [
+        "Care sunt cele mai bine vândute produse ale voastre?",
+        "Ce deosebește produsele voastre de cele ale altora?",
+        "Unde este comanda mea?"
+      ],
+      "PRODUCT": [
+        "Ce face acest produs să se remarce?",
+        "Arată-mi mai multe produse ca acesta",
+        "Care este politica de returnare pentru acest produs?"
+      ],
+      "SEARCH": [
+        "Arată-mi cele mai relevante produse pentru mine",
+        "Rafineaza rezultatele pe baza cerințelor mele",
+        "Care sunt câteva opțiuni populare printre acestea?"
+      ]
     }
   },
   "translations": {
@@ -27,11 +43,14 @@
     "askMoreAboutThisProduct": "Întreabă mai multe despre acest produs",
     "availOngoingSpecialOffer": "Vreau să beneficiez de oferta specială în curs",
     "cartWaiting": "Nu lăsa articolele din coșul tău să aștepte, comanda acum!",
+    "chatWithUS": "Discută cu noi 👋🏻",
     "checkOutThese": "Verifică aceste selecții în schimb",
     "checkout": "Finalizează comanda",
     "chooseYourCountry": "Alege țara ta",
     "directRewardNextPurchaseCoupon": "Mulțumim că ai cumpărat de la noi! Avem o ofertă specială pentru {{couponTitle}}. Ai dori să folosești această ofertă la următoarea achiziție?",
     "discountCouponTextBIC": "Salut! Ce bine să te văd. 😃 Oferim o ofertă specială: {{couponTitle}}. Ești gata să-ți revendici reducerea?",
+    "discountCouponText": "Woohoo 🎉 Ești eligibil pentru {{couponTitle}}.",
+    "getOffer": "Obține oferta",
     "enter_email_here": "Te rog să-ți introduci email-ul aici",
     "enter_phone_here": "Introduce numărul de telefon",
     "enterYourMessage": "Introduce mesajul tău ...",

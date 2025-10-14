@@ -7,10 +7,26 @@
       "SEARCH": "Finner ikke det du leter etter? La meg hjelpe deg med å finne akkurat det du ser etter."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Hva er dine bestselgende produkter?", "Hva skiller produktene dine fra andre?", "Hvor er bestillingen min?"],
-      "OTHER": ["Hva er dine bestselgende produkter?", "Hva skiller produktene dine fra andre?", "Hvor er bestillingen min?"],
-      "PRODUCT": ["Hva gjør dette produktet spesielt?", "Vis meg flere produkter som dette", "Hva er returpolicyen for dette produktet?"],
-      "SEARCH": ["Vis meg de mest relevante produktene for meg", "Forfin resultatene basert på mine krav", "Hva er noen populære valg blant disse?"]
+      "COLLECTION": [
+        "Hva er dine bestselgende produkter?",
+        "Hva skiller produktene dine fra andre?",
+        "Hvor er bestillingen min?"
+      ],
+      "OTHER": [
+        "Hva er dine bestselgende produkter?",
+        "Hva skiller produktene dine fra andre?",
+        "Hvor er bestillingen min?"
+      ],
+      "PRODUCT": [
+        "Hva gjør dette produktet spesielt?",
+        "Vis meg flere produkter som dette",
+        "Hva er returpolicyen for dette produktet?"
+      ],
+      "SEARCH": [
+        "Vis meg de mest relevante produktene for meg",
+        "Forfin resultatene basert på mine krav",
+        "Hva er noen populære valg blant disse?"
+      ]
     }
   },
   "translations": {
@@ -27,11 +43,14 @@
     "askMoreAboutThisProduct": "Spør mer om dette produktet",
     "availOngoingSpecialOffer": "Jeg vil benytte den pågående spesialtilbudet",
     "cartWaiting": "Ikke la varene i handlekurven vente, sjekk ut nå!",
+    "chatWithUS": "Chat med oss 👋🏻",
     "checkOutThese": "Sjekk ut disse valgene i stedet",
     "checkout": "Gå til kassen",
     "chooseYourCountry": "Velg ditt land",
     "directRewardNextPurchaseCoupon": "Takk for at du handler hos oss! Vi har et spesialtilbud på {{couponTitle}}. Vil du bruke dette tilbudet ved neste kjøp?",
     "discountCouponTextBIC": "Hei der! Hyggelig å se deg. 😃 Vi tilbyr en spesiell avtale: {{couponTitle}}. Klar til å kreve rabatten din?",
+    "discountCouponText": "Woohoo 🎉 Du er kvalifisert for {{couponTitle}}.",
+    "getOffer": "Få tilbud",
     "enterYourMessage": "Skriv inn meldingen din ...",
     "enter_email_here": "Vennligst skriv inn e-posten din her",
     "enter_phone_here": "Vennligst skriv inn telefonnummeret ditt her",

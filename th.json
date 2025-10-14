@@ -67,6 +67,7 @@
   "ask_about_this": "ถามเกี่ยวกับเรื่องนี้",
   "go_To_cart": "ไปที่รถเข็น",
   "AMA": "ถามฉันอะไรก็ได้",
+  "chatWithUS": "แชทกับเรา 👋🏻",
   "take_quiz": "ทำแบบทดสอบ!",
   "show_more": "แสดงมากขึ้น",
   "catalog_refinement": "เรียกดูผลลัพธ์ตามคอลเลกชัน",
@@ -209,7 +210,6 @@
   "returns_refunds_policy": "นโยบายการคืนสินค้าและคืนเงิน",
   "offers_rewards": "ข้อเสนอและรางวัล",
   "directRewardNextPurchaseCoupon": "ขอบคุณที่เลือกซื้อกับเรา! เรามีข้อเสนอพิเศษสำหรับ {{couponTitle}} คุณต้องการใช้ข้อเสนอนี้ในการซื้อครั้งถัดไปหรือไม่",
-  "insideCustomWorkflow": "คุณอยู่ในโฟลว์ {{query}}",
   "orderListShowMore": "แสดงเพิ่มเติม",
   "orderListScrollToTop": "เลื่อนขึ้นด้านบน",
   "orderListNeedHelp": "ต้องการความช่วยเหลือ?",
@@ -217,5 +217,7 @@
   "orderListReturnOrder": "คืนสินค้า",
   "orderListCancelOrderMessage": "รหัสคำสั่งซื้อของฉันคือ {{orderId}} ฉันต้องการยกเลิกคำสั่งซื้อ",
   "orderListReturnOrderMessage": "รหัสคำสั่งซื้อของฉันคือ {{orderId}} ฉันต้องการคืนสินค้า",
-  "orderListNeedHelpMessage": "ต้องการความช่วยเหลือสำหรับคำสั่งซื้อ {{orderId}}"
+  "orderListNeedHelpMessage": "ต้องการความช่วยเหลือสำหรับคำสั่งซื้อ {{orderId}}",
+  "discountCouponText": "วู้ฮู! 🎉 คุณมีสิทธิ์รับ {{couponTitle}}",
+  "getOffer": "รับข้อเสนอ"
 }
