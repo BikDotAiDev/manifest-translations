@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "Frag mich alles über die {{collectionName}} Kollektion",
   "others": {
     "popUpMessages": {
       "COLLECTION": "Suchst du etwas Besonderes in dieser Kollektion? Ich weiß, wo du es finden kannst.",
@@ -105,6 +106,12 @@
     "orderFormVerifyNoOrderFound": "Keine Bestellung mit dieser Nummer gefunden. Bitte versuchen Sie es erneut.",
     "orderFormVerifyEmailNotMatch": "Diese E-Mail-Adresse stimmt nicht mit der Bestellnummer überein. Bitte versuchen Sie es erneut.",
     "orderFormVerifyPhoneNotMatch": "Diese Telefonnummer stimmt nicht mit der Bestellnummer überein. Bitte versuchen Sie es erneut.",
+    "orderFormVerifyNoOrderFoundOrderId": "Für diese Bestellnummer wurden keine Bestellungen gefunden. Bitte versuchen Sie es erneut.",
+    "orderFormVerifyNoOrderFoundPhone": "Für diese Nummer wurden keine Bestellungen gefunden. Bitte versuchen Sie es erneut.",
+    "orderFormVerifyNoOrderFoundEmail": "Für diese E-Mail wurden keine Bestellungen gefunden. Bitte versuchen Sie es erneut.",
+    "orderFormEmailOnlyTitle": "Lass uns deine Bestellung verfolgen",
+    "orderFormOtpTitle": "Wir haben einen 6-stelligen Code an Ihre E-Mail gesendet.",
+    "orderOtpRateLimitError": "Sie haben die maximale Anzahl von OTP-Anfragen überschritten. Bitte versuchen Sie es nach einer Stunde erneut.",
     "orderFormEmailOnlyTrackOrderPrompt": "Geben Sie Ihre E-Mail-Adresse ein, um Ihre Bestellung zu verfolgen",
     "orderFormEmailOnlyOtpSentPrompt": "Wir haben einen OTP an Ihre E-Mail gesendet. Bitte geben Sie ihn ein, um fortzufahren",
     "orderFormEmailOnlyEmailLabel": "E-Mail-Adresse",
@@ -132,11 +139,14 @@
     "orderFormEmailOnlyVerifyButton": "Verifizieren",
     "orderFormEmailOnlyDontRememberEmail": "E-Mail-Adresse vergessen?",
     "orderFormEmailOnlyResendIn": "Erneut senden in {{countdown}}s",
+    "orderFormEmailOnlyResendNow": "Jetzt erneut senden",
+    "orderFormEmailOnlyDidntReceiveCode": "Code nicht erhalten?",
     "orderFormFallbackNoOtherOptions": "Kein Problem, wir haben andere Optionen verfügbar, um Ihnen bei Ihrer Bestellung zu helfen.",
     "orderFormFallbackTalkToAgent": "Mit einem Agenten sprechen",
     "orderFormFallbackCheckTrackingPortal": "Überprüfen Sie unser Tracking-Portal",
     "insideOrderTrackingFlow": "Sie befinden sich im Bestellverfolgungsflow",
     "startNewConversation": "Neue Unterhaltung beginnen",
+    "returnToChat": "Zurück zum Chat",
     "orderItemsHeader": "Hier sind Ihre letzten 5 Bestellungen",
     "orderItemsSubtitle": "Wählen Sie die aus, für die Sie Details sehen möchten",
     "orderDetailsHeader": "Hier sind Ihre Bestelldetails",
@@ -173,6 +183,7 @@
     "orderListReturnOrder": "Bestellung zurückgeben",
     "orderListCancelOrderMessage": "Meine Bestellnummer ist {{orderId}}. Ich möchte meine Bestellung stornieren.",
     "orderListReturnOrderMessage": "Meine Bestellnummer ist {{orderId}}. Ich möchte meine Bestellung zurückgeben.",
-    "orderListNeedHelpMessage": "Brauchen Sie Hilfe bei Bestellung {{orderId}}"
+    "orderListNeedHelpMessage": "Brauchen Sie Hilfe bei Bestellung {{orderId}}",
+    "seeOtherPicks": "Siehe unsere anderen Spitzenauswahlen"
   }
 }

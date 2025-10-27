@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "询问我关于{{collectionName}}系列的任何问题",
   "others": {
     "popUpMessages": {
       "COLLECTION": "在這個系列中尋找特別的商品？我知道在哪裡可以找到。",
@@ -7,10 +8,26 @@
       "SEARCH": "找不到您想要的商品？讓我來幫您找到最適合您的商品。"
     },
     "suggestedReplies": {
-      "COLLECTION": ["你們的暢銷產品有哪些？", "你們的產品與其他產品有什麼不同？", "我的訂單在哪裡？"],
-      "OTHER": ["你們的暢銷產品有哪些？", "你們的產品與其他產品有什麼不同？", "我的訂單在哪裡？"],
-      "PRODUCT": ["這款產品有什麼獨特之處？", "展示更多類似的產品", "這款產品的退貨政策是什麼？"],
-      "SEARCH": ["展示最適合我的產品", "根據我的需求優化搜尋結果", "這些產品中有哪些是熱門選擇？"]
+      "COLLECTION": [
+        "你們的暢銷產品有哪些？",
+        "你們的產品與其他產品有什麼不同？",
+        "我的訂單在哪裡？"
+      ],
+      "OTHER": [
+        "你們的暢銷產品有哪些？",
+        "你們的產品與其他產品有什麼不同？",
+        "我的訂單在哪裡？"
+      ],
+      "PRODUCT": [
+        "這款產品有什麼獨特之處？",
+        "展示更多類似的產品",
+        "這款產品的退貨政策是什麼？"
+      ],
+      "SEARCH": [
+        "展示最適合我的產品",
+        "根據我的需求優化搜尋結果",
+        "這些產品中有哪些是熱門選擇？"
+      ]
     }
   },
   "translations": {
@@ -174,6 +191,15 @@
     "orderListCancelOrderMessage": "我的訂單編號是 {{orderId}}。我想取消我的訂單。",
     "orderListReturnOrderMessage": "我的訂單編號是 {{orderId}}。我想退貨我的訂單。",
     "orderListNeedHelpMessage": "需要有關訂單 {{orderId}} 的幫助",
-    "seeOtherPicks": "查看我們的其他精選"
+    "seeOtherPicks": "查看我們的其他精選",
+    "orderFormOtpTitle": "We've sent a 6-digit code to your email.",
+    "orderFormEmailOnlyDidntReceiveCode": "Didn't receive the code?",
+    "orderFormVerifyNoOrderFoundPhone": "No orders were found for this number. Please try again.",
+    "returnToChat": "返回聊天",
+    "orderFormEmailOnlyResendNow": "Resend now",
+    "orderFormVerifyNoOrderFoundEmail": "No orders were found for this email. Please try again.",
+    "orderOtpRateLimitError": "You have exceeded the maximum number of OTP requests. Please try again after an hour.",
+    "orderFormVerifyNoOrderFoundOrderId": "No orders were found for this order ID. Please try again.",
+    "orderFormEmailOnlyTitle": "让我们追踪您的订单"
   }
 }

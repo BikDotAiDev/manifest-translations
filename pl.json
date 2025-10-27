@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "Zapytaj mnie o cokolwiek na temat kolekcji {{collectionName}}",
   "others": {
     "popUpMessages": {
       "COLLECTION": "Szukasz czegoś wyjątkowego w tej kolekcji? Wiem, gdzie to znaleźć.",
@@ -105,6 +106,12 @@
     "orderFormVerifyNoOrderFound": "Nie znaleziono zamówienia o tym ID. Spróbuj ponownie.",
     "orderFormVerifyEmailNotMatch": "Ten adres e-mail nie pasuje do ID zamówienia. Spróbuj ponownie.",
     "orderFormVerifyPhoneNotMatch": "Ten numer telefonu nie pasuje do ID zamówienia. Spróbuj ponownie.",
+    "orderFormVerifyNoOrderFoundOrderId": "Nie znaleziono zamówień dla tego ID zamówienia. Spróbuj ponownie.",
+    "orderFormVerifyNoOrderFoundPhone": "Nie znaleziono zamówień dla tego numeru. Spróbuj ponownie.",
+    "orderFormVerifyNoOrderFoundEmail": "Nie znaleziono zamówień dla tego adresu e-mail. Spróbuj ponownie.",
+    "orderFormEmailOnlyTitle": "Śledźmy twoje zamówienie",
+    "orderFormOtpTitle": "Wysłaliśmy 6-cyfrowy kod na Twój e-mail.",
+    "orderOtpRateLimitError": "Przekroczyłeś maksymalną liczbę żądań OTP. Spróbuj ponownie za godzinę.",
     "orderFormEmailOnlyTrackOrderPrompt": "Wprowadź swój adres e-mail, aby śledzić zamówienie",
     "orderFormEmailOnlyOtpSentPrompt": "Wysłaliśmy kod jednorazowy na Twój e-mail. Wprowadź go, aby kontynuować",
     "orderFormEmailOnlyEmailLabel": "Wprowadź adres e-mail",
@@ -132,11 +139,14 @@
     "orderFormEmailOnlyVerifyButton": "Zweryfikuj",
     "orderFormEmailOnlyDontRememberEmail": "Zapomniałeś adresu e-mail?",
     "orderFormEmailOnlyResendIn": "Wyślij ponownie za {{countdown}}s",
+    "orderFormEmailOnlyResendNow": "Wyślij ponownie teraz",
+    "orderFormEmailOnlyDidntReceiveCode": "Nie otrzymałeś kodu?",
     "orderFormFallbackNoOtherOptions": "Nie ma problemu, mamy inne opcje dostępne, aby pomóc Ci z Twoim zamówieniem.",
     "orderFormFallbackTalkToAgent": "Porozmawiaj z agentem",
     "orderFormFallbackCheckTrackingPortal": "Sprawdź nasz portal śledzenia",
     "insideOrderTrackingFlow": "Jesteś w przepływie śledzenia zamówienia",
     "startNewConversation": "Rozpocznij nową rozmowę",
+    "returnToChat": "Wróć do czatu",
     "orderItemsHeader": "Oto Twoje ostatnie 5 zamówień",
     "orderItemsSubtitle": "Wybierz to, dla którego chcesz zobaczyć szczegóły",
     "orderDetailsHeader": "Oto szczegóły Twojego zamówienia",

@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "اسألني عن أي شيء حول مجموعة {{collectionName}}",
   "others": {
     "popUpMessages": {
       "COLLECTION": "هل تبحث عن شيء خاص في هذه المجموعة؟ أنا أعرف أين تجده.",
@@ -7,10 +8,26 @@
       "SEARCH": "هل لا تستطيع أن تجد ما تبحث عنه؟ اسمح لي أن أساعدك في العثور بالضبط على ما تبحث عنه."
     },
     "suggestedReplies": {
-      "COLLECTION": ["ما هي منتجات الأكثر مبيعًا؟", "ما الذي يميز منتجاتكم عن غيرها؟", "أين طلبي؟"],
-      "OTHER": ["ما هي منتجاتكم الأكثر مبيعًا؟", "ما الذي يميز منتجاتكم عن غيرها؟", "أين طلبي؟"],
-      "PRODUCT": ["ما الذي يميز هذا المنتج؟", "أرني المزيد من المنتجات مثل هذه", "ما هو سياسة الإرجاع لهذا المنتج؟"],
-      "SEARCH": ["عرض أكثر المنتجات ذات الصلة بالنسبة لي", "حسّن النتائج بناءً على متطلباتي", "ما هي بعض الاختيارات الشائعة من بين هذه؟"]
+      "COLLECTION": [
+        "ما هي منتجات الأكثر مبيعًا؟",
+        "ما الذي يميز منتجاتكم عن غيرها؟",
+        "أين طلبي؟"
+      ],
+      "OTHER": [
+        "ما هي منتجاتكم الأكثر مبيعًا؟",
+        "ما الذي يميز منتجاتكم عن غيرها؟",
+        "أين طلبي؟"
+      ],
+      "PRODUCT": [
+        "ما الذي يميز هذا المنتج؟",
+        "أرني المزيد من المنتجات مثل هذه",
+        "ما هو سياسة الإرجاع لهذا المنتج؟"
+      ],
+      "SEARCH": [
+        "عرض أكثر المنتجات ذات الصلة بالنسبة لي",
+        "حسّن النتائج بناءً على متطلباتي",
+        "ما هي بعض الاختيارات الشائعة من بين هذه؟"
+      ]
     }
   },
   "translations": {
@@ -173,6 +190,16 @@
     "orderListReturnOrder": "إرجاع الطلب",
     "orderListCancelOrderMessage": "معرف طلبي هو {{orderId}}. أريد إلغاء طلبي.",
     "orderListReturnOrderMessage": "معرف طلبي هو {{orderId}}. أريد إرجاع طلبي.",
-    "orderListNeedHelpMessage": "هل تحتاج إلى مساعدة بخصوص الطلب {{orderId}}"
+    "orderListNeedHelpMessage": "هل تحتاج إلى مساعدة بخصوص الطلب {{orderId}}",
+    "orderFormOtpTitle": "We've sent a 6-digit code to your email.",
+    "orderFormEmailOnlyDidntReceiveCode": "Didn't receive the code?",
+    "orderFormVerifyNoOrderFoundPhone": "No orders were found for this number. Please try again.",
+    "returnToChat": "العودة إلى الدردشة",
+    "orderFormEmailOnlyResendNow": "Resend now",
+    "orderFormVerifyNoOrderFoundEmail": "No orders were found for this email. Please try again.",
+    "orderOtpRateLimitError": "You have exceeded the maximum number of OTP requests. Please try again after an hour.",
+    "seeOtherPicks": "راجع اختياراتنا الأخرى المميزة",
+    "orderFormVerifyNoOrderFoundOrderId": "No orders were found for this order ID. Please try again.",
+    "orderFormEmailOnlyTitle": "دعنا نتتبع طلبك"
   }
 }

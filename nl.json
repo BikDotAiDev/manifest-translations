@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "Vraag me alles over de {{collectionName}} collectie",
   "others": {
     "popUpMessages": {
       "COLLECTION": "Op zoek naar iets bijzonders in deze collectie? Ik weet waar je het kunt vinden.",
@@ -109,6 +110,12 @@
     "orderFormVerifyNoOrderFound": "Geen bestelling gevonden met deze ID. Probeer het opnieuw.",
     "orderFormVerifyEmailNotMatch": "Dit e-mailadres komt niet overeen met de Bestel-ID. Probeer het opnieuw.",
     "orderFormVerifyPhoneNotMatch": "Dit telefoonnummer komt niet overeen met de Bestel-ID. Probeer het opnieuw.",
+    "orderFormVerifyNoOrderFoundOrderId": "Geen bestellingen gevonden voor deze bestel-ID. Probeer het opnieuw.",
+    "orderFormVerifyNoOrderFoundPhone": "Geen bestellingen gevonden voor dit nummer. Probeer het opnieuw.",
+    "orderFormVerifyNoOrderFoundEmail": "Geen bestellingen gevonden voor deze e-mail. Probeer het opnieuw.",
+    "orderFormEmailOnlyTitle": "Laten we je bestelling volgen",
+    "orderFormOtpTitle": "We hebben een 6-cijferige code naar je e-mail gestuurd.",
+    "orderOtpRateLimitError": "Je hebt het maximumaantal OTP-verzoeken overschreden. Probeer het over een uur opnieuw.",
     "orderFormEmailOnlyTrackOrderPrompt": "Voer uw e-mailadres in om uw bestelling te volgen",
     "orderFormEmailOnlyOtpSentPrompt": "We hebben een eenmalige code naar uw e-mail gestuurd. Voer deze in om door te gaan",
     "orderFormEmailOnlyEmailLabel": "Voer e-mailadres in",
@@ -136,11 +143,14 @@
     "orderFormEmailOnlyVerifyButton": "Verifiëren",
     "orderFormEmailOnlyDontRememberEmail": "E-mailadres vergeten?",
     "orderFormEmailOnlyResendIn": "Opnieuw verzenden over {{countdown}}s",
+    "orderFormEmailOnlyResendNow": "Nu opnieuw verzenden",
+    "orderFormEmailOnlyDidntReceiveCode": "Code niet ontvangen?",
     "orderFormFallbackNoOtherOptions": "Geen probleem, we hebben andere opties beschikbaar om je te helpen met je bestelling.",
     "orderFormFallbackTalkToAgent": "Praat met een agent",
     "orderFormFallbackCheckTrackingPortal": "Bekijk ons trackingportaal",
     "insideOrderTrackingFlow": "Je bevindt je in de bestellingstracking flow",
     "startNewConversation": "Nieuw gesprek starten",
+    "returnToChat": "Terug naar chat",
     "orderItemsHeader": "Hier zijn je laatste 5 bestellingen",
     "orderItemsSubtitle": "Selecteer degene waarvan je de details wilt zien",
     "orderDetailsHeader": "Hier zijn je bestellingsdetails",
@@ -177,6 +187,7 @@
     "orderListReturnOrder": "Bestelling retourneren",
     "orderListCancelOrderMessage": "Mijn bestelnummer is {{orderId}}. Ik wil mijn bestelling annuleren.",
     "orderListReturnOrderMessage": "Mijn bestelnummer is {{orderId}}. Ik wil mijn bestelling retourneren.",
-    "orderListNeedHelpMessage": "Hulp nodig bij bestelling {{orderId}}"
+    "orderListNeedHelpMessage": "Hulp nodig bij bestelling {{orderId}}",
+    "seeOtherPicks": "Bekijk onze andere topkeuzes"
   }
 }

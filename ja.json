@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "{{collectionName}}コレクションについて何でも聞いてください",
   "others": {
     "popUpMessages": {
       "COLLECTION": "このコレクションで特別なものをお探しですか？ どこにあるか知っています。",
@@ -7,10 +8,26 @@
       "SEARCH": "お探しのものが見つからない場合は、正確にお探しのものを見つけるのをお手伝いいたします。"
     },
     "suggestedReplies": {
-      "COLLECTION": ["販売の多い商品は何ですか？", "あなたの商品を他の商品とどう違うと考えていますか？", "私の注文はどこですか？"],
-      "OTHER": ["販売の多い商品は何ですか？", "あなたの商品を他の商品とどう違うと考えていますか？", "私の注文はどこですか？"],
-      "PRODUCT": ["この商品の特徴は何ですか？", "このような商品をもっと見せて", "この商品の返品ポリシーは？"],
-      "SEARCH": ["私にとって最も関連性のある商品を表示してください", "私の要件に基づいて結果を絞り込む", "これらの中で人気のある選択肢は何ですか？"]
+      "COLLECTION": [
+        "販売の多い商品は何ですか？",
+        "あなたの商品を他の商品とどう違うと考えていますか？",
+        "私の注文はどこですか？"
+      ],
+      "OTHER": [
+        "販売の多い商品は何ですか？",
+        "あなたの商品を他の商品とどう違うと考えていますか？",
+        "私の注文はどこですか？"
+      ],
+      "PRODUCT": [
+        "この商品の特徴は何ですか？",
+        "このような商品をもっと見せて",
+        "この商品の返品ポリシーは？"
+      ],
+      "SEARCH": [
+        "私にとって最も関連性のある商品を表示してください",
+        "私の要件に基づいて結果を絞り込む",
+        "これらの中で人気のある選択肢は何ですか？"
+      ]
     }
   },
   "translations": {
@@ -174,6 +191,16 @@
     "orderListReturnOrder": "注文を返品",
     "orderListCancelOrderMessage": "私の注文IDは{{orderId}}です。注文をキャンセルしたいです。",
     "orderListReturnOrderMessage": "私の注文IDは{{orderId}}です。注文を返品したいです。",
-    "orderListNeedHelpMessage": "注文{{orderId}}についてお困りですか"
+    "orderListNeedHelpMessage": "注文{{orderId}}についてお困りですか",
+    "orderFormOtpTitle": "We've sent a 6-digit code to your email.",
+    "orderFormEmailOnlyDidntReceiveCode": "Didn't receive the code?",
+    "orderFormVerifyNoOrderFoundPhone": "No orders were found for this number. Please try again.",
+    "returnToChat": "チャットに戻る",
+    "orderFormEmailOnlyResendNow": "Resend now",
+    "orderFormVerifyNoOrderFoundEmail": "No orders were found for this email. Please try again.",
+    "orderOtpRateLimitError": "You have exceeded the maximum number of OTP requests. Please try again after an hour.",
+    "seeOtherPicks": "他のおすすめをチェック",
+    "orderFormVerifyNoOrderFoundOrderId": "No orders were found for this order ID. Please try again.",
+    "orderFormEmailOnlyTitle": "注文を追跡しましょう"
   }
 }

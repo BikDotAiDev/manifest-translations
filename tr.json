@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "{{collectionName}} koleksiyonu hakkında bana her şeyi sorabilirsin",
   "others": {
     "popUpMessages": {
       "COLLECTION": "Bu koleksiyonda özel bir şey mi arıyorsunuz? Nerede bulabileceğimi biliyorum.",
@@ -7,10 +8,26 @@
       "SEARCH": "Aradığınızı bulamıyor musunuz? Sizi tam olarak aradığınızı bulmanıza yardımcı olabilirim."
     },
     "suggestedReplies": {
-      "COLLECTION": ["En çok satan ürünleriniz nelerdir?", "Ürünlerinizi diğerlerinden ayıran nedir?", "Siparişim nerede?"],
-      "OTHER": ["En çok satan ürünleriniz nelerdir?", "Ürünlerinizi diğerlerinden ayıran nedir?", "Siparişim nerede?"],
-      "PRODUCT": ["Bu ürünü öne çıkan kılan nedir?", "Bana bu ürün gibi daha fazla ürün göster", "Bu ürünün iade politikası nedir?"],
-      "SEARCH": ["Benim için en ilgili ürünleri göster", "Sonuçları gereksinimlerime göre iyileştir", "Bunlar arasında popüler seçenekler neler?"]
+      "COLLECTION": [
+        "En çok satan ürünleriniz nelerdir?",
+        "Ürünlerinizi diğerlerinden ayıran nedir?",
+        "Siparişim nerede?"
+      ],
+      "OTHER": [
+        "En çok satan ürünleriniz nelerdir?",
+        "Ürünlerinizi diğerlerinden ayıran nedir?",
+        "Siparişim nerede?"
+      ],
+      "PRODUCT": [
+        "Bu ürünü öne çıkan kılan nedir?",
+        "Bana bu ürün gibi daha fazla ürün göster",
+        "Bu ürünün iade politikası nedir?"
+      ],
+      "SEARCH": [
+        "Benim için en ilgili ürünleri göster",
+        "Sonuçları gereksinimlerime göre iyileştir",
+        "Bunlar arasında popüler seçenekler neler?"
+      ]
     }
   },
   "translations": {
@@ -173,6 +190,16 @@
     "orderListReturnOrder": "Siparişi iade et",
     "orderListCancelOrderMessage": "Sipariş ID'm {{orderId}}. Siparişimi iptal etmek istiyorum.",
     "orderListReturnOrderMessage": "Sipariş ID'm {{orderId}}. Siparişimi iade etmek istiyorum.",
-    "orderListNeedHelpMessage": "{{orderId}} siparişi için yardıma mı ihtiyacınız var"
+    "orderListNeedHelpMessage": "{{orderId}} siparişi için yardıma mı ihtiyacınız var",
+    "orderFormOtpTitle": "We've sent a 6-digit code to your email.",
+    "orderFormEmailOnlyDidntReceiveCode": "Didn't receive the code?",
+    "orderFormVerifyNoOrderFoundPhone": "No orders were found for this number. Please try again.",
+    "returnToChat": "Sohbete dön",
+    "orderFormEmailOnlyResendNow": "Resend now",
+    "orderFormVerifyNoOrderFoundEmail": "No orders were found for this email. Please try again.",
+    "orderOtpRateLimitError": "You have exceeded the maximum number of OTP requests. Please try again after an hour.",
+    "seeOtherPicks": "Diğer en iyi seçimlerimizi görün",
+    "orderFormVerifyNoOrderFoundOrderId": "No orders were found for this order ID. Please try again.",
+    "orderFormEmailOnlyTitle": "Siparişinizi takip edelim"
   }
 }

@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "Spørg mig om alt om {{collectionName}} kollektionen",
   "others": {
     "popUpMessages": {
       "COLLECTION": "Leder du efter noget specielt i denne samling? Jeg ved, hvor du kan finde det.",
@@ -190,6 +191,15 @@
     "orderListCancelOrderMessage": "Mit ordre-ID er {{orderId}}. Jeg vil gerne annullere min ordre.",
     "orderListReturnOrderMessage": "Mit ordre-ID er {{orderId}}. Jeg vil gerne returnere min ordre.",
     "orderListNeedHelpMessage": "Brug for hjælp med ordre {{orderId}}",
-    "seeOtherPicks": "Se vores andre topvalg"
+    "seeOtherPicks": "Se vores andre topvalg",
+    "orderFormOtpTitle": "We've sent a 6-digit code to your email.",
+    "orderFormEmailOnlyDidntReceiveCode": "Didn't receive the code?",
+    "orderFormVerifyNoOrderFoundPhone": "No orders were found for this number. Please try again.",
+    "returnToChat": "Vend tilbage til chat",
+    "orderFormEmailOnlyResendNow": "Resend now",
+    "orderFormVerifyNoOrderFoundEmail": "No orders were found for this email. Please try again.",
+    "orderOtpRateLimitError": "You have exceeded the maximum number of OTP requests. Please try again after an hour.",
+    "orderFormVerifyNoOrderFoundOrderId": "No orders were found for this order ID. Please try again.",
+    "orderFormEmailOnlyTitle": "Lad os spore din ordre"
   }
 }
