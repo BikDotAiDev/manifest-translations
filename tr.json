@@ -200,6 +200,7 @@
     "orderOtpRateLimitError": "Maksimum OTP istek sayısını aştınız. Lütfen bir saat sonra tekrar deneyin.",
     "seeOtherPicks": "Diğer en iyi seçimlerimizi görün",
     "orderFormVerifyNoOrderFoundOrderId": "Bu sipariş ID'si için sipariş bulunamadı. Lütfen tekrar deneyin.",
-    "orderFormEmailOnlyTitle": "Siparişinizi takip edelim"
+    "orderFormEmailOnlyTitle": "Siparişinizi takip edelim",
+    "orderListHereAreYourOrders": "İşte siparişleriniz"
   }
 }

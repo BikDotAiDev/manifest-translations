@@ -200,6 +200,7 @@
     "orderFormVerifyNoOrderFoundOrderId": "Ingen bestillinger funnet for denne bestillings-ID. Prøv igjen.",
     "orderListCancelOrderMessage": "Min bestillings-ID er {{orderId}}. Jeg vil avbryte bestillingen min.",
     "orderFormEmailOnlyTitle": "La oss spore bestillingen din",
-    "orderListNeedHelpMessage": "Trenger du hjelp med bestilling {{orderId}}"
+    "orderListNeedHelpMessage": "Trenger du hjelp med bestilling {{orderId}}",
+    "orderListHereAreYourOrders": "Her er bestillingene dine"
   }
 }

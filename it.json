@@ -184,6 +184,7 @@
     "orderListReturnOrderMessage": "Il mio ID ordine è {{orderId}}. Voglio restituire il mio ordine.",
     "orderListNeedHelpMessage": "Hai bisogno di aiuto con l'ordine {{orderId}}",
     "returnToChat": "Torna alla chat",
-    "seeOtherPicks": "Vedi le nostre altre scelte migliori"
+    "seeOtherPicks": "Vedi le nostre altre scelte migliori",
+    "orderListHereAreYourOrders": "Ecco i tuoi ordini"
   }
 }

@@ -200,6 +200,7 @@
     "orderListCancelOrderMessage": "Mijn bestelnummer is {{orderId}}. Ik wil mijn bestelling annuleren.",
     "orderListReturnOrderMessage": "Mijn bestelnummer is {{orderId}}. Ik wil mijn bestelling retourneren.",
     "orderListNeedHelpMessage": "Hulp nodig bij bestelling {{orderId}}",
-    "seeOtherPicks": "Bekijk onze andere topkeuzes"
+    "seeOtherPicks": "Bekijk onze andere topkeuzes",
+    "orderListHereAreYourOrders": "Hier zijn uw bestellingen"
   }
 }

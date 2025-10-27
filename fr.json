@@ -188,6 +188,7 @@
     "orderListCancelOrderMessage": "Mon ID de commande est {{orderId}}. Je veux annuler ma commande.",
     "orderListReturnOrderMessage": "Mon ID de commande est {{orderId}}. Je veux retourner ma commande.",
     "orderListNeedHelpMessage": "Besoin d'aide avec la commande {{orderId}}",
-    "seeOtherPicks": "Voir nos autres choix"
+    "seeOtherPicks": "Voir nos autres choix",
+    "orderListHereAreYourOrders": "Voici vos commandes"
   }
 }

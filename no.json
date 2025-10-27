@@ -200,6 +200,7 @@
     "orderOtpRateLimitError": "Du har overskredet det maksimale antallet OTP-forespørsler. Prøv igjen om en time.",
     "seeOtherPicks": "Se våre andre toppvalg",
     "orderFormVerifyNoOrderFoundOrderId": "Ingen bestillinger funnet for denne bestillings-ID. Prøv igjen.",
-    "orderFormEmailOnlyTitle": "La oss spore bestillingen din"
+    "orderFormEmailOnlyTitle": "La oss spore bestillingen din",
+    "orderListHereAreYourOrders": "Her er bestillingene dine"
   }
 }

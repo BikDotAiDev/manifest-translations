@@ -201,6 +201,7 @@
     "orderOtpRateLimitError": "OTPリクエストの上限に達しました。1時間後に再試行してください。",
     "seeOtherPicks": "他のおすすめをチェック",
     "orderFormVerifyNoOrderFoundOrderId": "この注文IDに対する注文が見つかりませんでした。再試行してください。",
-    "orderFormEmailOnlyTitle": "注文を追跡しましょう"
+    "orderFormEmailOnlyTitle": "注文を追跡しましょう",
+    "orderListHereAreYourOrders": "こちらがあなたのご注文です"
   }
 }

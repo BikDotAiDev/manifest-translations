@@ -200,6 +200,7 @@
     "orderOtpRateLimitError": "لقد تجاوزت العدد الأقصى من طلبات OTP. يرجى المحاولة مرة أخرى بعد ساعة.",
     "seeOtherPicks": "راجع اختياراتنا الأخرى المميزة",
     "orderFormVerifyNoOrderFoundOrderId": "لم يتم العثور على طلبات لمعرف الطلب هذا. يرجى المحاولة مرة أخرى.",
-    "orderFormEmailOnlyTitle": "دعنا نتتبع طلبك"
+    "orderFormEmailOnlyTitle": "دعنا نتتبع طلبك",
+    "orderListHereAreYourOrders": "هنا طلباتك"
   }
 }

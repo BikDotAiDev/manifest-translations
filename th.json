@@ -388,7 +388,8 @@
     "orderItemsHeader": "Here are your last 5 orders",
     "viewProduct": "View Product",
     "orderFormDontRememberLink": "Don't remember any of them?",
-    "spinTheWheel": "spin the wheel"
+    "spinTheWheel": "spin the wheel",
+    "orderListHereAreYourOrders": "นี่คือคำสั่งซื้อของคุณ"
   },
   "others": {
     "popUpMessages": {

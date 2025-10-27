@@ -184,6 +184,7 @@
     "orderListCancelOrderMessage": "Meine Bestellnummer ist {{orderId}}. Ich möchte meine Bestellung stornieren.",
     "orderListReturnOrderMessage": "Meine Bestellnummer ist {{orderId}}. Ich möchte meine Bestellung zurückgeben.",
     "orderListNeedHelpMessage": "Brauchen Sie Hilfe bei Bestellung {{orderId}}",
-    "seeOtherPicks": "Siehe unsere anderen Spitzenauswahlen"
+    "seeOtherPicks": "Siehe unsere anderen Spitzenauswahlen",
+    "orderListHereAreYourOrders": "Hier sind Ihre Bestellungen"
   }
 }

@@ -200,6 +200,7 @@
     "orderFormVerifyNoOrderFoundEmail": "Tälle sähköpostille ei löytynyt tilauksia. Yritä uudelleen.",
     "orderOtpRateLimitError": "Olet ylittänyt OTP-pyyntöjen enimmäismäärän. Yritä uudelleen tunnin kuluttua.",
     "orderFormVerifyNoOrderFoundOrderId": "Tälle tilaus-ID:lle ei löytynyt tilauksia. Yritä uudelleen.",
-    "orderFormEmailOnlyTitle": "Seurataan tilaustasi"
+    "orderFormEmailOnlyTitle": "Seurataan tilaustasi",
+    "orderListHereAreYourOrders": "Tässä ovat tilauksesi"
   }
 }
