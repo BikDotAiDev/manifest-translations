@@ -194,7 +194,7 @@
     "orderFormEmailOnlyDidntReceiveCode": "Nu ai primit codul?",
     "orderFormVerifyNoOrderFoundPhone": "Nu au fost găsite comenzi pentru acest număr. Te rog să încerci din nou.",
     "returnToChat": "Înapoi la chat",
-    "orderFormForgotEverything": "Forgot everything?",
+    "orderFormForgotEverything": "Ai uitat totul?",
     "orderFormEmailOnlyResendNow": "Retrimite acum",
     "orderFormVerifyNoOrderFoundEmail": "Nu au fost găsite comenzi pentru acest e-mail. Te rog să încerci din nou.",
     "orderOtpRateLimitError": "Ai depășit numărul maxim de solicitări OTP. Te rog să încerci din nou peste o oră.",

@@ -185,7 +185,7 @@
     "offers_rewards": "Tilbud og belønninger",
     "orderFormOtpTitle": "Vi har sendt en 6-sifret kode til e-posten din.",
     "orderFormEmailOnlyDidntReceiveCode": "Fikk du ikke koden?",
-    "orderListNeedHelp": "Need help?",
+    "orderListNeedHelp": "Trenger du hjelp?",
     "orderListReturnOrderMessage": "My order ID is {{orderId}}. I want to return my order.",
     "orderFormVerifyNoOrderFoundPhone": "Ingen bestillinger funnet for dette nummeret. Prøv igjen.",
     "orderListCancelOrder": "Cancel order",
@@ -200,6 +200,6 @@
     "orderFormVerifyNoOrderFoundOrderId": "Ingen bestillinger funnet for denne bestillings-ID. Prøv igjen.",
     "orderListCancelOrderMessage": "My order ID is {{orderId}}. I want to cancel my order.",
     "orderFormEmailOnlyTitle": "La oss spore bestillingen din",
-    "orderListNeedHelpMessage": "Need help with order {{orderId}}"
+    "orderListNeedHelpMessage": "Trenger du hjelp med bestilling {{orderId}}"
   }
 }
