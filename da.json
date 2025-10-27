@@ -200,6 +200,7 @@
     "orderFormVerifyNoOrderFoundEmail": "Ingen ordrer fundet for denne e-mail. Prøv igen.",
     "orderOtpRateLimitError": "Du har overskredet det maksimale antal OTP-anmodninger. Prøv igen om en time.",
     "orderFormVerifyNoOrderFoundOrderId": "Ingen ordrer fundet for dette ordre-ID. Prøv igen.",
-    "orderFormEmailOnlyTitle": "Lad os spore din ordre"
+    "orderFormEmailOnlyTitle": "Lad os spore din ordre",
+    "orderListHereAreYourOrders": "Her er dine ordrer"
   }
 }

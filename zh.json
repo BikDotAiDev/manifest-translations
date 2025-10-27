@@ -200,6 +200,7 @@
     "orderFormVerifyNoOrderFoundEmail": "未找到此邮箱的订单。请重试。",
     "orderOtpRateLimitError": "您已超过OTP请求的最大次数。请一小时后重试。",
     "orderFormVerifyNoOrderFoundOrderId": "未找到此订单ID的订单。请重试。",
-    "orderFormEmailOnlyTitle": "让我们追踪您的订单"
+    "orderFormEmailOnlyTitle": "让我们追踪您的订单",
+    "orderListHereAreYourOrders": "这里是您的订单"
   }
 }

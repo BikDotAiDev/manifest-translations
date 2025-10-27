@@ -201,7 +201,8 @@
     "welcomeMessageHomePage": "Dobrodošli u {{storeName}}! Kako vam mogu pomoći danas?",
     "welcomeMessageProductPage": "Pitajte me bilo što o ovom proizvodu",
     "whatAreYourBestSellers": "Koji su vaši najuspješniji proizvodi?",
-    "yesSure": "Da, naravno!"
+    "yesSure": "Da, naravno!",
+    "orderListHereAreYourOrders": "Evo vaših narudžbi"
   },
   "others": {
     "popUpMessages": {

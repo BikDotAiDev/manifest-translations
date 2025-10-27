@@ -200,6 +200,7 @@
     "orderListCancelOrder": "Rendelés törlése",
     "orderFormEmailOnlyResendNow": "Újraküldés most",
     "orderOtpRateLimitError": "Túllépte az OTP-kérések maximális számát. Próbálkozzon újra egy óra múlva.",
-    "orderListReturnOrder": "Rendelés visszaküldése"
+    "orderListReturnOrder": "Rendelés visszaküldése",
+    "orderListHereAreYourOrders": "Itt vannak a rendelései"
   }
 }
