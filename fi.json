@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "Kysy minulta mitä tahansa {{collectionName}} kokoelmasta",
   "others": {
     "popUpMessages": {
       "COLLECTION": "Etsitkö jotain erityistä tästä kokoelmasta? Tiedän, mistä sen löydät.",
@@ -7,10 +8,26 @@
       "SEARCH": "Et löydä etsimääsi? Anna minun auttaa sinua löytämään juuri sen, mitä etsit."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Mitkä ovat myydyimmät tuotteesi?", "Mikä erottaa tuotteesi muista?", "Missä on tilaukseni?"],
-      "OTHER": ["Mitkä ovat myydyimmät tuotteesi?", "Mikä erottaa tuotteesi muista?", "Missä on tilaukseni?"],
-      "PRODUCT": ["Mikä erottaa tämän tuotteen muista?", "Näytä minulle lisää samanlaisia tuotteita", "Mikä on tämän tuotteen palautuskäytäntö?"],
-      "SEARCH": ["Näytä minulle sopivimmat tuotteet", "Tarkenna tuloksia vaatimusteni perusteella", "Mitkä ovat suosituimpia valintoja näiden joukosta?"]
+      "COLLECTION": [
+        "Mitkä ovat myydyimmät tuotteesi?",
+        "Mikä erottaa tuotteesi muista?",
+        "Missä on tilaukseni?"
+      ],
+      "OTHER": [
+        "Mitkä ovat myydyimmät tuotteesi?",
+        "Mikä erottaa tuotteesi muista?",
+        "Missä on tilaukseni?"
+      ],
+      "PRODUCT": [
+        "Mikä erottaa tämän tuotteen muista?",
+        "Näytä minulle lisää samanlaisia tuotteita",
+        "Mikä on tämän tuotteen palautuskäytäntö?"
+      ],
+      "SEARCH": [
+        "Näytä minulle sopivimmat tuotteet",
+        "Tarkenna tuloksia vaatimusteni perusteella",
+        "Mitkä ovat suosituimpia valintoja näiden joukosta?"
+      ]
     }
   },
   "translations": {
@@ -174,6 +191,15 @@
     "orderListCancelOrderMessage": "Tilausnumeroni on {{orderId}}. Haluan peruuttaa tilaukseni.",
     "orderListReturnOrderMessage": "Tilausnumeroni on {{orderId}}. Haluan palauttaa tilaukseni.",
     "orderListNeedHelpMessage": "Tarvitsetko apua tilauksessa {{orderId}}",
-    "seeOtherPicks": "Katso muita huipputärppejämme"
+    "seeOtherPicks": "Katso muita huipputärppejämme",
+    "orderFormOtpTitle": "Lähetimme 6-numeroisen koodin sähköpostiisi.",
+    "orderFormEmailOnlyDidntReceiveCode": "Etkö saanut koodia?",
+    "orderFormVerifyNoOrderFoundPhone": "Tälle numerolle ei löytynyt tilauksia. Yritä uudelleen.",
+    "returnToChat": "Palaa chattiin",
+    "orderFormEmailOnlyResendNow": "Lähetä uudelleen nyt",
+    "orderFormVerifyNoOrderFoundEmail": "Tälle sähköpostille ei löytynyt tilauksia. Yritä uudelleen.",
+    "orderOtpRateLimitError": "Olet ylittänyt OTP-pyyntöjen enimmäismäärän. Yritä uudelleen tunnin kuluttua.",
+    "orderFormVerifyNoOrderFoundOrderId": "Tälle tilaus-ID:lle ei löytynyt tilauksia. Yritä uudelleen.",
+    "orderFormEmailOnlyTitle": "Seurataan tilaustasi"
   }
 }

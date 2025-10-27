@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "Întreabă-mă orice despre colecția {{collectionName}}",
   "others": {
     "popUpMessages": {
       "COLLECTION": "Cauti ceva special în această colecție? Știu unde să-l găsesc.",
@@ -7,10 +8,26 @@
       "SEARCH": "Nu găsești ce cauți? Lasă-mă să te ajut să găsești exact ceea ce cauți."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Care sunt cele mai bine vândute produse ale voastre?", "Ce deosebește produsele voastre de cele ale altora?", "Unde este comanda mea?"],
-      "OTHER": ["Care sunt cele mai bine vândute produse ale voastre?", "Ce deosebește produsele voastre de cele ale altora?", "Unde este comanda mea?"],
-      "PRODUCT": ["Ce face acest produs să se remarce?", "Arată-mi mai multe produse ca acesta", "Care este politica de returnare pentru acest produs?"],
-      "SEARCH": ["Arată-mi cele mai relevante produse pentru mine", "Rafineaza rezultatele pe baza cerințelor mele", "Care sunt câteva opțiuni populare printre acestea?"]
+      "COLLECTION": [
+        "Care sunt cele mai bine vândute produse ale voastre?",
+        "Ce deosebește produsele voastre de cele ale altora?",
+        "Unde este comanda mea?"
+      ],
+      "OTHER": [
+        "Care sunt cele mai bine vândute produse ale voastre?",
+        "Ce deosebește produsele voastre de cele ale altora?",
+        "Unde este comanda mea?"
+      ],
+      "PRODUCT": [
+        "Ce face acest produs să se remarce?",
+        "Arată-mi mai multe produse ca acesta",
+        "Care este politica de returnare pentru acest produs?"
+      ],
+      "SEARCH": [
+        "Arată-mi cele mai relevante produse pentru mine",
+        "Rafineaza rezultatele pe baza cerințelor mele",
+        "Care sunt câteva opțiuni populare printre acestea?"
+      ]
     }
   },
   "translations": {
@@ -172,6 +189,17 @@
     "orderListReturnOrder": "Returnează comanda",
     "orderListCancelOrderMessage": "ID-ul comenzii mele este {{orderId}}. Vreau să anlez comanda mea.",
     "orderListReturnOrderMessage": "ID-ul comenzii mele este {{orderId}}. Vreau să returnez comanda mea.",
-    "orderListNeedHelpMessage": "Ai nevoie de ajutor cu comanda {{orderId}}"
+    "orderListNeedHelpMessage": "Ai nevoie de ajutor cu comanda {{orderId}}",
+    "orderFormOtpTitle": "Am trimis un cod cu 6 cifre la e-mailul tău.",
+    "orderFormEmailOnlyDidntReceiveCode": "Nu ai primit codul?",
+    "orderFormVerifyNoOrderFoundPhone": "Nu au fost găsite comenzi pentru acest număr. Te rog să încerci din nou.",
+    "returnToChat": "Înapoi la chat",
+    "orderFormForgotEverything": "Ai uitat totul?",
+    "orderFormEmailOnlyResendNow": "Retrimite acum",
+    "orderFormVerifyNoOrderFoundEmail": "Nu au fost găsite comenzi pentru acest e-mail. Te rog să încerci din nou.",
+    "orderOtpRateLimitError": "Ai depășit numărul maxim de solicitări OTP. Te rog să încerci din nou peste o oră.",
+    "seeOtherPicks": "Vezi alte selecții de top",
+    "orderFormVerifyNoOrderFoundOrderId": "Nu au fost găsite comenzi pentru acest ID de comandă. Te rog să încerci din nou.",
+    "orderFormEmailOnlyTitle": "Să urmărim comanda ta"
   }
 }

@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "{{collectionName}}コレクションについて何でも聞いてください",
   "others": {
     "popUpMessages": {
       "COLLECTION": "このコレクションで特別なものをお探しですか？ どこにあるか知っています。",
@@ -7,10 +8,26 @@
       "SEARCH": "お探しのものが見つからない場合は、正確にお探しのものを見つけるのをお手伝いいたします。"
     },
     "suggestedReplies": {
-      "COLLECTION": ["販売の多い商品は何ですか？", "あなたの商品を他の商品とどう違うと考えていますか？", "私の注文はどこですか？"],
-      "OTHER": ["販売の多い商品は何ですか？", "あなたの商品を他の商品とどう違うと考えていますか？", "私の注文はどこですか？"],
-      "PRODUCT": ["この商品の特徴は何ですか？", "このような商品をもっと見せて", "この商品の返品ポリシーは？"],
-      "SEARCH": ["私にとって最も関連性のある商品を表示してください", "私の要件に基づいて結果を絞り込む", "これらの中で人気のある選択肢は何ですか？"]
+      "COLLECTION": [
+        "販売の多い商品は何ですか？",
+        "あなたの商品を他の商品とどう違うと考えていますか？",
+        "私の注文はどこですか？"
+      ],
+      "OTHER": [
+        "販売の多い商品は何ですか？",
+        "あなたの商品を他の商品とどう違うと考えていますか？",
+        "私の注文はどこですか？"
+      ],
+      "PRODUCT": [
+        "この商品の特徴は何ですか？",
+        "このような商品をもっと見せて",
+        "この商品の返品ポリシーは？"
+      ],
+      "SEARCH": [
+        "私にとって最も関連性のある商品を表示してください",
+        "私の要件に基づいて結果を絞り込む",
+        "これらの中で人気のある選択肢は何ですか？"
+      ]
     }
   },
   "translations": {
@@ -174,6 +191,16 @@
     "orderListReturnOrder": "注文を返品",
     "orderListCancelOrderMessage": "私の注文IDは{{orderId}}です。注文をキャンセルしたいです。",
     "orderListReturnOrderMessage": "私の注文IDは{{orderId}}です。注文を返品したいです。",
-    "orderListNeedHelpMessage": "注文{{orderId}}についてお困りですか"
+    "orderListNeedHelpMessage": "注文{{orderId}}についてお困りですか",
+    "orderFormOtpTitle": "メールアドレスに6桁のコードをお送りしました。",
+    "orderFormEmailOnlyDidntReceiveCode": "コードを受信できませんでしたか？",
+    "orderFormVerifyNoOrderFoundPhone": "この番号に対する注文が見つかりませんでした。再試行してください。",
+    "returnToChat": "チャットに戻る",
+    "orderFormEmailOnlyResendNow": "今すぐ再送信",
+    "orderFormVerifyNoOrderFoundEmail": "このメールアドレスに対する注文が見つかりませんでした。再試行してください。",
+    "orderOtpRateLimitError": "OTPリクエストの上限に達しました。1時間後に再試行してください。",
+    "seeOtherPicks": "他のおすすめをチェック",
+    "orderFormVerifyNoOrderFoundOrderId": "この注文IDに対する注文が見つかりませんでした。再試行してください。",
+    "orderFormEmailOnlyTitle": "注文を追跡しましょう"
   }
 }

@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "Hỏi tôi bất cứ điều gì về bộ sưu tập {{collectionName}}",
   "others": {
     "popUpMessages": {
       "COLLECTION": "Bạn đang tìm kiếm điều gì đó đặc biệt trong bộ sưu tập này? Tôi biết nơi để tìm thấy nó.",
@@ -7,10 +8,26 @@
       "SEARCH": "Không tìm thấy điều bạn đang tìm kiếm? Hãy để tôi giúp bạn tìm chính xác điều bạn đang tìm kiếm."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Các sản phẩm bán chạy nhất của bạn là gì?", "Điều gì làm các sản phẩm của bạn nổi bật so với các sản phẩm khác?", "Đơn hàng của tôi đang ở đâu?"],
-      "OTHER": ["Các sản phẩm bán chạy nhất của bạn là gì?", "Điều gì làm sản phẩm của bạn nổi bật so với các sản phẩm khác?", "Đơn hàng của tôi đang ở đâu?"],
-      "PRODUCT": ["Điều gì khiến sản phẩm này nổi bật?", "Cho tôi xem thêm các sản phẩm giống như thế này", "Chính sách đổi trả của sản phẩm này là gì?"],
-      "SEARCH": ["Cho tôi xem các sản phẩm phù hợp nhất với tôi", "Tinh chỉnh kết quả dựa trên yêu cầu của tôi", "Có những lựa chọn phổ biến nào trong số này không?"]
+      "COLLECTION": [
+        "Các sản phẩm bán chạy nhất của bạn là gì?",
+        "Điều gì làm các sản phẩm của bạn nổi bật so với các sản phẩm khác?",
+        "Đơn hàng của tôi đang ở đâu?"
+      ],
+      "OTHER": [
+        "Các sản phẩm bán chạy nhất của bạn là gì?",
+        "Điều gì làm sản phẩm của bạn nổi bật so với các sản phẩm khác?",
+        "Đơn hàng của tôi đang ở đâu?"
+      ],
+      "PRODUCT": [
+        "Điều gì khiến sản phẩm này nổi bật?",
+        "Cho tôi xem thêm các sản phẩm giống như thế này",
+        "Chính sách đổi trả của sản phẩm này là gì?"
+      ],
+      "SEARCH": [
+        "Cho tôi xem các sản phẩm phù hợp nhất với tôi",
+        "Tinh chỉnh kết quả dựa trên yêu cầu của tôi",
+        "Có những lựa chọn phổ biến nào trong số này không?"
+      ]
     }
   },
   "translations": {
@@ -165,6 +182,24 @@
     "order_tracking": "Theo dõi đơn hàng",
     "order_cancellation": "Hủy đơn hàng",
     "returns_refunds_policy": "Chính sách hoàn trả và hoàn tiền",
-    "offers_rewards": "Ưu đãi và phần thưởng"
+    "offers_rewards": "Ưu đãi và phần thưởng",
+    "orderFormOtpTitle": "Chúng tôi đã gửi mã 6 chữ số đến email của bạn.",
+    "orderFormEmailOnlyDidntReceiveCode": "Không nhận được mã?",
+    "orderListNeedHelp": "Cần trợ giúp?",
+    "orderListReturnOrderMessage": "ID đơn hàng của tôi là {{orderId}}. Tôi muốn trả lại đơn hàng.",
+    "orderFormVerifyNoOrderFoundPhone": "Không tìm thấy đơn hàng cho số này. Vui lòng thử lại.",
+    "orderListCancelOrder": "Hủy đơn hàng",
+    "returnToChat": "Quay lại chat",
+    "orderListShowMore": "Hiển thị thêm",
+    "orderListScrollToTop": "Cuộn lên đầu",
+    "orderFormEmailOnlyResendNow": "Gửi lại ngay",
+    "orderFormVerifyNoOrderFoundEmail": "Không tìm thấy đơn hàng cho email này. Vui lòng thử lại.",
+    "orderOtpRateLimitError": "Bạn đã vượt quá số lượng yêu cầu OTP tối đa. Vui lòng thử lại sau một giờ.",
+    "seeOtherPicks": "Xem những lựa chọn hàng đầu khác",
+    "orderListReturnOrder": "Trả lại đơn hàng",
+    "orderFormVerifyNoOrderFoundOrderId": "Không tìm thấy đơn hàng cho ID đơn hàng này. Vui lòng thử lại.",
+    "orderListCancelOrderMessage": "ID đơn hàng của tôi là {{orderId}}. Tôi muốn hủy đơn hàng.",
+    "orderFormEmailOnlyTitle": "Hãy theo dõi đơn hàng của bạn",
+    "orderListNeedHelpMessage": "Cần trợ giúp với đơn hàng {{orderId}}"
   }
 }

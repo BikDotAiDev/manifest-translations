@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "Spør meg om hva som helst om {{collectionName}} kolleksjonen",
   "others": {
     "popUpMessages": {
       "COLLECTION": "Ser du etter noe spesielt i denne samlingen? Jeg vet hvor du kan finne det.",
@@ -7,10 +8,26 @@
       "SEARCH": "Finner ikke det du leter etter? La meg hjelpe deg med å finne akkurat det du ser etter."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Hva er dine bestselgende produkter?", "Hva skiller produktene dine fra andre?", "Hvor er bestillingen min?"],
-      "OTHER": ["Hva er dine bestselgende produkter?", "Hva skiller produktene dine fra andre?", "Hvor er bestillingen min?"],
-      "PRODUCT": ["Hva gjør dette produktet spesielt?", "Vis meg flere produkter som dette", "Hva er returpolicyen for dette produktet?"],
-      "SEARCH": ["Vis meg de mest relevante produktene for meg", "Forfin resultatene basert på mine krav", "Hva er noen populære valg blant disse?"]
+      "COLLECTION": [
+        "Hva er dine bestselgende produkter?",
+        "Hva skiller produktene dine fra andre?",
+        "Hvor er bestillingen min?"
+      ],
+      "OTHER": [
+        "Hva er dine bestselgende produkter?",
+        "Hva skiller produktene dine fra andre?",
+        "Hvor er bestillingen min?"
+      ],
+      "PRODUCT": [
+        "Hva gjør dette produktet spesielt?",
+        "Vis meg flere produkter som dette",
+        "Hva er returpolicyen for dette produktet?"
+      ],
+      "SEARCH": [
+        "Vis meg de mest relevante produktene for meg",
+        "Forfin resultatene basert på mine krav",
+        "Hva er noen populære valg blant disse?"
+      ]
     }
   },
   "translations": {
@@ -173,6 +190,16 @@
     "orderListReturnOrder": "Returner bestilling",
     "orderListCancelOrderMessage": "Min ordre-ID er {{orderId}}. Jeg vil avbryte bestillingen min.",
     "orderListReturnOrderMessage": "Min ordre-ID er {{orderId}}. Jeg vil returnere bestillingen min.",
-    "orderListNeedHelpMessage": "Trenger du hjelp med bestilling {{orderId}}"
+    "orderListNeedHelpMessage": "Trenger du hjelp med bestilling {{orderId}}",
+    "orderFormOtpTitle": "Vi har sendt en 6-sifret kode til e-posten din.",
+    "orderFormEmailOnlyDidntReceiveCode": "Fikk du ikke koden?",
+    "orderFormVerifyNoOrderFoundPhone": "Ingen bestillinger funnet for dette nummeret. Prøv igjen.",
+    "returnToChat": "Tilbake til chat",
+    "orderFormEmailOnlyResendNow": "Send på nytt nå",
+    "orderFormVerifyNoOrderFoundEmail": "Ingen bestillinger funnet for denne e-posten. Prøv igjen.",
+    "orderOtpRateLimitError": "Du har overskredet det maksimale antallet OTP-forespørsler. Prøv igjen om en time.",
+    "seeOtherPicks": "Se våre andre toppvalg",
+    "orderFormVerifyNoOrderFoundOrderId": "Ingen bestillinger funnet for denne bestillings-ID. Prøv igjen.",
+    "orderFormEmailOnlyTitle": "La oss spore bestillingen din"
   }
 }
