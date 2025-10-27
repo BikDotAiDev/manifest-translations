@@ -190,16 +190,16 @@
     "orderListCancelOrderMessage": "ID-ul comenzii mele este {{orderId}}. Vreau să anlez comanda mea.",
     "orderListReturnOrderMessage": "ID-ul comenzii mele este {{orderId}}. Vreau să returnez comanda mea.",
     "orderListNeedHelpMessage": "Ai nevoie de ajutor cu comanda {{orderId}}",
-    "orderFormOtpTitle": "We've sent a 6-digit code to your email.",
-    "orderFormEmailOnlyDidntReceiveCode": "Didn't receive the code?",
-    "orderFormVerifyNoOrderFoundPhone": "No orders were found for this number. Please try again.",
+    "orderFormOtpTitle": "Am trimis un cod cu 6 cifre la e-mailul tău.",
+    "orderFormEmailOnlyDidntReceiveCode": "Nu ai primit codul?",
+    "orderFormVerifyNoOrderFoundPhone": "Nu au fost găsite comenzi pentru acest număr. Te rog să încerci din nou.",
     "returnToChat": "Înapoi la chat",
     "orderFormForgotEverything": "Forgot everything?",
-    "orderFormEmailOnlyResendNow": "Resend now",
-    "orderFormVerifyNoOrderFoundEmail": "No orders were found for this email. Please try again.",
-    "orderOtpRateLimitError": "You have exceeded the maximum number of OTP requests. Please try again after an hour.",
+    "orderFormEmailOnlyResendNow": "Retrimite acum",
+    "orderFormVerifyNoOrderFoundEmail": "Nu au fost găsite comenzi pentru acest e-mail. Te rog să încerci din nou.",
+    "orderOtpRateLimitError": "Ai depășit numărul maxim de solicitări OTP. Te rog să încerci din nou peste o oră.",
     "seeOtherPicks": "Vezi alte selecții de top",
-    "orderFormVerifyNoOrderFoundOrderId": "No orders were found for this order ID. Please try again.",
+    "orderFormVerifyNoOrderFoundOrderId": "Nu au fost găsite comenzi pentru acest ID de comandă. Te rog să încerci din nou.",
     "orderFormEmailOnlyTitle": "Să urmărim comanda ta"
   }
 }

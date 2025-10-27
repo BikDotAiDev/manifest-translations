@@ -192,14 +192,14 @@
     "orderListReturnOrderMessage": "Tilausnumeroni on {{orderId}}. Haluan palauttaa tilaukseni.",
     "orderListNeedHelpMessage": "Tarvitsetko apua tilauksessa {{orderId}}",
     "seeOtherPicks": "Katso muita huipputärppejämme",
-    "orderFormOtpTitle": "We've sent a 6-digit code to your email.",
-    "orderFormEmailOnlyDidntReceiveCode": "Didn't receive the code?",
-    "orderFormVerifyNoOrderFoundPhone": "No orders were found for this number. Please try again.",
+    "orderFormOtpTitle": "Lähetimme 6-numeroisen koodin sähköpostiisi.",
+    "orderFormEmailOnlyDidntReceiveCode": "Etkö saanut koodia?",
+    "orderFormVerifyNoOrderFoundPhone": "Tälle numerolle ei löytynyt tilauksia. Yritä uudelleen.",
     "returnToChat": "Palaa chattiin",
-    "orderFormEmailOnlyResendNow": "Resend now",
-    "orderFormVerifyNoOrderFoundEmail": "No orders were found for this email. Please try again.",
-    "orderOtpRateLimitError": "You have exceeded the maximum number of OTP requests. Please try again after an hour.",
-    "orderFormVerifyNoOrderFoundOrderId": "No orders were found for this order ID. Please try again.",
+    "orderFormEmailOnlyResendNow": "Lähetä uudelleen nyt",
+    "orderFormVerifyNoOrderFoundEmail": "Tälle sähköpostille ei löytynyt tilauksia. Yritä uudelleen.",
+    "orderOtpRateLimitError": "Olet ylittänyt OTP-pyyntöjen enimmäismäärän. Yritä uudelleen tunnin kuluttua.",
+    "orderFormVerifyNoOrderFoundOrderId": "Tälle tilaus-ID:lle ei löytynyt tilauksia. Yritä uudelleen.",
     "orderFormEmailOnlyTitle": "Seurataan tilaustasi"
   }
 }

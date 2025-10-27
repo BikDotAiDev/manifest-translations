@@ -192,14 +192,14 @@
     "orderListReturnOrderMessage": "Mit ordre-ID er {{orderId}}. Jeg vil gerne returnere min ordre.",
     "orderListNeedHelpMessage": "Brug for hjælp med ordre {{orderId}}",
     "seeOtherPicks": "Se vores andre topvalg",
-    "orderFormOtpTitle": "We've sent a 6-digit code to your email.",
-    "orderFormEmailOnlyDidntReceiveCode": "Didn't receive the code?",
-    "orderFormVerifyNoOrderFoundPhone": "No orders were found for this number. Please try again.",
+    "orderFormOtpTitle": "Vi har sendt en 6-cifret kode til din e-mail.",
+    "orderFormEmailOnlyDidntReceiveCode": "Modtog du ikke koden?",
+    "orderFormVerifyNoOrderFoundPhone": "Ingen ordrer fundet for dette nummer. Prøv igen.",
     "returnToChat": "Vend tilbage til chat",
-    "orderFormEmailOnlyResendNow": "Resend now",
-    "orderFormVerifyNoOrderFoundEmail": "No orders were found for this email. Please try again.",
-    "orderOtpRateLimitError": "You have exceeded the maximum number of OTP requests. Please try again after an hour.",
-    "orderFormVerifyNoOrderFoundOrderId": "No orders were found for this order ID. Please try again.",
+    "orderFormEmailOnlyResendNow": "Send igen nu",
+    "orderFormVerifyNoOrderFoundEmail": "Ingen ordrer fundet for denne e-mail. Prøv igen.",
+    "orderOtpRateLimitError": "Du har overskredet det maksimale antal OTP-anmodninger. Prøv igen om en time.",
+    "orderFormVerifyNoOrderFoundOrderId": "Ingen ordrer fundet for dette ordre-ID. Prøv igen.",
     "orderFormEmailOnlyTitle": "Lad os spore din ordre"
   }
 }

@@ -192,14 +192,14 @@
     "orderListReturnOrderMessage": "我的訂單編號是 {{orderId}}。我想退貨我的訂單。",
     "orderListNeedHelpMessage": "需要有關訂單 {{orderId}} 的幫助",
     "seeOtherPicks": "查看我們的其他精選",
-    "orderFormOtpTitle": "We've sent a 6-digit code to your email.",
-    "orderFormEmailOnlyDidntReceiveCode": "Didn't receive the code?",
-    "orderFormVerifyNoOrderFoundPhone": "No orders were found for this number. Please try again.",
+    "orderFormOtpTitle": "我们已向您的邮箱发送了6位数字验证码。",
+    "orderFormEmailOnlyDidntReceiveCode": "没有收到验证码？",
+    "orderFormVerifyNoOrderFoundPhone": "未找到此号码的订单。请重试。",
     "returnToChat": "返回聊天",
-    "orderFormEmailOnlyResendNow": "Resend now",
-    "orderFormVerifyNoOrderFoundEmail": "No orders were found for this email. Please try again.",
-    "orderOtpRateLimitError": "You have exceeded the maximum number of OTP requests. Please try again after an hour.",
-    "orderFormVerifyNoOrderFoundOrderId": "No orders were found for this order ID. Please try again.",
+    "orderFormEmailOnlyResendNow": "立即重新发送",
+    "orderFormVerifyNoOrderFoundEmail": "未找到此邮箱的订单。请重试。",
+    "orderOtpRateLimitError": "您已超过OTP请求的最大次数。请一小时后重试。",
+    "orderFormVerifyNoOrderFoundOrderId": "未找到此订单ID的订单。请重试。",
     "orderFormEmailOnlyTitle": "让我们追踪您的订单"
   }
 }

@@ -191,15 +191,15 @@
     "orderListCancelOrderMessage": "Sipariş ID'm {{orderId}}. Siparişimi iptal etmek istiyorum.",
     "orderListReturnOrderMessage": "Sipariş ID'm {{orderId}}. Siparişimi iade etmek istiyorum.",
     "orderListNeedHelpMessage": "{{orderId}} siparişi için yardıma mı ihtiyacınız var",
-    "orderFormOtpTitle": "We've sent a 6-digit code to your email.",
-    "orderFormEmailOnlyDidntReceiveCode": "Didn't receive the code?",
-    "orderFormVerifyNoOrderFoundPhone": "No orders were found for this number. Please try again.",
+    "orderFormOtpTitle": "E-postanıza 6 haneli bir kod gönderdik.",
+    "orderFormEmailOnlyDidntReceiveCode": "Kodu almadınız mı?",
+    "orderFormVerifyNoOrderFoundPhone": "Bu numara için sipariş bulunamadı. Lütfen tekrar deneyin.",
     "returnToChat": "Sohbete dön",
-    "orderFormEmailOnlyResendNow": "Resend now",
-    "orderFormVerifyNoOrderFoundEmail": "No orders were found for this email. Please try again.",
-    "orderOtpRateLimitError": "You have exceeded the maximum number of OTP requests. Please try again after an hour.",
+    "orderFormEmailOnlyResendNow": "Şimdi tekrar gönder",
+    "orderFormVerifyNoOrderFoundEmail": "Bu e-posta için sipariş bulunamadı. Lütfen tekrar deneyin.",
+    "orderOtpRateLimitError": "Maksimum OTP istek sayısını aştınız. Lütfen bir saat sonra tekrar deneyin.",
     "seeOtherPicks": "Diğer en iyi seçimlerimizi görün",
-    "orderFormVerifyNoOrderFoundOrderId": "No orders were found for this order ID. Please try again.",
+    "orderFormVerifyNoOrderFoundOrderId": "Bu sipariş ID'si için sipariş bulunamadı. Lütfen tekrar deneyin.",
     "orderFormEmailOnlyTitle": "Siparişinizi takip edelim"
   }
 }

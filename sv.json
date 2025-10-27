@@ -191,15 +191,15 @@
     "orderListReturnOrderMessage": "Mitt beställnings-ID är {{orderId}}. Jag vill returnera min beställning.",
     "orderListNeedHelpMessage": "Behöver du hjälp med beställning {{orderId}}",
     "returnToChat": "Återgå till chatten",
-    "orderFormOtpTitle": "We've sent a 6-digit code to your email.",
-    "orderFormEmailOnlyDidntReceiveCode": "Didn't receive the code?",
-    "orderFormVerifyNoOrderFoundPhone": "No orders were found for this number. Please try again.",
+    "orderFormOtpTitle": "Vi har skickat en 6-siffrig kod till din e-post.",
+    "orderFormEmailOnlyDidntReceiveCode": "Fick du inte koden?",
+    "orderFormVerifyNoOrderFoundPhone": "Inga beställningar hittades för detta nummer. Försök igen.",
     "orderFormForgotEverything": "Forgot everything?",
-    "orderFormEmailOnlyResendNow": "Resend now",
-    "orderFormVerifyNoOrderFoundEmail": "No orders were found for this email. Please try again.",
-    "orderOtpRateLimitError": "You have exceeded the maximum number of OTP requests. Please try again after an hour.",
+    "orderFormEmailOnlyResendNow": "Skicka om nu",
+    "orderFormVerifyNoOrderFoundEmail": "Inga beställningar hittades för denna e-post. Försök igen.",
+    "orderOtpRateLimitError": "Du har överskridit det maximala antalet OTP-förfrågningar. Försök igen om en timme.",
     "seeOtherPicks": "Se våra andra toppval",
-    "orderFormVerifyNoOrderFoundOrderId": "No orders were found for this order ID. Please try again.",
+    "orderFormVerifyNoOrderFoundOrderId": "Inga beställningar hittades för detta beställnings-ID. Försök igen.",
     "orderFormEmailOnlyTitle": "Låt oss spåra din beställning"
   }
 }
