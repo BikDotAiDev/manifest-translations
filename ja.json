@@ -202,6 +202,7 @@
     "seeOtherPicks": "他のおすすめをチェック",
     "orderFormVerifyNoOrderFoundOrderId": "この注文IDに対する注文が見つかりませんでした。再試行してください。",
     "orderFormEmailOnlyTitle": "注文を追跡しましょう",
-    "orderListHereAreYourOrders": "こちらがあなたのご注文です"
+    "orderListHereAreYourOrders": "こちらがあなたのご注文です",
+    "orderFormBackButton": "戻る"
   }
 }

@@ -185,6 +185,7 @@
     "orderListReturnOrderMessage": "Meu ID de pedido é {{orderId}}. Quero devolver meu pedido.",
     "orderListNeedHelpMessage": "Precisa de ajuda com o pedido {{orderId}}",
     "seeOtherPicks": "Veja nossas outras principais escolhas",
-    "orderListHereAreYourOrders": "Aqui estão seus pedidos"
+    "orderListHereAreYourOrders": "Aqui estão seus pedidos",
+    "orderFormBackButton": "Voltar"
   }
 }

@@ -201,6 +201,7 @@
     "orderListCancelOrderMessage": "ID đơn hàng của tôi là {{orderId}}. Tôi muốn hủy đơn hàng.",
     "orderFormEmailOnlyTitle": "Hãy theo dõi đơn hàng của bạn",
     "orderListNeedHelpMessage": "Cần trợ giúp với đơn hàng {{orderId}}",
-    "orderListHereAreYourOrders": "Đây là đơn hàng của bạn"
+    "orderListHereAreYourOrders": "Đây là đơn hàng của bạn",
+    "orderFormBackButton": "Quay lại"
   }
 }

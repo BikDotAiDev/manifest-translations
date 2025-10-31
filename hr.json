@@ -202,7 +202,8 @@
     "welcomeMessageProductPage": "Pitajte me bilo što o ovom proizvodu",
     "whatAreYourBestSellers": "Koji su vaši najuspješniji proizvodi?",
     "yesSure": "Da, naravno!",
-    "orderListHereAreYourOrders": "Evo vaših narudžbi"
+    "orderListHereAreYourOrders": "Evo vaših narudžbi",
+    "orderFormBackButton": "Natrag"
   },
   "others": {
     "popUpMessages": {

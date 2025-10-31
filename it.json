@@ -185,6 +185,7 @@
     "orderListNeedHelpMessage": "Hai bisogno di aiuto con l'ordine {{orderId}}",
     "returnToChat": "Torna alla chat",
     "seeOtherPicks": "Vedi le nostre altre scelte migliori",
-    "orderListHereAreYourOrders": "Ecco i tuoi ordini"
+    "orderListHereAreYourOrders": "Ecco i tuoi ordini",
+    "orderFormBackButton": "Indietro"
   }
 }

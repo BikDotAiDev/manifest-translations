@@ -201,6 +201,7 @@
     "orderListReturnOrderMessage": "Mijn bestelnummer is {{orderId}}. Ik wil mijn bestelling retourneren.",
     "orderListNeedHelpMessage": "Hulp nodig bij bestelling {{orderId}}",
     "seeOtherPicks": "Bekijk onze andere topkeuzes",
-    "orderListHereAreYourOrders": "Hier zijn uw bestellingen"
+    "orderListHereAreYourOrders": "Hier zijn uw bestellingen",
+    "orderFormBackButton": "Terug"
   }
 }

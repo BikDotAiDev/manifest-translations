@@ -201,6 +201,7 @@
     "orderListCancelOrderMessage": "Min bestillings-ID er {{orderId}}. Jeg vil avbryte bestillingen min.",
     "orderFormEmailOnlyTitle": "La oss spore bestillingen din",
     "orderListNeedHelpMessage": "Trenger du hjelp med bestilling {{orderId}}",
-    "orderListHereAreYourOrders": "Her er bestillingene dine"
+    "orderListHereAreYourOrders": "Her er bestillingene dine",
+    "orderFormBackButton": "Tilbake"
   }
 }

@@ -389,7 +389,8 @@
     "viewProduct": "View Product",
     "orderFormDontRememberLink": "Don't remember any of them?",
     "spinTheWheel": "spin the wheel",
-    "orderListHereAreYourOrders": "นี่คือคำสั่งซื้อของคุณ"
+    "orderListHereAreYourOrders": "นี่คือคำสั่งซื้อของคุณ",
+    "orderFormBackButton": "ย้อนกลับ"
   },
   "others": {
     "popUpMessages": {

@@ -201,6 +201,7 @@
     "seeOtherPicks": "Se våre andre toppvalg",
     "orderFormVerifyNoOrderFoundOrderId": "Ingen bestillinger funnet for denne bestillings-ID. Prøv igjen.",
     "orderFormEmailOnlyTitle": "La oss spore bestillingen din",
-    "orderListHereAreYourOrders": "Her er bestillingene dine"
+    "orderListHereAreYourOrders": "Her er bestillingene dine",
+    "orderFormBackButton": "Tilbake"
   }
 }

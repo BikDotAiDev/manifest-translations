@@ -185,6 +185,7 @@
     "orderListReturnOrderMessage": "Meine Bestellnummer ist {{orderId}}. Ich möchte meine Bestellung zurückgeben.",
     "orderListNeedHelpMessage": "Brauchen Sie Hilfe bei Bestellung {{orderId}}",
     "seeOtherPicks": "Siehe unsere anderen Spitzenauswahlen",
-    "orderListHereAreYourOrders": "Hier sind Ihre Bestellungen"
+    "orderListHereAreYourOrders": "Hier sind Ihre Bestellungen",
+    "orderFormBackButton": "Zurück"
   }
 }

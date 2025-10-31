@@ -201,6 +201,7 @@
     "seeOtherPicks": "Diğer en iyi seçimlerimizi görün",
     "orderFormVerifyNoOrderFoundOrderId": "Bu sipariş ID'si için sipariş bulunamadı. Lütfen tekrar deneyin.",
     "orderFormEmailOnlyTitle": "Siparişinizi takip edelim",
-    "orderListHereAreYourOrders": "İşte siparişleriniz"
+    "orderListHereAreYourOrders": "İşte siparişleriniz",
+    "orderFormBackButton": "Geri"
   }
 }

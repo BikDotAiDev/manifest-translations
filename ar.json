@@ -201,6 +201,7 @@
     "seeOtherPicks": "راجع اختياراتنا الأخرى المميزة",
     "orderFormVerifyNoOrderFoundOrderId": "لم يتم العثور على طلبات لمعرف الطلب هذا. يرجى المحاولة مرة أخرى.",
     "orderFormEmailOnlyTitle": "دعنا نتتبع طلبك",
-    "orderListHereAreYourOrders": "هنا طلباتك"
+    "orderListHereAreYourOrders": "هنا طلباتك",
+    "orderFormBackButton": "رجوع"
   }
 }

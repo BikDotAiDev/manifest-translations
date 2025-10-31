@@ -171,7 +171,8 @@
     "orderListReturnOrderMessage": "My order ID is {{orderId}}. I want to return my order.",
     "orderListNeedHelpMessage": "Need help with order {{orderId}}",
     "seeOtherPicks": "See our other top picks",
-    "orderListHereAreYourOrders": "Here are your orders"
+    "orderListHereAreYourOrders": "Here are your orders",
+    "orderFormBackButton": "Back"
   },
   "others": {
     "suggestedReplies": {
