@@ -68,6 +68,7 @@
   "ask_about_this": "ถามเกี่ยวกับเรื่องนี้",
   "go_To_cart": "ไปที่รถเข็น",
   "AMA": "ถามฉันอะไรก็ได้",
+  "chatWithUS": "แชทกับเรา 👋🏻",
   "take_quiz": "ทำแบบทดสอบ!",
   "show_more": "แสดงมากขึ้น",
   "catalog_refinement": "เรียกดูผลลัพธ์ตามคอลเลกชัน",
@@ -390,7 +391,9 @@
     "orderFormDontRememberLink": "Don't remember any of them?",
     "spinTheWheel": "spin the wheel",
     "orderListHereAreYourOrders": "นี่คือคำสั่งซื้อของคุณ",
-    "orderFormBackButton": "ย้อนกลับ"
+    "orderFormBackButton": "ย้อนกลับ",
+    "discountCouponText": "วู้ฮู! 🎉 คุณมีสิทธิ์รับ {{couponTitle}}",
+     "getOffer": "รับข้อเสนอ"
   },
   "others": {
     "popUpMessages": {
