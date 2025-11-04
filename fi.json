@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "Kysy minulta mitä tahansa {{collectionName}} kokoelmasta",
   "others": {
     "popUpMessages": {
       "COLLECTION": "Etsitkö jotain erityistä tästä kokoelmasta? Tiedän, mistä sen löydät.",
@@ -193,6 +194,17 @@
     "orderListCancelOrderMessage": "Tilausnumeroni on {{orderId}}. Haluan peruuttaa tilaukseni.",
     "orderListReturnOrderMessage": "Tilausnumeroni on {{orderId}}. Haluan palauttaa tilaukseni.",
     "orderListNeedHelpMessage": "Tarvitsetko apua tilauksessa {{orderId}}",
-    "seeOtherPicks": "Katso muita huipputärppejämme"
+    "seeOtherPicks": "Katso muita huipputärppejämme",
+    "orderFormOtpTitle": "Lähetimme 6-numeroisen koodin sähköpostiisi.",
+    "orderFormEmailOnlyDidntReceiveCode": "Etkö saanut koodia?",
+    "orderFormVerifyNoOrderFoundPhone": "Tälle numerolle ei löytynyt tilauksia. Yritä uudelleen.",
+    "returnToChat": "Palaa chattiin",
+    "orderFormEmailOnlyResendNow": "Lähetä uudelleen nyt",
+    "orderFormVerifyNoOrderFoundEmail": "Tälle sähköpostille ei löytynyt tilauksia. Yritä uudelleen.",
+    "orderOtpRateLimitError": "Olet ylittänyt OTP-pyyntöjen enimmäismäärän. Yritä uudelleen tunnin kuluttua.",
+    "orderFormVerifyNoOrderFoundOrderId": "Tälle tilaus-ID:lle ei löytynyt tilauksia. Yritä uudelleen.",
+    "orderFormEmailOnlyTitle": "Seurataan tilaustasi",
+    "orderListHereAreYourOrders": "Tässä ovat tilauksesi",
+    "orderFormBackButton": "Takaisin"
   }
 }

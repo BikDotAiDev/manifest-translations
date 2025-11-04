@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "{{collectionName}}コレクションについて何でも聞いてください",
   "others": {
     "popUpMessages": {
       "COLLECTION": "このコレクションで特別なものをお探しですか？ どこにあるか知っています。",
@@ -193,6 +194,18 @@
     "orderListReturnOrder": "注文を返品",
     "orderListCancelOrderMessage": "私の注文IDは{{orderId}}です。注文をキャンセルしたいです。",
     "orderListReturnOrderMessage": "私の注文IDは{{orderId}}です。注文を返品したいです。",
-    "orderListNeedHelpMessage": "注文{{orderId}}についてお困りですか"
+    "orderListNeedHelpMessage": "注文{{orderId}}についてお困りですか",
+    "orderFormOtpTitle": "メールアドレスに6桁のコードをお送りしました。",
+    "orderFormEmailOnlyDidntReceiveCode": "コードを受信できませんでしたか？",
+    "orderFormVerifyNoOrderFoundPhone": "この番号に対する注文が見つかりませんでした。再試行してください。",
+    "returnToChat": "チャットに戻る",
+    "orderFormEmailOnlyResendNow": "今すぐ再送信",
+    "orderFormVerifyNoOrderFoundEmail": "このメールアドレスに対する注文が見つかりませんでした。再試行してください。",
+    "orderOtpRateLimitError": "OTPリクエストの上限に達しました。1時間後に再試行してください。",
+    "seeOtherPicks": "他のおすすめをチェック",
+    "orderFormVerifyNoOrderFoundOrderId": "この注文IDに対する注文が見つかりませんでした。再試行してください。",
+    "orderFormEmailOnlyTitle": "注文を追跡しましょう",
+    "orderListHereAreYourOrders": "こちらがあなたのご注文です",
+    "orderFormBackButton": "戻る"
   }
 }

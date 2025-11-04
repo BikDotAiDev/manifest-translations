@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "اسألني عن أي شيء حول مجموعة {{collectionName}}",
   "others": {
     "popUpMessages": {
       "COLLECTION": "هل تبحث عن شيء خاص في هذه المجموعة؟ أنا أعرف أين تجده.",
@@ -192,6 +193,18 @@
     "orderListReturnOrder": "إرجاع الطلب",
     "orderListCancelOrderMessage": "معرف طلبي هو {{orderId}}. أريد إلغاء طلبي.",
     "orderListReturnOrderMessage": "معرف طلبي هو {{orderId}}. أريد إرجاع طلبي.",
-    "orderListNeedHelpMessage": "هل تحتاج إلى مساعدة بخصوص الطلب {{orderId}}"
+    "orderListNeedHelpMessage": "هل تحتاج إلى مساعدة بخصوص الطلب {{orderId}}",
+    "orderFormOtpTitle": "لقد أرسلنا رمزاً مكوناً من 6 أرقام إلى بريدك الإلكتروني.",
+    "orderFormEmailOnlyDidntReceiveCode": "لم تستلم الرمز؟",
+    "orderFormVerifyNoOrderFoundPhone": "لم يتم العثور على طلبات لهذا الرقم. يرجى المحاولة مرة أخرى.",
+    "returnToChat": "العودة إلى الدردشة",
+    "orderFormEmailOnlyResendNow": "إعادة الإرسال الآن",
+    "orderFormVerifyNoOrderFoundEmail": "لم يتم العثور على طلبات لهذا البريد الإلكتروني. يرجى المحاولة مرة أخرى.",
+    "orderOtpRateLimitError": "لقد تجاوزت العدد الأقصى من طلبات OTP. يرجى المحاولة مرة أخرى بعد ساعة.",
+    "seeOtherPicks": "راجع اختياراتنا الأخرى المميزة",
+    "orderFormVerifyNoOrderFoundOrderId": "لم يتم العثور على طلبات لمعرف الطلب هذا. يرجى المحاولة مرة أخرى.",
+    "orderFormEmailOnlyTitle": "دعنا نتتبع طلبك",
+    "orderListHereAreYourOrders": "هنا طلباتك",
+    "orderFormBackButton": "رجوع"
   }
 }

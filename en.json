@@ -173,8 +173,9 @@
     "orderListCancelOrderMessage": "My order ID is {{orderId}}. I want to cancel my order.",
     "orderListReturnOrderMessage": "My order ID is {{orderId}}. I want to return my order.",
     "orderListNeedHelpMessage": "Need help with order {{orderId}}",
-    "seeOtherPicks": "See our other top picks"
-
+    "seeOtherPicks": "See our other top picks",
+    "orderListHereAreYourOrders": "Here are your orders",
+    "orderFormBackButton": "Back"
   },
   "others": {
     "suggestedReplies": {

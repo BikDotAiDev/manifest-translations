@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "Kérdezz bármit a {{collectionName}} kollekcióról",
   "others": {
     "popUpMessages": {
       "COLLECTION": "Keresel valami különlegeset ebben a kollekcióban? Tudom, hol találod meg.",
@@ -183,6 +184,27 @@
     "order_tracking": "Rendelés követése",
     "order_cancellation": "Rendelés lemondása",
     "returns_refunds_policy": "Visszaküldési és visszatérítési politika",
-    "offers_rewards": "Ajánlatok és jutalmak"
+    "offers_rewards": "Ajánlatok és jutalmak",
+    "orderFormOtpTitle": "6 jegyű kódot küldtünk az e-mail címére.",
+    "orderFormEmailOnlyDidntReceiveCode": "Nem kapta meg a kódot?",
+    "orderListShowMore": "Több megjelenítése",
+    "orderListScrollToTop": "Görgetés tetejére",
+    "orderFormVerifyNoOrderFoundEmail": "Nem találtunk rendeléseket ehhez az e-mail címhez. Próbálkozzon újra.",
+    "seeOtherPicks": "Tekintse meg más legjobb választásainkat",
+    "orderListCancelOrderMessage": "A rendelésem azonosítója {{orderId}}. Törölni szeretném a rendelésemet.",
+    "orderListNeedHelpMessage": "Segítségre van szüksége a {{orderId}} rendeléssel kapcsolatban?",
+    "orderListNeedHelp": "Segítségre van szüksége?",
+    "orderFormVerifyNoOrderFoundPhone": "Nem találtunk rendeléseket ehhez a számhoz. Próbálkozzon újra.",
+    "orderFormUnverifiedTrackOrderPrompt": "Kövessük nyomon rendelését",
+    "returnToChat": "Vissza a chathez",
+    "orderFormVerifyNoOrderFoundOrderId": "Nem találtunk rendeléseket ehhez a rendelésazonosítóhoz. Próbálkozzon újra.",
+    "orderFormEmailOnlyTitle": "Kövessük nyomon a rendelését",
+    "orderListReturnOrderMessage": "A rendelésem azonosítója {{orderId}}. Vissza szeretném küldeni a rendelésemet.",
+    "orderListCancelOrder": "Rendelés törlése",
+    "orderFormEmailOnlyResendNow": "Újraküldés most",
+    "orderOtpRateLimitError": "Túllépte az OTP-kérések maximális számát. Próbálkozzon újra egy óra múlva.",
+    "orderListReturnOrder": "Rendelés visszaküldése",
+    "orderListHereAreYourOrders": "Itt vannak a rendelései",
+    "orderFormBackButton": "Vissza"
   }
 }

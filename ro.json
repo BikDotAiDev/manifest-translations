@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "Întreabă-mă orice despre colecția {{collectionName}}",
   "others": {
     "popUpMessages": {
       "COLLECTION": "Cauti ceva special în această colecție? Știu unde să-l găsesc.",
@@ -191,6 +192,19 @@
     "orderListReturnOrder": "Returnează comanda",
     "orderListCancelOrderMessage": "ID-ul comenzii mele este {{orderId}}. Vreau să anlez comanda mea.",
     "orderListReturnOrderMessage": "ID-ul comenzii mele este {{orderId}}. Vreau să returnez comanda mea.",
-    "orderListNeedHelpMessage": "Ai nevoie de ajutor cu comanda {{orderId}}"
+    "orderListNeedHelpMessage": "Ai nevoie de ajutor cu comanda {{orderId}}",
+    "orderFormOtpTitle": "Am trimis un cod cu 6 cifre la e-mailul tău.",
+    "orderFormEmailOnlyDidntReceiveCode": "Nu ai primit codul?",
+    "orderFormVerifyNoOrderFoundPhone": "Nu au fost găsite comenzi pentru acest număr. Te rog să încerci din nou.",
+    "returnToChat": "Înapoi la chat",
+    "orderFormForgotEverything": "Ai uitat totul?",
+    "orderFormEmailOnlyResendNow": "Retrimite acum",
+    "orderFormVerifyNoOrderFoundEmail": "Nu au fost găsite comenzi pentru acest e-mail. Te rog să încerci din nou.",
+    "orderOtpRateLimitError": "Ai depășit numărul maxim de solicitări OTP. Te rog să încerci din nou peste o oră.",
+    "seeOtherPicks": "Vezi alte selecții de top",
+    "orderFormVerifyNoOrderFoundOrderId": "Nu au fost găsite comenzi pentru acest ID de comandă. Te rog să încerci din nou.",
+    "orderFormEmailOnlyTitle": "Să urmărim comanda ta",
+    "orderListHereAreYourOrders": "Iată comenzile tale",
+    "orderFormBackButton": "Înapoi"
   }
 }

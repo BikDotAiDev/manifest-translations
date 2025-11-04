@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "{{collectionName}} koleksiyonu hakkında bana her şeyi sorabilirsin",
   "others": {
     "popUpMessages": {
       "COLLECTION": "Bu koleksiyonda özel bir şey mi arıyorsunuz? Nerede bulabileceğimi biliyorum.",
@@ -192,6 +193,18 @@
     "orderListReturnOrder": "Siparişi iade et",
     "orderListCancelOrderMessage": "Sipariş ID'm {{orderId}}. Siparişimi iptal etmek istiyorum.",
     "orderListReturnOrderMessage": "Sipariş ID'm {{orderId}}. Siparişimi iade etmek istiyorum.",
-    "orderListNeedHelpMessage": "{{orderId}} siparişi için yardıma mı ihtiyacınız var"
+    "orderListNeedHelpMessage": "{{orderId}} siparişi için yardıma mı ihtiyacınız var",
+    "orderFormOtpTitle": "E-postanıza 6 haneli bir kod gönderdik.",
+    "orderFormEmailOnlyDidntReceiveCode": "Kodu almadınız mı?",
+    "orderFormVerifyNoOrderFoundPhone": "Bu numara için sipariş bulunamadı. Lütfen tekrar deneyin.",
+    "returnToChat": "Sohbete dön",
+    "orderFormEmailOnlyResendNow": "Şimdi tekrar gönder",
+    "orderFormVerifyNoOrderFoundEmail": "Bu e-posta için sipariş bulunamadı. Lütfen tekrar deneyin.",
+    "orderOtpRateLimitError": "Maksimum OTP istek sayısını aştınız. Lütfen bir saat sonra tekrar deneyin.",
+    "seeOtherPicks": "Diğer en iyi seçimlerimizi görün",
+    "orderFormVerifyNoOrderFoundOrderId": "Bu sipariş ID'si için sipariş bulunamadı. Lütfen tekrar deneyin.",
+    "orderFormEmailOnlyTitle": "Siparişinizi takip edelim",
+    "orderListHereAreYourOrders": "İşte siparişleriniz",
+    "orderFormBackButton": "Geri"
   }
 }

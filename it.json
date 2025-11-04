@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "Chiedimi qualsiasi cosa sulla collezione {{collectionName}}",
   "others": {
     "popUpMessages": {
       "COLLECTION": "Cerchi qualcosa di speciale in questa collezione? So dove trovarlo.",
@@ -124,6 +125,12 @@
     "orderFormVerifyNoOrderFound": "Nessun ordine trovato con questo ID. Riprova.",
     "orderFormVerifyEmailNotMatch": "Questa email non corrisponde all'ID ordine. Riprova.",
     "orderFormVerifyPhoneNotMatch": "Questo numero di telefono non corrisponde all'ID ordine. Riprova.",
+    "orderFormVerifyNoOrderFoundOrderId": "Nessun ordine trovato per questo ID ordine. Riprova.",
+    "orderFormVerifyNoOrderFoundPhone": "Nessun ordine trovato per questo numero. Riprova.",
+    "orderFormVerifyNoOrderFoundEmail": "Nessun ordine trovato per questa email. Riprova.",
+    "orderFormEmailOnlyTitle": "Tracciamo il tuo ordine",
+    "orderFormOtpTitle": "Abbiamo inviato un codice a 6 cifre alla tua email.",
+    "orderOtpRateLimitError": "Hai superato il numero massimo di richieste OTP. Riprova tra un'ora.",
     "orderFormEmailOnlyTrackOrderPrompt": "Inserisci la tua email per tracciare il tuo ordine",
     "orderFormEmailOnlyOtpSentPrompt": "Abbiamo inviato un OTP alla tua email. Inseriscilo per continuare",
     "orderFormEmailOnlyEmailLabel": "Inserisci l'indirizzo email",
@@ -151,6 +158,8 @@
     "orderFormEmailOnlyVerifyButton": "Verifica",
     "orderFormEmailOnlyDontRememberEmail": "Hai dimenticato l'indirizzo email?",
     "orderFormEmailOnlyResendIn": "Invia di nuovo tra {{countdown}}s",
+    "orderFormEmailOnlyResendNow": "Invia di nuovo ora",
+    "orderFormEmailOnlyDidntReceiveCode": "Non hai ricevuto il codice?",
     "orderFormFallbackNoOtherOptions": "Nessun problema, abbiamo altre opzioni disponibili per aiutarti con il tuo ordine.",
     "orderFormFallbackTalkToAgent": "Parla con un agente",
     "orderFormFallbackCheckTrackingPortal": "Controlla il nostro portale di tracciamento",
@@ -193,6 +202,9 @@
     "orderListCancelOrderMessage": "Il mio ID ordine è {{orderId}}. Voglio annullare il mio ordine.",
     "orderListReturnOrderMessage": "Il mio ID ordine è {{orderId}}. Voglio restituire il mio ordine.",
     "orderListNeedHelpMessage": "Hai bisogno di aiuto con l'ordine {{orderId}}",
-    "returnToChat": "Torna alla chat"
+    "returnToChat": "Torna alla chat",
+    "seeOtherPicks": "Vedi le nostre altre scelte migliori",
+    "orderListHereAreYourOrders": "Ecco i tuoi ordini",
+    "orderFormBackButton": "Indietro"
   }
 }

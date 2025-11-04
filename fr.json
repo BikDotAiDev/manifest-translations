@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "Posez-moi toutes vos questions sur la collection {{collectionName}}",
   "others": {
     "popUpMessages": {
       "COLLECTION": "Vous cherchez quelque chose de spécial dans cette collection ? Je sais où le trouver.",
@@ -95,7 +96,6 @@
     "viewProduct": "Voir le produit",
     "viewResultsFromCollection": "Voir les résultats de cette collection",
     "viewSimilarProducts": "voir des produits similaires",
-    "welcomeMessageCollectionNamePage": "Posez-moi toutes vos questions sur la collection {{collectionName}}",
     "welcomeMessageCollectionPage": "Demandez-moi tout ce que vous voulez savoir sur notre collection {{collectionName}}!",
     "welcomeMessageCollectionPageGeneric": "Demandez-moi tout ce que vous voulez savoir sur nos produits!",
     "welcomeMessageHomePage": "Bienvenue chez {{storeName}}! Comment puis-je vous aider aujourd'hui?",
@@ -125,6 +125,12 @@
     "orderFormVerifyNoOrderFound": "Aucune commande trouvée avec cet ID. Veuillez réessayer.",
     "orderFormVerifyEmailNotMatch": "Cette adresse e-mail ne correspond pas à l'ID de commande. Veuillez réessayer.",
     "orderFormVerifyPhoneNotMatch": "Ce numéro de téléphone ne correspond pas à l'ID de commande. Veuillez réessayer.",
+    "orderFormVerifyNoOrderFoundOrderId": "Aucune commande trouvée pour cet ID de commande. Veuillez réessayer.",
+    "orderFormVerifyNoOrderFoundPhone": "Aucune commande trouvée pour ce numéro. Veuillez réessayer.",
+    "orderFormVerifyNoOrderFoundEmail": "Aucune commande trouvée pour cet e-mail. Veuillez réessayer.",
+    "orderFormEmailOnlyTitle": "Suivons votre commande",
+    "orderFormOtpTitle": "Nous avons envoyé un code à 6 chiffres à votre e-mail.",
+    "orderOtpRateLimitError": "Vous avez dépassé le nombre maximum de demandes d'OTP. Veuillez réessayer dans une heure.",
     "orderFormEmailOnlyTrackOrderPrompt": "Entrez votre adresse e-mail pour suivre votre commande",
     "orderFormEmailOnlyOtpSentPrompt": "Nous avons envoyé un code OTP à votre e-mail. Entrez-le pour continuer",
     "orderFormEmailOnlyEmailLabel": "Entrez l'adresse e-mail",
@@ -152,11 +158,14 @@
     "orderFormEmailOnlyVerifyButton": "Vérifier",
     "orderFormEmailOnlyDontRememberEmail": "Adresse e-mail oubliée?",
     "orderFormEmailOnlyResendIn": "Renvoyer dans {{countdown}}s",
+    "orderFormEmailOnlyResendNow": "Renvoyer maintenant",
+    "orderFormEmailOnlyDidntReceiveCode": "Vous n'avez pas reçu le code ?",
     "orderFormFallbackNoOtherOptions": "Pas de problème, nous avons d'autres options disponibles pour vous aider avec votre commande.",
     "orderFormFallbackTalkToAgent": "Parler à un agent",
     "orderFormFallbackCheckTrackingPortal": "Vérifier notre portail de suivi",
     "insideOrderTrackingFlow": "Vous êtes dans le flux de suivi de commande",
     "startNewConversation": "Démarrer une nouvelle conversation",
+    "returnToChat": "Retourner au chat",
     "orderItemsHeader": "Voici vos 5 dernières commandes",
     "orderItemsSubtitle": "Sélectionnez celle pour laquelle vous voulez voir les détails",
     "orderDetailsHeader": "Voici les détails de votre commande",
@@ -194,6 +203,8 @@
     "orderListCancelOrderMessage": "Mon ID de commande est {{orderId}}. Je veux annuler ma commande.",
     "orderListReturnOrderMessage": "Mon ID de commande est {{orderId}}. Je veux retourner ma commande.",
     "orderListNeedHelpMessage": "Besoin d'aide avec la commande {{orderId}}",
-    "seeOtherPicks": "Voir nos autres choix"
+    "seeOtherPicks": "Voir nos autres choix",
+    "orderListHereAreYourOrders": "Voici vos commandes",
+    "orderFormBackButton": "Retour"
   }
 }

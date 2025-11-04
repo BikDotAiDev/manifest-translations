@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "Pergunte-me qualquer coisa sobre a coleção {{collectionName}}",
   "others": {
     "popUpMessages": {
       "COLLECTION": "Procurando algo especial nesta coleção? Eu sei onde encontrar.",
@@ -124,6 +125,12 @@
     "orderFormVerifyNoOrderFound": "Nenhum pedido encontrado com este ID. Tente novamente.",
     "orderFormVerifyEmailNotMatch": "Este e-mail não corresponde ao ID do pedido. Tente novamente.",
     "orderFormVerifyPhoneNotMatch": "Este telefone não corresponde ao ID do pedido. Tente novamente.",
+    "orderFormVerifyNoOrderFoundOrderId": "Nenhum pedido encontrado para este ID de pedido. Tente novamente.",
+    "orderFormVerifyNoOrderFoundPhone": "Nenhum pedido encontrado para este número. Tente novamente.",
+    "orderFormVerifyNoOrderFoundEmail": "Nenhum pedido encontrado para este e-mail. Tente novamente.",
+    "orderFormEmailOnlyTitle": "Vamos rastrear seu pedido",
+    "orderFormOtpTitle": "Enviamos um código de 6 dígitos para seu e-mail.",
+    "orderOtpRateLimitError": "Você excedeu o número máximo de solicitações de OTP. Tente novamente após uma hora.",
     "orderFormEmailOnlyTrackOrderPrompt": "Digite seu e-mail para rastrear seu pedido",
     "orderFormEmailOnlyOtpSentPrompt": "Enviamos um código para seu e-mail. Digite-o para continuar",
     "orderFormEmailOnlyEmailLabel": "Digite seu endereço de e-mail",
@@ -151,11 +158,14 @@
     "orderFormEmailOnlyVerifyButton": "Verificar",
     "orderFormEmailOnlyDontRememberEmail": "Esqueceu o endereço de e-mail?",
     "orderFormEmailOnlyResendIn": "Reenviar em {{countdown}}s",
+    "orderFormEmailOnlyResendNow": "Reenviar agora",
+    "orderFormEmailOnlyDidntReceiveCode": "Não recebeu o código?",
     "orderFormFallbackNoOtherOptions": "Sem problemas, temos outras opções disponíveis para ajudá-lo com o seu pedido.",
     "orderFormFallbackTalkToAgent": "Falar com um agente",
     "orderFormFallbackCheckTrackingPortal": "Verificar nosso portal de rastreamento",
     "insideOrderTrackingFlow": "Você está no fluxo de rastreamento de pedidos",
     "startNewConversation": "Iniciar nova conversa",
+    "returnToChat": "Voltar ao chat",
     "orderItemsHeader": "Aqui estão seus últimos 5 pedidos",
     "orderItemsSubtitle": "Selecione aquele para o qual você quer ver os detalhes",
     "orderDetailsHeader": "Aqui estão os detalhes do seu pedido",
@@ -192,6 +202,9 @@
     "orderListReturnOrder": "Devolver pedido",
     "orderListCancelOrderMessage": "Meu ID de pedido é {{orderId}}. Quero cancelar meu pedido.",
     "orderListReturnOrderMessage": "Meu ID de pedido é {{orderId}}. Quero devolver meu pedido.",
-    "orderListNeedHelpMessage": "Precisa de ajuda com o pedido {{orderId}}"
+    "orderListNeedHelpMessage": "Precisa de ajuda com o pedido {{orderId}}",
+    "seeOtherPicks": "Veja nossas outras principais escolhas",
+    "orderListHereAreYourOrders": "Aqui estão seus pedidos",
+    "orderFormBackButton": "Voltar"
   }
 }

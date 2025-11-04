@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "Fråga mig vad som helst om {{collectionName}} kollektionen",
   "others": {
     "popUpMessages": {
       "COLLECTION": "Letar du efter något speciellt i den här samlingen? Jag vet var du kan hitta det.",
@@ -192,6 +193,18 @@
     "orderListCancelOrderMessage": "Mitt beställnings-ID är {{orderId}}. Jag vill avbryta min beställning.",
     "orderListReturnOrderMessage": "Mitt beställnings-ID är {{orderId}}. Jag vill returnera min beställning.",
     "orderListNeedHelpMessage": "Behöver du hjälp med beställning {{orderId}}",
-    "returnToChat": "Återgå till chatten"
+    "returnToChat": "Återgå till chatten",
+    "orderFormOtpTitle": "Vi har skickat en 6-siffrig kod till din e-post.",
+    "orderFormEmailOnlyDidntReceiveCode": "Fick du inte koden?",
+    "orderFormVerifyNoOrderFoundPhone": "Inga beställningar hittades för detta nummer. Försök igen.",
+    "orderFormForgotEverything": "Forgot everything?",
+    "orderFormEmailOnlyResendNow": "Skicka om nu",
+    "orderFormVerifyNoOrderFoundEmail": "Inga beställningar hittades för denna e-post. Försök igen.",
+    "orderOtpRateLimitError": "Du har överskridit det maximala antalet OTP-förfrågningar. Försök igen om en timme.",
+    "seeOtherPicks": "Se våra andra toppval",
+    "orderFormVerifyNoOrderFoundOrderId": "Inga beställningar hittades för detta beställnings-ID. Försök igen.",
+    "orderFormEmailOnlyTitle": "Låt oss spåra din beställning",
+    "orderListHereAreYourOrders": "Här är dina beställningar",
+    "orderFormBackButton": "Tillbaka"
   }
 }
