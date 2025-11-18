@@ -189,7 +189,7 @@
     "orderListReturnOrder": "Returnează comanda",
     "orderListCancelOrderMessage": "ID-ul comenzii mele este {{orderId}}. Vreau să anlez comanda mea.",
     "orderListReturnOrderMessage": "ID-ul comenzii mele este {{orderId}}. Vreau să returnez comanda mea.",
-    "orderListNeedHelpMessage": "Ai nevoie de ajutor cu comanda {{orderId}}",
+    "orderListNeedHelpMessage": "M-am uitat la comanda mea. Am mai multe întrebări despre comanda mea {{orderId}}",
     "orderFormOtpTitle": "Am trimis un cod cu 6 cifre la e-mailul tău.",
     "orderFormEmailOnlyDidntReceiveCode": "Nu ai primit codul?",
     "orderFormVerifyNoOrderFoundPhone": "Nu au fost găsite comenzi pentru acest număr. Te rog să încerci din nou.",

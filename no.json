@@ -190,7 +190,7 @@
     "orderListReturnOrder": "Returner bestilling",
     "orderListCancelOrderMessage": "Min ordre-ID er {{orderId}}. Jeg vil avbryte bestillingen min.",
     "orderListReturnOrderMessage": "Min ordre-ID er {{orderId}}. Jeg vil returnere bestillingen min.",
-    "orderListNeedHelpMessage": "Trenger du hjelp med bestilling {{orderId}}",
+    "orderListNeedHelpMessage": "Jeg sporet bestillingen min. Jeg har flere spørsmål om bestillingen min {{orderId}}",
     "orderFormOtpTitle": "Vi har sendt en 6-sifret kode til e-posten din.",
     "orderFormEmailOnlyDidntReceiveCode": "Fikk du ikke koden?",
     "orderFormVerifyNoOrderFoundPhone": "Ingen bestillinger funnet for dette nummeret. Prøv igjen.",

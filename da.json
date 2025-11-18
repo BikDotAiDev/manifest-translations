@@ -190,7 +190,7 @@
     "orderListReturnOrder": "Returner ordre",
     "orderListCancelOrderMessage": "Mit ordre-ID er {{orderId}}. Jeg vil gerne annullere min ordre.",
     "orderListReturnOrderMessage": "Mit ordre-ID er {{orderId}}. Jeg vil gerne returnere min ordre.",
-    "orderListNeedHelpMessage": "Brug for hjælp med ordre {{orderId}}",
+    "orderListNeedHelpMessage": "Jeg sporede min ordre. Jeg har flere spørgsmål om min ordre {{orderId}}",
     "seeOtherPicks": "Se vores andre topvalg",
     "orderFormOtpTitle": "Vi har sendt en 6-cifret kode til din e-mail.",
     "orderFormEmailOnlyDidntReceiveCode": "Modtog du ikke koden?",

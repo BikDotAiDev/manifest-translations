@@ -199,7 +199,7 @@
     "orderListReturnOrder": "Bestelling retourneren",
     "orderListCancelOrderMessage": "Mijn bestelnummer is {{orderId}}. Ik wil mijn bestelling annuleren.",
     "orderListReturnOrderMessage": "Mijn bestelnummer is {{orderId}}. Ik wil mijn bestelling retourneren.",
-    "orderListNeedHelpMessage": "Hulp nodig bij bestelling {{orderId}}",
+    "orderListNeedHelpMessage": "Ik heb mijn bestelling gevolgd. Ik heb meer vragen over mijn bestelling {{orderId}}",
     "seeOtherPicks": "Bekijk onze andere topkeuzes",
     "orderListHereAreYourOrders": "Hier zijn uw bestellingen",
     "orderFormBackButton": "Terug"

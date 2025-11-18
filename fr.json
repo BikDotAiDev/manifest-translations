@@ -187,7 +187,7 @@
     "orderListReturnOrder": "Retourner la commande",
     "orderListCancelOrderMessage": "Mon ID de commande est {{orderId}}. Je veux annuler ma commande.",
     "orderListReturnOrderMessage": "Mon ID de commande est {{orderId}}. Je veux retourner ma commande.",
-    "orderListNeedHelpMessage": "Besoin d'aide avec la commande {{orderId}}",
+    "orderListNeedHelpMessage": "J'ai suivi ma commande. J'ai plus de questions sur ma commande {{orderId}}",
     "seeOtherPicks": "Voir nos autres choix",
     "orderListHereAreYourOrders": "Voici vos commandes",
     "orderFormBackButton": "Retour"

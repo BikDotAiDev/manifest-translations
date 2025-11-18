@@ -183,7 +183,7 @@
     "orderListReturnOrder": "Zwróć zamówienie",
     "orderListCancelOrderMessage": "Moje ID zamówienia to {{orderId}}. Chcę anulować moje zamówienie.",
     "orderListReturnOrderMessage": "Moje ID zamówienia to {{orderId}}. Chcę zwrócić moje zamówienie.",
-    "orderListNeedHelpMessage": "Potrzebujesz pomocy z zamówieniem {{orderId}}",
+    "orderListNeedHelpMessage": "Śledziłem moje zamówienie. Mam więcej pytań dotyczących mojego zamówienia {{orderId}}",
     "seeOtherPicks": "Zobacz nasze inne topowe wybory",
     "orderListHereAreYourOrders": "Oto twoje zamówienia",
     "orderFormBackButton": "Wstecz"

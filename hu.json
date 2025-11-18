@@ -189,7 +189,7 @@
     "orderFormVerifyNoOrderFoundEmail": "Nem találtunk rendeléseket ehhez az e-mail címhez. Próbálkozzon újra.",
     "seeOtherPicks": "Tekintse meg más legjobb választásainkat",
     "orderListCancelOrderMessage": "A rendelésem azonosítója {{orderId}}. Törölni szeretném a rendelésemet.",
-    "orderListNeedHelpMessage": "Segítségre van szüksége a {{orderId}} rendeléssel kapcsolatban?",
+    "orderListNeedHelpMessage": "Nyomon követtem a rendelésemet. További kérdéseim vannak a {{orderId}} rendeléssel kapcsolatban",
     "orderListNeedHelp": "Segítségre van szüksége?",
     "orderFormVerifyNoOrderFoundPhone": "Nem találtunk rendeléseket ehhez a számhoz. Próbálkozzon újra.",
     "orderFormUnverifiedTrackOrderPrompt": "Kövessük nyomon rendelését",
