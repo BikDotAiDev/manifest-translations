@@ -190,7 +190,7 @@
     "orderListReturnOrder": "Palauta tilaus",
     "orderListCancelOrderMessage": "Tilausnumeroni on {{orderId}}. Haluan peruuttaa tilaukseni.",
     "orderListReturnOrderMessage": "Tilausnumeroni on {{orderId}}. Haluan palauttaa tilaukseni.",
-    "orderListNeedHelpMessage": "Tarvitsetko apua tilauksessa {{orderId}}",
+    "orderListNeedHelpMessage": "Seurain tilaustani. Minulla on enemmän kysymyksiä tilauksestani {{orderId}}",
     "seeOtherPicks": "Katso muita huipputärppejämme",
     "orderFormOtpTitle": "Lähetimme 6-numeroisen koodin sähköpostiisi.",
     "orderFormEmailOnlyDidntReceiveCode": "Etkö saanut koodia?",

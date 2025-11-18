@@ -217,7 +217,7 @@
   "orderListReturnOrder": "คืนสินค้า",
   "orderListCancelOrderMessage": "รหัสคำสั่งซื้อของฉันคือ {{orderId}} ฉันต้องการยกเลิกคำสั่งซื้อ",
   "orderListReturnOrderMessage": "รหัสคำสั่งซื้อของฉันคือ {{orderId}} ฉันต้องการคืนสินค้า",
-  "orderListNeedHelpMessage": "ต้องการความช่วยเหลือสำหรับคำสั่งซื้อ {{orderId}}",
+  "orderListNeedHelpMessage": "ฉันติดตามคำสั่งซื้อของฉัน ฉันมีคำถามเพิ่มเติมเกี่ยวกับคำสั่งซื้อของฉัน {{orderId}}",
   "translations": {
     "orderFormOtpTitle": "เราได้ส่งรหัส 6 หลักไปยังอีเมลของคุณแล้ว",
     "orderTrackingComplete": "งานติดตามคำสั่งซื้อของคุณเสร็จสมบูรณ์แล้ว",
@@ -368,7 +368,7 @@
     "returns_refunds_policy": "Returns and Refunds Policy",
     "spinTheWheelExcitingRewards": "Spin the wheel to win exciting rewards",
     "searchQuery": "Ask me anything about {{query}}",
-    "orderListNeedHelpMessage": "Need help with order {{orderId}}",
+    "orderListNeedHelpMessage": "I tracked my order. I have more enquiry about my order {{orderId}}",
     "noSearchResultFound": "No result found",
     "similarTo": "Similar to",
     "ourTopPicks": "Top picks",

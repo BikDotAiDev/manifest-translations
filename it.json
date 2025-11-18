@@ -182,7 +182,7 @@
     "orderListReturnOrder": "Restituisci ordine",
     "orderListCancelOrderMessage": "Il mio ID ordine è {{orderId}}. Voglio annullare il mio ordine.",
     "orderListReturnOrderMessage": "Il mio ID ordine è {{orderId}}. Voglio restituire il mio ordine.",
-    "orderListNeedHelpMessage": "Hai bisogno di aiuto con l'ordine {{orderId}}",
+    "orderListNeedHelpMessage": "Ho tracciato il mio ordine. Ho più domande sul mio ordine {{orderId}}",
     "returnToChat": "Torna alla chat",
     "seeOtherPicks": "Vedi le nostre altre scelte migliori",
     "orderListHereAreYourOrders": "Ecco i tuoi ordini",

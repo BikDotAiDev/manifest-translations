@@ -183,7 +183,7 @@
     "orderListReturnOrder": "Bestellung zurückgeben",
     "orderListCancelOrderMessage": "Meine Bestellnummer ist {{orderId}}. Ich möchte meine Bestellung stornieren.",
     "orderListReturnOrderMessage": "Meine Bestellnummer ist {{orderId}}. Ich möchte meine Bestellung zurückgeben.",
-    "orderListNeedHelpMessage": "Brauchen Sie Hilfe bei Bestellung {{orderId}}",
+    "orderListNeedHelpMessage": "Ich habe meine Bestellung verfolgt. Ich habe mehr Fragen zu meiner Bestellung {{orderId}}",
     "seeOtherPicks": "Siehe unsere anderen Spitzenauswahlen",
     "orderListHereAreYourOrders": "Hier sind Ihre Bestellungen",
     "orderFormBackButton": "Zurück"

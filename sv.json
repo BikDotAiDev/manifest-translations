@@ -189,7 +189,7 @@
     "orderListReturnOrder": "Returnera beställning",
     "orderListCancelOrderMessage": "Mitt beställnings-ID är {{orderId}}. Jag vill avbryta min beställning.",
     "orderListReturnOrderMessage": "Mitt beställnings-ID är {{orderId}}. Jag vill returnera min beställning.",
-    "orderListNeedHelpMessage": "Behöver du hjälp med beställning {{orderId}}",
+    "orderListNeedHelpMessage": "Jag spårade min beställning. Jag har fler frågor om min beställning {{orderId}}",
     "returnToChat": "Återgå till chatten",
     "orderFormOtpTitle": "Vi har skickat en 6-siffrig kod till din e-post.",
     "orderFormEmailOnlyDidntReceiveCode": "Fick du inte koden?",

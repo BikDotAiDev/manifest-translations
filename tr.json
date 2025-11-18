@@ -190,7 +190,7 @@
     "orderListReturnOrder": "Siparişi iade et",
     "orderListCancelOrderMessage": "Sipariş ID'm {{orderId}}. Siparişimi iptal etmek istiyorum.",
     "orderListReturnOrderMessage": "Sipariş ID'm {{orderId}}. Siparişimi iade etmek istiyorum.",
-    "orderListNeedHelpMessage": "{{orderId}} siparişi için yardıma mı ihtiyacınız var",
+    "orderListNeedHelpMessage": "Siparişimi takip ettim. Siparişim {{orderId}} hakkında daha fazla sorularım var",
     "orderFormOtpTitle": "E-postanıza 6 haneli bir kod gönderdik.",
     "orderFormEmailOnlyDidntReceiveCode": "Kodu almadınız mı?",
     "orderFormVerifyNoOrderFoundPhone": "Bu numara için sipariş bulunamadı. Lütfen tekrar deneyin.",

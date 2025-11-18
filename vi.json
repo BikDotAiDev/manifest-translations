@@ -200,7 +200,7 @@
     "orderFormVerifyNoOrderFoundOrderId": "Không tìm thấy đơn hàng cho ID đơn hàng này. Vui lòng thử lại.",
     "orderListCancelOrderMessage": "ID đơn hàng của tôi là {{orderId}}. Tôi muốn hủy đơn hàng.",
     "orderFormEmailOnlyTitle": "Hãy theo dõi đơn hàng của bạn",
-    "orderListNeedHelpMessage": "Cần trợ giúp với đơn hàng {{orderId}}",
+    "orderListNeedHelpMessage": "Tôi đã theo dõi đơn hàng. Tôi có thêm câu hỏi về đơn hàng {{orderId}}",
     "orderListHereAreYourOrders": "Đây là đơn hàng của bạn",
     "orderFormBackButton": "Quay lại"
   }

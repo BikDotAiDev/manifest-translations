@@ -169,7 +169,7 @@
     "orderListReturnOrder": "Return order",
     "orderListCancelOrderMessage": "My order ID is {{orderId}}. I want to cancel my order.",
     "orderListReturnOrderMessage": "My order ID is {{orderId}}. I want to return my order.",
-    "orderListNeedHelpMessage": "Need help with order {{orderId}}",
+    "orderListNeedHelpMessage": "I tracked my order. I have more enquiry about my order {{orderId}}",
     "seeOtherPicks": "See our other top picks",
     "orderListHereAreYourOrders": "Here are your orders",
     "orderFormBackButton": "Back"

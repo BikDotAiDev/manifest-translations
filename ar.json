@@ -190,7 +190,7 @@
     "orderListReturnOrder": "إرجاع الطلب",
     "orderListCancelOrderMessage": "معرف طلبي هو {{orderId}}. أريد إلغاء طلبي.",
     "orderListReturnOrderMessage": "معرف طلبي هو {{orderId}}. أريد إرجاع طلبي.",
-    "orderListNeedHelpMessage": "هل تحتاج إلى مساعدة بخصوص الطلب {{orderId}}",
+    "orderListNeedHelpMessage": "لقد تتبعت طلبي. لدي المزيد من الأسئلة حول طلبي {{orderId}}",
     "orderFormOtpTitle": "لقد أرسلنا رمزاً مكوناً من 6 أرقام إلى بريدك الإلكتروني.",
     "orderFormEmailOnlyDidntReceiveCode": "لم تستلم الرمز؟",
     "orderFormVerifyNoOrderFoundPhone": "لم يتم العثور على طلبات لهذا الرقم. يرجى المحاولة مرة أخرى.",

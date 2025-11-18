@@ -190,7 +190,7 @@
     "orderListReturnOrder": "退貨訂單",
     "orderListCancelOrderMessage": "我的訂單編號是 {{orderId}}。我想取消我的訂單。",
     "orderListReturnOrderMessage": "我的訂單編號是 {{orderId}}。我想退貨我的訂單。",
-    "orderListNeedHelpMessage": "需要有關訂單 {{orderId}} 的幫助",
+    "orderListNeedHelpMessage": "我已追蹤我的訂單。我對訂單 {{orderId}} 有更多疑問",
     "seeOtherPicks": "查看我們的其他精選",
     "orderFormOtpTitle": "我们已向您的邮箱发送了6位数字验证码。",
     "orderFormEmailOnlyDidntReceiveCode": "没有收到验证码？",
