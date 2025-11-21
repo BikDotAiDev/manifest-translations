@@ -1,4 +1,5 @@
 {
+  "welcomeMessageCollectionNamePage": "اسألني عن أي شيء حول مجموعة {{collectionName}}",
   "others": {
     "popUpMessages": {
       "COLLECTION": "هل تبحث عن شيء خاص في هذه المجموعة؟ أنا أعرف أين تجده.",
@@ -30,7 +31,7 @@
     "checkOutThese": "تحقق من هذه الاختيارات بدلاً من ذلك",
     "checkout": "الدفع",
     "chooseYourCountry": "اختر بلدك",
-    "directRewardNextPurchaseCoupon": "شكرًا لتسوقك معنا! لدينا عرض خاص على {{couponTitle}}. هل ترغب في استخدام هذا العرض في عملية الشراء القادمة الخاصة بك؟",
+    "directRewardNextPurchaseCoupon": "شكرًا لتسوقك معنا! لدينا عرض خاص على {{couponTitle}}. هل تريد استخدام هذا العرض في عملية الشراء التالية؟",
     "discountCouponTextBIC": "مرحبًا! من الجميل رؤيتك. 😃 نحن نقدم صفقة خاصة: {{couponTitle}}. هل أنت جاهز للحصول على خصمك؟",
     "enterYourMessage": "أدخل رسالتك...",
     "enter_email_here": "الرجاء إدخال البريد الإلكتروني الخاص بك هنا",
@@ -82,12 +83,112 @@
     "welcomeMessageProductPage": "اسألني عن أي شيء حول هذا المنتج",
     "whatAreYourBestSellers": "ما هي منتجاتك الأكثر مبيعًا؟",
     "yesSure": "نعم، بالتأكيد!",
-    "insideCustomWorkflow": "أنت داخل سير عمل {{query}}",
+    "insideCustomWorkflow": "أنت داخل تدفق {{query}}",
     "leaveCustomWorkflow": "أنت على وشك مغادرة سير العمل {{query}}",
     "faqFull": "أسئلة متكررة",
     "needHelpAskAi": "هل تحتاج إلى مساعدة؟ اسأل الذكاء الاصطناعي عن أي شيء!",
     "thinking": "التفكير",
     "findingYourAnswer": "العثور على إجابتك",
-    "typingYourResponse": "كتابة ردك"
+    "typingYourResponse": "كتابة ردك",
+    "orderFormUnverifiedTrackOrderPrompt": "دعنا نتتبع طلبك",
+    "orderFormUnverifiedOrderDetailsLabel": "تفاصيل الطلب",
+    "orderFormUnverifiedInputPlaceholder": "عنوان البريد الإلكتروني / رقم الهاتف / معرف الطلب",
+    "orderFormUnverifiedTooltipText": "يمكنك إدخال بريدك الإلكتروني أو رقم الهاتف أو معرف الطلب الذي يبدأ بـ '#'.",
+    "orderFormSubmitButton": "إرسال",
+    "orderFormDontRememberLink": "لا تتذكر أيًا منها؟",
+    "orderFormForgotEverything": "هل نسيت كل شيء؟",
+    "orderFormTrackingPortalLink": "تحقق من بوابة التتبع الخاصة بنا",
+    "orderFormVerifyTrackOrderPrompt": "دعنا نتتبع طلبك",
+    "orderFormVerifyOrderIdLabel": "معرف الطلب",
+    "orderFormVerifyOrderIdPlaceholder": "معرف الطلب",
+    "orderFormVerifyIdentityLabel": "رقم الهاتف أو البريد الإلكتروني",
+    "orderFormVerifyIdentityPlaceholder": "أدخل رقم هاتفك أو معرف البريد الإلكتروني",
+    "orderFormVerifyOrderIdRequired": "يرجى إدخال معرف الطلب.",
+    "orderFormVerifyIdentityRequired": "يرجى إدخال رقم هاتفك أو بريدك الإلكتروني.",
+    "orderFormVerifyIdentityInvalid": "يرجى إدخال عنوان بريد إلكتروني صالح أو رقم هاتف.",
+    "orderFormVerifyNoOrderFound": "لم يتم العثور على طلب بهذا المعرف. يرجى المحاولة مرة أخرى.",
+    "orderFormVerifyEmailNotMatch": "عنوان البريد الإلكتروني هذا لا يطابق معرف الطلب. يرجى المحاولة مرة أخرى.",
+    "orderFormVerifyPhoneNotMatch": "رقم الهاتف هذا لا يطابق معرف الطلب. يرجى المحاولة مرة أخرى.",
+    "orderFormEmailOnlyTrackOrderPrompt": "أدخل عنوان بريدك الإلكتروني لتتبع طلبك",
+    "orderFormEmailOnlyOtpSentPrompt": "لقد أرسلنا رمز OTP إلى معرف بريدك الإلكتروني. أدخله للمتابعة",
+    "orderFormEmailOnlyEmailLabel": "أدخل عنوان البريد الإلكتروني",
+    "orderFormEmailOnlyEmailPlaceholder": "أدخل بريدك الإلكتروني",
+    "orderFormEmailOnlyNoOrdersFound": "لم يتم العثور على طلبات لهذا البريد الإلكتروني. يرجى المحاولة مرة أخرى",
+    "orderFormEnterOrderId": "أدخل معرف الطلب",
+    "orderFormEnterEmailOrPhone": "أدخل البريد الإلكتروني أو رقم الهاتف",
+    "orderFormOrderIdPlaceholder": "123456",
+    "orderFormEmailPhonePlaceholder": "alex@email.com or +91 9876543210",
+    "orderFormTrackUsingEmailPhone": "التتبع باستخدام البريد الإلكتروني/الهاتف",
+    "orderFormTrackUsingOrderId": "التتبع باستخدام معرف الطلب",
+    "orderFormForgotOrderId": "هل نسيت معرف الطلب؟",
+    "orderFormForgotEmailPhone": "هل نسيت البريد الإلكتروني/الهاتف؟",
+    "orderFormValidOrderIdRequired": "يرجى إدخال معرف طلب صالح.",
+    "orderFormValidEmailPhoneRequired": "يرجى إدخال عنوان بريد إلكتروني أو رقم هاتف صالح.",
+    "orderFormNoOrdersFoundEmail": "لم يتم العثور على طلبات لهذا البريد الإلكتروني. يرجى المحاولة مرة أخرى",
+    "orderFormNoAccountFoundEmail": "لم يتم العثور على حساب لهذا البريد الإلكتروني. يرجى المحاولة مرة أخرى",
+    "orderFormNoOrdersFoundPhone": "لم يتم العثور على طلبات لهذا الرقم. يرجى المحاولة مرة أخرى",
+    "orderFormNoOrdersFoundOrderId": "لم يتم العثور على طلبات لمعرف الطلب هذا. يرجى المحاولة مرة أخرى",
+    "orderFormEmailOnlyOtpLabel": "أدخل رمز التحقق",
+    "orderFormEmailOnlyOtpPlaceholder": "كلمة مرور لمرة واحدة",
+    "orderFormEmailOnlyOtpExpired": "انتهت صلاحية رمز OTP. يرجى المحاولة مرة أخرى.",
+    "orderFormEmailOnlyOtpError": "رمز OTP لا يطابق. يرجى المحاولة مرة أخرى.",
+    "orderFormEmailOnlyResend": "إعادة الإرسال",
+    "orderFormEmailOnlyVerifyButton": "تحقق",
+    "orderFormEmailOnlyDontRememberEmail": "هل نسيت عنوان البريد الإلكتروني؟",
+    "orderFormEmailOnlyResendIn": "إعادة الإرسال خلال {{countdown}} ثانية",
+    "orderFormFallbackNoOtherOptions": "لا مشكلة، لدينا خيارات أخرى متاحة لمساعدتك مع طلبك.",
+    "orderFormFallbackTalkToAgent": "تحدث مع وكيل",
+    "orderFormFallbackCheckTrackingPortal": "تحقق من بوابة التتبع الخاصة بنا",
+    "insideOrderTrackingFlow": "أنت داخل تدفق تتبع الطلب",
+    "startNewConversation": "بدء محادثة جديدة",
+    "orderItemsHeader": "إليك آخر 5 طلبات لك",
+    "orderItemsSubtitle": "اختر الطلب الذي تريد رؤية تفاصيله",
+    "orderDetailsHeader": "إليك تفاصيل طلبك",
+    "clickHereToTrack": "انقر هنا للتتبع",
+    "usingTrackingNumber": "باستخدام الرقم [{{trackingNumber}}]",
+    "orderTrackingComplete": "تم إكمال مهمة تتبع طلبك",
+    "orderFormNoOrderFoundForType": "لم يتم العثور على طلب لهذا {{inputTypeLabel}}. يرجى المحاولة مرة أخرى.",
+    "orderFormInputTypeEmail": "عنوان البريد الإلكتروني",
+    "orderFormInputTypePhone": "رقم الهاتف",
+    "orderFormInputTypeOrderId": "معرف الطلب",
+    "bannerExitText": "خروج",
+    "bannerProceedText": "متابعة؟",
+    "shippingPolicyIntent": "ما هي سياسة الشحن الخاصة بكم",
+    "contactDetailsIntent": "كيف يمكنني التواصل مع متجركم",
+    "storeLocationIntent": "أين تقع متاجركم",
+    "subscriptionEnquiryIntent": "أريد معرفة المزيد عن الاشتراك",
+    "orderTrackingIntent": "أريد تتبع طلبي",
+    "orderCancellationIntent": "أريد إلغاء طلبي",
+    "returnsRefundsPolicyIntent": "أريد معرفة سياسة الإرجاع والاسترداد",
+    "offersRewardsIntent": "أريد معرفة العروض أو المكافآت الحالية",
+    "offersEnquiryIntent": "أريد معرفة حالة طلبي",
+    "shipping_policy": "سياسة الشحن",
+    "contact_details": "تفاصيل التواصل",
+    "store_location": "موقع المتجر",
+    "subscription_enquiry": "استفسار الاشتراك",
+    "order_tracking": "تتبع الطلب",
+    "order_cancellation": "إلغاء الطلب",
+    "returns_refunds_policy": "سياسة الإرجاع والاسترداد",
+    "offers_rewards": "العروض والمكافآت",
+    "orderListShowMore": "عرض المزيد",
+    "orderListScrollToTop": "انتقل إلى الأعلى",
+    "orderListNeedHelp": "هل تحتاج إلى مساعدة؟",
+    "orderListCancelOrder": "إلغاء الطلب",
+    "orderListReturnOrder": "إرجاع الطلب",
+    "orderListCancelOrderMessage": "معرف طلبي هو {{orderId}}. أريد إلغاء طلبي.",
+    "orderListReturnOrderMessage": "معرف طلبي هو {{orderId}}. أريد إرجاع طلبي.",
+    "orderListNeedHelpMessage": "لقد تتبعت طلبي. لدي المزيد من الأسئلة حول طلبي {{orderId}}",
+    "orderFormOtpTitle": "لقد أرسلنا رمزاً مكوناً من 6 أرقام إلى بريدك الإلكتروني.",
+    "orderFormEmailOnlyDidntReceiveCode": "لم تستلم الرمز؟",
+    "orderFormVerifyNoOrderFoundPhone": "لم يتم العثور على طلبات لهذا الرقم. يرجى المحاولة مرة أخرى.",
+    "returnToChat": "العودة إلى الدردشة",
+    "orderFormEmailOnlyResendNow": "إعادة الإرسال الآن",
+    "orderFormVerifyNoOrderFoundEmail": "لم يتم العثور على طلبات لهذا البريد الإلكتروني. يرجى المحاولة مرة أخرى.",
+    "orderOtpRateLimitError": "لقد تجاوزت العدد الأقصى من طلبات OTP. يرجى المحاولة مرة أخرى بعد ساعة.",
+    "seeOtherPicks": "راجع اختياراتنا الأخرى المميزة",
+    "orderFormVerifyNoOrderFoundOrderId": "لم يتم العثور على طلبات لمعرف الطلب هذا. يرجى المحاولة مرة أخرى.",
+    "orderFormEmailOnlyTitle": "دعنا نتتبع طلبك",
+    "orderListHereAreYourOrders": "هنا طلباتك",
+    "orderFormBackButton": "رجوع"
   }
 }
