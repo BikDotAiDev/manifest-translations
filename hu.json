@@ -85,6 +85,9 @@
     "insideCustomWorkflow": "A(z) {{query}} folyamatban vagy",
     "leaveCustomWorkflow": "Hamarosan elhagyod a(z) {{query}} folyamatot",
     "faqFull": "Gyakran feltett",
-    "needHelpAskAi": "Segítségre van szükséged? Kérdezz bármit az AI-tól!"
+    "needHelpAskAi": "Segítségre van szükséged? Kérdezz bármit az AI-tól!",
+    "thinking": "Gondolkodik",
+    "findingYourAnswer": "A válaszod megkeresése",
+    "typingYourResponse": "A válaszod gépelése"
   }
 }

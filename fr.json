@@ -90,6 +90,9 @@
     "insideCustomWorkflow": "Vous êtes dans le flux {{query}}",
     "leaveCustomWorkflow": "Vous êtes sur le point de quitter le flux {{query}}",
     "faqFull": "Fréquemment posé",
-    "needHelpAskAi": "Besoin d'aide ? Demandez n'importe quoi à l'IA !"
+    "needHelpAskAi": "Besoin d'aide ? Demandez n'importe quoi à l'IA !",
+    "thinking": "Réfléchir",
+    "findingYourAnswer": "Trouver votre réponse",
+    "typingYourResponse": "Tapez votre réponse"
   }
 }

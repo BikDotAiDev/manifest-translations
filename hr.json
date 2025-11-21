@@ -127,5 +127,8 @@
   "leaveCustomWorkflow": "Upravo ćete napustiti tok {{query}}",
   "faqFull": "Često postavljano",
   "needHelpAskAi": "Trebate pomoć? Pitajte AI bilo što!",
-  "quickActions": "Brze radnje"
+  "quickActions": "Brze radnje",
+  "thinking": "Razmišlja",
+  "findingYourAnswer": "Pronalaženje vašeg odgovora",
+  "typingYourResponse": "Pisanje vašeg odgovora"
 }

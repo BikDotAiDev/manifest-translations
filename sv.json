@@ -85,6 +85,9 @@
     "insideCustomWorkflow": "Du är inne i {{query}}-flödet",
     "leaveCustomWorkflow": "Du är på väg att lämna {{query}}-flödet",
     "faqFull": "Vanliga frågor",
-    "needHelpAskAi": "Behöver du hjälp? Fråga AI om vad som helst!"
+    "needHelpAskAi": "Behöver du hjälp? Fråga AI om vad som helst!",
+    "thinking": "Tänker",
+    "findingYourAnswer": "Hittar ditt svar",
+    "typingYourResponse": "Skriver ditt svar"
   }
 }

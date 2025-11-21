@@ -85,6 +85,9 @@
     "insideCustomWorkflow": "{{query}} akışının içindesiniz",
     "leaveCustomWorkflow": "{{query}} akışından çıkmak üzeresiniz",
     "faqFull": "Sıkça Sorulan Sorular",
-    "needHelpAskAi": "Yardıma mı ihtiyacınız var? AI'ya her şeyi sorabilirsiniz!"
+    "needHelpAskAi": "Yardıma mı ihtiyacınız var? AI'ya her şeyi sorabilirsiniz!",
+    "thinking": "Düşünüyor",
+    "findingYourAnswer": "Cevabınız bulunuyor",
+    "typingYourResponse": "Cevabınız yazılıyor"
   }
 }

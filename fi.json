@@ -85,6 +85,9 @@
     "insideCustomWorkflow": "Olet sisällä {{query}}-prosessissa",
     "leaveCustomWorkflow": "Olet poistumassa {{query}}-prosessista",
     "faqFull": "Usein kysytty",
-    "needHelpAskAi": "Tarvitsetko apua? Kysy tekoälyltä mitä tahansa!"
+    "needHelpAskAi": "Tarvitsetko apua? Kysy tekoälyltä mitä tahansa!",
+    "thinking": "Ajattelee",
+    "findingYourAnswer": "Etsii vastaamista",
+    "typingYourResponse": "Kirjoittaa vastaustasi"
   }
 }

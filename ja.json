@@ -86,6 +86,9 @@
     "insideCustomWorkflow": "{{query}}フローの中にいます",
     "leaveCustomWorkflow": "{{query}}フローを離れようとしています",
     "faqFull": "よく聞かれる",
-    "needHelpAskAi": "お困りですか？AIに何でも聞いてください！"
+    "needHelpAskAi": "お困りですか？AIに何でも聞いてください！",
+    "thinking": "思考中",
+    "findingYourAnswer": "回答を探しています",
+    "typingYourResponse": "回答を入力しています"
   }
 }

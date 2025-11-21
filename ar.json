@@ -85,6 +85,9 @@
     "insideCustomWorkflow": "أنت داخل سير عمل {{query}}",
     "leaveCustomWorkflow": "أنت على وشك مغادرة سير العمل {{query}}",
     "faqFull": "أسئلة متكررة",
-    "needHelpAskAi": "هل تحتاج إلى مساعدة؟ اسأل الذكاء الاصطناعي عن أي شيء!"
+    "needHelpAskAi": "هل تحتاج إلى مساعدة؟ اسأل الذكاء الاصطناعي عن أي شيء!",
+    "thinking": "التفكير",
+    "findingYourAnswer": "العثور على إجابتك",
+    "typingYourResponse": "كتابة ردك"
   }
 }

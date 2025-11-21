@@ -127,5 +127,8 @@
   "leaveCustomWorkflow": "คุณกำลังจะออกจากโฟลว์ {{query}}",
   "faqFull": "คำถามที่พบบ่อย",
   "needHelpAskAi": "ต้องการความช่วยเหลือหรือไม่? ถาม AI ได้ทุกเรื่อง!",
-  "quickActions": "การดำเนินการด่วน"
+  "quickActions": "การดำเนินการด่วน",
+  "thinking": "กำลังคิด",
+  "findingYourAnswer": "กำลังค้นหาคำตอบของคุณ",
+  "typingYourResponse": "กำลังพิมพ์คำตอบของคุณ"
 }

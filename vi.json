@@ -85,6 +85,9 @@
     "insideCustomWorkflow": "Bạn đang ở trong luồng {{query}}",
     "leaveCustomWorkflow": "Bạn sắp rời khỏi luồng {{query}}",
     "faqFull": "Câu hỏi thường gặp",
-    "needHelpAskAi": "Cần giúp đỡ? Hãy hỏi AI bất cứ điều gì!"
+    "needHelpAskAi": "Cần giúp đỡ? Hãy hỏi AI bất cứ điều gì!",
+    "thinking": "Đang suy nghĩ",
+    "findingYourAnswer": "Đang tìm câu trả lời của bạn",
+    "typingYourResponse": "Đang gõ câu trả lời của bạn"
   }
 }

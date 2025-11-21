@@ -85,6 +85,9 @@
     "insideCustomWorkflow": "Ești în fluxul {{query}}",
     "leaveCustomWorkflow": "Ești pe cale să părăsești fluxul {{query}}",
     "faqFull": "Întrebări frecvente",
-    "needHelpAskAi": "Ai nevoie de ajutor? Întreabă AI orice!"
+    "needHelpAskAi": "Ai nevoie de ajutor? Întreabă AI orice!",
+    "thinking": "Gândire",
+    "findingYourAnswer": "Găsirea răspunsului tău",
+    "typingYourResponse": "Tastarea răspunsului tău"
   }
 }

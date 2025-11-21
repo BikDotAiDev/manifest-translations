@@ -85,6 +85,9 @@
     "insideCustomWorkflow": "Du er inne i {{query}}-flyten",
     "leaveCustomWorkflow": "Du er i ferd med å forlate {{query}}-flyten",
     "faqFull": "Ofte spurt",
-    "needHelpAskAi": "Trenger du hjelp? Spør AI om hva som helst!"
+    "needHelpAskAi": "Trenger du hjelp? Spør AI om hva som helst!",
+    "thinking": "Tenker",
+    "findingYourAnswer": "Finner svaret ditt",
+    "typingYourResponse": "Skriver svaret ditt"
   }
 }

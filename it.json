@@ -85,6 +85,9 @@
     "insideCustomWorkflow": "Sei all'interno del flusso {{query}}",
     "leaveCustomWorkflow": "Stai per uscire dal flusso {{query}}",
     "faqFull": "Frequentemente chiesto",
-    "needHelpAskAi": "Hai bisogno di aiuto? Chiedi qualsiasi cosa all'IA!"
+    "needHelpAskAi": "Hai bisogno di aiuto? Chiedi qualsiasi cosa all'IA!",
+    "thinking": "Riflessione",
+    "findingYourAnswer": "Trovare la risposta",
+    "typingYourResponse": "Digitazione della risposta"
   }
 }

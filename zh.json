@@ -85,6 +85,9 @@
     "insideCustomWorkflow": "您正在 {{query}} 流程中",
     "leaveCustomWorkflow": "您即将离开 {{query}} 流程",
     "faqFull": "常见问题",
-    "needHelpAskAi": "需要幫助嗎？ 隨時問AI任何問題!"
+    "needHelpAskAi": "需要幫助嗎？ 隨時問AI任何問題!",
+    "thinking": "思考中",
+    "findingYourAnswer": "正在查找您的答案",
+    "typingYourResponse": "正在输入您的回复"
   }
 }

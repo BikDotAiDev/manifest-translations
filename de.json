@@ -85,6 +85,9 @@
     "insideCustomWorkflow": "Du befindest dich im {{query}}-Flow",
     "leaveCustomWorkflow": "Du bist dabei, den {{query}}-Flow zu verlassen",
     "faqFull": "Häufig gestellt",
-    "needHelpAskAi": "Brauchst du Hilfe? Frag die KI alles!"
+    "needHelpAskAi": "Brauchst du Hilfe? Frag die KI alles!",
+    "thinking": "Nachdenken",
+    "findingYourAnswer": "Finde deine Antwort",
+    "typingYourResponse": "Tippen deine Antwort"
   }
 }

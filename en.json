@@ -72,7 +72,10 @@
     "leaveCustomWorkflow": "You’re about to leave the {{query}} flow",
     "faqFull": "Frequently Asked",
     "needHelpAskAi": "Need help? Ask AI anything!",
-    "quickActions": "Quick Actions"
+    "quickActions": "Quick Actions",
+    "thinking": "Thinking",
+    "findingYourAnswer": "Finding your answer",
+    "typingYourResponse": "Typing your response"
   },
   "others": {
     "suggestedReplies": {
