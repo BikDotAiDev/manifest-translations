@@ -8,26 +8,10 @@
       "SEARCH": "找不到您想要的商品？讓我來幫您找到最適合您的商品。"
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "你們的暢銷產品有哪些？",
-        "你們的產品與其他產品有什麼不同？",
-        "我的訂單在哪裡？"
-      ],
-      "OTHER": [
-        "你們的暢銷產品有哪些？",
-        "你們的產品與其他產品有什麼不同？",
-        "我的訂單在哪裡？"
-      ],
-      "PRODUCT": [
-        "這款產品有什麼獨特之處？",
-        "展示更多類似的產品",
-        "這款產品的退貨政策是什麼？"
-      ],
-      "SEARCH": [
-        "展示最適合我的產品",
-        "根據我的需求優化搜尋結果",
-        "這些產品中有哪些是熱門選擇？"
-      ]
+      "COLLECTION": ["你們的暢銷產品有哪些？", "你們的產品與其他產品有什麼不同？", "我的訂單在哪裡？"],
+      "OTHER": ["你們的暢銷產品有哪些？", "你們的產品與其他產品有什麼不同？", "我的訂單在哪裡？"],
+      "PRODUCT": ["這款產品有什麼獨特之處？", "展示更多類似的產品", "這款產品的退貨政策是什麼？"],
+      "SEARCH": ["展示最適合我的產品", "根據我的需求優化搜尋結果", "這些產品中有哪些是熱門選擇？"]
     }
   },
   "translations": {
@@ -102,7 +86,10 @@
     "insideCustomWorkflow": "您在 {{query}} 流程內",
     "leaveCustomWorkflow": "您即将离开 {{query}} 流程",
     "faqFull": "常见问题",
-    "needHelpAskAi": "需要幫助嗎？ 隨時問AI任何問題！",
+    "needHelpAskAi": "需要幫助嗎？ 隨時問AI任何問題!",
+    "thinking": "思考中",
+    "findingYourAnswer": "正在查找您的答案",
+    "typingYourResponse": "正在输入您的回复",
     "orderFormUnverifiedTrackOrderPrompt": "讓我們追蹤您的訂單",
     "orderFormUnverifiedOrderDetailsLabel": "订单详情",
     "orderFormUnverifiedInputPlaceholder": "电子邮件地址 / 电话号码 / 订单编号",

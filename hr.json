@@ -129,6 +129,9 @@
   "faqFull": "Često postavljano",
   "needHelpAskAi": "Trebate pomoć? Pitajte AI bilo što!",
   "quickActions": "Brze radnje",
+  "thinking": "Razmišlja",
+  "findingYourAnswer": "Pronalaženje vašeg odgovora",
+  "typingYourResponse": "Pisanje vašeg odgovora",
   "translations": {
     "AMA": "Pitaj me bilo što",
     "AskYourQuestion": "Postavite svoje pitanje",

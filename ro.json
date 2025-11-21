@@ -8,26 +8,10 @@
       "SEARCH": "Nu găsești ce cauți? Lasă-mă să te ajut să găsești exact ceea ce cauți."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "Care sunt cele mai bine vândute produse ale voastre?",
-        "Ce deosebește produsele voastre de cele ale altora?",
-        "Unde este comanda mea?"
-      ],
-      "OTHER": [
-        "Care sunt cele mai bine vândute produse ale voastre?",
-        "Ce deosebește produsele voastre de cele ale altora?",
-        "Unde este comanda mea?"
-      ],
-      "PRODUCT": [
-        "Ce face acest produs să se remarce?",
-        "Arată-mi mai multe produse ca acesta",
-        "Care este politica de returnare pentru acest produs?"
-      ],
-      "SEARCH": [
-        "Arată-mi cele mai relevante produse pentru mine",
-        "Rafineaza rezultatele pe baza cerințelor mele",
-        "Care sunt câteva opțiuni populare printre acestea?"
-      ]
+      "COLLECTION": ["Care sunt cele mai bine vândute produse ale voastre?", "Ce deosebește produsele voastre de cele ale altora?", "Unde este comanda mea?"],
+      "OTHER": ["Care sunt cele mai bine vândute produse ale voastre?", "Ce deosebește produsele voastre de cele ale altora?", "Unde este comanda mea?"],
+      "PRODUCT": ["Ce face acest produs să se remarce?", "Arată-mi mai multe produse ca acesta", "Care este politica de returnare pentru acest produs?"],
+      "SEARCH": ["Arată-mi cele mai relevante produse pentru mine", "Rafineaza rezultatele pe baza cerințelor mele", "Care sunt câteva opțiuni populare printre acestea?"]
     }
   },
   "translations": {
@@ -148,6 +132,9 @@
     "welcomeMessageProductPage": "Întreabă-mă orice despre acest produs",
     "whatAreYourBestSellers": "Care sunt produsele tale cele mai bine vândute?",
     "yesSure": "Da, sigur!",
+    "thinking": "Gândire",
+    "findingYourAnswer": "Găsirea răspunsului tău",
+    "typingYourResponse": "Tastarea răspunsului tău",
     "orderFormFallbackNoOtherOptions": "Nu e problemă, avem alte opțiuni disponibile pentru a vă ajuta cu comanda dumneavoastră.",
     "orderFormFallbackTalkToAgent": "Discutați cu un agent",
     "orderFormFallbackCheckTrackingPortal": "Verificați portalul nostru de urmărire",

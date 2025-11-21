@@ -8,26 +8,10 @@
       "SEARCH": "Et löydä etsimääsi? Anna minun auttaa sinua löytämään juuri sen, mitä etsit."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "Mitkä ovat myydyimmät tuotteesi?",
-        "Mikä erottaa tuotteesi muista?",
-        "Missä on tilaukseni?"
-      ],
-      "OTHER": [
-        "Mitkä ovat myydyimmät tuotteesi?",
-        "Mikä erottaa tuotteesi muista?",
-        "Missä on tilaukseni?"
-      ],
-      "PRODUCT": [
-        "Mikä erottaa tämän tuotteen muista?",
-        "Näytä minulle lisää samanlaisia tuotteita",
-        "Mikä on tämän tuotteen palautuskäytäntö?"
-      ],
-      "SEARCH": [
-        "Näytä minulle sopivimmat tuotteet",
-        "Tarkenna tuloksia vaatimusteni perusteella",
-        "Mitkä ovat suosituimpia valintoja näiden joukosta?"
-      ]
+      "COLLECTION": ["Mitkä ovat myydyimmät tuotteesi?", "Mikä erottaa tuotteesi muista?", "Missä on tilaukseni?"],
+      "OTHER": ["Mitkä ovat myydyimmät tuotteesi?", "Mikä erottaa tuotteesi muista?", "Missä on tilaukseni?"],
+      "PRODUCT": ["Mikä erottaa tämän tuotteen muista?", "Näytä minulle lisää samanlaisia tuotteita", "Mikä on tämän tuotteen palautuskäytäntö?"],
+      "SEARCH": ["Näytä minulle sopivimmat tuotteet", "Tarkenna tuloksia vaatimusteni perusteella", "Mitkä ovat suosituimpia valintoja näiden joukosta?"]
     }
   },
   "translations": {
@@ -103,6 +87,9 @@
     "leaveCustomWorkflow": "Olet poistumassa {{query}}-prosessista",
     "faqFull": "Usein kysytty",
     "needHelpAskAi": "Tarvitsetko apua? Kysy tekoälyltä mitä tahansa!",
+    "thinking": "Ajattelee",
+    "findingYourAnswer": "Etsii vastaamista",
+    "typingYourResponse": "Kirjoittaa vastaustasi",
     "orderFormUnverifiedTrackOrderPrompt": "Seurataanpa tilaustasi",
     "orderFormUnverifiedOrderDetailsLabel": "Tilaustiedot",
     "orderFormUnverifiedInputPlaceholder": "Sähköpostiosoite / Puhelinnumero / Tilausnumero",

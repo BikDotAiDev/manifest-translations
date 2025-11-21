@@ -8,26 +8,10 @@
       "SEARCH": "Aradığınızı bulamıyor musunuz? Sizi tam olarak aradığınızı bulmanıza yardımcı olabilirim."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "En çok satan ürünleriniz nelerdir?",
-        "Ürünlerinizi diğerlerinden ayıran nedir?",
-        "Siparişim nerede?"
-      ],
-      "OTHER": [
-        "En çok satan ürünleriniz nelerdir?",
-        "Ürünlerinizi diğerlerinden ayıran nedir?",
-        "Siparişim nerede?"
-      ],
-      "PRODUCT": [
-        "Bu ürünü öne çıkan kılan nedir?",
-        "Bana bu ürün gibi daha fazla ürün göster",
-        "Bu ürünün iade politikası nedir?"
-      ],
-      "SEARCH": [
-        "Benim için en ilgili ürünleri göster",
-        "Sonuçları gereksinimlerime göre iyileştir",
-        "Bunlar arasında popüler seçenekler neler?"
-      ]
+      "COLLECTION": ["En çok satan ürünleriniz nelerdir?", "Ürünlerinizi diğerlerinden ayıran nedir?", "Siparişim nerede?"],
+      "OTHER": ["En çok satan ürünleriniz nelerdir?", "Ürünlerinizi diğerlerinden ayıran nedir?", "Siparişim nerede?"],
+      "PRODUCT": ["Bu ürünü öne çıkan kılan nedir?", "Bana bu ürün gibi daha fazla ürün göster", "Bu ürünün iade politikası nedir?"],
+      "SEARCH": ["Benim için en ilgili ürünleri göster", "Sonuçları gereksinimlerime göre iyileştir", "Bunlar arasında popüler seçenekler neler?"]
     }
   },
   "translations": {
@@ -103,6 +87,9 @@
     "leaveCustomWorkflow": "{{query}} akışından çıkmak üzeresiniz",
     "faqFull": "Sıkça Sorulan Sorular",
     "needHelpAskAi": "Yardıma mı ihtiyacınız var? AI'ya her şeyi sorabilirsiniz!",
+    "thinking": "Düşünüyor",
+    "findingYourAnswer": "Cevabınız bulunuyor",
+    "typingYourResponse": "Cevabınız yazılıyor",
     "orderFormUnverifiedTrackOrderPrompt": "Hadi siparişinizi takip edelim",
     "orderFormUnverifiedOrderDetailsLabel": "Sipariş detayları",
     "orderFormUnverifiedInputPlaceholder": "E-posta Adresi / Telefon Numarası / Sipariş ID'si",

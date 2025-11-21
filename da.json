@@ -8,26 +8,10 @@
       "SEARCH": "Kan du ikke finde det, du leder efter? Lad mig hjælpe dig med at finde præcis, hvad du leder efter."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "Hvilke produkter er dine bedst-sælgende?",
-        "Hvad adskiller jeres produkter fra andre?",
-        "Hvor er min ordre?"
-      ],
-      "OTHER": [
-        "Hvilke produkter er dine bedst-sælgende?",
-        "Hvad adskiller jeres produkter fra andre?",
-        "Hvor er min ordre?"
-      ],
-      "PRODUCT": [
-        "Hvad gør dette produkt unikt?",
-        "Vis mig flere produkter som dette",
-        "Hvad er returpolitiken for dette produkt?"
-      ],
-      "SEARCH": [
-        "Vis mig de mest relevante produkter for mig",
-        "Forfin resultaterne baseret på mine krav",
-        "Hvad er nogle populære valg blandt disse?"
-      ]
+      "COLLECTION": ["Hvilke produkter er dine bedst-sælgende?", "Hvad adskiller jeres produkter fra andre?", "Hvor er min ordre?"],
+      "OTHER": ["Hvilke produkter er dine bedst-sælgende?", "Hvad adskiller jeres produkter fra andre?", "Hvor er min ordre?"],
+      "PRODUCT": ["Hvad gør dette produkt unikt?", "Vis mig flere produkter som dette", "Hvad er returpolitiken for dette produkt?"],
+      "SEARCH": ["Vis mig de mest relevante produkter for mig", "Forfin resultaterne baseret på mine krav", "Hvad er nogle populære valg blandt disse?"]
     }
   },
   "translations": {
@@ -103,6 +87,9 @@
     "leaveCustomWorkflow": "Du er ved at forlade {{query}}-flowet",
     "faqFull": "Ofte stillede",
     "needHelpAskAi": "Brug for hjælp? Spørg AI om hvad som helst!",
+    "thinking": "Tænker",
+    "findingYourAnswer": "Finder dit svar",
+    "typingYourResponse": "Skriver dit svar",
     "orderFormUnverifiedTrackOrderPrompt": "Lad os spore din ordre",
     "orderFormUnverifiedOrderDetailsLabel": "Ordredetaljer",
     "orderFormUnverifiedInputPlaceholder": "E-mailadresse / Telefonnummer / Ordre-ID",

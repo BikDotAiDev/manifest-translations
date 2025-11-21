@@ -8,26 +8,10 @@
       "SEARCH": "Không tìm thấy điều bạn đang tìm kiếm? Hãy để tôi giúp bạn tìm chính xác điều bạn đang tìm kiếm."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "Các sản phẩm bán chạy nhất của bạn là gì?",
-        "Điều gì làm các sản phẩm của bạn nổi bật so với các sản phẩm khác?",
-        "Đơn hàng của tôi đang ở đâu?"
-      ],
-      "OTHER": [
-        "Các sản phẩm bán chạy nhất của bạn là gì?",
-        "Điều gì làm sản phẩm của bạn nổi bật so với các sản phẩm khác?",
-        "Đơn hàng của tôi đang ở đâu?"
-      ],
-      "PRODUCT": [
-        "Điều gì khiến sản phẩm này nổi bật?",
-        "Cho tôi xem thêm các sản phẩm giống như thế này",
-        "Chính sách đổi trả của sản phẩm này là gì?"
-      ],
-      "SEARCH": [
-        "Cho tôi xem các sản phẩm phù hợp nhất với tôi",
-        "Tinh chỉnh kết quả dựa trên yêu cầu của tôi",
-        "Có những lựa chọn phổ biến nào trong số này không?"
-      ]
+      "COLLECTION": ["Các sản phẩm bán chạy nhất của bạn là gì?", "Điều gì làm các sản phẩm của bạn nổi bật so với các sản phẩm khác?", "Đơn hàng của tôi đang ở đâu?"],
+      "OTHER": ["Các sản phẩm bán chạy nhất của bạn là gì?", "Điều gì làm sản phẩm của bạn nổi bật so với các sản phẩm khác?", "Đơn hàng của tôi đang ở đâu?"],
+      "PRODUCT": ["Điều gì khiến sản phẩm này nổi bật?", "Cho tôi xem thêm các sản phẩm giống như thế này", "Chính sách đổi trả của sản phẩm này là gì?"],
+      "SEARCH": ["Cho tôi xem các sản phẩm phù hợp nhất với tôi", "Tinh chỉnh kết quả dựa trên yêu cầu của tôi", "Có những lựa chọn phổ biến nào trong số này không?"]
     }
   },
   "translations": {
@@ -103,6 +87,9 @@
     "leaveCustomWorkflow": "Bạn sắp rời khỏi luồng {{query}}",
     "faqFull": "Câu hỏi thường gặp",
     "needHelpAskAi": "Cần giúp đỡ? Hãy hỏi AI bất cứ điều gì!",
+    "thinking": "Đang suy nghĩ",
+    "findingYourAnswer": "Đang tìm câu trả lời của bạn",
+    "typingYourResponse": "Đang gõ câu trả lời của bạn",
     "orderFormUnverifiedTrackOrderPrompt": "Hãy theo dõi đơn hàng của bạn",
     "orderFormUnverifiedOrderDetailsLabel": "Chi tiết đơn hàng",
     "orderFormUnverifiedInputPlaceholder": "Địa chỉ Email / Số điện thoại / Mã đơn hàng",

@@ -13,21 +13,9 @@
         "Welke van deze producten zouden het beste aan mijn behoeften voldoen?",
         "Doe aanbevelingen voor populaire producten uit deze collectie"
       ],
-      "OTHER": [
-        "Wat onderscheidt jullie producten van andere?",
-        "Wat zijn enkele trendy producten in jullie winkel?",
-        "Laat me jullie nieuwste aanbiedingen en kortingen zien"
-      ],
-      "PRODUCT": [
-        "Wat maakt dit product bijzonder?",
-        "Laat me meer producten zien zoals deze",
-        "Wat is het retourbeleid voor dit product?"
-      ],
-      "SEARCH": [
-        "Toon de meest relevante producten voor mij",
-        "Verfijn de resultaten op basis van mijn eisen",
-        "Wat zijn enkele populaire keuzes hieruit?"
-      ]
+      "OTHER": ["Wat onderscheidt jullie producten van andere?", "Wat zijn enkele trendy producten in jullie winkel?", "Laat me jullie nieuwste aanbiedingen en kortingen zien"],
+      "PRODUCT": ["Wat maakt dit product bijzonder?", "Laat me meer producten zien zoals deze", "Wat is het retourbeleid voor dit product?"],
+      "SEARCH": ["Toon de meest relevante producten voor mij", "Verfijn de resultaten op basis van mijn eisen", "Wat zijn enkele populaire keuzes hieruit?"]
     }
   },
   "translations": {
@@ -103,6 +91,9 @@
     "leaveCustomWorkflow": "Je staat op het punt de {{query}}-flow te verlaten",
     "faqFull": "Veel gesteld",
     "needHelpAskAi": "Hulp nodig? Vraag AI alles!",
+    "thinking": "Denken",
+    "findingYourAnswer": "Je antwoord zoeken",
+    "typingYourResponse": "Je antwoord typen",
     "orderFormUnverifiedTrackOrderPrompt": "Laten we je bestelling volgen",
     "orderFormUnverifiedOrderDetailsLabel": "Bestelgegevens",
     "orderFormUnverifiedInputPlaceholder": "E-mailadres / Telefoonnummer / Bestel-ID",

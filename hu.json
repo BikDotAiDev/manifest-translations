@@ -8,26 +8,10 @@
       "SEARCH": "Nem találod, amit keresel? Segítek megtalálni pontosan azt, amit keresel."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "Mi a legjobban eladott termékeitek?",
-        "Mi különbözteti meg termékeiteket a többitől?",
-        "Hol van az rendelésem?"
-      ],
-      "OTHER": [
-        "Mi a legjobban eladott termékeitek?",
-        "Mi különbözteti meg termékeiteket a többitől?",
-        "Hol van az rendelésem?"
-      ],
-      "PRODUCT": [
-        "Mi teszi ezt a terméket különlegessé?",
-        "Mutass több olyan terméket, mint ez",
-        "Mi a termék visszaküldési politikája?"
-      ],
-      "SEARCH": [
-        "Mutass nekem a számomra legrelevánsabb termékeket",
-        "Finomítsd az eredményeket az igényeim alapján",
-        "Mi a népszerű választás ezek között?"
-      ]
+      "COLLECTION": ["Mi a legjobban eladott termékeitek?", "Mi különbözteti meg termékeiteket a többitől?", "Hol van az rendelésem?"],
+      "OTHER": ["Mi a legjobban eladott termékeitek?", "Mi különbözteti meg termékeiteket a többitől?", "Hol van az rendelésem?"],
+      "PRODUCT": ["Mi teszi ezt a terméket különlegessé?", "Mutass több olyan terméket, mint ez", "Mi a termék visszaküldési politikája?"],
+      "SEARCH": ["Mutass nekem a számomra legrelevánsabb termékeket", "Finomítsd az eredményeket az igényeim alapján", "Mi a népszerű választás ezek között?"]
     }
   },
   "translations": {
@@ -142,12 +126,15 @@
     "viewProduct": "Termék megtekintése",
     "viewResultsFromCollection": "Eredmények megtekintése ebből a gyűjteményből",
     "viewSimilarProducts": "Hasonló termékek megtekintése",
-    "welcomeMessageCollectionPage": "Kérdezz bármit a {{collectionName}} gyűjteményünkről!",
-    "welcomeMessageCollectionPageGeneric": "Kérdezz bármit a termékeinkről!",
-    "welcomeMessageHomePage": "Üdvözlünk a {{storeName}}-ban! Hogyan segíthetek ma?",
-    "welcomeMessageProductPage": "Kérdezz bármit erről a termékről",
-    "whatAreYourBestSellers": "Melyek a legkelendőbb termékeitek?",
-    "yesSure": "Igen, természetesen!",
+    "welcomeMessageCollectionPage": "Kérdezzen bármit a(z) {{collectionName}} kollekciónkról!",
+    "welcomeMessageCollectionPageGeneric": "Kérdezzen bármit a termékeinkről!",
+    "welcomeMessageHomePage": "Üdvözöljük a(z) {{storeName}} üzletben! Hogyan segíthetek Önnek ma?",
+    "welcomeMessageProductPage": "Kérdezzen bármit erről a termékről",
+    "whatAreYourBestSellers": "Mi a legjobban eladott termékeitek?",
+    "yesSure": "Igen, persze!",
+    "thinking": "Gondolkodik",
+    "findingYourAnswer": "A válaszod megkeresése",
+    "typingYourResponse": "A válaszod gépelése",
     "orderFormFallbackNoOtherOptions": "Semmi baj, más lehetőségek is rendelkezésre állnak a rendelésével kapcsolatos segítségnyújtáshoz.",
     "orderFormFallbackTalkToAgent": "Beszélj egy ügynökkel",
     "orderFormFallbackCheckTrackingPortal": "Ellenőrizze nyomon követési portálunkat",
