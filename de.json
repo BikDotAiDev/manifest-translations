@@ -8,10 +8,26 @@
       "SEARCH": "Kannst du nicht finden, wonach du suchst? Lass mich dir genau das finden, wonach du suchst."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Welche sind deine meistverkauften Produkte?", "Was unterscheidet deine Produkte von anderen?", "Wo ist meine Bestellung?"],
-      "OTHER": ["Welche sind deine meistverkauften Produkte?", "Was unterscheidet deine Produkte von anderen?", "Wo ist meine Bestellung?"],
-      "PRODUCT": ["Was macht dieses Produkt besonders?", "Zeige mir mehr Produkte wie dieses", "Was ist die Rückgaberichtlinie für dieses Produkt?"],
-      "SEARCH": ["Zeige mir die relevantesten Produkte für mich", "Verfeinere die Ergebnisse basierend auf meinen Anforderungen", "Was sind einige beliebte Optionen unter diesen?"]
+      "COLLECTION": [
+        "Welche sind deine meistverkauften Produkte?",
+        "Was unterscheidet deine Produkte von anderen?",
+        "Wo ist meine Bestellung?"
+      ],
+      "OTHER": [
+        "Welche sind deine meistverkauften Produkte?",
+        "Was unterscheidet deine Produkte von anderen?",
+        "Wo ist meine Bestellung?"
+      ],
+      "PRODUCT": [
+        "Was macht dieses Produkt besonders?",
+        "Zeige mir mehr Produkte wie dieses",
+        "Was ist die Rückgaberichtlinie für dieses Produkt?"
+      ],
+      "SEARCH": [
+        "Zeige mir die relevantesten Produkte für mich",
+        "Verfeinere die Ergebnisse basierend auf meinen Anforderungen",
+        "Was sind einige beliebte Optionen unter diesen?"
+      ]
     }
   },
   "translations": {
@@ -28,12 +44,15 @@
     "askMoreAboutThisProduct": "Fragen Sie mehr zu diesem Produkt",
     "availOngoingSpecialOffer": "Ich möchte das laufende Sonderangebot nutzen",
     "cartWaiting": "Lassen Sie die Artikel in Ihrem Warenkorb nicht warten, zahlen Sie jetzt!",
+    "chatWithUS": "Chatten Sie mit uns 👋🏻",
     "checkOutThese": "Schau dir stattdessen diese Auswahl an",
     "checkout": "Zur Kasse",
     "chooseYourCountry": "Wählen Sie Ihr Land",
     "directRewardNextPurchaseCoupon": "Danke für Ihren Einkauf bei uns! Wir haben ein Sonderangebot für {{couponTitle}}. Möchten Sie dieses Angebot bei Ihrem nächsten Kauf nutzen?",
     "discountCouponTextBIC": "Hallo! Schön, dich zu sehen. 😃 Wir bieten ein besonderes Angebot an: {{couponTitle}}. Bereit, deinen Rabatt zu beanspruchen?",
-    "enterYourMessage": "Gib deine Nachricht ein ...",
+    "discountCouponText": "Woohoo 🎉 Du bist berechtigt für {{couponTitle}}.",
+    "getOffer": "Angebot erhalten",
+    "enterYourMessage": "Geben Sie Ihre Nachricht ein ...",
     "enter_email_here": "Bitte geben Sie hier Ihre E-Mail-Adresse ein",
     "enter_phone_here": "Bitte geben Sie hier Ihre Telefonnummer ein",
     "goToCart": "Zum Warenkorb gehen",
