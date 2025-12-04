@@ -82,6 +82,7 @@
     "viewProduct": "Voir le produit",
     "viewResultsFromCollection": "Voir les résultats de cette collection",
     "viewSimilarProducts": "voir des produits similaires",
+    "viewSimilar": "Voir similaire",
     "welcomeMessageCollectionPage": "Demandez-moi tout ce que vous voulez savoir sur notre collection {{collectionName}}!",
     "welcomeMessageCollectionPageGeneric": "Demandez-moi tout ce que vous voulez savoir sur nos produits!",
     "welcomeMessageHomePage": "Bienvenue chez {{storeName}}! Comment puis-je vous aider aujourd'hui?",

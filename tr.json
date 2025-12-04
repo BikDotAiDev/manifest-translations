@@ -77,6 +77,7 @@
     "viewProduct": "Ürünü görüntüle",
     "viewResultsFromCollection": "Bu koleksiyondan sonuçları görüntüle",
     "viewSimilarProducts": "benzer ürünleri görüntüle",
+    "viewSimilar": "Benzerini görüntüle",
     "welcomeMessageCollectionPage": "{{collectionName}} koleksiyonumuz hakkında herhangi bir sorunuz var mı?",
     "welcomeMessageCollectionPageGeneric": "Ürünlerimiz hakkında herhangi bir sorunuz var mı?",
     "welcomeMessageHomePage": "{{storeName}}'a hoş geldiniz! Bugün size nasıl yardımcı olabilirim?",

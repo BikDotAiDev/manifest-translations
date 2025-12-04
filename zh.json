@@ -78,6 +78,7 @@
     "viewProduct": "查看產品",
     "viewResultsFromCollection": "查看該系列的結果",
     "viewSimilarProducts": "查看類似產品",
+    "viewSimilar": "查看類似的",
     "welcomeMessageCollectionPage": "問我任何關於我們的 {{collectionName}} 系列的問題！",
     "welcomeMessageCollectionPageGeneric": "問我任何關於我們產品的問題！",
     "welcomeMessageHomePage": "歡迎來到 {{storeName}}！今天我能幫您什麼？",

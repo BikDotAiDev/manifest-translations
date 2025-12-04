@@ -78,6 +78,7 @@
     "viewProduct": "商品を見る",
     "viewResultsFromCollection": "このコレクションの結果を表示",
     "viewSimilarProducts": "類似商品を表示",
+    "viewSimilar": "類似を表示",
     "welcomeMessageCollectionPage": "{{collectionName}} コレクションに関する質問は何でもどうぞ！",
     "welcomeMessageCollectionPageGeneric": "当社の商品に関する質問は何でもどうぞ！",
     "welcomeMessageHomePage": "{{storeName}}へようこそ！今日はどのようにお手伝いしましょうか？",

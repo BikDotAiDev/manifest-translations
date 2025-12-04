@@ -78,6 +78,7 @@
     "viewProduct": "عرض المنتج",
     "viewResultsFromCollection": "عرض النتائج من هذه المجموعة",
     "viewSimilarProducts": "عرض منتجات مشابهة",
+    "viewSimilar": "عرض مشابه",
     "welcomeMessageCollectionPage": "اسألني عن أي شيء حول مجموعة {{collectionName}} لدينا!",
     "welcomeMessageCollectionPageGeneric": "اسألني عن أي شيء حول منتجاتنا!",
     "welcomeMessageHomePage": "مرحبًا بك في {{storeName}}! كيف يمكنني مساعدتك اليوم؟",

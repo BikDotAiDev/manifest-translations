@@ -78,6 +78,7 @@
     "viewProduct": "Näytä tuote",
     "viewResultsFromCollection": "Näytä tulokset tästä kokoelmasta",
     "viewSimilarProducts": "Näytä samankaltaiset tuotteet",
+    "viewSimilar": "Näytä samanlaiset",
     "welcomeMessageCollectionPage": "Kysy minulta mitä tahansa meidän {{collectionName}} -kokoelmasta!",
     "welcomeMessageCollectionPageGeneric": "Kysy minulta mitä tahansa meidän tuotteistamme!",
     "welcomeMessageHomePage": "Tervetuloa {{storeName}}! Kuinka voin auttaa sinua tänään?",
