@@ -189,6 +189,7 @@
     "orderFormVerifyNoOrderFoundOrderId": "Inga beställningar hittades för detta beställnings-ID. Försök igen.",
     "orderFormEmailOnlyTitle": "Låt oss spåra din beställning",
     "orderListHereAreYourOrders": "Här är dina beställningar",
-    "orderFormBackButton": "Tillbaka"
+    "orderFormBackButton": "Tillbaka",
+    "recommendLike": "Rekommendera liknande"
   }
 }

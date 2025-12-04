@@ -189,6 +189,7 @@
     "orderListNeedHelpMessage": "Śledziłem moje zamówienie. Mam więcej pytań dotyczących mojego zamówienia {{orderId}}",
     "seeOtherPicks": "Zobacz nasze inne topowe wybory",
     "orderListHereAreYourOrders": "Oto twoje zamówienia",
-    "orderFormBackButton": "Wstecz"
+    "orderFormBackButton": "Wstecz",
+    "recommendLike": "Poleć podobne"
   }
 }

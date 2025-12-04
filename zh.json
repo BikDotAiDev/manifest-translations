@@ -1,5 +1,5 @@
 {
-  "welcomeMessageCollectionNamePage": "询问我关于{{collectionName}}系列的任何问题",
+  "welcomeMessageCollectionNamePage": "詢問我關於{{collectionName}}系列的任何問題",
   "others": {
     "popUpMessages": {
       "COLLECTION": "在這個系列中尋找特別的商品？我知道在哪裡可以找到。",
@@ -55,6 +55,7 @@
     "outOfStock": "庫存不足",
     "poweredBy": "技術支援",
     "quickActions": "快捷操作",
+    "recommendLike": "推薦類似的",
     "rewardForYou": "專屬獎勵 🎉",
     "search": "搜尋",
     "searchQuery": "問我任何關於 {{query}} 的問題",

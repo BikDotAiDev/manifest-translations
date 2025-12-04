@@ -189,6 +189,7 @@
     "orderOtpRateLimitError": "Túllépte az OTP-kérések maximális számát. Próbálkozzon újra egy óra múlva.",
     "orderListReturnOrder": "Rendelés visszaküldése",
     "orderListHereAreYourOrders": "Itt vannak a rendelései",
-    "orderFormBackButton": "Vissza"
+    "orderFormBackButton": "Vissza",
+    "recommendLike": "Ajánlj hasonlót"
   }
 }

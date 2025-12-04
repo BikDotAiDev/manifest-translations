@@ -241,7 +241,7 @@
     "chooseYourCountry": "เลือกประเทศของคุณ",
     "welcomeMessageProductPage": "ถามฉันเรื่องอะไรก็ได้เกี่ยวกับผลิตภัณฑ์นี้",
     "tapToAsk": "แตะเพื่อถามคำถาม",
-    "viewResultsFromCollection": "ดูผลลัพธ์จากคอลเลคชันนี้",
+    "viewResultsFromCollection": "ดูผลลัพธ์จากคอลเลกชันนี้",
     "leaveCustomWorkflow": "You’re about to leave the {{query}} flow",
     "orderFormVerifyIdentityPlaceholder": "ป้อนหมายเลขโทรศัพท์หรือ ID อีเมลของคุณ",
     "orderFormEmailOnlyResend": "Resend",
@@ -393,7 +393,8 @@
     "orderFormDontRememberLink": "จำไม่ได้เลยใช่ไหม?",
     "spinTheWheel": "หมุนวงล้อ",
     "orderListHereAreYourOrders": "นี่คือคำสั่งซื้อของคุณ",
-    "orderFormBackButton": "ย้อนกลับ"
+    "orderFormBackButton": "ย้อนกลับ",
+    "recommendLike": "แนะนำที่คล้ายกัน"
   },
   "others": {
     "popUpMessages": {

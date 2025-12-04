@@ -189,6 +189,7 @@
     "orderFormVerifyNoOrderFoundOrderId": "Nu au fost găsite comenzi pentru acest ID de comandă. Te rog să încerci din nou.",
     "orderFormEmailOnlyTitle": "Să urmărim comanda ta",
     "orderListHereAreYourOrders": "Iată comenzile tale",
-    "orderFormBackButton": "Înapoi"
+    "orderFormBackButton": "Înapoi",
+    "recommendLike": "Recomandă similar"
   }
 }
