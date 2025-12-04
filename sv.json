@@ -129,6 +129,7 @@
     "viewProduct": "Visa produkt",
     "viewResultsFromCollection": "Visa resultat från denna samling",
     "viewSimilarProducts": "Visa liknande produkter",
+    "viewSimilar": "Visa liknande",
     "welcomeMessageCollectionPage": "Fråga mig vad som helst om vår {{collectionName}} samling!",
     "welcomeMessageCollectionPageGeneric": "Fråga mig vad som helst om våra produkter!",
     "welcomeMessageHomePage": "Välkommen till {{storeName}}! Hur kan jag hjälpa dig idag?",
@@ -192,6 +193,7 @@
     "orderFormVerifyNoOrderFoundOrderId": "Inga beställningar hittades för detta beställnings-ID. Försök igen.",
     "orderFormEmailOnlyTitle": "Låt oss spåra din beställning",
     "orderListHereAreYourOrders": "Här är dina beställningar",
-    "orderFormBackButton": "Tillbaka"
+    "orderFormBackButton": "Tillbaka",
+    "recommendLike": "Rekommendera liknande"
   }
 }

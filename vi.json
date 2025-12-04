@@ -80,6 +80,7 @@
     "viewProduct": "Xem Sản phẩm",
     "viewResultsFromCollection": "Xem kết quả từ bộ sưu tập này",
     "viewSimilarProducts": "Xem các sản phẩm tương tự",
+    "viewSimilar": "Xem tương tự",
     "welcomeMessageCollectionPage": "Hỏi tôi bất cứ điều gì về bộ sưu tập {{collectionName}} của chúng tôi!",
     "welcomeMessageCollectionPageGeneric": "Hỏi tôi bất cứ điều gì về sản phẩm của chúng tôi!",
     "welcomeMessageHomePage": "Chào mừng bạn đến với {{storeName}}! Làm thế nào tôi có thể giúp bạn hôm nay?",
@@ -192,6 +193,7 @@
     "orderFormEmailOnlyTitle": "Hãy theo dõi đơn hàng của bạn",
     "orderListNeedHelpMessage": "Tôi đã theo dõi đơn hàng. Tôi có thêm câu hỏi về đơn hàng {{orderId}}",
     "orderListHereAreYourOrders": "Đây là đơn hàng của bạn",
-    "orderFormBackButton": "Quay lại"
+    "orderFormBackButton": "Quay lại",
+    "recommendLike": "Đề xuất tương tự"
   }
 }

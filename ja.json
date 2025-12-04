@@ -81,6 +81,7 @@
     "viewProduct": "商品を見る",
     "viewResultsFromCollection": "このコレクションの結果を表示",
     "viewSimilarProducts": "類似商品を表示",
+    "viewSimilar": "類似を表示",
     "welcomeMessageCollectionPage": "{{collectionName}} コレクションに関する質問は何でもどうぞ！",
     "welcomeMessageCollectionPageGeneric": "当社の商品に関する質問は何でもどうぞ！",
     "welcomeMessageHomePage": "{{storeName}}へようこそ！今日はどのようにお手伝いしましょうか？",
@@ -193,6 +194,7 @@
     "orderFormVerifyNoOrderFoundOrderId": "この注文IDに対する注文が見つかりませんでした。再試行してください。",
     "orderFormEmailOnlyTitle": "注文を追跡しましょう",
     "orderListHereAreYourOrders": "こちらがあなたのご注文です",
-    "orderFormBackButton": "戻る"
+    "orderFormBackButton": "戻る",
+    "recommendLike": "類似をおすすめ"
   }
 }
