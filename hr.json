@@ -68,6 +68,7 @@
   "ask_about_this": "Pitaj o ovome",
   "go_To_cart": "Idi u košaricu",
   "AMA": "Pitaj me bilo što",
+  "chatWithUS": "Razgovarajte s nama 👋🏻",
   "take_quiz": "Riješite kviz!",
   "show_more": "Prikaži više",
   "catalog_refinement": "Pregledajte rezultate po kolekciji",
@@ -207,7 +208,9 @@
     "yesSure": "Da, naravno!",
     "orderListHereAreYourOrders": "Evo vaših narudžbi",
     "orderFormBackButton": "Natrag",
-    "recommendLike": "Preporuči slično"
+    "recommendLike": "Preporuči slično",
+    "discountCouponText": "Woohoo 🎉 Imate pravo na {{couponTitle}}.",
+    "getOffer": "Dobiti ponudu"
   },
   "others": {
     "popUpMessages": {

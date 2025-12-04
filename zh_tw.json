@@ -1,5 +1,5 @@
 {
-  "welcomeMessageCollectionNamePage": "詢問我關於{{collectionName}}系列的任何問題",
+  "welcomeMessageCollectionNamePage": "询问我关于{{collectionName}}系列的任何问题",
   "others": {
     "popUpMessages": {
       "COLLECTION": "在這個系列中尋找特別的商品？我知道在哪裡可以找到。",
@@ -28,14 +28,11 @@
     "askMoreAboutThisProduct": "進一步了解該產品",
     "availOngoingSpecialOffer": "我想使用當前的特別優惠",
     "cartWaiting": "不要讓購物車中的商品等待，立即結帳！",
-    "chatWithUS": "與我們聊天 👋🏻",
     "checkOutThese": "看看這些推薦商品",
     "checkout": "結帳",
     "chooseYourCountry": "選擇您的國家",
     "directRewardNextPurchaseCoupon": "感謝您與我們購物！我們有{{couponTitle}}的特別優惠。您想在下次購買時使用此優惠嗎？",
     "discountCouponTextBIC": "嗨，很高興見到你！😃 我們有特別優惠：{{couponTitle}}。準備好領取您的折扣了嗎？",
-    "discountCouponText": "哇呼！🎉 您符合 {{couponTitle}} 的資格。",
-    "getOffer": "獲取優惠",
     "enterYourMessage": "輸入您的訊息...",
     "enter_email_here": "請輸入您的電子郵件",
     "enter_phone_here": "輸入手機號碼",
@@ -58,7 +55,6 @@
     "outOfStock": "庫存不足",
     "poweredBy": "技術支援",
     "quickActions": "快捷操作",
-    "recommendLike": "推薦類似的",
     "rewardForYou": "專屬獎勵 🎉",
     "search": "搜尋",
     "searchQuery": "問我任何關於 {{query}} 的問題",
@@ -81,7 +77,6 @@
     "viewProduct": "查看產品",
     "viewResultsFromCollection": "查看該系列的結果",
     "viewSimilarProducts": "查看類似產品",
-    "viewSimilar": "查看類似的",
     "welcomeMessageCollectionPage": "問我任何關於我們的 {{collectionName}} 系列的問題！",
     "welcomeMessageCollectionPageGeneric": "問我任何關於我們產品的問題！",
     "welcomeMessageHomePage": "歡迎來到 {{storeName}}！今天我能幫您什麼？",
