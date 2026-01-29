@@ -8,26 +8,10 @@
       "SEARCH": "Et löydä etsimääsi? Anna minun auttaa sinua löytämään juuri sen, mitä etsit."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "Mitkä ovat myydyimmät tuotteesi?",
-        "Mikä erottaa tuotteesi muista?",
-        "Missä on tilaukseni?"
-      ],
-      "OTHER": [
-        "Mitkä ovat myydyimmät tuotteesi?",
-        "Mikä erottaa tuotteesi muista?",
-        "Missä on tilaukseni?"
-      ],
-      "PRODUCT": [
-        "Mikä erottaa tämän tuotteen muista?",
-        "Näytä minulle lisää samanlaisia tuotteita",
-        "Mikä on tämän tuotteen palautuskäytäntö?"
-      ],
-      "SEARCH": [
-        "Näytä minulle sopivimmat tuotteet",
-        "Tarkenna tuloksia vaatimusteni perusteella",
-        "Mitkä ovat suosituimpia valintoja näiden joukosta?"
-      ]
+      "COLLECTION": ["Mitkä ovat myydyimmät tuotteesi?", "Mikä erottaa tuotteesi muista?", "Missä on tilaukseni?"],
+      "OTHER": ["Mitkä ovat myydyimmät tuotteesi?", "Mikä erottaa tuotteesi muista?", "Missä on tilaukseni?"],
+      "PRODUCT": ["Mikä erottaa tämän tuotteen muista?", "Näytä minulle lisää samanlaisia tuotteita", "Mikä on tämän tuotteen palautuskäytäntö?"],
+      "SEARCH": ["Näytä minulle sopivimmat tuotteet", "Tarkenna tuloksia vaatimusteni perusteella", "Mitkä ovat suosituimpia valintoja näiden joukosta?"]
     }
   },
   "translations": {
@@ -44,12 +28,15 @@
     "askMoreAboutThisProduct": "Kysy lisää tästä tuotteesta",
     "availOngoingSpecialOffer": "Haluan hyödyntää käynnissä olevan erikoistarjouksen",
     "cartWaiting": "Älä jätä ostoskorin tuotteita odottamaan, maksa nyt!",
+    "chatWithUS": "Keskustele kanssamme 👋🏻",
     "checkOutThese": "Tutustu näihin valintoihin sen sijaan",
     "checkout": "Maksu",
     "chooseYourCountry": "Valitse maasi",
     "directRewardNextPurchaseCoupon": "Kiitos ostoksistasi kanssamme! Meillä on meneillään erikoistarjous {{couponTitle}}. Haluaisitko käyttää tätä tarjousta seuraavassa ostossasi?",
     "discountCouponTextBIC": "Hei! Kiva nähdä sinut. 😃 Tarjoamme erikoistarjouksen: {{couponTitle}}. Oletko valmis hyödyntämään alennuksesi?",
-    "enterYourMessage": "Kirjoita viestisi...",
+    "discountCouponText": "Woohoo 🎉 Olet oikeutettu {{couponTitle}}.",
+    "getOffer": "Hanki tarjous",
+    "enterYourMessage": "Kirjoita viestisi ...",
     "enter_email_here": "Kirjoita sähköpostiosoitteesi tähän",
     "enter_phone_here": "Anna puhelinnumerosi tähän",
     "goToCart": "Mene ostoskoriin",
@@ -71,6 +58,7 @@
     "outOfStock": "Loppu varastosta",
     "poweredBy": "Toimii käyttäen",
     "quickActions": "Pikatoiminnot",
+    "recommendLike": "Suosittele samanlaista",
     "rewardForYou": "Palkinnot vain sinulle 🎉",
     "search": "Hae",
     "searchQuery": "Kysy minulta mitä tahansa {{query}} liittyen",
@@ -93,6 +81,7 @@
     "viewProduct": "Näytä tuote",
     "viewResultsFromCollection": "Näytä tulokset tästä kokoelmasta",
     "viewSimilarProducts": "Näytä samankaltaiset tuotteet",
+    "viewSimilar": "Näytä samanlaiset",
     "welcomeMessageCollectionPage": "Kysy minulta mitä tahansa meidän {{collectionName}} -kokoelmasta!",
     "welcomeMessageCollectionPageGeneric": "Kysy minulta mitä tahansa meidän tuotteistamme!",
     "welcomeMessageHomePage": "Tervetuloa {{storeName}}! Kuinka voin auttaa sinua tänään?",
@@ -103,6 +92,9 @@
     "leaveCustomWorkflow": "Olet poistumassa {{query}}-prosessista",
     "faqFull": "Usein kysytty",
     "needHelpAskAi": "Tarvitsetko apua? Kysy tekoälyltä mitä tahansa!",
+    "thinking": "Ajattelee",
+    "findingYourAnswer": "Etsii vastaamista",
+    "typingYourResponse": "Kirjoittaa vastaustasi",
     "orderFormUnverifiedTrackOrderPrompt": "Seurataanpa tilaustasi",
     "orderFormUnverifiedOrderDetailsLabel": "Tilaustiedot",
     "orderFormUnverifiedInputPlaceholder": "Sähköpostiosoite / Puhelinnumero / Tilausnumero",
@@ -190,7 +182,7 @@
     "orderListReturnOrder": "Palauta tilaus",
     "orderListCancelOrderMessage": "Tilausnumeroni on {{orderId}}. Haluan peruuttaa tilaukseni.",
     "orderListReturnOrderMessage": "Tilausnumeroni on {{orderId}}. Haluan palauttaa tilaukseni.",
-    "orderListNeedHelpMessage": "Tarvitsetko apua tilauksessa {{orderId}}",
+    "orderListNeedHelpMessage": "Seurain tilaustani. Minulla on enemmän kysymyksiä tilauksestani {{orderId}}",
     "seeOtherPicks": "Katso muita huipputärppejämme",
     "orderFormOtpTitle": "Lähetimme 6-numeroisen koodin sähköpostiisi.",
     "orderFormEmailOnlyDidntReceiveCode": "Etkö saanut koodia?",

@@ -8,26 +8,10 @@
       "SEARCH": "Nem találod, amit keresel? Segítek megtalálni pontosan azt, amit keresel."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "Mi a legjobban eladott termékeitek?",
-        "Mi különbözteti meg termékeiteket a többitől?",
-        "Hol van az rendelésem?"
-      ],
-      "OTHER": [
-        "Mi a legjobban eladott termékeitek?",
-        "Mi különbözteti meg termékeiteket a többitől?",
-        "Hol van az rendelésem?"
-      ],
-      "PRODUCT": [
-        "Mi teszi ezt a terméket különlegessé?",
-        "Mutass több olyan terméket, mint ez",
-        "Mi a termék visszaküldési politikája?"
-      ],
-      "SEARCH": [
-        "Mutass nekem a számomra legrelevánsabb termékeket",
-        "Finomítsd az eredményeket az igényeim alapján",
-        "Mi a népszerű választás ezek között?"
-      ]
+      "COLLECTION": ["Mi a legjobban eladott termékeitek?", "Mi különbözteti meg termékeiteket a többitől?", "Hol van az rendelésem?"],
+      "OTHER": ["Mi a legjobban eladott termékeitek?", "Mi különbözteti meg termékeiteket a többitől?", "Hol van az rendelésem?"],
+      "PRODUCT": ["Mi teszi ezt a terméket különlegessé?", "Mutass több olyan terméket, mint ez", "Mi a termék visszaküldési politikája?"],
+      "SEARCH": ["Mutass nekem a számomra legrelevánsabb termékeket", "Finomítsd az eredményeket az igényeim alapján", "Mi a népszerű választás ezek között?"]
     }
   },
   "translations": {
@@ -44,11 +28,14 @@
     "askMoreAboutThisProduct": "Kérdezz többet erről a termékről",
     "availOngoingSpecialOffer": "Szeretném igénybe venni a folyamatban lévő különleges ajánlatot",
     "cartWaiting": "Ne várakoztasd a kosárban lévő tételeket, fizess most!",
+    "chatWithUS": "Csevegj velünk 👋🏻",
     "checkOutThese": "Nézd meg ezeket a választásokat helyette",
     "checkout": "Pénztár",
     "chooseYourCountry": "Válaszd ki az országod",
     "directRewardNextPurchaseCoupon": "Köszönjük, hogy nálunk vásárolsz! Van egy különleges ajánlatunk: {{couponTitle}}. Szeretnéd használni ezt az ajánlatot a következő vásárlásnál?",
     "discountCouponTextBIC": "Szia! Örülök, hogy látlak. 😃 Különleges ajánlatot kínálunk: {{couponTitle}}. Készen állsz az kedvezmény igénylésére?",
+    "discountCouponText": "Woohoo 🎉 Jogosult vagy a {{couponTitle}} kedvezményre.",
+    "getOffer": "Ajánlat megszerzése",
     "enter_email_here": "Kérlek, add meg az email címed itt",
     "enter_phone_here": "Add meg a telefonszámod",
     "enterYourMessage": "Írd be az üzeneted ...",
@@ -142,12 +129,16 @@
     "viewProduct": "Termék megtekintése",
     "viewResultsFromCollection": "Eredmények megtekintése ebből a gyűjteményből",
     "viewSimilarProducts": "Hasonló termékek megtekintése",
-    "welcomeMessageCollectionPage": "Kérdezz bármit a {{collectionName}} gyűjteményünkről!",
-    "welcomeMessageCollectionPageGeneric": "Kérdezz bármit a termékeinkről!",
-    "welcomeMessageHomePage": "Üdvözlünk a {{storeName}}-ban! Hogyan segíthetek ma?",
-    "welcomeMessageProductPage": "Kérdezz bármit erről a termékről",
-    "whatAreYourBestSellers": "Melyek a legkelendőbb termékeitek?",
-    "yesSure": "Igen, természetesen!",
+    "viewSimilar": "Nézd meg a hasonlót",
+    "welcomeMessageCollectionPage": "Kérdezzen bármit a(z) {{collectionName}} kollekciónkról!",
+    "welcomeMessageCollectionPageGeneric": "Kérdezzen bármit a termékeinkről!",
+    "welcomeMessageHomePage": "Üdvözöljük a(z) {{storeName}} üzletben! Hogyan segíthetek Önnek ma?",
+    "welcomeMessageProductPage": "Kérdezzen bármit erről a termékről",
+    "whatAreYourBestSellers": "Mi a legjobban eladott termékeitek?",
+    "yesSure": "Igen, persze!",
+    "thinking": "Gondolkodik",
+    "findingYourAnswer": "A válaszod megkeresése",
+    "typingYourResponse": "A válaszod gépelése",
     "orderFormFallbackNoOtherOptions": "Semmi baj, más lehetőségek is rendelkezésre állnak a rendelésével kapcsolatos segítségnyújtáshoz.",
     "orderFormFallbackTalkToAgent": "Beszélj egy ügynökkel",
     "orderFormFallbackCheckTrackingPortal": "Ellenőrizze nyomon követési portálunkat",
@@ -189,7 +180,7 @@
     "orderFormVerifyNoOrderFoundEmail": "Nem találtunk rendeléseket ehhez az e-mail címhez. Próbálkozzon újra.",
     "seeOtherPicks": "Tekintse meg más legjobb választásainkat",
     "orderListCancelOrderMessage": "A rendelésem azonosítója {{orderId}}. Törölni szeretném a rendelésemet.",
-    "orderListNeedHelpMessage": "Segítségre van szüksége a {{orderId}} rendeléssel kapcsolatban?",
+    "orderListNeedHelpMessage": "Nyomon követtem a rendelésemet. További kérdéseim vannak a {{orderId}} rendeléssel kapcsolatban",
     "orderListNeedHelp": "Segítségre van szüksége?",
     "orderFormVerifyNoOrderFoundPhone": "Nem találtunk rendeléseket ehhez a számhoz. Próbálkozzon újra.",
     "orderFormUnverifiedTrackOrderPrompt": "Kövessük nyomon rendelését",
@@ -202,6 +193,7 @@
     "orderOtpRateLimitError": "Túllépte az OTP-kérések maximális számát. Próbálkozzon újra egy óra múlva.",
     "orderListReturnOrder": "Rendelés visszaküldése",
     "orderListHereAreYourOrders": "Itt vannak a rendelései",
-    "orderFormBackButton": "Vissza"
+    "orderFormBackButton": "Vissza",
+    "recommendLike": "Ajánlj hasonlót"
   }
 }

@@ -68,6 +68,7 @@
   "ask_about_this": "Pitaj o ovome",
   "go_To_cart": "Idi u košaricu",
   "AMA": "Pitaj me bilo što",
+  "chatWithUS": "Razgovarajte s nama 👋🏻",
   "take_quiz": "Riješite kviz!",
   "show_more": "Prikaži više",
   "catalog_refinement": "Pregledajte rezultate po kolekciji",
@@ -129,6 +130,9 @@
   "faqFull": "Često postavljano",
   "needHelpAskAi": "Trebate pomoć? Pitajte AI bilo što!",
   "quickActions": "Brze radnje",
+  "thinking": "Razmišlja",
+  "findingYourAnswer": "Pronalaženje vašeg odgovora",
+  "typingYourResponse": "Pisanje vašeg odgovora",
   "translations": {
     "AMA": "Pitaj me bilo što",
     "AskYourQuestion": "Postavite svoje pitanje",
@@ -203,7 +207,10 @@
     "whatAreYourBestSellers": "Koji su vaši najuspješniji proizvodi?",
     "yesSure": "Da, naravno!",
     "orderListHereAreYourOrders": "Evo vaših narudžbi",
-    "orderFormBackButton": "Natrag"
+    "orderFormBackButton": "Natrag",
+    "recommendLike": "Preporuči slično",
+    "discountCouponText": "Woohoo 🎉 Imate pravo na {{couponTitle}}.",
+    "getOffer": "Dobiti ponudu"
   },
   "others": {
     "popUpMessages": {

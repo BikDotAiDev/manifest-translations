@@ -8,10 +8,26 @@
       "SEARCH": "Non riesci a trovare ciò che cerchi? Lascia che ti aiuti a trovare esattamente ciò che stai cercando."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Quali sono i tuoi prodotti più venduti?", "Cosa distingue i tuoi prodotti dagli altri?", "Dov'è il mio ordine?"],
-      "OTHER": ["Quali sono i tuoi prodotti più venduti?", "Cosa distingue i tuoi prodotti dagli altri?", "Dov'è il mio ordine?"],
-      "PRODUCT": ["Cosa rende questo prodotto speciale?", "Mostrami più prodotti simili a questo", "Qual è la politica di reso di questo prodotto?"],
-      "SEARCH": ["Mostrami i prodotti più rilevanti per me", "Raffina i risultati in base alle mie esigenze", "Quali sono alcune scelte popolari tra questi?"]
+      "COLLECTION": [
+        "Quali sono i tuoi prodotti più venduti?",
+        "Cosa distingue i tuoi prodotti dagli altri?",
+        "Dov'è il mio ordine?"
+      ],
+      "OTHER": [
+        "Quali sono i tuoi prodotti più venduti?",
+        "Cosa distingue i tuoi prodotti dagli altri?",
+        "Dov'è il mio ordine?"
+      ],
+      "PRODUCT": [
+        "Cosa rende questo prodotto speciale?",
+        "Mostrami più prodotti simili a questo",
+        "Qual è la politica di reso di questo prodotto?"
+      ],
+      "SEARCH": [
+        "Mostrami i prodotti più rilevanti per me",
+        "Raffina i risultati in base alle mie esigenze",
+        "Quali sono alcune scelte popolari tra questi?"
+      ]
     }
   },
   "translations": {
@@ -28,12 +44,15 @@
     "askMoreAboutThisProduct": "Chiedi di più su questo prodotto",
     "availOngoingSpecialOffer": "Voglio usufruire dell'offerta speciale in corso",
     "cartWaiting": "Non lasciare gli articoli nel carrello ad aspettare, procedi con l'acquisto ora!",
+    "chatWithUS": "Chatta con noi 👋🏻",
     "checkOutThese": "Dai un'occhiata a queste scelte invece",
     "checkout": "Cassa",
     "chooseYourCountry": "Scegli il tuo paese",
-    "directRewardNextPurchaseCoupon": "Grazie per aver fatto acquisti con noi! Abbiamo un'offerta speciale su {{couponTitle}}. Vorresti usare questa offerta per il tuo prossimo acquisto?",
+    "directRewardNextPurchaseCoupon": "Grazie per aver fatto acquisti con noi! Abbiamo un'offerta speciale su {{couponTitle}}. Vorresti usare questa offerta per li tuo prossimo acquisto?",
     "discountCouponTextBIC": "Ciao! È bello vederti. 😃 Stiamo offrendo un'offerta speciale: {{couponTitle}}. Pronto a richiedere il tuo sconto?",
-    "enterYourMessage": "Inserisci il tuo messaggio...",
+    "discountCouponText": "Woohoo 🎉 Sei idoneo per {{couponTitle}}.",
+    "getOffer": "Ottieni offerta",
+    "enterYourMessage": "Inserisci il tuo messaggio ...",
     "enter_email_here": "Per favore inserisci la tua email qui",
     "enter_phone_here": "Si prega di inserire qui il proprio numero di telefono",
     "goToCart": "Vai al carrello",
@@ -55,6 +74,7 @@
     "outOfStock": "Esaurito",
     "poweredBy": "Offerto da",
     "quickActions": "Azioni rapide",
+    "recommendLike": "Consiglia simile",
     "rewardForYou": "Ricompense solo per te 🎉",
     "search": "Cerca",
     "searchQuery": "Chiedimi qualsiasi cosa su {{query}}",
@@ -77,6 +97,7 @@
     "viewProduct": "Visualizza prodotto",
     "viewResultsFromCollection": "Visualizza i risultati di questa collezione",
     "viewSimilarProducts": "visualizza prodotti simili",
+    "viewSimilar": "Vedi simile",
     "welcomeMessageCollectionPage": "Chiedimi qualsiasi cosa sulla nostra collezione {{collectionName}}!",
     "welcomeMessageCollectionPageGeneric": "Chiedimi qualsiasi cosa sui nostri prodotti!",
     "welcomeMessageHomePage": "Benvenuto su {{storeName}}! Come posso aiutarti oggi?",
@@ -87,6 +108,9 @@
     "leaveCustomWorkflow": "Stai per uscire dal flusso {{query}}",
     "faqFull": "Frequentemente chiesto",
     "needHelpAskAi": "Hai bisogno di aiuto? Chiedi qualsiasi cosa all'IA!",
+    "thinking": "Riflessione",
+    "findingYourAnswer": "Trovare la risposta",
+    "typingYourResponse": "Digitazione della risposta",
     "orderFormUnverifiedTrackOrderPrompt": "Tracciamo il tuo ordine",
     "orderFormUnverifiedOrderDetailsLabel": "Dettagli dell'ordine",
     "orderFormUnverifiedInputPlaceholder": "Indirizzo email / Numero di telefono / ID ordine",
@@ -182,7 +206,7 @@
     "orderListReturnOrder": "Restituisci ordine",
     "orderListCancelOrderMessage": "Il mio ID ordine è {{orderId}}. Voglio annullare il mio ordine.",
     "orderListReturnOrderMessage": "Il mio ID ordine è {{orderId}}. Voglio restituire il mio ordine.",
-    "orderListNeedHelpMessage": "Hai bisogno di aiuto con l'ordine {{orderId}}",
+    "orderListNeedHelpMessage": "Ho tracciato il mio ordine. Ho più domande sul mio ordine {{orderId}}",
     "returnToChat": "Torna alla chat",
     "seeOtherPicks": "Vedi le nostre altre scelte migliori",
     "orderListHereAreYourOrders": "Ecco i tuoi ordini",

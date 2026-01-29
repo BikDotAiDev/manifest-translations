@@ -8,26 +8,10 @@
       "SEARCH": "Aradığınızı bulamıyor musunuz? Sizi tam olarak aradığınızı bulmanıza yardımcı olabilirim."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "En çok satan ürünleriniz nelerdir?",
-        "Ürünlerinizi diğerlerinden ayıran nedir?",
-        "Siparişim nerede?"
-      ],
-      "OTHER": [
-        "En çok satan ürünleriniz nelerdir?",
-        "Ürünlerinizi diğerlerinden ayıran nedir?",
-        "Siparişim nerede?"
-      ],
-      "PRODUCT": [
-        "Bu ürünü öne çıkan kılan nedir?",
-        "Bana bu ürün gibi daha fazla ürün göster",
-        "Bu ürünün iade politikası nedir?"
-      ],
-      "SEARCH": [
-        "Benim için en ilgili ürünleri göster",
-        "Sonuçları gereksinimlerime göre iyileştir",
-        "Bunlar arasında popüler seçenekler neler?"
-      ]
+      "COLLECTION": ["En çok satan ürünleriniz nelerdir?", "Ürünlerinizi diğerlerinden ayıran nedir?", "Siparişim nerede?"],
+      "OTHER": ["En çok satan ürünleriniz nelerdir?", "Ürünlerinizi diğerlerinden ayıran nedir?", "Siparişim nerede?"],
+      "PRODUCT": ["Bu ürünü öne çıkan kılan nedir?", "Bana bu ürün gibi daha fazla ürün göster", "Bu ürünün iade politikası nedir?"],
+      "SEARCH": ["Benim için en ilgili ürünleri göster", "Sonuçları gereksinimlerime göre iyileştir", "Bunlar arasında popüler seçenekler neler?"]
     }
   },
   "translations": {
@@ -44,11 +28,14 @@
     "askMoreAboutThisProduct": "Bu ürün hakkında daha fazla sor",
     "availOngoingSpecialOffer": "Devam eden özel teklifi kullanmak istiyorum",
     "cartWaiting": "Sepetinizdeki ürünleri bekletmeyin, şimdi ödeme yapın!",
+    "chatWithUS": "Bizimle sohbet edin 👋🏻",
     "checkOutThese": "Bunun yerine bu seçeneklere göz atın",
     "checkout": "Ödeme",
     "chooseYourCountry": "Ülkenizi seçin",
     "directRewardNextPurchaseCoupon": "Bizimle alışveriş yaptığınız için teşekkürler! {{couponTitle}} için özel bir teklifimiz var. Bu teklifi bir sonraki alışverişinizde kullanmak ister misiniz?",
     "discountCouponTextBIC": "Merhaba! Seni görmek güzel. 😃 Özel bir teklif sunuyoruz: {{couponTitle}}. İndiriminizi talep etmeye hazır mısınız?",
+    "discountCouponText": "Woohoo 🎉 {{couponTitle}} için uygunsunuz.",
+    "getOffer": "Teklif al",
     "enterYourMessage": "Mesajınızı girin...",
     "enter_email_here": "Lütfen e-postanızı buraya girin",
     "enter_phone_here": "Lütfen telefon numaranızı buraya girin",
@@ -93,6 +80,7 @@
     "viewProduct": "Ürünü görüntüle",
     "viewResultsFromCollection": "Bu koleksiyondan sonuçları görüntüle",
     "viewSimilarProducts": "benzer ürünleri görüntüle",
+    "viewSimilar": "Benzerini görüntüle",
     "welcomeMessageCollectionPage": "{{collectionName}} koleksiyonumuz hakkında herhangi bir sorunuz var mı?",
     "welcomeMessageCollectionPageGeneric": "Ürünlerimiz hakkında herhangi bir sorunuz var mı?",
     "welcomeMessageHomePage": "{{storeName}}'a hoş geldiniz! Bugün size nasıl yardımcı olabilirim?",
@@ -103,6 +91,9 @@
     "leaveCustomWorkflow": "{{query}} akışından çıkmak üzeresiniz",
     "faqFull": "Sıkça Sorulan Sorular",
     "needHelpAskAi": "Yardıma mı ihtiyacınız var? AI'ya her şeyi sorabilirsiniz!",
+    "thinking": "Düşünüyor",
+    "findingYourAnswer": "Cevabınız bulunuyor",
+    "typingYourResponse": "Cevabınız yazılıyor",
     "orderFormUnverifiedTrackOrderPrompt": "Hadi siparişinizi takip edelim",
     "orderFormUnverifiedOrderDetailsLabel": "Sipariş detayları",
     "orderFormUnverifiedInputPlaceholder": "E-posta Adresi / Telefon Numarası / Sipariş ID'si",
@@ -190,7 +181,7 @@
     "orderListReturnOrder": "Siparişi iade et",
     "orderListCancelOrderMessage": "Sipariş ID'm {{orderId}}. Siparişimi iptal etmek istiyorum.",
     "orderListReturnOrderMessage": "Sipariş ID'm {{orderId}}. Siparişimi iade etmek istiyorum.",
-    "orderListNeedHelpMessage": "{{orderId}} siparişi için yardıma mı ihtiyacınız var",
+    "orderListNeedHelpMessage": "Siparişimi takip ettim. Siparişim {{orderId}} hakkında daha fazla sorularım var",
     "orderFormOtpTitle": "E-postanıza 6 haneli bir kod gönderdik.",
     "orderFormEmailOnlyDidntReceiveCode": "Kodu almadınız mı?",
     "orderFormVerifyNoOrderFoundPhone": "Bu numara için sipariş bulunamadı. Lütfen tekrar deneyin.",
@@ -202,6 +193,7 @@
     "orderFormVerifyNoOrderFoundOrderId": "Bu sipariş ID'si için sipariş bulunamadı. Lütfen tekrar deneyin.",
     "orderFormEmailOnlyTitle": "Siparişinizi takip edelim",
     "orderListHereAreYourOrders": "İşte siparişleriniz",
-    "orderFormBackButton": "Geri"
+    "orderFormBackButton": "Geri",
+    "recommendLike": "Benzerini öner"
   }
 }

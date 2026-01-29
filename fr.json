@@ -8,9 +8,21 @@
       "SEARCH": "Vous ne trouvez pas ce que vous cherchez ? Laissez-moi vous aider à trouver exactement ce que vous cherchez."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Quels sont vos produits les plus vendus ?", "Qu'est-ce qui distingue vos produits des autres ?", "Où est ma commande ?"],
-      "OTHER": ["Quels sont vos produits les plus vendus ?", "Qu'est-ce qui distingue vos produits des autres ?", "Où est ma commande ?"],
-      "PRODUCT": ["Qu'est-ce qui rend ce produit unique ?", "Montrez-moi plus de produits comme celui-ci", "Quelle est la politique de retour de ce produit ?"],
+      "COLLECTION": [
+        "Quels sont vos produits les plus vendus ?",
+        "Qu'est-ce qui distingue vos produits des autres ?",
+        "Où est ma commande ?"
+      ],
+      "OTHER": [
+        "Quels sont vos produits les plus vendus ?",
+        "Qu'est-ce qui distingue vos produits des autres ?",
+        "Où est ma commande ?"
+      ],
+      "PRODUCT": [
+        "Qu'est-ce qui rend ce produit unique ?",
+        "Montrez-moi plus de produits comme celui-ci",
+        "Quelle est la politique de retour de ce produit ?"
+      ],
       "SEARCH": [
         "Montrez-moi les produits les plus pertinents pour moi",
         "Affinez les résultats en fonction de mes exigences",
@@ -32,11 +44,14 @@
     "askMoreAboutThisProduct": "Demandez plus sur ce produit",
     "availOngoingSpecialOffer": "Je veux profiter de l'offre spéciale en cours",
     "cartWaiting": "Ne laissez pas les articles dans votre panier attendre, passez à la caisse maintenant !",
+    "chatWithUS": "Chattez avec nous 👋🏻",
     "checkOutThese": "Consultez plutôt ces choix",
     "checkout": "Passer à la caisse",
     "chooseYourCountry": "Choisissez votre pays",
     "directRewardNextPurchaseCoupon": "Merci d'avoir fait vos achats chez nous ! Nous avons une offre spéciale sur {{couponTitle}}. Souhaitez-vous utiliser cette offre lors de votre prochain achat ?",
     "discountCouponTextBIC": "Salut! Ravi de te voir. 😃 Nous proposons une offre spéciale : {{couponTitle}}. Prêt à réclamer votre réduction ?",
+    "discountCouponText": "Woohoo 🎉 Vous êtes éligible pour {{couponTitle}}.",
+    "getOffer": "Obtenir l'offre",
     "enterYourMessage": "Entrez votre message...",
     "enter_email_here": "Veuillez entrer votre email ici",
     "enter_phone_here": "Veuillez entrer votre numéro de téléphone ici",
@@ -59,6 +74,7 @@
     "outOfStock": "En rupture de stock",
     "poweredBy": "Propulsé par",
     "quickActions": "Actions rapides",
+    "recommendLike": "Recommander similaire",
     "rewardForYou": "Récompenses rien que pour vous 🎉",
     "search": "Rechercher",
     "searchQuery": "Demandez-moi n'importe quoi à propos de {{query}}",
@@ -81,6 +97,7 @@
     "viewProduct": "Voir le produit",
     "viewResultsFromCollection": "Voir les résultats de cette collection",
     "viewSimilarProducts": "voir des produits similaires",
+    "viewSimilar": "Voir similaire",
     "welcomeMessageCollectionPage": "Demandez-moi tout ce que vous voulez savoir sur notre collection {{collectionName}}!",
     "welcomeMessageCollectionPageGeneric": "Demandez-moi tout ce que vous voulez savoir sur nos produits!",
     "welcomeMessageHomePage": "Bienvenue chez {{storeName}}! Comment puis-je vous aider aujourd'hui?",
@@ -91,6 +108,9 @@
     "leaveCustomWorkflow": "Vous êtes sur le point de quitter le flux {{query}}",
     "faqFull": "Fréquemment posé",
     "needHelpAskAi": "Besoin d'aide ? Demandez n'importe quoi à l'IA !",
+    "thinking": "Réfléchir",
+    "findingYourAnswer": "Trouver votre réponse",
+    "typingYourResponse": "Tapez votre réponse",
     "orderFormUnverifiedTrackOrderPrompt": "Suivons votre commande",
     "orderFormUnverifiedOrderDetailsLabel": "Détails de la commande",
     "orderFormUnverifiedInputPlaceholder": "Adresse e-mail / Numéro de téléphone / Numéro de commande",
@@ -187,7 +207,7 @@
     "orderListReturnOrder": "Retourner la commande",
     "orderListCancelOrderMessage": "Mon ID de commande est {{orderId}}. Je veux annuler ma commande.",
     "orderListReturnOrderMessage": "Mon ID de commande est {{orderId}}. Je veux retourner ma commande.",
-    "orderListNeedHelpMessage": "Besoin d'aide avec la commande {{orderId}}",
+    "orderListNeedHelpMessage": "J'ai suivi ma commande. J'ai plus de questions sur ma commande {{orderId}}",
     "seeOtherPicks": "Voir nos autres choix",
     "orderListHereAreYourOrders": "Voici vos commandes",
     "orderFormBackButton": "Retour"

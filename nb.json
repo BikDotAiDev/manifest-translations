@@ -8,26 +8,10 @@
       "SEARCH": "Finner ikke det du leter etter? La meg hjelpe deg med å finne akkurat det du ser etter."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "Hva er dine bestselgende produkter?",
-        "Hva skiller produktene dine fra andre?",
-        "Hvor er bestillingen min?"
-      ],
-      "OTHER": [
-        "Hva er dine bestselgende produkter?",
-        "Hva skiller produktene dine fra andre?",
-        "Hvor er bestillingen min?"
-      ],
-      "PRODUCT": [
-        "Hva gjør dette produktet fremtredende?",
-        "Vis meg flere produkter som dette",
-        "Hva er returpolicyen for dette produktet?"
-      ],
-      "SEARCH": [
-        "Vis meg de mest relevante produktene for meg",
-        "Forfin resultatene basert på mine krav",
-        "Hva er noen populære valg blant disse?"
-      ]
+      "COLLECTION": ["Hva er dine bestselgende produkter?", "Hva skiller produktene dine fra andre?", "Hvor er bestillingen min?"],
+      "OTHER": ["Hva er dine bestselgende produkter?", "Hva skiller produktene dine fra andre?", "Hvor er bestillingen min?"],
+      "PRODUCT": ["Hva gjør dette produktet fremtredende?", "Vis meg flere produkter som dette", "Hva er returpolicyen for dette produktet?"],
+      "SEARCH": ["Vis meg de mest relevante produktene for meg", "Forfin resultatene basert på mine krav", "Hva er noen populære valg blant disse?"]
     }
   },
   "translations": {
@@ -44,11 +28,14 @@
     "askMoreAboutThisProduct": "Spør mer om dette produktet",
     "availOngoingSpecialOffer": "Jeg vil benytte meg av pågående spesialtilbud",
     "cartWaiting": "Ikke la varene i handlekurven vente, sjekk ut nå!",
+    "chatWithUS": "Chat med oss 👋🏻",
     "checkOutThese": "Sjekk ut disse valgene i stedet",
     "checkout": "Gå til kassen",
     "chooseYourCountry": "Velg ditt land",
     "directRewardNextPurchaseCoupon": "Takk for at du handler med oss! Vi har en spesialkampanje på {{couponTitle}}. Vil du bruke dette tilbudet på ditt neste kjøp?",
     "discountCouponTextBIC": "Hei der! Hyggelig å se deg. 😃 Vi tilbyr en spesiell avtale: {{couponTitle}}. Klar til å kreve rabatten din?",
+    "discountCouponText": "Woohoo 🎉 Du er kvalifiseret for {{couponTitle}}.",
+    "getOffer": "Få tilbud",
     "enterYourMessage": "Skriv inn meldingen din ...",
     "enter_email_here": "Vennligst skriv inn e-posten din her",
     "enter_phone_here": "Vennligst skriv inn telefonnummeret ditt her",
@@ -71,6 +58,7 @@
     "outOfStock": "Utsolgt",
     "poweredBy": "Drevet av",
     "quickActions": "Hurtighandlinger",
+    "recommendLike": "Anbefal lignende",
     "rewardForYou": "Belønninger bare for deg 🎉",
     "search": "Søk",
     "searchQuery": "Spør meg om hva som helst angående {{query}}",
@@ -92,7 +80,7 @@
     "veryHelpful": "Veldig hjelpsom",
     "viewProduct": "Se produkt",
     "viewResultsFromCollection": "Vis resultater fra denne samlingen",
-    "viewSimilarProducts": "Se lignende produkter",
+    "viewSimilar": "Se lignende",
     "welcomeMessageCollectionPage": "Spør meg om hva som helst angående vår {{collectionName}} samling!",
     "welcomeMessageCollectionPageGeneric": "Spør meg om hva som helst angående våre produkter!",
     "welcomeMessageHomePage": "Velkommen til {{storeName}}! Hvordan kan jeg hjelpe deg i dag?",
@@ -103,6 +91,9 @@
     "leaveCustomWorkflow": "Du er i ferd med å forlate {{query}}-flyten",
     "faqFull": "Ofte spurt",
     "needHelpAskAi": "Trenger du hjelp? Spør AI om hva som helst!",
+    "thinking": "Tenker",
+    "findingYourAnswer": "Finner svaret ditt",
+    "typingYourResponse": "Skriver svaret ditt",
     "orderFormUnverifiedTrackOrderPrompt": "La oss spore bestillingen din",
     "orderFormUnverifiedOrderDetailsLabel": "Bestillingsdetaljer",
     "orderFormUnverifiedInputPlaceholder": "E-postadresse / Telefonnummer / Ordre-ID",
@@ -200,7 +191,7 @@
     "orderFormVerifyNoOrderFoundOrderId": "Ingen bestillinger funnet for denne bestillings-ID. Prøv igjen.",
     "orderListCancelOrderMessage": "Min bestillings-ID er {{orderId}}. Jeg vil avbryte bestillingen min.",
     "orderFormEmailOnlyTitle": "La oss spore bestillingen din",
-    "orderListNeedHelpMessage": "Trenger du hjelp med bestilling {{orderId}}",
+    "orderListNeedHelpMessage": "Jeg sporet bestillingen min. Jeg har flere spørsmål om bestillingen min {{orderId}}",
     "orderListHereAreYourOrders": "Her er bestillingene dine",
     "orderFormBackButton": "Tilbake"
   }

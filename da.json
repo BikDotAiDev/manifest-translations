@@ -8,26 +8,10 @@
       "SEARCH": "Kan du ikke finde det, du leder efter? Lad mig hjælpe dig med at finde præcis, hvad du leder efter."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "Hvilke produkter er dine bedst-sælgende?",
-        "Hvad adskiller jeres produkter fra andre?",
-        "Hvor er min ordre?"
-      ],
-      "OTHER": [
-        "Hvilke produkter er dine bedst-sælgende?",
-        "Hvad adskiller jeres produkter fra andre?",
-        "Hvor er min ordre?"
-      ],
-      "PRODUCT": [
-        "Hvad gør dette produkt unikt?",
-        "Vis mig flere produkter som dette",
-        "Hvad er returpolitiken for dette produkt?"
-      ],
-      "SEARCH": [
-        "Vis mig de mest relevante produkter for mig",
-        "Forfin resultaterne baseret på mine krav",
-        "Hvad er nogle populære valg blandt disse?"
-      ]
+      "COLLECTION": ["Hvilke produkter er dine bedst-sælgende?", "Hvad adskiller jeres produkter fra andre?", "Hvor er min ordre?"],
+      "OTHER": ["Hvilke produkter er dine bedst-sælgende?", "Hvad adskiller jeres produkter fra andre?", "Hvor er min ordre?"],
+      "PRODUCT": ["Hvad gør dette produkt unikt?", "Vis mig flere produkter som dette", "Hvad er returpolitiken for dette produkt?"],
+      "SEARCH": ["Vis mig de mest relevante produkter for mig", "Forfin resultaterne baseret på mine krav", "Hvad er nogle populære valg blandt disse?"]
     }
   },
   "translations": {
@@ -44,11 +28,14 @@
     "askMoreAboutThisProduct": "Spørg mere om dette produkt",
     "availOngoingSpecialOffer": "Jeg vil gerne benytte den igangværende særlige tilbud",
     "cartWaiting": "Lad ikke varerne i din indkøbsvogn vente, tjek ud nu!",
+    "chatWithUS": "Chat med os 👋🏻",
     "checkOutThese": "Tjek disse valg i stedet",
     "checkout": "Gå til kassen",
     "chooseYourCountry": "Vælg dit land",
     "directRewardNextPurchaseCoupon": "Tak fordi du handler hos os! Vi har en særlig rabat på {{couponTitle}}. Vil du gerne bruge dette tilbud ved dit næste køb?",
     "discountCouponTextBIC": "Hej! Dejligt at se dig. 😃 Vi tilbyder en særlig aftale: {{couponTitle}}. Klar til at gøre krav på din rabat?",
+    "discountCouponText": "Woohoo 🎉 Du er berettiget til {{couponTitle}}.",
+    "getOffer": "Få tilbud",
     "enterYourMessage": "Indtast din besked ...",
     "enter_email_here": "Indtast venligst din e-mail her",
     "enter_phone_here": "Indtast dit telefonnummer her",
@@ -71,6 +58,7 @@
     "outOfStock": "Udsolgt",
     "poweredBy": "Drevet af",
     "quickActions": "Hurtige handlinger",
+    "recommendLike": "Anbefal lignende",
     "rewardForYou": "Belønninger kun til dig 🎉",
     "search": "Søg",
     "searchQuery": "Spørg mig om hvad som helst angående {{query}}",
@@ -93,6 +81,7 @@
     "viewProduct": "Vis produkt",
     "viewResultsFromCollection": "Se resultater fra denne samling",
     "viewSimilarProducts": "se lignende produkter",
+    "viewSimilar": "Se lignende",
     "welcomeMessageCollectionPage": "Spørg mig om noget angående vores {{collectionName}} kollektion!",
     "welcomeMessageCollectionPageGeneric": "Spørg mig om noget angående vores produkter!",
     "welcomeMessageHomePage": "Velkommen til {{storeName}}! Hvordan kan jeg hjælpe dig i dag?",
@@ -103,6 +92,9 @@
     "leaveCustomWorkflow": "Du er ved at forlade {{query}}-flowet",
     "faqFull": "Ofte stillede",
     "needHelpAskAi": "Brug for hjælp? Spørg AI om hvad som helst!",
+    "thinking": "Tænker",
+    "findingYourAnswer": "Finder dit svar",
+    "typingYourResponse": "Skriver dit svar",
     "orderFormUnverifiedTrackOrderPrompt": "Lad os spore din ordre",
     "orderFormUnverifiedOrderDetailsLabel": "Ordredetaljer",
     "orderFormUnverifiedInputPlaceholder": "E-mailadresse / Telefonnummer / Ordre-ID",
@@ -190,7 +182,7 @@
     "orderListReturnOrder": "Returner ordre",
     "orderListCancelOrderMessage": "Mit ordre-ID er {{orderId}}. Jeg vil gerne annullere min ordre.",
     "orderListReturnOrderMessage": "Mit ordre-ID er {{orderId}}. Jeg vil gerne returnere min ordre.",
-    "orderListNeedHelpMessage": "Brug for hjælp med ordre {{orderId}}",
+    "orderListNeedHelpMessage": "Jeg sporede min ordre. Jeg har flere spørgsmål om min ordre {{orderId}}",
     "seeOtherPicks": "Se vores andre topvalg",
     "orderFormOtpTitle": "Vi har sendt en 6-cifret kode til din e-mail.",
     "orderFormEmailOnlyDidntReceiveCode": "Modtog du ikke koden?",

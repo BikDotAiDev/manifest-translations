@@ -8,26 +8,10 @@
       "SEARCH": "お探しのものが見つからない場合は、正確にお探しのものを見つけるのをお手伝いいたします。"
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "販売の多い商品は何ですか？",
-        "あなたの商品を他の商品とどう違うと考えていますか？",
-        "私の注文はどこですか？"
-      ],
-      "OTHER": [
-        "販売の多い商品は何ですか？",
-        "あなたの商品を他の商品とどう違うと考えていますか？",
-        "私の注文はどこですか？"
-      ],
-      "PRODUCT": [
-        "この商品の特徴は何ですか？",
-        "このような商品をもっと見せて",
-        "この商品の返品ポリシーは？"
-      ],
-      "SEARCH": [
-        "私にとって最も関連性のある商品を表示してください",
-        "私の要件に基づいて結果を絞り込む",
-        "これらの中で人気のある選択肢は何ですか？"
-      ]
+      "COLLECTION": ["販売の多い商品は何ですか？", "あなたの商品を他の商品とどう違うと考えていますか？", "私の注文はどこですか？"],
+      "OTHER": ["販売の多い商品は何ですか？", "あなたの商品を他の商品とどう違うと考えていますか？", "私の注文はどこですか？"],
+      "PRODUCT": ["この商品の特徴は何ですか？", "このような商品をもっと見せて", "この商品の返品ポリシーは？"],
+      "SEARCH": ["私にとって最も関連性のある商品を表示してください", "私の要件に基づいて結果を絞り込む", "これらの中で人気のある選択肢は何ですか？"]
     }
   },
   "translations": {
@@ -44,11 +28,14 @@
     "askMoreAboutThisProduct": "この製品について詳しく尋ねる",
     "availOngoingSpecialOffer": "現行の特別オファーを利用したい",
     "cartWaiting": "カートに入れた商品を待たせないで、今すぐ購入してください！",
+    "chatWithUS": "チャットする 👋🏻",
     "checkOutThese": "代わりにこれらの選択肢をチェックしてください",
     "checkout": "チェックアウト",
     "chooseYourCountry": "国を選択してください",
     "directRewardNextPurchaseCoupon": "ご利用ありがとうございます！{{couponTitle}}の特別オファーがあります。次回のご購入でこのオファーをご利用になりますか？",
     "discountCouponTextBIC": "こんにちは！ あなたに会えてうれしいです。 😃 特別な取引を提供しています: {{couponTitle}}。 あなたの割引を請求する準備はできていますか？",
+    "discountCouponText": "わーい！🎉 {{couponTitle}}の対象です。",
+    "getOffer": "オファーを取得",
     "enterYourMessage": "メッセージを入力してください...",
     "enter_email_here": "ここにメールアドレスを入力してください",
     "enter_phone_here": "ここに電話番号を入力してください",
@@ -94,6 +81,7 @@
     "viewProduct": "商品を見る",
     "viewResultsFromCollection": "このコレクションの結果を表示",
     "viewSimilarProducts": "類似商品を表示",
+    "viewSimilar": "類似を表示",
     "welcomeMessageCollectionPage": "{{collectionName}} コレクションに関する質問は何でもどうぞ！",
     "welcomeMessageCollectionPageGeneric": "当社の商品に関する質問は何でもどうぞ！",
     "welcomeMessageHomePage": "{{storeName}}へようこそ！今日はどのようにお手伝いしましょうか？",
@@ -104,6 +92,9 @@
     "leaveCustomWorkflow": "{{query}}フローを離れようとしています",
     "faqFull": "よく聞かれる",
     "needHelpAskAi": "お困りですか？AIに何でも聞いてください！",
+    "thinking": "思考中",
+    "findingYourAnswer": "回答を探しています",
+    "typingYourResponse": "回答を入力しています",
     "orderFormUnverifiedTrackOrderPrompt": "ご注文を追跡しましょう",
     "orderFormUnverifiedOrderDetailsLabel": "注文詳細",
     "orderFormUnverifiedInputPlaceholder": "メールアドレス / 電話番号 / 注文ID",
@@ -191,7 +182,7 @@
     "orderListReturnOrder": "注文を返品",
     "orderListCancelOrderMessage": "私の注文IDは{{orderId}}です。注文をキャンセルしたいです。",
     "orderListReturnOrderMessage": "私の注文IDは{{orderId}}です。注文を返品したいです。",
-    "orderListNeedHelpMessage": "注文{{orderId}}についてお困りですか",
+    "orderListNeedHelpMessage": "注文を追跡しました。注文{{orderId}}についてさらに質問があります",
     "orderFormOtpTitle": "メールアドレスに6桁のコードをお送りしました。",
     "orderFormEmailOnlyDidntReceiveCode": "コードを受信できませんでしたか？",
     "orderFormVerifyNoOrderFoundPhone": "この番号に対する注文が見つかりませんでした。再試行してください。",
@@ -203,6 +194,7 @@
     "orderFormVerifyNoOrderFoundOrderId": "この注文IDに対する注文が見つかりませんでした。再試行してください。",
     "orderFormEmailOnlyTitle": "注文を追跡しましょう",
     "orderListHereAreYourOrders": "こちらがあなたのご注文です",
-    "orderFormBackButton": "戻る"
+    "orderFormBackButton": "戻る",
+    "recommendLike": "類似をおすすめ"
   }
 }

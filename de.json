@@ -8,10 +8,26 @@
       "SEARCH": "Kannst du nicht finden, wonach du suchst? Lass mich dir genau das finden, wonach du suchst."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Welche sind deine meistverkauften Produkte?", "Was unterscheidet deine Produkte von anderen?", "Wo ist meine Bestellung?"],
-      "OTHER": ["Welche sind deine meistverkauften Produkte?", "Was unterscheidet deine Produkte von anderen?", "Wo ist meine Bestellung?"],
-      "PRODUCT": ["Was macht dieses Produkt besonders?", "Zeige mir mehr Produkte wie dieses", "Was ist die Rückgaberichtlinie für dieses Produkt?"],
-      "SEARCH": ["Zeige mir die relevantesten Produkte für mich", "Verfeinere die Ergebnisse basierend auf meinen Anforderungen", "Was sind einige beliebte Optionen unter diesen?"]
+      "COLLECTION": [
+        "Welche sind deine meistverkauften Produkte?",
+        "Was unterscheidet deine Produkte von anderen?",
+        "Wo ist meine Bestellung?"
+      ],
+      "OTHER": [
+        "Welche sind deine meistverkauften Produkte?",
+        "Was unterscheidet deine Produkte von anderen?",
+        "Wo ist meine Bestellung?"
+      ],
+      "PRODUCT": [
+        "Was macht dieses Produkt besonders?",
+        "Zeige mir mehr Produkte wie dieses",
+        "Was ist die Rückgaberichtlinie für dieses Produkt?"
+      ],
+      "SEARCH": [
+        "Zeige mir die relevantesten Produkte für mich",
+        "Verfeinere die Ergebnisse basierend auf meinen Anforderungen",
+        "Was sind einige beliebte Optionen unter diesen?"
+      ]
     }
   },
   "translations": {
@@ -28,12 +44,15 @@
     "askMoreAboutThisProduct": "Fragen Sie mehr zu diesem Produkt",
     "availOngoingSpecialOffer": "Ich möchte das laufende Sonderangebot nutzen",
     "cartWaiting": "Lassen Sie die Artikel in Ihrem Warenkorb nicht warten, zahlen Sie jetzt!",
+    "chatWithUS": "Chatten Sie mit uns 👋🏻",
     "checkOutThese": "Schau dir stattdessen diese Auswahl an",
     "checkout": "Zur Kasse",
     "chooseYourCountry": "Wählen Sie Ihr Land",
     "directRewardNextPurchaseCoupon": "Danke für Ihren Einkauf bei uns! Wir haben ein Sonderangebot für {{couponTitle}}. Möchten Sie dieses Angebot bei Ihrem nächsten Kauf nutzen?",
     "discountCouponTextBIC": "Hallo! Schön, dich zu sehen. 😃 Wir bieten ein besonderes Angebot an: {{couponTitle}}. Bereit, deinen Rabatt zu beanspruchen?",
-    "enterYourMessage": "Gib deine Nachricht ein ...",
+    "discountCouponText": "Woohoo 🎉 Du bist berechtigt für {{couponTitle}}.",
+    "getOffer": "Angebot erhalten",
+    "enterYourMessage": "Geben Sie Ihre Nachricht ein ...",
     "enter_email_here": "Bitte geben Sie hier Ihre E-Mail-Adresse ein",
     "enter_phone_here": "Bitte geben Sie hier Ihre Telefonnummer ein",
     "goToCart": "Zum Warenkorb gehen",
@@ -55,6 +74,7 @@
     "outOfStock": "Nicht vorrätig",
     "poweredBy": "Angetrieben von",
     "quickActions": "Schnellaktionen",
+    "recommendLike": "Empfehlen wie",
     "rewardForYou": "Belohnungen nur für dich 🎉",
     "search": "Suche",
     "searchQuery": "Fragen Sie mich nach allem über {{query}}",
@@ -77,6 +97,7 @@
     "viewProduct": "Produkt anzeigen",
     "viewResultsFromCollection": "Ergebnisse aus dieser Sammlung anzeigen",
     "viewSimilarProducts": "ähnliche Produkte anzeigen",
+    "viewSimilar": "Ähnliche anzeigen",
     "welcomeMessageCollectionPage": "Fragen Sie mich alles über unsere {{collectionName}} Kollektion!",
     "welcomeMessageCollectionPageGeneric": "Fragen Sie mich alles über unsere Produkte!",
     "welcomeMessageHomePage": "Willkommen bei {{storeName}}! Wie kann ich Ihnen heute helfen?",
@@ -87,6 +108,9 @@
     "leaveCustomWorkflow": "Du bist dabei, den {{query}}-Flow zu verlassen",
     "faqFull": "Häufig gestellt",
     "needHelpAskAi": "Brauchst du Hilfe? Frag die KI alles!",
+    "thinking": "Nachdenken",
+    "findingYourAnswer": "Finde deine Antwort",
+    "typingYourResponse": "Tippen deine Antwort",
     "orderFormUnverifiedTrackOrderPrompt": "Lass uns deine Bestellung verfolgen",
     "orderFormUnverifiedOrderDetailsLabel": "Bestelldetails",
     "orderFormUnverifiedInputPlaceholder": "E-Mail-Adresse / Telefonnummer / Bestellnummer",
@@ -183,7 +207,7 @@
     "orderListReturnOrder": "Bestellung zurückgeben",
     "orderListCancelOrderMessage": "Meine Bestellnummer ist {{orderId}}. Ich möchte meine Bestellung stornieren.",
     "orderListReturnOrderMessage": "Meine Bestellnummer ist {{orderId}}. Ich möchte meine Bestellung zurückgeben.",
-    "orderListNeedHelpMessage": "Brauchen Sie Hilfe bei Bestellung {{orderId}}",
+    "orderListNeedHelpMessage": "Ich habe meine Bestellung verfolgt. Ich habe mehr Fragen zu meiner Bestellung {{orderId}}",
     "seeOtherPicks": "Siehe unsere anderen Spitzenauswahlen",
     "orderListHereAreYourOrders": "Hier sind Ihre Bestellungen",
     "orderFormBackButton": "Zurück"

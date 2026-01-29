@@ -13,21 +13,9 @@
         "Welke van deze producten zouden het beste aan mijn behoeften voldoen?",
         "Doe aanbevelingen voor populaire producten uit deze collectie"
       ],
-      "OTHER": [
-        "Wat onderscheidt jullie producten van andere?",
-        "Wat zijn enkele trendy producten in jullie winkel?",
-        "Laat me jullie nieuwste aanbiedingen en kortingen zien"
-      ],
-      "PRODUCT": [
-        "Wat maakt dit product bijzonder?",
-        "Laat me meer producten zien zoals deze",
-        "Wat is het retourbeleid voor dit product?"
-      ],
-      "SEARCH": [
-        "Toon de meest relevante producten voor mij",
-        "Verfijn de resultaten op basis van mijn eisen",
-        "Wat zijn enkele populaire keuzes hieruit?"
-      ]
+      "OTHER": ["Wat onderscheidt jullie producten van andere?", "Wat zijn enkele trendy producten in jullie winkel?", "Laat me jullie nieuwste aanbiedingen en kortingen zien"],
+      "PRODUCT": ["Wat maakt dit product bijzonder?", "Laat me meer producten zien zoals deze", "Wat is het retourbeleid voor dit product?"],
+      "SEARCH": ["Toon de meest relevante producten voor mij", "Verfijn de resultaten op basis van mijn eisen", "Wat zijn enkele populaire keuzes hieruit?"]
     }
   },
   "translations": {
@@ -44,12 +32,15 @@
     "askMoreAboutThisProduct": "Vraag meer over dit product",
     "availOngoingSpecialOffer": "Ik wil gebruikmaken van de lopende speciale aanbieding",
     "cartWaiting": "Laat de items in je winkelwagen niet wachten, reken nu af!",
+    "chatWithUS": "Chat met ons 👋🏻",
     "checkOutThese": "Bekijk in plaats daarvan deze keuzes",
     "checkout": "Afrekenen",
     "chooseYourCountry": "Kies uw land",
     "directRewardNextPurchaseCoupon": "Bedankt voor je aankoop bij ons! We hebben een speciale aanbieding voor {{couponTitle}}. Wil je deze aanbieding gebruiken bij je volgende aankoop?",
     "discountCouponTextBIC": "Hallo! Leuk om je te zien. 😃 We bieden een speciale deal aan: {{couponTitle}}. Klaar om je korting te claimen?",
-    "enterYourMessage": "Voer uw bericht in...",
+    "discountCouponText": "Woohoo 🎉 Je komt in aanmerking voor {{couponTitle}}.",
+    "getOffer": "Krijg aanbieding",
+    "enterYourMessage": "Voer je bericht in ...",
     "enter_email_here": "Voer hier uw e-mailadres in",
     "enter_phone_here": "Voer hier uw telefoonnummer in",
     "goToCart": "Ga naar winkelwagen",
@@ -71,6 +62,7 @@
     "outOfStock": "Niet op voorraad",
     "poweredBy": "Aangedreven door",
     "quickActions": "Snelle acties",
+    "recommendLike": "Aanbevolen zoals",
     "rewardForYou": "Beloningen alleen voor jou 🎉",
     "search": "Zoeken",
     "searchQuery": "Vraag me iets over {{query}}",
@@ -93,6 +85,7 @@
     "viewProduct": "Bekijk het product",
     "viewResultsFromCollection": "Bekijk resultaten van deze collectie",
     "viewSimilarProducts": "Bekijk vergelijkbare producten",
+    "viewSimilar": "Bekijk soortgelijke",
     "welcomeMessageCollectionPage": "Vraag me alles over onze {{collectionName}} collectie!",
     "welcomeMessageCollectionPageGeneric": "Vraag me alles over onze producten!",
     "welcomeMessageHomePage": "Welkom bij {{storeName}}! Hoe kan ik u vandaag helpen?",
@@ -103,6 +96,9 @@
     "leaveCustomWorkflow": "Je staat op het punt de {{query}}-flow te verlaten",
     "faqFull": "Veel gesteld",
     "needHelpAskAi": "Hulp nodig? Vraag AI alles!",
+    "thinking": "Denken",
+    "findingYourAnswer": "Je antwoord zoeken",
+    "typingYourResponse": "Je antwoord typen",
     "orderFormUnverifiedTrackOrderPrompt": "Laten we je bestelling volgen",
     "orderFormUnverifiedOrderDetailsLabel": "Bestelgegevens",
     "orderFormUnverifiedInputPlaceholder": "E-mailadres / Telefoonnummer / Bestel-ID",
@@ -199,7 +195,7 @@
     "orderListReturnOrder": "Bestelling retourneren",
     "orderListCancelOrderMessage": "Mijn bestelnummer is {{orderId}}. Ik wil mijn bestelling annuleren.",
     "orderListReturnOrderMessage": "Mijn bestelnummer is {{orderId}}. Ik wil mijn bestelling retourneren.",
-    "orderListNeedHelpMessage": "Hulp nodig bij bestelling {{orderId}}",
+    "orderListNeedHelpMessage": "Ik heb mijn bestelling gevolgd. Ik heb meer vragen over mijn bestelling {{orderId}}",
     "seeOtherPicks": "Bekijk onze andere topkeuzes",
     "orderListHereAreYourOrders": "Hier zijn uw bestellingen",
     "orderFormBackButton": "Terug"
