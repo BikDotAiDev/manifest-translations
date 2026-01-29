@@ -194,6 +194,13 @@
     "orderListNeedHelpMessage": "Tôi đã theo dõi đơn hàng. Tôi có thêm câu hỏi về đơn hàng {{orderId}}",
     "orderListHereAreYourOrders": "Đây là đơn hàng của bạn",
     "orderFormBackButton": "Quay lại",
+    "orderFormPhoneNumberLabel": "Nhập số điện thoại",
+    "orderFormPincodeLabel": "Nhập mã bưu chính",
+    "orderFormPincodePlaceholder": "Mã bưu chính",
+    "orderFormPhoneNumberError": "Vui lòng nhập số điện thoại",
+    "orderFormPincodeError": "Vui lòng nhập mã bưu chính",
+    "orderFormNoOrdersFoundPhoneAndPincode": "Không tìm thấy đơn hàng nào với số điện thoại và mã bưu chính này",
+    "orderFormForgotDetails": "Quên chi tiết của bạn?",
     "recommendLike": "Đề xuất tương tự"
   }
 }

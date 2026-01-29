@@ -208,6 +208,13 @@
     "yesSure": "Da, naravno!",
     "orderListHereAreYourOrders": "Evo vaših narudžbi",
     "orderFormBackButton": "Natrag",
+    "orderFormPhoneNumberLabel": "Unesite telefonski broj",
+    "orderFormPincodeLabel": "Unesite poštanski broj",
+    "orderFormPincodePlaceholder": "Poštanski broj",
+    "orderFormPhoneNumberError": "Molimo unesite telefonski broj",
+    "orderFormPincodeError": "Molimo unesite poštanski broj",
+    "orderFormNoOrdersFoundPhoneAndPincode": "Nema pronađenih narudžbi s ovim telefonskim brojem i poštanskim brojem",
+    "orderFormForgotDetails": "Zaboravili ste svoje podatke?",
     "recommendLike": "Preporuči slično",
     "discountCouponText": "Woohoo 🎉 Imate pravo na {{couponTitle}}.",
     "getOffer": "Dobiti ponudu"

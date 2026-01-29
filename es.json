@@ -210,6 +210,13 @@
     "orderListNeedHelpMessage": "He rastreado mi pedido. Tengo más preguntas sobre mi pedido {{orderId}}",
     "seeOtherPicks": "Ver nuestras otras selecciones principales",
     "orderListHereAreYourOrders": "Aquí están sus pedidos",
-    "orderFormBackButton": "Volver"
+    "orderFormBackButton": "Volver",
+    "orderFormPhoneNumberLabel": "Ingrese el número de teléfono",
+    "orderFormPincodeLabel": "Ingrese el código postal",
+    "orderFormPincodePlaceholder": "Código postal",
+    "orderFormPhoneNumberError": "Por favor ingrese un número de teléfono",
+    "orderFormPincodeError": "Por favor ingrese un código postal",
+    "orderFormNoOrdersFoundPhoneAndPincode": "No se encontraron pedidos con este número de teléfono y código postal",
+    "orderFormForgotDetails": "¿Olvidó sus datos?"
   }
 }

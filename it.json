@@ -210,6 +210,13 @@
     "returnToChat": "Torna alla chat",
     "seeOtherPicks": "Vedi le nostre altre scelte migliori",
     "orderListHereAreYourOrders": "Ecco i tuoi ordini",
-    "orderFormBackButton": "Indietro"
+    "orderFormBackButton": "Indietro",
+    "orderFormPhoneNumberLabel": "Inserisci il numero di telefono",
+    "orderFormPincodeLabel": "Inserisci il codice postale",
+    "orderFormPincodePlaceholder": "Codice postale",
+    "orderFormPhoneNumberError": "Inserisci il numero di telefono",
+    "orderFormPincodeError": "Inserisci il codice postale",
+    "orderFormNoOrdersFoundPhoneAndPincode": "Nessun ordine trovato con questo numero di telefono e codice postale",
+    "orderFormForgotDetails": "Hai dimenticato i tuoi dati?"
   }
 }

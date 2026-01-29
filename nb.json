@@ -193,6 +193,13 @@
     "orderFormEmailOnlyTitle": "La oss spore bestillingen din",
     "orderListNeedHelpMessage": "Jeg sporet bestillingen min. Jeg har flere spørsmål om bestillingen min {{orderId}}",
     "orderListHereAreYourOrders": "Her er bestillingene dine",
-    "orderFormBackButton": "Tilbake"
+    "orderFormBackButton": "Tilbake",
+    "orderFormPhoneNumberLabel": "Skriv inn telefonnummer",
+    "orderFormPincodeLabel": "Skriv inn postnummer",
+    "orderFormPincodePlaceholder": "Postnummer",
+    "orderFormPhoneNumberError": "Vennligst skriv inn et telefonnummer",
+    "orderFormPincodeError": "Vennligst skriv inn et postnummer",
+    "orderFormNoOrdersFoundPhoneAndPincode": "Ingen bestillinger funnet med dette telefonnummeret og postnummeret",
+    "orderFormForgotDetails": "Glemt detaljer dine?"
   }
 }
