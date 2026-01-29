@@ -195,6 +195,13 @@
     "orderFormEmailOnlyTitle": "注文を追跡しましょう",
     "orderListHereAreYourOrders": "こちらがあなたのご注文です",
     "orderFormBackButton": "戻る",
+    "orderFormPhoneNumberLabel": "電話番号を入力してください",
+    "orderFormPincodeLabel": "郵便番号を入力してください",
+    "orderFormPincodePlaceholder": "郵便番号",
+    "orderFormPhoneNumberError": "電話番号を入力してください",
+    "orderFormPincodeError": "郵便番号を入力してください",
+    "orderFormNoOrdersFoundPhoneAndPincode": "この電話番号と郵便番号の注文が見つかりません",
+    "orderFormForgotDetails": "詳細を忘れましたか?",
     "recommendLike": "類似をおすすめ"
   }
 }

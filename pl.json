@@ -210,6 +210,13 @@
     "seeOtherPicks": "Zobacz nasze inne topowe wybory",
     "orderListHereAreYourOrders": "Oto twoje zamówienia",
     "orderFormBackButton": "Wstecz",
+    "orderFormPhoneNumberLabel": "Wpisz numer telefonu",
+    "orderFormPincodeLabel": "Wpisz kod pocztowy",
+    "orderFormPincodePlaceholder": "Kod pocztowy",
+    "orderFormPhoneNumberError": "Proszę wpisać numer telefonu",
+    "orderFormPincodeError": "Proszę wpisać kod pocztowy",
+    "orderFormNoOrdersFoundPhoneAndPincode": "Nie znaleziono zamówień z tym numerem telefonu i kodem pocztowym",
+    "orderFormForgotDetails": "Zapomniałeś swoich danych?",
     "recommendLike": "Poleć podobne"
   }
 }

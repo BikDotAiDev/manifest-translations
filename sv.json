@@ -194,6 +194,13 @@
     "orderFormEmailOnlyTitle": "Låt oss spåra din beställning",
     "orderListHereAreYourOrders": "Här är dina beställningar",
     "orderFormBackButton": "Tillbaka",
+    "orderFormPhoneNumberLabel": "Ange telefonnummer",
+    "orderFormPincodeLabel": "Ange postnummer",
+    "orderFormPincodePlaceholder": "Postnummer",
+    "orderFormPhoneNumberError": "Vänligen ange ett telefonnummer",
+    "orderFormPincodeError": "Vänligen ange ett postnummer",
+    "orderFormNoOrdersFoundPhoneAndPincode": "Inga beställningar hittades med det här telefonnumret och postnumret",
+    "orderFormForgotDetails": "Glömt dina detaljer?",
     "recommendLike": "Rekommendera liknande"
   }
 }

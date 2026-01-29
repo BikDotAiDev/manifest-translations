@@ -193,6 +193,14 @@
     "orderOtpRateLimitError": "Du har overskredet det maksimale antal OTP-anmodninger. Prøv igen om en time.",
     "orderFormVerifyNoOrderFoundOrderId": "Ingen ordrer fundet for dette ordre-ID. Prøv igen.",
     "orderFormEmailOnlyTitle": "Lad os spore din ordre",
-    "orderListHereAreYourOrders": "Her er dine ordrer"
+    "orderListHereAreYourOrders": "Her er dine ordrer",
+    "orderFormBackButton": "Tilbage",
+    "orderFormPhoneNumberLabel": "Indtast telefonnummer",
+    "orderFormPincodeLabel": "Angiv postnummer",
+    "orderFormPincodePlaceholder": "Postnummer",
+    "orderFormPhoneNumberError": "Angiv venligst et telefonnummer",
+    "orderFormPincodeError": "Angiv venligst et postnummer",
+    "orderFormNoOrdersFoundPhoneAndPincode": "Ingen ordrer fundet med dette telefonnummer og postnummer",
+    "orderFormForgotDetails": "Glemt dine detaljer?"
   }
 }

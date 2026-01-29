@@ -194,6 +194,13 @@
     "orderFormEmailOnlyTitle": "Siparişinizi takip edelim",
     "orderListHereAreYourOrders": "İşte siparişleriniz",
     "orderFormBackButton": "Geri",
+    "orderFormPhoneNumberLabel": "Telefon numarasını girin",
+    "orderFormPincodeLabel": "Posta kodunu girin",
+    "orderFormPincodePlaceholder": "Posta kodu",
+    "orderFormPhoneNumberError": "Lütfen telefon numarası girin",
+    "orderFormPincodeError": "Lütfen posta kodu girin",
+    "orderFormNoOrdersFoundPhoneAndPincode": "Bu telefon numarası ve posta kodu ile sipariş bulunamadı",
+    "orderFormForgotDetails": "Bilgilerinizi mi unuttunuz?",
     "recommendLike": "Benzerini öner"
   }
 }

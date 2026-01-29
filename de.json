@@ -210,6 +210,13 @@
     "orderListNeedHelpMessage": "Ich habe meine Bestellung verfolgt. Ich habe mehr Fragen zu meiner Bestellung {{orderId}}",
     "seeOtherPicks": "Siehe unsere anderen Spitzenauswahlen",
     "orderListHereAreYourOrders": "Hier sind Ihre Bestellungen",
-    "orderFormBackButton": "Zurück"
+    "orderFormBackButton": "Zurück",
+    "orderFormPhoneNumberLabel": "Telefonnummer eingeben",
+    "orderFormPincodeLabel": "Postleitzahl eingeben",
+    "orderFormPincodePlaceholder": "Postleitzahl",
+    "orderFormPhoneNumberError": "Bitte geben Sie eine Telefonnummer ein",
+    "orderFormPincodeError": "Bitte geben Sie eine Postleitzahl ein",
+    "orderFormNoOrdersFoundPhoneAndPincode": "Keine Bestellungen mit dieser Telefonnummer und Postleitzahl gefunden",
+    "orderFormForgotDetails": "Haben Sie Ihre Angaben vergessen?"
   }
 }

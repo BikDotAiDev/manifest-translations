@@ -180,7 +180,14 @@
     "orderListNeedHelpMessage": "I tracked my order. I have more enquiry about my order {{orderId}}",
     "seeOtherPicks": "See our other top picks",
     "orderListHereAreYourOrders": "Here are your orders",
-    "orderFormBackButton": "Back"
+    "orderFormBackButton": "Back",
+    "orderFormPhoneNumberLabel": "Enter Phone Number",
+    "orderFormPincodeLabel": "Enter Pincode",
+    "orderFormPincodePlaceholder": "Pincode",
+    "orderFormPhoneNumberError": "Please enter a phone number",
+    "orderFormPincodeError": "Please enter a pincode",
+    "orderFormNoOrdersFoundPhoneAndPincode": "No orders found with this phone number and pincode",
+    "orderFormForgotDetails": "Forgot your details?"
   },
   "others": {
     "suggestedReplies": {

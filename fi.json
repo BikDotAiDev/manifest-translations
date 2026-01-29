@@ -194,6 +194,13 @@
     "orderFormVerifyNoOrderFoundOrderId": "Tälle tilaus-ID:lle ei löytynyt tilauksia. Yritä uudelleen.",
     "orderFormEmailOnlyTitle": "Seurataan tilaustasi",
     "orderListHereAreYourOrders": "Tässä ovat tilauksesi",
-    "orderFormBackButton": "Takaisin"
+    "orderFormBackButton": "Takaisin",
+    "orderFormPhoneNumberLabel": "Syötä puhelinnumero",
+    "orderFormPincodeLabel": "Syötä postinumero",
+    "orderFormPincodePlaceholder": "Postinumero",
+    "orderFormPhoneNumberError": "Syötä puhelinnumero",
+    "orderFormPincodeError": "Syötä postinumero",
+    "orderFormNoOrdersFoundPhoneAndPincode": "Tilauksia ei löydy tällä puhelinnumerolla ja postinumerolla",
+    "orderFormForgotDetails": "Unohditko tietosi?"
   }
 }

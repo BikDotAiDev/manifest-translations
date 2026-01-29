@@ -194,6 +194,13 @@
     "orderFormVerifyNoOrderFoundOrderId": "لم يتم العثور على طلبات لمعرف الطلب هذا. يرجى المحاولة مرة أخرى.",
     "orderFormEmailOnlyTitle": "دعنا نتتبع طلبك",
     "orderListHereAreYourOrders": "هنا طلباتك",
-    "orderFormBackButton": "رجوع"
+    "orderFormBackButton": "رجوع",
+    "orderFormPhoneNumberLabel": "أدخل رقم الهاتف",
+    "orderFormPincodeLabel": "أدخل الرمز البريدي",
+    "orderFormPincodePlaceholder": "الرمز البريدي",
+    "orderFormPhoneNumberError": "يرجى إدخال رقم هاتف",
+    "orderFormPincodeError": "يرجى إدخال رمز بريدي",
+    "orderFormNoOrdersFoundPhoneAndPincode": "لم يتم العثور على أوامر برقم هاتف ورمز بريدي",
+    "orderFormForgotDetails": "هل نسيت بياناتك?"
   }
 }
