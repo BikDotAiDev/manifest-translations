@@ -210,6 +210,13 @@
     "orderListNeedHelpMessage": "J'ai suivi ma commande. J'ai plus de questions sur ma commande {{orderId}}",
     "seeOtherPicks": "Voir nos autres choix",
     "orderListHereAreYourOrders": "Voici vos commandes",
-    "orderFormBackButton": "Retour"
+    "orderFormBackButton": "Retour",
+    "orderFormPhoneNumberLabel": "Entrez le numéro de téléphone",
+    "orderFormPincodeLabel": "Entrez le code postal",
+    "orderFormPincodePlaceholder": "Code postal",
+    "orderFormPhoneNumberError": "Veuillez entrer un numéro de téléphone",
+    "orderFormPincodeError": "Veuillez entrer un code postal",
+    "orderFormNoOrdersFoundPhoneAndPincode": "Aucune commande trouvée avec ce numéro de téléphone et ce code postal",
+    "orderFormForgotDetails": "Oublié vos coordonnées?"
   }
 }

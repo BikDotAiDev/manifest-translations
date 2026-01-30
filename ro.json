@@ -194,6 +194,13 @@
     "orderFormEmailOnlyTitle": "Să urmărim comanda ta",
     "orderListHereAreYourOrders": "Iată comenzile tale",
     "orderFormBackButton": "Înapoi",
+    "orderFormPhoneNumberLabel": "Introduceți numărul de telefon",
+    "orderFormPincodeLabel": "Introduceți codul poștal",
+    "orderFormPincodePlaceholder": "Cod poștal",
+    "orderFormPhoneNumberError": "Vă rugăm introduceți un număr de telefon",
+    "orderFormPincodeError": "Vă rugăm introduceți un cod poștal",
+    "orderFormNoOrdersFoundPhoneAndPincode": "Nicio comandă găsită cu acest număr de telefon și cod poștal",
+    "orderFormForgotDetails": "Ți-ai uitat datele?",
     "recommendLike": "Recomandă similar"
   }
 }

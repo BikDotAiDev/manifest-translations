@@ -194,6 +194,13 @@
     "orderListReturnOrder": "Rendelés visszaküldése",
     "orderListHereAreYourOrders": "Itt vannak a rendelései",
     "orderFormBackButton": "Vissza",
+    "orderFormPhoneNumberLabel": "Adja meg a telefonszámot",
+    "orderFormPincodeLabel": "Adja meg az irányítószámot",
+    "orderFormPincodePlaceholder": "Irányítószám",
+    "orderFormPhoneNumberError": "Kérjük, adjon meg egy telefonszámot",
+    "orderFormPincodeError": "Kérjük, adjon meg egy irányítószámot",
+    "orderFormNoOrdersFoundPhoneAndPincode": "Nem találhatók rendelések ezzel a telefonszámmal és irányítószámmal",
+    "orderFormForgotDetails": "Elfelejtetted az adataidat?",
     "recommendLike": "Ajánlj hasonlót"
   }
 }

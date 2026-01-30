@@ -194,6 +194,13 @@
     "orderFormVerifyNoOrderFoundOrderId": "未找到此订单ID的订单。请重试。",
     "orderFormEmailOnlyTitle": "让我们追踪您的订单",
     "orderListHereAreYourOrders": "这里是您的订单",
-    "orderFormBackButton": "返回"
+    "orderFormBackButton": "返回",
+    "orderFormPhoneNumberLabel": "请输入电话号码",
+    "orderFormPincodeLabel": "请输入邮政编码",
+    "orderFormPincodePlaceholder": "邮政编码",
+    "orderFormPhoneNumberError": "请输入电话号码",
+    "orderFormPincodeError": "请输入邮政编码",
+    "orderFormNoOrdersFoundPhoneAndPincode": "未找到使用此电话号码和邮政编码的订单",
+    "orderFormForgotDetails": "忘记了您的详细信息?"
   }
 }

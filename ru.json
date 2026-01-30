@@ -1,4 +1,11 @@
 {
   "recommendLike": "Рекомендовать похожее",
-  "viewSimilar": "Посмотреть похожие"
+  "viewSimilar": "Посмотреть похожие",
+  "orderFormPhoneNumberLabel": "Введите номер телефона",
+  "orderFormPincodeLabel": "Введите почтовый индекс",
+  "orderFormPincodePlaceholder": "Почтовый индекс",
+  "orderFormPhoneNumberError": "Пожалуйста, введите номер телефона",
+  "orderFormPincodeError": "Пожалуйста, введите почтовый индекс",
+  "orderFormNoOrdersFoundPhoneAndPincode": "Заказы с этим номером телефона и почтовым индексом не найдены",
+  "orderFormForgotDetails": "Забыли ваши данные?"
 }

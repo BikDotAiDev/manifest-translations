@@ -198,6 +198,13 @@
     "orderListNeedHelpMessage": "Ik heb mijn bestelling gevolgd. Ik heb meer vragen over mijn bestelling {{orderId}}",
     "seeOtherPicks": "Bekijk onze andere topkeuzes",
     "orderListHereAreYourOrders": "Hier zijn uw bestellingen",
-    "orderFormBackButton": "Terug"
+    "orderFormBackButton": "Terug",
+    "orderFormPhoneNumberLabel": "Voer telefoonnummer in",
+    "orderFormPincodeLabel": "Voer postcode in",
+    "orderFormPincodePlaceholder": "Postcode",
+    "orderFormPhoneNumberError": "Voer alstublieft een telefoonnummer in",
+    "orderFormPincodeError": "Voer alstublieft een postcode in",
+    "orderFormNoOrdersFoundPhoneAndPincode": "Geen bestellingen gevonden met dit telefoonnummer en deze postcode",
+    "orderFormForgotDetails": "Uw gegevens vergeten?"
   }
 }
