@@ -187,7 +187,8 @@
     "orderFormPhoneNumberError": "Please enter a phone number",
     "orderFormPincodeError": "Please enter a pincode",
     "orderFormNoOrdersFoundPhoneAndPincode": "No orders found with this phone number and pincode",
-    "orderFormForgotDetails": "Forgot your details?"
+    "orderFormForgotDetails": "Forgot your details?",
+    "ask": "Ask"
   },
   "others": {
     "suggestedReplies": {
