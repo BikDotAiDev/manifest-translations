@@ -8,5 +8,7 @@
   "orderFormPhoneNumberError": "Пожалуйста, введите номер телефона",
   "orderFormPincodeError": "Пожалуйста, введите почтовый индекс",
   "orderFormNoOrdersFoundPhoneAndPincode": "Заказы с этим номером телефона и почтовым индексом не найдены",
-  "orderFormForgotDetails": "Забыли ваши данные?"
+  "orderFormForgotDetails": "Забыли ваши данные?",
+  "productSpecialistInputPlaceholder": "Напишите свой вопрос здесь",
+  "continueButton": "Нажмите здесь для продолжения"
 }

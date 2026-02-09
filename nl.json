@@ -206,6 +206,8 @@
     "orderFormPhoneNumberError": "Voer alstublieft een telefoonnummer in",
     "orderFormPincodeError": "Voer alstublieft een postcode in",
     "orderFormNoOrdersFoundPhoneAndPincode": "Geen bestellingen gevonden met dit telefoonnummer en deze postcode",
-    "orderFormForgotDetails": "Uw gegevens vergeten?"
+    "orderFormForgotDetails": "Uw gegevens vergeten?",
+    "productSpecialistInputPlaceholder": "Typ hier je vraag",
+    "continueButton": "Klik hier om door te gaan"
   }
 }

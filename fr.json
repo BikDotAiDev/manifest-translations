@@ -218,6 +218,8 @@
     "orderFormPhoneNumberError": "Veuillez entrer un numéro de téléphone",
     "orderFormPincodeError": "Veuillez entrer un code postal",
     "orderFormNoOrdersFoundPhoneAndPincode": "Aucune commande trouvée avec ce numéro de téléphone et ce code postal",
-    "orderFormForgotDetails": "Oublié vos coordonnées?"
+    "orderFormForgotDetails": "Oublié vos coordonnées?",
+    "productSpecialistInputPlaceholder": "Tapez votre question ici",
+    "continueButton": "Cliquez ici pour continuer"
   }
 }

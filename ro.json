@@ -202,6 +202,8 @@
     "orderFormPincodeError": "Vă rugăm introduceți un cod poștal",
     "orderFormNoOrdersFoundPhoneAndPincode": "Nicio comandă găsită cu acest număr de telefon și cod poștal",
     "orderFormForgotDetails": "Ți-ai uitat datele?",
-    "recommendLike": "Recomandă similar"
+    "recommendLike": "Recomandă similar",
+    "productSpecialistInputPlaceholder": "Scrie-ți întrebarea aici",
+    "continueButton": "Faceți clic aici pentru a continua"
   }
 }

@@ -218,6 +218,8 @@
     "orderFormPhoneNumberError": "Bitte geben Sie eine Telefonnummer ein",
     "orderFormPincodeError": "Bitte geben Sie eine Postleitzahl ein",
     "orderFormNoOrdersFoundPhoneAndPincode": "Keine Bestellungen mit dieser Telefonnummer und Postleitzahl gefunden",
-    "orderFormForgotDetails": "Haben Sie Ihre Angaben vergessen?"
+    "orderFormForgotDetails": "Haben Sie Ihre Angaben vergessen?",
+    "productSpecialistInputPlaceholder": "Geben Sie hier Ihre Frage ein",
+    "continueButton": "Hier klicken, um fortzufahren"
   }
 }

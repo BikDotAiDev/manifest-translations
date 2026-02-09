@@ -202,6 +202,8 @@
     "orderFormPincodeError": "Lütfen posta kodu girin",
     "orderFormNoOrdersFoundPhoneAndPincode": "Bu telefon numarası ve posta kodu ile sipariş bulunamadı",
     "orderFormForgotDetails": "Bilgilerinizi mi unuttunuz?",
-    "recommendLike": "Benzerini öner"
+    "recommendLike": "Benzerini öner",
+    "productSpecialistInputPlaceholder": "Soruğu buraya yazın",
+    "continueButton": "Devam etmek için buraya tıklayın"
   }
 }
