@@ -202,6 +202,7 @@
     "orderFormPincodeError": "Vänligen ange ett postnummer",
     "orderFormNoOrdersFoundPhoneAndPincode": "Inga beställningar hittades med det här telefonnumret och postnumret",
     "orderFormForgotDetails": "Glömt dina detaljer?",
-    "recommendLike": "Rekommendera liknande"
+    "recommendLike": "Rekommendera liknande",
+    "olderConversations": "Äldre konversationer"
   }
 }

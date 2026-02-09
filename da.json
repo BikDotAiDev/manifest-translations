@@ -202,6 +202,7 @@
     "orderFormPhoneNumberError": "Angiv venligst et telefonnummer",
     "orderFormPincodeError": "Angiv venligst et postnummer",
     "orderFormNoOrdersFoundPhoneAndPincode": "Ingen ordrer fundet med dette telefonnummer og postnummer",
-    "orderFormForgotDetails": "Glemt dine detaljer?"
+    "orderFormForgotDetails": "Glemt dine detaljer?",
+    "olderConversations": "Ældre samtaler"
   }
 }

@@ -202,6 +202,7 @@
     "orderFormPincodeError": "Vui lòng nhập mã bưu chính",
     "orderFormNoOrdersFoundPhoneAndPincode": "Không tìm thấy đơn hàng nào với số điện thoại và mã bưu chính này",
     "orderFormForgotDetails": "Quên chi tiết của bạn?",
-    "recommendLike": "Đề xuất tương tự"
+    "recommendLike": "Đề xuất tương tự",
+    "olderConversations": "Cuộc trò chuyện cũ"
   }
 }
