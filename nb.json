@@ -201,6 +201,7 @@
     "orderFormPhoneNumberError": "Vennligst skriv inn et telefonnummer",
     "orderFormPincodeError": "Vennligst skriv inn et postnummer",
     "orderFormNoOrdersFoundPhoneAndPincode": "Ingen bestillinger funnet med dette telefonnummeret og postnummeret",
-    "orderFormForgotDetails": "Glemt detaljer dine?"
+    "orderFormForgotDetails": "Glemt detaljer dine?",
+    "olderConversations": "Eldre samtaler"
   }
 }

@@ -218,6 +218,7 @@
     "orderFormPincodeError": "Proszę wpisać kod pocztowy",
     "orderFormNoOrdersFoundPhoneAndPincode": "Nie znaleziono zamówień z tym numerem telefonu i kodem pocztowym",
     "orderFormForgotDetails": "Zapomniałeś swoich danych?",
-    "recommendLike": "Poleć podobne"
+    "recommendLike": "Poleć podobne",
+    "olderConversations": "Starsze rozmowy"
   }
 }

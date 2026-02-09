@@ -217,7 +217,8 @@
     "orderFormForgotDetails": "Zaboravili ste svoje podatke?",
     "recommendLike": "Preporuči slično",
     "discountCouponText": "Woohoo 🎉 Imate pravo na {{couponTitle}}.",
-    "getOffer": "Dobiti ponudu"
+    "getOffer": "Dobiti ponudu",
+    "olderConversations": "Stariji razgovori"
   },
   "others": {
     "popUpMessages": {

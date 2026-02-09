@@ -405,7 +405,8 @@
     "orderFormForgotDetails": "ลืมรายละเอียดของคุณ?",
     "recommendLike": "แนะนำที่คล้ายกัน",
     "discountCouponText": "วู้ฮู! 🎉 คุณมีสิทธิ์รับ {{couponTitle}}",
-    "getOffer": "รับข้อเสนอ"
+    "getOffer": "รับข้อเสนอ",
+    "olderConversations": "การสนทนาเก่า"
   },
   "others": {
     "popUpMessages": {

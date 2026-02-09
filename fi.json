@@ -202,6 +202,7 @@
     "orderFormPhoneNumberError": "Syötä puhelinnumero",
     "orderFormPincodeError": "Syötä postinumero",
     "orderFormNoOrdersFoundPhoneAndPincode": "Tilauksia ei löydy tällä puhelinnumerolla ja postinumerolla",
-    "orderFormForgotDetails": "Unohditko tietosi?"
+    "orderFormForgotDetails": "Unohditko tietosi?",
+    "olderConversations": "Vanhemmat keskustelut"
   }
 }
