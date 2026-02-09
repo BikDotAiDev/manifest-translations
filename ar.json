@@ -203,6 +203,8 @@
     "orderFormPincodeError": "يرجى إدخال رمز بريدي",
     "orderFormNoOrdersFoundPhoneAndPincode": "لم يتم العثور على أوامر برقم هاتف ورمز بريدي",
     "orderFormForgotDetails": "هل نسيت بياناتك?",
+    "productSpecialistInputPlaceholder": "اكتب سؤالك هنا",
+    "continueButton": "انقر هنا للمتابعة",
     "olderConversations": "المحادثات الأقدم"
   }
 }

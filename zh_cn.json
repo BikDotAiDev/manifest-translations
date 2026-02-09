@@ -198,6 +198,8 @@
     "orderFormPincodeError": "请输入邮政编码",
     "orderFormNoOrdersFoundPhoneAndPincode": "未找到使用此电话号码和邮政编码的订单",
     "orderFormForgotDetails": "忘记了您的详细信息?",
+    "productSpecialistInputPlaceholder": "在此输入你的问题",
+    "continueButton": "点击此处继续",
     "olderConversations": "旧的对话"
   }
 }

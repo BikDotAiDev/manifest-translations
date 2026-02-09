@@ -203,6 +203,8 @@
     "orderFormNoOrdersFoundPhoneAndPincode": "Không tìm thấy đơn hàng nào với số điện thoại và mã bưu chính này",
     "orderFormForgotDetails": "Quên chi tiết của bạn?",
     "recommendLike": "Đề xuất tương tự",
+    "productSpecialistInputPlaceholder": "Nhập câu hỏi của bạn đây",
+    "continueButton": "Nhận vào đây để tiếp tục",
     "olderConversations": "Cuộc trò chuyện cũ"
   }
 }

@@ -204,6 +204,8 @@
     "orderFormNoOrdersFoundPhoneAndPincode": "この電話番号と郵便番号の注文が見つかりません",
     "orderFormForgotDetails": "詳細を忘れましたか?",
     "recommendLike": "類似をおすすめ",
+    "productSpecialistInputPlaceholder": "ここに質問を入力してください",
+    "continueButton": "ここをクリックして続行",
     "olderConversations": "過去の会話"
   }
 }

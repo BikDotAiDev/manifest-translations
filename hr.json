@@ -216,6 +216,8 @@
     "orderFormNoOrdersFoundPhoneAndPincode": "Nema pronađenih narudžbi s ovim telefonskim brojem i poštanskim brojem",
     "orderFormForgotDetails": "Zaboravili ste svoje podatke?",
     "recommendLike": "Preporuči slično",
+    "productSpecialistInputPlaceholder": "Upiši svoje pitanje ovdje",
+    "continueButton": "Kliknite ovdje za nastavak",
     "discountCouponText": "Woohoo 🎉 Imate pravo na {{couponTitle}}.",
     "getOffer": "Dobiti ponudu",
     "olderConversations": "Stariji razgovori"

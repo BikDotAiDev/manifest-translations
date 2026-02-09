@@ -197,6 +197,8 @@
     "orderFormPhoneNumberError": "请输入电话号码",
     "orderFormPincodeError": "请输入邮政编码",
     "orderFormNoOrdersFoundPhoneAndPincode": "未找到使用此电话号码和邮政编码的订单",
+    "productSpecialistInputPlaceholder": "在此輸入你的問題",
+    "continueButton": "點擊此處繼續",
     "orderFormForgotDetails": "忘记了您的详细信息?",
     "olderConversations": "舊的對話"
   }

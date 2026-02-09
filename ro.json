@@ -203,6 +203,8 @@
     "orderFormNoOrdersFoundPhoneAndPincode": "Nicio comandă găsită cu acest număr de telefon și cod poștal",
     "orderFormForgotDetails": "Ți-ai uitat datele?",
     "recommendLike": "Recomandă similar",
+    "productSpecialistInputPlaceholder": "Scrie-ți întrebarea aici",
+    "continueButton": "Faceți clic aici pentru a continua",
     "olderConversations": "Conversații mai vechi"
   }
 }

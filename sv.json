@@ -203,6 +203,8 @@
     "orderFormNoOrdersFoundPhoneAndPincode": "Inga beställningar hittades med det här telefonnumret och postnumret",
     "orderFormForgotDetails": "Glömt dina detaljer?",
     "recommendLike": "Rekommendera liknande",
+    "productSpecialistInputPlaceholder": "Skriv din fråga här",
+    "continueButton": "Klicka här för att fortsätta",
     "olderConversations": "Äldre konversationer"
   }
 }
