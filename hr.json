@@ -219,7 +219,8 @@
     "productSpecialistInputPlaceholder": "Upiši svoje pitanje ovdje",
     "continueButton": "Kliknite ovdje za nastavak",
     "discountCouponText": "Woohoo 🎉 Imate pravo na {{couponTitle}}.",
-    "getOffer": "Dobiti ponudu"
+    "getOffer": "Dobiti ponudu",
+    "olderConversations": "Stariji razgovori"
   },
   "others": {
     "popUpMessages": {

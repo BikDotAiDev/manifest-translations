@@ -204,6 +204,7 @@
     "orderFormNoOrdersFoundPhoneAndPincode": "Tilauksia ei löydy tällä puhelinnumerolla ja postinumerolla",
     "orderFormForgotDetails": "Unohditko tietosi?",
     "productSpecialistInputPlaceholder": "Kirjoita kysymyksesi tähän",
-    "continueButton": "Napsauta jatkaaksesi"
+    "continueButton": "Napsauta jatkaaksesi",
+    "olderConversations": "Vanhemmat keskustelut"
   }
 }

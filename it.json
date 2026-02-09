@@ -220,6 +220,7 @@
     "orderFormNoOrdersFoundPhoneAndPincode": "Nessun ordine trovato con questo numero di telefono e codice postale",
     "orderFormForgotDetails": "Hai dimenticato i tuoi dati?",
     "productSpecialistInputPlaceholder": "Scrivi qui la tua domanda",
-    "continueButton": "Clicca qui per continuare"
+    "continueButton": "Clicca qui per continuare",
+    "olderConversations": "Conversazioni precedenti"
   }
 }

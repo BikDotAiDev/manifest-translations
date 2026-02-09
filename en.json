@@ -190,7 +190,8 @@
     "orderFormForgotDetails": "Forgot your details?",
     "productSpecialistInputPlaceholder": "Type your question here",
     "continueButton": "Click here to continue",
-    "ask": "Ask"
+    "ask": "Ask",
+    "olderConversations": "Older Conversations"
   },
   "others": {
     "suggestedReplies": {

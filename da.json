@@ -204,6 +204,7 @@
     "orderFormNoOrdersFoundPhoneAndPincode": "Ingen ordrer fundet med dette telefonnummer og postnummer",
     "orderFormForgotDetails": "Glemt dine detaljer?",
     "productSpecialistInputPlaceholder": "Skriv dit spørgsmål her",
-    "continueButton": "Klik her for at fortsætte"
+    "continueButton": "Klik her for at fortsætte",
+    "olderConversations": "Ældre samtaler"
   }
 }
