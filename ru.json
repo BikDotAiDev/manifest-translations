@@ -1,6 +1,7 @@
 {
   "recommendLike": "Рекомендовать похожее",
   "ask": "Спросить",
+  "selectCountryCode": "Выберите код страны",
   "viewSimilar": "Посмотреть похожие",
   "orderFormPhoneNumberLabel": "Введите номер телефона",
   "orderFormPincodeLabel": "Введите почтовый индекс",

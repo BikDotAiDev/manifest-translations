@@ -251,6 +251,7 @@
     "orderFormVerifyNoOrderFoundOrderId": "ไม่พบคำสั่งซื้อสำหรับ ID คำสั่งซื้อนี้ กรุณาลองใหม่อีกครั้ง",
     "orderFormEmailOnlyEmailLabel": "Enter e-mail address",
     "search": "ค้นหา",
+    "selectCountryCode": "เลือกรหัสประเทศ",
     "askMoreAboutThisProduct": "ถามเพิ่มเติมเกี่ยวกับผลิตภัณฑ์นี้",
     "orderFormEmailOnlyEmailPlaceholder": "ป้อนอีเมลของคุณ",
     "orderFormForgotOrderId": "ลืมรหัสคำสั่งซื้อ?",
