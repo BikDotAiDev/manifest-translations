@@ -88,6 +88,7 @@
     "welcomeMessageHomePage": "Benvenuto su {{storeName}}! Come posso aiutarti oggi?",
     "welcomeMessageProductPage": "Chiedimi qualsiasi cosa su questo prodotto",
     "whatAreYourBestSellers": "Quali sono i tuoi prodotti più venduti?",
+    "summarizeReviews": "Riassumi le recensioni di questo prodotto",
     "yesSure": "Sì, certo!",
     "insideCustomWorkflow": "Sei nel flusso {{query}}",
     "leaveCustomWorkflow": "Stai per uscire dal flusso {{query}}",

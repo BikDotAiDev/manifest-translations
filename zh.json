@@ -88,6 +88,7 @@
     "welcomeMessageHomePage": "歡迎來到 {{storeName}}！今天我能幫您什麼？",
     "welcomeMessageProductPage": "問我任何關於該產品的問題",
     "whatAreYourBestSellers": "你們的暢銷產品有哪些？",
+    "summarizeReviews": "總結此產品的評論",
     "yesSure": "好的，當然！",
     "insideCustomWorkflow": "您在 {{query}} 流程內",
     "leaveCustomWorkflow": "您即将离开 {{query}} 流程",

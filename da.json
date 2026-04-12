@@ -88,6 +88,7 @@
     "welcomeMessageHomePage": "Velkommen til {{storeName}}! Hvordan kan jeg hjælpe dig i dag?",
     "welcomeMessageProductPage": "Spørg mig om noget angående dette produkt",
     "whatAreYourBestSellers": "Hvad er dine bedstsælgende produkter?",
+    "summarizeReviews": "Sammenfat anmeldelserne for dette produkt",
     "yesSure": "Ja, selvfølgelig!",
     "insideCustomWorkflow": "Du er inde i {{query}}-flowet",
     "leaveCustomWorkflow": "Du er ved at forlade {{query}}-flowet",
