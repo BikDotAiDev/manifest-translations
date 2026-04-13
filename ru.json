@@ -1,6 +1,7 @@
 {
   "recommendLike": "Рекомендовать похожее",
   "ask": "Спросить",
+  "selectCountryCode": "Выберите код страны",
   "viewSimilar": "Посмотреть похожие",
   "orderFormPhoneNumberLabel": "Введите номер телефона",
   "orderFormPincodeLabel": "Введите почтовый индекс",
@@ -11,5 +12,11 @@
   "orderFormForgotDetails": "Забыли ваши данные?",
   "productSpecialistInputPlaceholder": "Напишите свой вопрос здесь",
   "continueButton": "Нажмите здесь для продолжения",
-  "olderConversations": "Старые беседы"
+  "olderConversations": "Старые беседы",
+  "searchCountryOrCode": "Поиск страны или кода",
+  "continueButtonText": "Продолжить",
+  "pleaseShareYourContactDetails": "Пожалуйста, поделитесь своими контактными данными",
+  "quizSubText": "Чтобы увидеть рекомендации на основе ваших предпочтений.",
+  "discountSubText": "Чтобы получить ваше предложение.",
+  "conversationSubText": "Чтобы продолжить этот разговор."
 }
