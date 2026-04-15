@@ -100,6 +100,7 @@
     "welcomeMessageHomePage": "Welkom bij {{storeName}}! Hoe kan ik u vandaag helpen?",
     "welcomeMessageProductPage": "Vraag me alles over dit product",
     "whatAreYourBestSellers": "Wat zijn je best verkochte producten?",
+    "summarizeReviews": "Vat de beoordelingen voor dit product samen",
     "yesSure": "Ja, natuurlijk!",
     "insideCustomWorkflow": "Je bent in de {{query}}-flow",
     "leaveCustomWorkflow": "Je staat op het punt de {{query}}-flow te verlaten",

@@ -95,6 +95,7 @@
     "welcomeMessageHomePage": "Chào mừng bạn đến với {{storeName}}! Làm thế nào tôi có thể giúp bạn hôm nay?",
     "welcomeMessageProductPage": "Hỏi tôi bất cứ điều gì về sản phẩm này",
     "whatAreYourBestSellers": "Các sản phẩm bán chạy nhất của bạn là gì?",
+    "summarizeReviews": "Tóm tắt đánh giá cho sản phẩm này",
     "yesSure": "Có, chắc chắn!",
     "insideCustomWorkflow": "Bạn đang ở trong luồng {{query}}",
     "leaveCustomWorkflow": "Bạn sắp rời khỏi luồng {{query}}",

@@ -95,6 +95,7 @@
     "welcomeMessageHomePage": "{{storeName}}'a hoş geldiniz! Bugün size nasıl yardımcı olabilirim?",
     "welcomeMessageProductPage": "Bu ürün hakkında bana herhangi bir şey sorabilirsiniz",
     "whatAreYourBestSellers": "En çok satan ürünleriniz nelerdir?",
+    "summarizeReviews": "Bu ürün için yorumları özetle",
     "yesSure": "Evet, tabii ki!",
     "insideCustomWorkflow": "{{query}} akışının içindesiniz",
     "leaveCustomWorkflow": "{{query}} akışından çıkmak üzeresiniz",

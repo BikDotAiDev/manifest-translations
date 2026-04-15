@@ -371,6 +371,7 @@
     "issueOptions": "ตัวเลือกใดต่อไปนี้อธิบายปัญหาได้ดีที่สุด?",
     "orderFormEmailPhonePlaceholder": "alex@email.com หรือ +66 81 234 5678",
     "whatAreYourBestSellers": "สินค้าขายดีของคุณคืออะไร?",
+    "summarizeReviews": "สรุปรีวิวสำหรับสินค้านี้",
     "returns_refunds_policy": "นโยบายการคืนสินค้าและคืนเงิน",
     "spinTheWheelExcitingRewards": "หมุนวงล้อเพื่อชนะรางวัลที่น่าตื่นตาตื่นใจ",
     "searchQuery": "ถามฉันเรื่องอะไรก็ได้เกี่ยวกับ {{query}}",

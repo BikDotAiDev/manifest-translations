@@ -91,6 +91,7 @@
     "welcomeMessageHomePage": "欢迎来到 {{storeName}}！今天我能帮您什么？",
     "welcomeMessageProductPage": "问我任何关于该产品的问题",
     "whatAreYourBestSellers": "你们的畅销产品有哪些？",
+    "summarizeReviews": "总结此产品的评论",
     "yesSure": "好的，当然！",
     "insideCustomWorkflow": "您在 {{query}} 流程内",
     "leaveCustomWorkflow": "您即将离开 {{query}} 流程",

@@ -96,6 +96,7 @@
     "welcomeMessageHomePage": "Tervetuloa {{storeName}}! Kuinka voin auttaa sinua tänään?",
     "welcomeMessageProductPage": "Kysy minulta mitä tahansa tästä tuotteesta",
     "whatAreYourBestSellers": "Mitkä ovat myydyimmät tuotteesi?",
+    "summarizeReviews": "Yhteenveto tämän tuotteen arvioista",
     "yesSure": "Kyllä, totta kai!",
     "insideCustomWorkflow": "Olet sisällä {{query}}-prosessissa",
     "leaveCustomWorkflow": "Olet poistumassa {{query}}-prosessista",
