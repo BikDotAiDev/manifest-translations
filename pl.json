@@ -237,6 +237,7 @@
     "orderFormPincodeError": "Proszę wpisać kod pocztowy",
     "orderFormNoOrdersFoundPhoneAndPincode": "Nie znaleziono zamówień z tym numerem telefonu i kodem pocztowym",
     "orderFormForgotDetails": "Zapomniałeś swoich danych?",
+    "orderFormQuantity": "Ilość",
     "productSpecialistInputPlaceholder": "Wpisz tutaj swoje pytanie",
     "continueButton": "Kliknij tutaj, aby kontynuować",
     "recommendLike": "Poleć podobne",

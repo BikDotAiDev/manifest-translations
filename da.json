@@ -238,6 +238,7 @@
     "orderFormPincodeError": "Angiv venligst et postnummer",
     "orderFormNoOrdersFoundPhoneAndPincode": "Ingen ordrer fundet med dette telefonnummer og postnummer",
     "orderFormForgotDetails": "Glemt dine detaljer?",
+    "orderFormQuantity": "Antal",
     "productSpecialistInputPlaceholder": "Skriv dit spørgsmål her",
     "continueButton": "Klik her for at fortsætte",
     "olderConversations": "Ældre samtaler"

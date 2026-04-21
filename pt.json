@@ -238,6 +238,7 @@
     "orderFormPincodeError": "Por favor, insira um código postal",
     "orderFormNoOrdersFoundPhoneAndPincode": "Nenhum pedido encontrado com este número de telefone e código postal",
     "orderFormForgotDetails": "Esqueceu seus dados?",
+    "orderFormQuantity": "Quantidade",
     "productSpecialistInputPlaceholder": "Digite sua pergunta aqui",
     "continueButton": "Clique aqui para continuar",
     "olderConversations": "Conversas anteriores"

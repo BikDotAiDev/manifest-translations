@@ -225,6 +225,7 @@
     "orderFormPincodeError": "Molimo unesite poštanski broj",
     "orderFormNoOrdersFoundPhoneAndPincode": "Nema pronađenih narudžbi s ovim telefonskim brojem i poštanskim brojem",
     "orderFormForgotDetails": "Zaboravili ste svoje podatke?",
+    "orderFormQuantity": "Količina",
     "recommendLike": "Preporuči slično",
     "productSpecialistInputPlaceholder": "Upiši svoje pitanje ovdje",
     "continueButton": "Kliknite ovdje za nastavak",

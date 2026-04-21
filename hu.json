@@ -237,6 +237,7 @@
     "orderFormPincodeError": "Kérjük, adjon meg egy irányítószámot",
     "orderFormNoOrdersFoundPhoneAndPincode": "Nem találhatók rendelések ezzel a telefonszámmal és irányítószámmal",
     "orderFormForgotDetails": "Elfelejtetted az adataidat?",
+    "orderFormQuantity": "Mennyiség",
     "productSpecialistInputPlaceholder": "Írd be a kérdésed itt",
     "continueButton": "Kattints ide a folyésáttétéshez",
     "recommendLike": "Ajánlj hasonlót",
