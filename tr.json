@@ -8,10 +8,26 @@
       "SEARCH": "Aradığınızı bulamıyor musunuz? Sizi tam olarak aradığınızı bulmanıza yardımcı olabilirim."
     },
     "suggestedReplies": {
-      "COLLECTION": ["En çok satan ürünleriniz nelerdir?", "Ürünlerinizi diğerlerinden ayıran nedir?", "Siparişim nerede?"],
-      "OTHER": ["En çok satan ürünleriniz nelerdir?", "Ürünlerinizi diğerlerinden ayıran nedir?", "Siparişim nerede?"],
-      "PRODUCT": ["Bu ürünü öne çıkan kılan nedir?", "Bana bu ürün gibi daha fazla ürün göster", "Bu ürünün iade politikası nedir?"],
-      "SEARCH": ["Benim için en ilgili ürünleri göster", "Sonuçları gereksinimlerime göre iyileştir", "Bunlar arasında popüler seçenekler neler?"]
+      "COLLECTION": [
+        "En çok satan ürünleriniz nelerdir?",
+        "Ürünlerinizi diğerlerinden ayıran nedir?",
+        "Siparişim nerede?"
+      ],
+      "OTHER": [
+        "En çok satan ürünleriniz nelerdir?",
+        "Ürünlerinizi diğerlerinden ayıran nedir?",
+        "Siparişim nerede?"
+      ],
+      "PRODUCT": [
+        "Bu ürünü öne çıkan kılan nedir?",
+        "Bana bu ürün gibi daha fazla ürün göster",
+        "Bu ürünün iade politikası nedir?"
+      ],
+      "SEARCH": [
+        "Benim için en ilgili ürünleri göster",
+        "Sonuçları gereksinimlerime göre iyileştir",
+        "Bunlar arasında popüler seçenekler neler?"
+      ]
     }
   },
   "translations": {
@@ -104,6 +120,7 @@
     "thinking": "Düşünüyor",
     "findingYourAnswer": "Cevabınız bulunuyor",
     "typingYourResponse": "Cevabınız yazılıyor",
+    "orderFormSubHeader": "Siparişlerinizi görüntülemek için bilgilerinizi girin",
     "orderFormUnverifiedTrackOrderPrompt": "Hadi siparişinizi takip edelim",
     "orderFormUnverifiedOrderDetailsLabel": "Sipariş detayları",
     "orderFormUnverifiedInputPlaceholder": "E-posta Adresi / Telefon Numarası / Sipariş ID'si",
@@ -112,6 +129,14 @@
     "orderFormDontRememberLink": "Hiçbirini hatırlamıyor musunuz?",
     "orderFormForgotEverything": "Her şeyi unuttunuz mu?",
     "orderFormTrackingPortalLink": "Takip portalımızı kontrol edin",
+    "orderTrackingLoggedInAs": "{{value}} olarak giriş yapıldı",
+    "orderTrackingChange": "Değiştir",
+    "orderTrackingContinue": "Devam et",
+    "orderTrackingTrackItems": "Ürünü/Ürünleri takip et",
+    "orderTrackingSelectOrderTitle": "Siparişinizi seçin",
+    "orderTrackingSelectOrderSubtitle": "Takip etmek istediğiniz siparişi seçin",
+    "orderTrackingOrderedOn": "{{value}} tarihinde sipariş verildi",
+    "orderFormEmailInvalidFormat": "Lütfen geçerli bir e-posta adresi girin",
     "orderFormVerifyTrackOrderPrompt": "Hadi siparişinizi takip edelim",
     "orderFormVerifyOrderIdLabel": "Sipariş ID'si",
     "orderFormVerifyOrderIdPlaceholder": "Sipariş ID'si",
@@ -125,7 +150,7 @@
     "orderFormVerifyPhoneNotMatch": "Bu telefon numarası Sipariş ID'si ile eşleşmiyor. Lütfen tekrar deneyin.",
     "orderFormEmailOnlyTrackOrderPrompt": "Siparişinizi takip etmek için e-posta adresinizi girin",
     "orderFormEmailOnlyOtpSentPrompt": "E-posta ID'nize bir OTP gönderdik. Devam etmek için girin",
-    "orderFormEmailOnlyEmailLabel": "E-posta adresini girin",
+    "orderFormEmailOnlyEmailLabel": "E-posta adresi",
     "orderFormEmailOnlyEmailPlaceholder": "E-postanızı girin",
     "orderFormEmailOnlyNoOrdersFound": "Bu e-posta için sipariş bulunamadı. Lütfen tekrar deneyin",
     "orderFormEnterOrderId": "Sipariş ID'sini girin",
@@ -142,10 +167,10 @@
     "orderFormNoAccountFoundEmail": "Bu e-posta için hesap bulunamadı. Lütfen tekrar deneyin",
     "orderFormNoOrdersFoundPhone": "Bu numara için sipariş bulunamadı. Lütfen tekrar deneyin",
     "orderFormNoOrdersFoundOrderId": "Bu sipariş ID'si için sipariş bulunamadı. Lütfen tekrar deneyin",
-    "orderFormEmailOnlyOtpLabel": "Doğrulama kodunu girin",
+    "orderFormEmailOnlyOtpLabel": "6 haneli kodu girin",
     "orderFormEmailOnlyOtpPlaceholder": "Tek kullanımlık şifre",
-    "orderFormEmailOnlyOtpExpired": "OTP'nin süresi doldu. Lütfen tekrar deneyin.",
-    "orderFormEmailOnlyOtpError": "OTP eşleşmiyor. Lütfen tekrar deneyin.",
+    "orderFormEmailOnlyOtpExpired": "Doğrulama kodu süresi doldu. Lütfen tekrar deneyin.",
+    "orderFormEmailOnlyOtpError": "Doğrulama kodu eşleşmiyor. Lütfen tekrar deneyin.",
     "orderFormEmailOnlyResend": "Tekrar gönder",
     "orderFormEmailOnlyVerifyButton": "Doğrula",
     "orderFormEmailOnlyDontRememberEmail": "E-posta adresini unuttunuz mu?",
@@ -193,6 +218,7 @@
     "orderListReturnOrderMessage": "Sipariş ID'm {{orderId}}. Siparişimi iade etmek istiyorum.",
     "orderListNeedHelpMessage": "Siparişimi takip ettim. Siparişim {{orderId}} hakkında daha fazla sorularım var",
     "orderFormOtpTitle": "E-postanıza 6 haneli bir kod gönderdik.",
+    "orderFormOtpSubTitle": "{{value}} adresine bir kod gönderdik",
     "orderFormEmailOnlyDidntReceiveCode": "Kodu almadınız mı?",
     "orderFormVerifyNoOrderFoundPhone": "Bu numara için sipariş bulunamadı. Lütfen tekrar deneyin.",
     "returnToChat": "Sohbete dön",
@@ -200,9 +226,9 @@
     "orderFormVerifyNoOrderFoundEmail": "Bu e-posta için sipariş bulunamadı. Lütfen tekrar deneyin.",
     "orderOtpRateLimitError": "Maksimum OTP istek sayısını aştınız. Lütfen bir saat sonra tekrar deneyin.",
     "seeOtherPicks": "Diğer en iyi seçimlerimizi görün",
-    "orderFormVerifyNoOrderFoundOrderId": "Bu sipariş ID'si için sipariş bulunamadı. Lütfen tekrar deneyin.",
+    "orderFormVerifyNoOrderFoundOrderId": "Lütfen geçerli bir Sipariş Kimliği girin.",
     "orderFormEmailOnlyTitle": "Siparişinizi takip edelim",
-    "orderListHereAreYourOrders": "İşte siparişleriniz",
+    "orderListHereAreYourOrders": "Sipariş detayları",
     "orderFormBackButton": "Geri",
     "orderFormPhoneNumberLabel": "Telefon numarasını girin",
     "orderFormPincodeLabel": "Posta kodunu girin",

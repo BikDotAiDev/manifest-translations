@@ -8,10 +8,26 @@
       "SEARCH": "Không tìm thấy điều bạn đang tìm kiếm? Hãy để tôi giúp bạn tìm chính xác điều bạn đang tìm kiếm."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Các sản phẩm bán chạy nhất của bạn là gì?", "Điều gì làm các sản phẩm của bạn nổi bật so với các sản phẩm khác?", "Đơn hàng của tôi đang ở đâu?"],
-      "OTHER": ["Các sản phẩm bán chạy nhất của bạn là gì?", "Điều gì làm sản phẩm của bạn nổi bật so với các sản phẩm khác?", "Đơn hàng của tôi đang ở đâu?"],
-      "PRODUCT": ["Điều gì khiến sản phẩm này nổi bật?", "Cho tôi xem thêm các sản phẩm giống như thế này", "Chính sách đổi trả của sản phẩm này là gì?"],
-      "SEARCH": ["Cho tôi xem các sản phẩm phù hợp nhất với tôi", "Tinh chỉnh kết quả dựa trên yêu cầu của tôi", "Có những lựa chọn phổ biến nào trong số này không?"]
+      "COLLECTION": [
+        "Các sản phẩm bán chạy nhất của bạn là gì?",
+        "Điều gì làm các sản phẩm của bạn nổi bật so với các sản phẩm khác?",
+        "Đơn hàng của tôi đang ở đâu?"
+      ],
+      "OTHER": [
+        "Các sản phẩm bán chạy nhất của bạn là gì?",
+        "Điều gì làm sản phẩm của bạn nổi bật so với các sản phẩm khác?",
+        "Đơn hàng của tôi đang ở đâu?"
+      ],
+      "PRODUCT": [
+        "Điều gì khiến sản phẩm này nổi bật?",
+        "Cho tôi xem thêm các sản phẩm giống như thế này",
+        "Chính sách đổi trả của sản phẩm này là gì?"
+      ],
+      "SEARCH": [
+        "Cho tôi xem các sản phẩm phù hợp nhất với tôi",
+        "Tinh chỉnh kết quả dựa trên yêu cầu của tôi",
+        "Có những lựa chọn phổ biến nào trong số này không?"
+      ]
     }
   },
   "translations": {
@@ -104,6 +120,7 @@
     "thinking": "Đang suy nghĩ",
     "findingYourAnswer": "Đang tìm câu trả lời của bạn",
     "typingYourResponse": "Đang gõ câu trả lời của bạn",
+    "orderFormSubHeader": "Nhập thông tin của bạn để xem đơn hàng",
     "orderFormUnverifiedTrackOrderPrompt": "Hãy theo dõi đơn hàng của bạn",
     "orderFormUnverifiedOrderDetailsLabel": "Chi tiết đơn hàng",
     "orderFormUnverifiedInputPlaceholder": "Địa chỉ Email / Số điện thoại / Mã đơn hàng",
@@ -112,6 +129,14 @@
     "orderFormDontRememberLink": "Không nhớ bất kỳ thông tin nào?",
     "orderFormForgotEverything": "Quên hết mọi thứ?",
     "orderFormTrackingPortalLink": "Kiểm tra cổng theo dõi của chúng tôi",
+    "orderTrackingLoggedInAs": "Đã đăng nhập với tư cách {{value}}",
+    "orderTrackingChange": "Thay đổi",
+    "orderTrackingContinue": "Tiếp tục",
+    "orderTrackingTrackItems": "Theo dõi sản phẩm",
+    "orderTrackingSelectOrderTitle": "Chọn đơn hàng của bạn",
+    "orderTrackingSelectOrderSubtitle": "Chọn đơn hàng bạn muốn theo dõi",
+    "orderTrackingOrderedOn": "Đã đặt vào {{value}}",
+    "orderFormEmailInvalidFormat": "Vui lòng nhập địa chỉ email hợp lệ",
     "orderFormVerifyTrackOrderPrompt": "Hãy theo dõi đơn hàng của bạn",
     "orderFormVerifyOrderIdLabel": "Mã đơn hàng",
     "orderFormVerifyOrderIdPlaceholder": "Mã đơn hàng",
@@ -125,7 +150,7 @@
     "orderFormVerifyPhoneNotMatch": "Số điện thoại này không khớp với Mã đơn hàng. Vui lòng thử lại.",
     "orderFormEmailOnlyTrackOrderPrompt": "Nhập địa chỉ email của bạn để theo dõi đơn hàng",
     "orderFormEmailOnlyOtpSentPrompt": "Chúng tôi đã gửi OTP đến ID email của bạn. Nhập để tiếp tục",
-    "orderFormEmailOnlyEmailLabel": "Nhập địa chỉ email",
+    "orderFormEmailOnlyEmailLabel": "Địa chỉ email",
     "orderFormEmailOnlyEmailPlaceholder": "Nhập email của bạn",
     "orderFormEmailOnlyNoOrdersFound": "Không tìm thấy Đơn hàng nào cho email này. Vui lòng thử lại",
     "orderFormEnterOrderId": "Nhập mã đơn hàng",
@@ -142,10 +167,10 @@
     "orderFormNoAccountFoundEmail": "Không tìm thấy tài khoản nào cho email này. Vui lòng thử lại",
     "orderFormNoOrdersFoundPhone": "Không tìm thấy đơn hàng nào cho số điện thoại này. Vui lòng thử lại",
     "orderFormNoOrdersFoundOrderId": "Không tìm thấy đơn hàng nào cho mã đơn hàng này. Vui lòng thử lại",
-    "orderFormEmailOnlyOtpLabel": "Nhập mã xác minh",
+    "orderFormEmailOnlyOtpLabel": "Nhập mã 6 chữ số",
     "orderFormEmailOnlyOtpPlaceholder": "Mật khẩu một lần",
-    "orderFormEmailOnlyOtpExpired": "OTP đã hết hạn. Vui lòng thử lại.",
-    "orderFormEmailOnlyOtpError": "OTP không khớp. Vui lòng thử lại.",
+    "orderFormEmailOnlyOtpExpired": "Mã xác minh đã hết hạn. Vui lòng thử lại.",
+    "orderFormEmailOnlyOtpError": "Mã xác minh không khớp. Vui lòng thử lại.",
     "orderFormEmailOnlyResend": "Gửi lại",
     "orderFormEmailOnlyVerifyButton": "Xác minh",
     "orderFormEmailOnlyDontRememberEmail": "Quên địa chỉ email?",
@@ -185,6 +210,7 @@
     "returns_refunds_policy": "Chính sách hoàn trả và hoàn tiền",
     "offers_rewards": "Ưu đãi và phần thưởng",
     "orderFormOtpTitle": "Chúng tôi đã gửi mã 6 chữ số đến email của bạn.",
+    "orderFormOtpSubTitle": "Chúng tôi đã gửi mã đến {{value}}",
     "orderFormEmailOnlyDidntReceiveCode": "Không nhận được mã?",
     "orderListNeedHelp": "Cần trợ giúp?",
     "orderListReturnOrderMessage": "ID đơn hàng của tôi là {{orderId}}. Tôi muốn trả lại đơn hàng.",
@@ -198,11 +224,11 @@
     "orderOtpRateLimitError": "Bạn đã vượt quá số lượng yêu cầu OTP tối đa. Vui lòng thử lại sau một giờ.",
     "seeOtherPicks": "Xem những lựa chọn hàng đầu khác",
     "orderListReturnOrder": "Trả lại đơn hàng",
-    "orderFormVerifyNoOrderFoundOrderId": "Không tìm thấy đơn hàng cho ID đơn hàng này. Vui lòng thử lại.",
+    "orderFormVerifyNoOrderFoundOrderId": "Vui lòng nhập ID đơn hàng hợp lệ.",
     "orderListCancelOrderMessage": "ID đơn hàng của tôi là {{orderId}}. Tôi muốn hủy đơn hàng.",
     "orderFormEmailOnlyTitle": "Hãy theo dõi đơn hàng của bạn",
     "orderListNeedHelpMessage": "Tôi đã theo dõi đơn hàng. Tôi có thêm câu hỏi về đơn hàng {{orderId}}",
-    "orderListHereAreYourOrders": "Đây là đơn hàng của bạn",
+    "orderListHereAreYourOrders": "Chi tiết đơn hàng",
     "orderFormBackButton": "Quay lại",
     "orderFormPhoneNumberLabel": "Nhập số điện thoại",
     "orderFormPincodeLabel": "Nhập mã bưu chính",

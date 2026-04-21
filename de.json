@@ -8,10 +8,26 @@
       "SEARCH": "Kannst du nicht finden, wonach du suchst? Lass mich dir genau das finden, wonach du suchst."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Welche sind deine meistverkauften Produkte?", "Was unterscheidet deine Produkte von anderen?", "Wo ist meine Bestellung?"],
-      "OTHER": ["Welche sind deine meistverkauften Produkte?", "Was unterscheidet deine Produkte von anderen?", "Wo ist meine Bestellung?"],
-      "PRODUCT": ["Was macht dieses Produkt besonders?", "Zeige mir mehr Produkte wie dieses", "Was ist die Rückgaberichtlinie für dieses Produkt?"],
-      "SEARCH": ["Zeige mir die relevantesten Produkte für mich", "Verfeinere die Ergebnisse basierend auf meinen Anforderungen", "Was sind einige beliebte Optionen unter diesen?"]
+      "COLLECTION": [
+        "Welche sind deine meistverkauften Produkte?",
+        "Was unterscheidet deine Produkte von anderen?",
+        "Wo ist meine Bestellung?"
+      ],
+      "OTHER": [
+        "Welche sind deine meistverkauften Produkte?",
+        "Was unterscheidet deine Produkte von anderen?",
+        "Wo ist meine Bestellung?"
+      ],
+      "PRODUCT": [
+        "Was macht dieses Produkt besonders?",
+        "Zeige mir mehr Produkte wie dieses",
+        "Was ist die Rückgaberichtlinie für dieses Produkt?"
+      ],
+      "SEARCH": [
+        "Zeige mir die relevantesten Produkte für mich",
+        "Verfeinere die Ergebnisse basierend auf meinen Anforderungen",
+        "Was sind einige beliebte Optionen unter diesen?"
+      ]
     }
   },
   "translations": {
@@ -105,6 +121,7 @@
     "thinking": "Nachdenken",
     "findingYourAnswer": "Finde deine Antwort",
     "typingYourResponse": "Tippen deine Antwort",
+    "orderFormSubHeader": "Geben Sie Ihre Daten ein, um Ihre Bestellungen anzuzeigen",
     "orderFormUnverifiedTrackOrderPrompt": "Lass uns deine Bestellung verfolgen",
     "orderFormUnverifiedOrderDetailsLabel": "Bestelldetails",
     "orderFormUnverifiedInputPlaceholder": "E-Mail-Adresse / Telefonnummer / Bestellnummer",
@@ -113,6 +130,14 @@
     "orderFormDontRememberLink": "Erinnern Sie sich an keine davon?",
     "orderFormForgotEverything": "Alles vergessen?",
     "orderFormTrackingPortalLink": "Überprüfen Sie unser Tracking-Portal",
+    "orderTrackingLoggedInAs": "Angemeldet als {{value}}",
+    "orderTrackingChange": "Ändern",
+    "orderTrackingContinue": "Weiter",
+    "orderTrackingTrackItems": "Artikel verfolgen",
+    "orderTrackingSelectOrderTitle": "Wählen Sie Ihre Bestellung aus",
+    "orderTrackingSelectOrderSubtitle": "Wähle die Bestellung aus, die du verfolgen möchtest",
+    "orderTrackingOrderedOn": "Bestellt am {{value}}",
+    "orderFormEmailInvalidFormat": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
     "orderFormVerifyTrackOrderPrompt": "Lass uns deine Bestellung verfolgen",
     "orderFormVerifyOrderIdLabel": "Bestellnummer",
     "orderFormVerifyOrderIdPlaceholder": "Bestellnummer",
@@ -124,11 +149,12 @@
     "orderFormVerifyNoOrderFound": "Keine Bestellung mit dieser Nummer gefunden. Bitte versuchen Sie es erneut.",
     "orderFormVerifyEmailNotMatch": "Diese E-Mail-Adresse stimmt nicht mit der Bestellnummer überein. Bitte versuchen Sie es erneut.",
     "orderFormVerifyPhoneNotMatch": "Diese Telefonnummer stimmt nicht mit der Bestellnummer überein. Bitte versuchen Sie es erneut.",
-    "orderFormVerifyNoOrderFoundOrderId": "Für diese Bestellnummer wurden keine Bestellungen gefunden. Bitte versuchen Sie es erneut.",
+    "orderFormVerifyNoOrderFoundOrderId": "Bitte geben Sie eine gültige Bestell-ID ein.",
     "orderFormVerifyNoOrderFoundPhone": "Für diese Nummer wurden keine Bestellungen gefunden. Bitte versuchen Sie es erneut.",
     "orderFormVerifyNoOrderFoundEmail": "Für diese E-Mail wurden keine Bestellungen gefunden. Bitte versuchen Sie es erneut.",
     "orderFormEmailOnlyTitle": "Lass uns deine Bestellung verfolgen",
     "orderFormOtpTitle": "Wir haben einen 6-stelligen Code an Ihre E-Mail gesendet.",
+    "orderFormOtpSubTitle": "Wir haben einen Code an {{value}} gesendet",
     "orderOtpRateLimitError": "Sie haben die maximale Anzahl von OTP-Anfragen überschritten. Bitte versuchen Sie es nach einer Stunde erneut.",
     "orderFormEmailOnlyTrackOrderPrompt": "Geben Sie Ihre E-Mail-Adresse ein, um Ihre Bestellung zu verfolgen",
     "orderFormEmailOnlyOtpSentPrompt": "Wir haben einen OTP an Ihre E-Mail gesendet. Bitte geben Sie ihn ein, um fortzufahren",
@@ -149,10 +175,10 @@
     "orderFormNoAccountFoundEmail": "Für diese E-Mail wurde kein Konto gefunden. Bitte versuchen Sie es erneut",
     "orderFormNoOrdersFoundPhone": "Für diese Nummer wurden keine Bestellungen gefunden. Bitte versuchen Sie es erneut",
     "orderFormNoOrdersFoundOrderId": "Für diese Bestell-ID wurden keine Bestellungen gefunden. Bitte versuchen Sie es erneut",
-    "orderFormEmailOnlyOtpLabel": "Bestätigungscode eingeben",
+    "orderFormEmailOnlyOtpLabel": "6-stelligen Code eingeben",
     "orderFormEmailOnlyOtpPlaceholder": "Einmalpasswort",
-    "orderFormEmailOnlyOtpExpired": "OTP ist abgelaufen. Bitte versuchen Sie es erneut.",
-    "orderFormEmailOnlyOtpError": "OTP stimmt nicht überein. Bitte versuchen Sie es erneut.",
+    "orderFormEmailOnlyOtpExpired": "Der Bestätigungscode ist abgelaufen. Bitte versuchen Sie es erneut.",
+    "orderFormEmailOnlyOtpError": "Der Bestätigungscode stimmt nicht überein. Bitte versuchen Sie es erneut.",
     "orderFormEmailOnlyResend": "Erneut senden",
     "orderFormEmailOnlyVerifyButton": "Verifizieren",
     "orderFormEmailOnlyDontRememberEmail": "E-Mail-Adresse vergessen?",
@@ -203,7 +229,7 @@
     "orderListReturnOrderMessage": "Meine Bestellnummer ist {{orderId}}. Ich möchte meine Bestellung zurückgeben.",
     "orderListNeedHelpMessage": "Ich habe meine Bestellung verfolgt. Ich habe mehr Fragen zu meiner Bestellung {{orderId}}",
     "seeOtherPicks": "Siehe unsere anderen Spitzenauswahlen",
-    "orderListHereAreYourOrders": "Hier sind Ihre Bestellungen",
+    "orderListHereAreYourOrders": "Bestelldetails",
     "orderFormBackButton": "Zurück",
     "orderFormPhoneNumberLabel": "Telefonnummer eingeben",
     "orderFormPincodeLabel": "Postleitzahl eingeben",

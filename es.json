@@ -8,10 +8,26 @@
       "SEARCH": "¿No puedes encontrar lo que buscas? Permíteme ayudarte a encontrar exactamente lo que necesitas."
     },
     "suggestedReplies": {
-      "COLLECTION": ["¿Cuáles son tus productos más vendidos?", "¿Qué diferencia tus productos de los demás?", "¿Dónde está mi pedido?"],
-      "OTHER": ["¿Cuáles son tus productos más vendidos?", "¿Qué diferencia tus productos de los demás?", "¿Dónde está mi pedido?"],
-      "PRODUCT": ["¿Qué hace que este producto se destaque?", "Muéstrame más productos como este", "¿Cuál es la política de devoluciones de este producto?"],
-      "SEARCH": ["Muéstrame los productos más relevantes para mí", "Refina los resultados según mis requisitos", "¿Cuáles son algunas opciones populares entre estos?"]
+      "COLLECTION": [
+        "¿Cuáles son tus productos más vendidos?",
+        "¿Qué diferencia tus productos de los demás?",
+        "¿Dónde está mi pedido?"
+      ],
+      "OTHER": [
+        "¿Cuáles son tus productos más vendidos?",
+        "¿Qué diferencia tus productos de los demás?",
+        "¿Dónde está mi pedido?"
+      ],
+      "PRODUCT": [
+        "¿Qué hace que este producto se destaque?",
+        "Muéstrame más productos como este",
+        "¿Cuál es la política de devoluciones de este producto?"
+      ],
+      "SEARCH": [
+        "Muéstrame los productos más relevantes para mí",
+        "Refina los resultados según mis requisitos",
+        "¿Cuáles son algunas opciones populares entre estos?"
+      ]
     }
   },
   "translations": {
@@ -105,6 +121,7 @@
     "thinking": "Pensando",
     "findingYourAnswer": "Encontrando tu respuesta",
     "typingYourResponse": "Escribiendo tu respuesta",
+    "orderFormSubHeader": "Ingresa tus datos para ver tus pedidos",
     "orderFormUnverifiedTrackOrderPrompt": "Vamos a rastrear tu pedido",
     "orderFormUnverifiedOrderDetailsLabel": "Detalles del pedido",
     "orderFormUnverifiedInputPlaceholder": "Correo electrónico / Número de teléfono / ID de pedido",
@@ -113,6 +130,14 @@
     "orderFormDontRememberLink": "¿No recuerda ninguno de ellos?",
     "orderFormForgotEverything": "¿Olvidaste todo?",
     "orderFormTrackingPortalLink": "Consultar nuestro portal de seguimiento",
+    "orderTrackingLoggedInAs": "Conectado como {{value}}",
+    "orderTrackingChange": "Cambiar",
+    "orderTrackingContinue": "Continuar",
+    "orderTrackingTrackItems": "Rastrear artículo(s)",
+    "orderTrackingSelectOrderTitle": "Selecciona tu pedido",
+    "orderTrackingSelectOrderSubtitle": "Selecciona el pedido que quieres rastrear",
+    "orderTrackingOrderedOn": "Pedido el {{value}}",
+    "orderFormEmailInvalidFormat": "Por favor, introduce una dirección de correo electrónico válida",
     "orderFormVerifyTrackOrderPrompt": "Vamos a rastrear tu pedido",
     "orderFormVerifyOrderIdLabel": "ID de pedido",
     "orderFormVerifyOrderIdPlaceholder": "ID de pedido",
@@ -124,15 +149,16 @@
     "orderFormVerifyNoOrderFound": "No se encontró ningún pedido con este ID. Por favor, inténtelo de nuevo.",
     "orderFormVerifyEmailNotMatch": "Este correo electrónico no coincide con el ID de pedido. Por favor, inténtelo de nuevo.",
     "orderFormVerifyPhoneNotMatch": "Este número de teléfono no coincide con el ID de pedido. Por favor, inténtelo de nuevo.",
-    "orderFormVerifyNoOrderFoundOrderId": "No se encontraron pedidos para este ID de pedido. Por favor, inténtelo de nuevo.",
+    "orderFormVerifyNoOrderFoundOrderId": "Por favor, ingrese un ID de pedido válido.",
     "orderFormVerifyNoOrderFoundPhone": "No se encontraron pedidos para este número. Por favor, inténtelo de nuevo.",
     "orderFormVerifyNoOrderFoundEmail": "No se encontraron pedidos para este correo electrónico. Por favor, inténtelo de nuevo.",
     "orderFormEmailOnlyTitle": "Vamos a rastrear tu pedido",
     "orderFormOtpTitle": "Hemos enviado un código de 6 dígitos a tu correo electrónico.",
+    "orderFormOtpSubTitle": "Hemos enviado un código a {{value}}",
     "orderOtpRateLimitError": "Has excedido el número máximo de solicitudes de OTP. Por favor, inténtalo de nuevo en una hora.",
     "orderFormEmailOnlyTrackOrderPrompt": "Ingrese su correo electrónico para rastrear su pedido",
     "orderFormEmailOnlyOtpSentPrompt": "Hemos enviado un OTP a su correo electrónico. Ingréselo para continuar",
-    "orderFormEmailOnlyEmailLabel": "Ingrese dirección de correo electrónico",
+    "orderFormEmailOnlyEmailLabel": "Dirección de correo electrónico",
     "orderFormEmailOnlyEmailPlaceholder": "Ingrese su correo electrónico",
     "orderFormEmailOnlyNoOrdersFound": "No se encontraron pedidos para este correo electrónico. Por favor, inténtelo de nuevo",
     "orderFormEnterOrderId": "Ingrese el ID del pedido",
@@ -149,10 +175,10 @@
     "orderFormNoAccountFoundEmail": "No se encontró ninguna cuenta para este correo electrónico. Por favor, inténtelo de nuevo",
     "orderFormNoOrdersFoundPhone": "No se encontraron pedidos para este número. Por favor, inténtelo de nuevo",
     "orderFormNoOrdersFoundOrderId": "No se encontraron pedidos para este ID de pedido. Por favor, inténtelo de nuevo",
-    "orderFormEmailOnlyOtpLabel": "Ingrese el código de verificación",
+    "orderFormEmailOnlyOtpLabel": "Ingrese el código de 6 dígitos",
     "orderFormEmailOnlyOtpPlaceholder": "Contraseña de un solo uso",
-    "orderFormEmailOnlyOtpExpired": "El OTP ha expirado. Por favor, inténtelo de nuevo.",
-    "orderFormEmailOnlyOtpError": "El OTP no coincide. Por favor, inténtelo de nuevo.",
+    "orderFormEmailOnlyOtpExpired": "El código de verificación ha caducado. Por favor, inténtelo de nuevo.",
+    "orderFormEmailOnlyOtpError": "El código de verificación no coincide. Por favor, inténtelo de nuevo.",
     "orderFormEmailOnlyResend": "Reenviar",
     "orderFormEmailOnlyVerifyButton": "Verificar",
     "orderFormEmailOnlyDontRememberEmail": "¿Olvidaste la dirección de correo electrónico?",
@@ -203,7 +229,7 @@
     "orderListReturnOrderMessage": "Mi ID de pedido es {{orderId}}. Quiero devolver mi pedido.",
     "orderListNeedHelpMessage": "He rastreado mi pedido. Tengo más preguntas sobre mi pedido {{orderId}}",
     "seeOtherPicks": "Ver nuestras otras selecciones principales",
-    "orderListHereAreYourOrders": "Aquí están sus pedidos",
+    "orderListHereAreYourOrders": "Detalles del pedido",
     "orderFormBackButton": "Volver",
     "orderFormPhoneNumberLabel": "Ingrese el número de teléfono",
     "orderFormPincodeLabel": "Ingrese el código postal",

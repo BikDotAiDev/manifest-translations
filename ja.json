@@ -8,10 +8,26 @@
       "SEARCH": "お探しのものが見つからない場合は、正確にお探しのものを見つけるのをお手伝いいたします。"
     },
     "suggestedReplies": {
-      "COLLECTION": ["販売の多い商品は何ですか？", "あなたの商品を他の商品とどう違うと考えていますか？", "私の注文はどこですか？"],
-      "OTHER": ["販売の多い商品は何ですか？", "あなたの商品を他の商品とどう違うと考えていますか？", "私の注文はどこですか？"],
-      "PRODUCT": ["この商品の特徴は何ですか？", "このような商品をもっと見せて", "この商品の返品ポリシーは？"],
-      "SEARCH": ["私にとって最も関連性のある商品を表示してください", "私の要件に基づいて結果を絞り込む", "これらの中で人気のある選択肢は何ですか？"]
+      "COLLECTION": [
+        "販売の多い商品は何ですか？",
+        "あなたの商品を他の商品とどう違うと考えていますか？",
+        "私の注文はどこですか？"
+      ],
+      "OTHER": [
+        "販売の多い商品は何ですか？",
+        "あなたの商品を他の商品とどう違うと考えていますか？",
+        "私の注文はどこですか？"
+      ],
+      "PRODUCT": [
+        "この商品の特徴は何ですか？",
+        "このような商品をもっと見せて",
+        "この商品の返品ポリシーは？"
+      ],
+      "SEARCH": [
+        "私にとって最も関連性のある商品を表示してください",
+        "私の要件に基づいて結果を絞り込む",
+        "これらの中で人気のある選択肢は何ですか？"
+      ]
     }
   },
   "translations": {
@@ -105,6 +121,7 @@
     "thinking": "思考中",
     "findingYourAnswer": "回答を探しています",
     "typingYourResponse": "回答を入力しています",
+    "orderFormSubHeader": "注文を確認するには詳細を入力してください",
     "orderFormUnverifiedTrackOrderPrompt": "ご注文を追跡しましょう",
     "orderFormUnverifiedOrderDetailsLabel": "注文詳細",
     "orderFormUnverifiedInputPlaceholder": "メールアドレス / 電話番号 / 注文ID",
@@ -113,6 +130,14 @@
     "orderFormDontRememberLink": "どれも覚えていませんか？",
     "orderFormForgotEverything": "全て忘れましたか？",
     "orderFormTrackingPortalLink": "追跡ポータルを確認する",
+    "orderTrackingLoggedInAs": "{{value}} としてログイン中",
+    "orderTrackingChange": "変更",
+    "orderTrackingContinue": "続ける",
+    "orderTrackingTrackItems": "商品を追跡する",
+    "orderTrackingSelectOrderTitle": "注文を選択してください",
+    "orderTrackingSelectOrderSubtitle": "追跡したい注文を選択してください",
+    "orderTrackingOrderedOn": "{{value}} に注文",
+    "orderFormEmailInvalidFormat": "有効なメールアドレスを入力してください",
     "orderFormVerifyTrackOrderPrompt": "ご注文を追跡しましょう",
     "orderFormVerifyOrderIdLabel": "注文ID",
     "orderFormVerifyOrderIdPlaceholder": "注文ID",
@@ -126,7 +151,7 @@
     "orderFormVerifyPhoneNotMatch": "この電話番号は注文IDと一致しません。もう一度お試しください。",
     "orderFormEmailOnlyTrackOrderPrompt": "ご注文を追跡するにはメールアドレスを入力してください",
     "orderFormEmailOnlyOtpSentPrompt": "メールアドレスにOTPを送信しました。続行するには入力してください",
-    "orderFormEmailOnlyEmailLabel": "メールアドレスを入力してください",
+    "orderFormEmailOnlyEmailLabel": "メールアドレス",
     "orderFormEmailOnlyEmailPlaceholder": "メールアドレスを入力してください",
     "orderFormEmailOnlyNoOrdersFound": "このメールアドレスの注文が見つかりません。もう一度お試しください",
     "orderFormEnterOrderId": "注文IDを入力してください",
@@ -143,10 +168,10 @@
     "orderFormNoAccountFoundEmail": "このメールアドレスのアカウントが見つかりません。もう一度お試しください",
     "orderFormNoOrdersFoundPhone": "この番号の注文が見つかりません。もう一度お試しください",
     "orderFormNoOrdersFoundOrderId": "この注文IDの注文が見つかりません。もう一度お試しください",
-    "orderFormEmailOnlyOtpLabel": "確認コードを入力",
+    "orderFormEmailOnlyOtpLabel": "6桁のコードを入力してください",
     "orderFormEmailOnlyOtpPlaceholder": "ワンタイムパスワード",
-    "orderFormEmailOnlyOtpExpired": "OTPの有効期限が切れています。もう一度お試しください。",
-    "orderFormEmailOnlyOtpError": "OTPが一致しません。もう一度お試しください。",
+    "orderFormEmailOnlyOtpExpired": "確認コードの有効期限が切れています。もう一度お試しください。",
+    "orderFormEmailOnlyOtpError": "確認コードが一致しません。もう一度お試しください。",
     "orderFormEmailOnlyResend": "再送信",
     "orderFormEmailOnlyVerifyButton": "認証する",
     "orderFormEmailOnlyDontRememberEmail": "メールアドレスをお忘れですか？",
@@ -194,6 +219,7 @@
     "orderListReturnOrderMessage": "私の注文IDは{{orderId}}です。注文を返品したいです。",
     "orderListNeedHelpMessage": "注文を追跡しました。注文{{orderId}}についてさらに質問があります",
     "orderFormOtpTitle": "メールアドレスに6桁のコードをお送りしました。",
+    "orderFormOtpSubTitle": "{{value}} にコードを送信しました",
     "orderFormEmailOnlyDidntReceiveCode": "コードを受信できませんでしたか？",
     "orderFormVerifyNoOrderFoundPhone": "この番号に対する注文が見つかりませんでした。再試行してください。",
     "returnToChat": "チャットに戻る",
@@ -201,9 +227,9 @@
     "orderFormVerifyNoOrderFoundEmail": "このメールアドレスに対する注文が見つかりませんでした。再試行してください。",
     "orderOtpRateLimitError": "OTPリクエストの上限に達しました。1時間後に再試行してください。",
     "seeOtherPicks": "他のおすすめをチェック",
-    "orderFormVerifyNoOrderFoundOrderId": "この注文IDに対する注文が見つかりませんでした。再試行してください。",
+    "orderFormVerifyNoOrderFoundOrderId": "有効な注文IDを入力してください。",
     "orderFormEmailOnlyTitle": "注文を追跡しましょう",
-    "orderListHereAreYourOrders": "こちらがあなたのご注文です",
+    "orderListHereAreYourOrders": "注文詳細",
     "orderFormBackButton": "戻る",
     "orderFormPhoneNumberLabel": "電話番号を入力してください",
     "orderFormPincodeLabel": "郵便番号を入力してください",

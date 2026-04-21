@@ -8,10 +8,26 @@
       "SEARCH": "Hittar du inte vad du letar efter? Låt mig hjälpa dig att hitta exakt det du söker."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Vilka är dina bästsäljande produkter?", "Vad skiljer dina produkter från andra?", "Var är min beställning?"],
-      "OTHER": ["Vilka är dina bästsäljande produkter?", "Vad skiljer dina produkter från andra?", "Var är min beställning?"],
-      "PRODUCT": ["Vad utmärker den här produkten?", "Visa mig fler produkter som denna", "Vad är returpolicyn för den här produkten?"],
-      "SEARCH": ["Visa de mest relevanta produkterna för mig", "Förfina resultaten baserat på mina krav", "Vilka är några populära val bland dessa?"]
+      "COLLECTION": [
+        "Vilka är dina bästsäljande produkter?",
+        "Vad skiljer dina produkter från andra?",
+        "Var är min beställning?"
+      ],
+      "OTHER": [
+        "Vilka är dina bästsäljande produkter?",
+        "Vad skiljer dina produkter från andra?",
+        "Var är min beställning?"
+      ],
+      "PRODUCT": [
+        "Vad utmärker den här produkten?",
+        "Visa mig fler produkter som denna",
+        "Vad är returpolicyn för den här produkten?"
+      ],
+      "SEARCH": [
+        "Visa de mest relevanta produkterna för mig",
+        "Förfina resultaten baserat på mina krav",
+        "Vilka är några populära val bland dessa?"
+      ]
     }
   },
   "translations": {
@@ -68,6 +84,14 @@
     "orderFormDontRememberLink": "Kommer du inte ihåg någon av dem?",
     "orderFormSubmitButton": "Skicka",
     "orderFormTrackingPortalLink": "Kolla vår spårningsportal",
+    "orderTrackingLoggedInAs": "Inloggad som {{value}}",
+    "orderTrackingChange": "Ändra",
+    "orderTrackingContinue": "Fortsätt",
+    "orderTrackingTrackItems": "Spåra artikel(ar)",
+    "orderTrackingSelectOrderTitle": "Välj din beställning",
+    "orderTrackingSelectOrderSubtitle": "Välj den beställning du vill spåra",
+    "orderTrackingOrderedOn": "Beställd den {{value}}",
+    "orderFormEmailInvalidFormat": "Ange en giltig e-postadress",
     "orderFormUnverifiedInputPlaceholder": "E-postadress / Telefonnummer / Beställnings-ID",
     "orderFormUnverifiedOrderDetailsLabel": "Beställningsdetaljer",
     "orderFormUnverifiedTooltipText": "Du kan ange din e-post, telefonnummer eller ett beställnings-ID som börjar med '#'.",
@@ -85,7 +109,7 @@
     "orderFormVerifyPhoneNotMatch": "Detta telefonnummer matchar inte beställnings-ID:t. Försök igen.",
     "orderFormEmailOnlyTrackOrderPrompt": "Ange din e-postadress för att spåra din beställning",
     "orderFormEmailOnlyOtpSentPrompt": "Vi har skickat en engångskod till din e-post. Ange den för att fortsätta",
-    "orderFormEmailOnlyEmailLabel": "Ange e-postadress",
+    "orderFormEmailOnlyEmailLabel": "E-postadress",
     "orderFormEmailOnlyEmailPlaceholder": "Ange din e-post",
     "orderFormEmailOnlyNoOrdersFound": "Inga beställningar hittades för denna e-post. Försök igen",
     "orderFormEnterOrderId": "Ange beställnings-ID",
@@ -102,10 +126,10 @@
     "orderFormNoAccountFoundEmail": "Inget konto hittades för denna e-post. Försök igen",
     "orderFormNoOrdersFoundPhone": "Inga beställningar hittades för detta nummer. Försök igen",
     "orderFormNoOrdersFoundOrderId": "Inga beställningar hittades för detta beställnings-ID. Försök igen",
-    "orderFormEmailOnlyOtpLabel": "Ange verifieringskod",
+    "orderFormEmailOnlyOtpLabel": "Ange 6-siffrig kod",
     "orderFormEmailOnlyOtpPlaceholder": "Engångslösenord",
-    "orderFormEmailOnlyOtpExpired": "Engångskoden har löpt ut. Försök igen.",
-    "orderFormEmailOnlyOtpError": "Engångskoden stämmer inte. Försök igen.",
+    "orderFormEmailOnlyOtpExpired": "Verifieringskoden har gått ut. Försök igen.",
+    "orderFormEmailOnlyOtpError": "Verifieringskoden stämmer inte. Försök igen.",
     "orderFormEmailOnlyResend": "Skicka igen",
     "orderFormEmailOnlyVerifyButton": "Verifiera",
     "orderFormEmailOnlyDontRememberEmail": "Glömt e-postadress?",
@@ -149,6 +173,7 @@
     "thinking": "Tänker",
     "findingYourAnswer": "Hittar ditt svar",
     "typingYourResponse": "Skriver ditt svar",
+    "orderFormSubHeader": "Ange dina uppgifter för att se dina beställningar",
     "orderFormFallbackNoOtherOptions": "Inga problem, vi har andra alternativ tillgängliga för att hjälpa dig med din beställning.",
     "orderFormFallbackTalkToAgent": "Prata med en agent",
     "orderFormFallbackCheckTrackingPortal": "Kolla vår spårningsportal",
@@ -193,6 +218,7 @@
     "orderListNeedHelpMessage": "Jag spårade min beställning. Jag har fler frågor om min beställning {{orderId}}",
     "returnToChat": "Återgå till chatten",
     "orderFormOtpTitle": "Vi har skickat en 6-siffrig kod till din e-post.",
+    "orderFormOtpSubTitle": "Vi har skickat en kod till {{value}}",
     "orderFormEmailOnlyDidntReceiveCode": "Fick du inte koden?",
     "orderFormVerifyNoOrderFoundPhone": "Inga beställningar hittades för detta nummer. Försök igen.",
     "orderFormForgotEverything": "Forgot everything?",
@@ -200,9 +226,9 @@
     "orderFormVerifyNoOrderFoundEmail": "Inga beställningar hittades för denna e-post. Försök igen.",
     "orderOtpRateLimitError": "Du har överskridit det maximala antalet OTP-förfrågningar. Försök igen om en timme.",
     "seeOtherPicks": "Se våra andra toppval",
-    "orderFormVerifyNoOrderFoundOrderId": "Inga beställningar hittades för detta beställnings-ID. Försök igen.",
+    "orderFormVerifyNoOrderFoundOrderId": "Ange ett giltigt order-ID.",
     "orderFormEmailOnlyTitle": "Låt oss spåra din beställning",
-    "orderListHereAreYourOrders": "Här är dina beställningar",
+    "orderListHereAreYourOrders": "Beställningsdetaljer",
     "orderFormBackButton": "Tillbaka",
     "orderFormPhoneNumberLabel": "Ange telefonnummer",
     "orderFormPincodeLabel": "Ange postnummer",
