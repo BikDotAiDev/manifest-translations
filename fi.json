@@ -8,10 +8,26 @@
       "SEARCH": "Et löydä etsimääsi? Anna minun auttaa sinua löytämään juuri sen, mitä etsit."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Mitkä ovat myydyimmät tuotteesi?", "Mikä erottaa tuotteesi muista?", "Missä on tilaukseni?"],
-      "OTHER": ["Mitkä ovat myydyimmät tuotteesi?", "Mikä erottaa tuotteesi muista?", "Missä on tilaukseni?"],
-      "PRODUCT": ["Mikä erottaa tämän tuotteen muista?", "Näytä minulle lisää samanlaisia tuotteita", "Mikä on tämän tuotteen palautuskäytäntö?"],
-      "SEARCH": ["Näytä minulle sopivimmat tuotteet", "Tarkenna tuloksia vaatimusteni perusteella", "Mitkä ovat suosituimpia valintoja näiden joukosta?"]
+      "COLLECTION": [
+        "Mitkä ovat myydyimmät tuotteesi?",
+        "Mikä erottaa tuotteesi muista?",
+        "Missä on tilaukseni?"
+      ],
+      "OTHER": [
+        "Mitkä ovat myydyimmät tuotteesi?",
+        "Mikä erottaa tuotteesi muista?",
+        "Missä on tilaukseni?"
+      ],
+      "PRODUCT": [
+        "Mikä erottaa tämän tuotteen muista?",
+        "Näytä minulle lisää samanlaisia tuotteita",
+        "Mikä on tämän tuotteen palautuskäytäntö?"
+      ],
+      "SEARCH": [
+        "Näytä minulle sopivimmat tuotteet",
+        "Tarkenna tuloksia vaatimusteni perusteella",
+        "Mitkä ovat suosituimpia valintoja näiden joukosta?"
+      ]
     }
   },
   "translations": {
@@ -135,7 +151,7 @@
     "orderFormVerifyPhoneNotMatch": "Tämä puhelinnumero ei vastaa tilausnumeroa. Yritä uudelleen.",
     "orderFormEmailOnlyTrackOrderPrompt": "Syötä sähköpostiosoitteesi tilauksen seuraamiseksi",
     "orderFormEmailOnlyOtpSentPrompt": "Lähetimme kertakäyttöisen koodin sähköpostiisi. Syötä se jatkaaksesi",
-    "orderFormEmailOnlyEmailLabel": "Email address",
+    "orderFormEmailOnlyEmailLabel": "Sähköpostiosoite",
     "orderFormEmailOnlyEmailPlaceholder": "Syötä sähköpostiosoitteesi",
     "orderFormEmailOnlyNoOrdersFound": "Tällä sähköpostilla ei löytynyt tilauksia. Yritä uudelleen",
     "orderFormEnterOrderId": "Syötä tilausnumero",
@@ -152,10 +168,10 @@
     "orderFormNoAccountFoundEmail": "Tälle sähköpostille ei löytynyt tiliä. Yritä uudelleen",
     "orderFormNoOrdersFoundPhone": "Tälle numerolle ei löytynyt tilauksia. Yritä uudelleen",
     "orderFormNoOrdersFoundOrderId": "Tälle tilausnumerolle ei löytynyt tilauksia. Yritä uudelleen",
-    "orderFormEmailOnlyOtpLabel": "Enter 6 digit code",
+    "orderFormEmailOnlyOtpLabel": "Anna 6-numeroinen koodi",
     "orderFormEmailOnlyOtpPlaceholder": "Kertakäyttöinen salasana",
-    "orderFormEmailOnlyOtpExpired": "The verification code has expired. Please try again.",
-    "orderFormEmailOnlyOtpError": "The verification code does not match. Please try again.",
+    "orderFormEmailOnlyOtpExpired": "Vahvistuskoodi on vanhentunut. Yritä uudelleen.",
+    "orderFormEmailOnlyOtpError": "Vahvistuskoodi ei täsmää. Yritä uudelleen.",
     "orderFormEmailOnlyResend": "Lähetä uudelleen",
     "orderFormEmailOnlyVerifyButton": "Vahvista",
     "orderFormEmailOnlyDontRememberEmail": "Unohditko sähköpostiosoitteesi?",
@@ -211,7 +227,7 @@
     "orderFormEmailOnlyResendNow": "Lähetä uudelleen nyt",
     "orderFormVerifyNoOrderFoundEmail": "Tälle sähköpostille ei löytynyt tilauksia. Yritä uudelleen.",
     "orderOtpRateLimitError": "Olet ylittänyt OTP-pyyntöjen enimmäismäärän. Yritä uudelleen tunnin kuluttua.",
-    "orderFormVerifyNoOrderFoundOrderId": "Please enter a valid Order ID.",
+    "orderFormVerifyNoOrderFoundOrderId": "Anna kelvollinen tilaus-ID.",
     "orderFormEmailOnlyTitle": "Seurataan tilaustasi",
     "orderListHereAreYourOrders": "Tilauksen tiedot",
     "orderFormBackButton": "Takaisin",

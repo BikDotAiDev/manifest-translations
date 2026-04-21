@@ -8,10 +8,26 @@
       "SEARCH": "Không tìm thấy điều bạn đang tìm kiếm? Hãy để tôi giúp bạn tìm chính xác điều bạn đang tìm kiếm."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Các sản phẩm bán chạy nhất của bạn là gì?", "Điều gì làm các sản phẩm của bạn nổi bật so với các sản phẩm khác?", "Đơn hàng của tôi đang ở đâu?"],
-      "OTHER": ["Các sản phẩm bán chạy nhất của bạn là gì?", "Điều gì làm sản phẩm của bạn nổi bật so với các sản phẩm khác?", "Đơn hàng của tôi đang ở đâu?"],
-      "PRODUCT": ["Điều gì khiến sản phẩm này nổi bật?", "Cho tôi xem thêm các sản phẩm giống như thế này", "Chính sách đổi trả của sản phẩm này là gì?"],
-      "SEARCH": ["Cho tôi xem các sản phẩm phù hợp nhất với tôi", "Tinh chỉnh kết quả dựa trên yêu cầu của tôi", "Có những lựa chọn phổ biến nào trong số này không?"]
+      "COLLECTION": [
+        "Các sản phẩm bán chạy nhất của bạn là gì?",
+        "Điều gì làm các sản phẩm của bạn nổi bật so với các sản phẩm khác?",
+        "Đơn hàng của tôi đang ở đâu?"
+      ],
+      "OTHER": [
+        "Các sản phẩm bán chạy nhất của bạn là gì?",
+        "Điều gì làm sản phẩm của bạn nổi bật so với các sản phẩm khác?",
+        "Đơn hàng của tôi đang ở đâu?"
+      ],
+      "PRODUCT": [
+        "Điều gì khiến sản phẩm này nổi bật?",
+        "Cho tôi xem thêm các sản phẩm giống như thế này",
+        "Chính sách đổi trả của sản phẩm này là gì?"
+      ],
+      "SEARCH": [
+        "Cho tôi xem các sản phẩm phù hợp nhất với tôi",
+        "Tinh chỉnh kết quả dựa trên yêu cầu của tôi",
+        "Có những lựa chọn phổ biến nào trong số này không?"
+      ]
     }
   },
   "translations": {
@@ -134,7 +150,7 @@
     "orderFormVerifyPhoneNotMatch": "Số điện thoại này không khớp với Mã đơn hàng. Vui lòng thử lại.",
     "orderFormEmailOnlyTrackOrderPrompt": "Nhập địa chỉ email của bạn để theo dõi đơn hàng",
     "orderFormEmailOnlyOtpSentPrompt": "Chúng tôi đã gửi OTP đến ID email của bạn. Nhập để tiếp tục",
-    "orderFormEmailOnlyEmailLabel": "Email address",
+    "orderFormEmailOnlyEmailLabel": "Địa chỉ email",
     "orderFormEmailOnlyEmailPlaceholder": "Nhập email của bạn",
     "orderFormEmailOnlyNoOrdersFound": "Không tìm thấy Đơn hàng nào cho email này. Vui lòng thử lại",
     "orderFormEnterOrderId": "Nhập mã đơn hàng",
@@ -151,10 +167,10 @@
     "orderFormNoAccountFoundEmail": "Không tìm thấy tài khoản nào cho email này. Vui lòng thử lại",
     "orderFormNoOrdersFoundPhone": "Không tìm thấy đơn hàng nào cho số điện thoại này. Vui lòng thử lại",
     "orderFormNoOrdersFoundOrderId": "Không tìm thấy đơn hàng nào cho mã đơn hàng này. Vui lòng thử lại",
-    "orderFormEmailOnlyOtpLabel": "Enter 6 digit code",
+    "orderFormEmailOnlyOtpLabel": "Nhập mã 6 chữ số",
     "orderFormEmailOnlyOtpPlaceholder": "Mật khẩu một lần",
-    "orderFormEmailOnlyOtpExpired": "The verification code has expired. Please try again.",
-    "orderFormEmailOnlyOtpError": "The verification code does not match. Please try again.",
+    "orderFormEmailOnlyOtpExpired": "Mã xác minh đã hết hạn. Vui lòng thử lại.",
+    "orderFormEmailOnlyOtpError": "Mã xác minh không khớp. Vui lòng thử lại.",
     "orderFormEmailOnlyResend": "Gửi lại",
     "orderFormEmailOnlyVerifyButton": "Xác minh",
     "orderFormEmailOnlyDontRememberEmail": "Quên địa chỉ email?",
@@ -208,7 +224,7 @@
     "orderOtpRateLimitError": "Bạn đã vượt quá số lượng yêu cầu OTP tối đa. Vui lòng thử lại sau một giờ.",
     "seeOtherPicks": "Xem những lựa chọn hàng đầu khác",
     "orderListReturnOrder": "Trả lại đơn hàng",
-    "orderFormVerifyNoOrderFoundOrderId": "Please enter a valid Order ID.",
+    "orderFormVerifyNoOrderFoundOrderId": "Vui lòng nhập ID đơn hàng hợp lệ.",
     "orderListCancelOrderMessage": "ID đơn hàng của tôi là {{orderId}}. Tôi muốn hủy đơn hàng.",
     "orderFormEmailOnlyTitle": "Hãy theo dõi đơn hàng của bạn",
     "orderListNeedHelpMessage": "Tôi đã theo dõi đơn hàng. Tôi có thêm câu hỏi về đơn hàng {{orderId}}",

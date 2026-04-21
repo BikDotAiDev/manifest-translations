@@ -13,9 +13,21 @@
         "Welke van deze producten zouden het beste aan mijn behoeften voldoen?",
         "Doe aanbevelingen voor populaire producten uit deze collectie"
       ],
-      "OTHER": ["Wat onderscheidt jullie producten van andere?", "Wat zijn enkele trendy producten in jullie winkel?", "Laat me jullie nieuwste aanbiedingen en kortingen zien"],
-      "PRODUCT": ["Wat maakt dit product bijzonder?", "Laat me meer producten zien zoals deze", "Wat is het retourbeleid voor dit product?"],
-      "SEARCH": ["Toon de meest relevante producten voor mij", "Verfijn de resultaten op basis van mijn eisen", "Wat zijn enkele populaire keuzes hieruit?"]
+      "OTHER": [
+        "Wat onderscheidt jullie producten van andere?",
+        "Wat zijn enkele trendy producten in jullie winkel?",
+        "Laat me jullie nieuwste aanbiedingen en kortingen zien"
+      ],
+      "PRODUCT": [
+        "Wat maakt dit product bijzonder?",
+        "Laat me meer producten zien zoals deze",
+        "Wat is het retourbeleid voor dit product?"
+      ],
+      "SEARCH": [
+        "Toon de meest relevante producten voor mij",
+        "Verfijn de resultaten op basis van mijn eisen",
+        "Wat zijn enkele populaire keuzes hieruit?"
+      ]
     }
   },
   "translations": {
@@ -137,7 +149,7 @@
     "orderFormVerifyNoOrderFound": "Geen bestelling gevonden met deze ID. Probeer het opnieuw.",
     "orderFormVerifyEmailNotMatch": "Dit e-mailadres komt niet overeen met de Bestel-ID. Probeer het opnieuw.",
     "orderFormVerifyPhoneNotMatch": "Dit telefoonnummer komt niet overeen met de Bestel-ID. Probeer het opnieuw.",
-    "orderFormVerifyNoOrderFoundOrderId": "Please enter a valid Order ID.",
+    "orderFormVerifyNoOrderFoundOrderId": "Voer een geldig bestel-ID in.",
     "orderFormVerifyNoOrderFoundPhone": "Geen bestellingen gevonden voor dit nummer. Probeer het opnieuw.",
     "orderFormVerifyNoOrderFoundEmail": "Geen bestellingen gevonden voor deze e-mail. Probeer het opnieuw.",
     "orderFormEmailOnlyTitle": "Laten we je bestelling volgen",
@@ -146,7 +158,7 @@
     "orderOtpRateLimitError": "Je hebt het maximumaantal OTP-verzoeken overschreden. Probeer het over een uur opnieuw.",
     "orderFormEmailOnlyTrackOrderPrompt": "Voer uw e-mailadres in om uw bestelling te volgen",
     "orderFormEmailOnlyOtpSentPrompt": "We hebben een eenmalige code naar uw e-mail gestuurd. Voer deze in om door te gaan",
-    "orderFormEmailOnlyEmailLabel": "Email address",
+    "orderFormEmailOnlyEmailLabel": "E-mailadres",
     "orderFormEmailOnlyEmailPlaceholder": "Voer uw e-mail in",
     "orderFormEmailOnlyNoOrdersFound": "Geen bestellingen gevonden voor dit e-mailadres. Probeer het opnieuw",
     "orderFormEnterOrderId": "Voer bestel-ID in",
@@ -163,10 +175,10 @@
     "orderFormNoAccountFoundEmail": "Geen account gevonden voor dit e-mailadres. Probeer het opnieuw",
     "orderFormNoOrdersFoundPhone": "Geen bestellingen gevonden voor dit nummer. Probeer het opnieuw",
     "orderFormNoOrdersFoundOrderId": "Geen bestellingen gevonden voor dit bestel-ID. Probeer het opnieuw",
-    "orderFormEmailOnlyOtpLabel": "Enter 6 digit code",
+    "orderFormEmailOnlyOtpLabel": "Voer de 6-cijferige code in",
     "orderFormEmailOnlyOtpPlaceholder": "Eenmalig wachtwoord",
-    "orderFormEmailOnlyOtpExpired": "The verification code has expired. Please try again.",
-    "orderFormEmailOnlyOtpError": "The verification code does not match. Please try again.",
+    "orderFormEmailOnlyOtpExpired": "De verificatiecode is verlopen. Probeer het opnieuw.",
+    "orderFormEmailOnlyOtpError": "De verificatiecode komt niet overeen. Probeer het opnieuw.",
     "orderFormEmailOnlyResend": "Opnieuw verzenden",
     "orderFormEmailOnlyVerifyButton": "Verifiëren",
     "orderFormEmailOnlyDontRememberEmail": "E-mailadres vergeten?",

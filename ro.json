@@ -8,10 +8,26 @@
       "SEARCH": "Nu găsești ce cauți? Lasă-mă să te ajut să găsești exact ceea ce cauți."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Care sunt cele mai bine vândute produse ale voastre?", "Ce deosebește produsele voastre de cele ale altora?", "Unde este comanda mea?"],
-      "OTHER": ["Care sunt cele mai bine vândute produse ale voastre?", "Ce deosebește produsele voastre de cele ale altora?", "Unde este comanda mea?"],
-      "PRODUCT": ["Ce face acest produs să se remarce?", "Arată-mi mai multe produse ca acesta", "Care este politica de returnare pentru acest produs?"],
-      "SEARCH": ["Arată-mi cele mai relevante produse pentru mine", "Rafineaza rezultatele pe baza cerințelor mele", "Care sunt câteva opțiuni populare printre acestea?"]
+      "COLLECTION": [
+        "Care sunt cele mai bine vândute produse ale voastre?",
+        "Ce deosebește produsele voastre de cele ale altora?",
+        "Unde este comanda mea?"
+      ],
+      "OTHER": [
+        "Care sunt cele mai bine vândute produse ale voastre?",
+        "Ce deosebește produsele voastre de cele ale altora?",
+        "Unde este comanda mea?"
+      ],
+      "PRODUCT": [
+        "Ce face acest produs să se remarce?",
+        "Arată-mi mai multe produse ca acesta",
+        "Care este politica de returnare pentru acest produs?"
+      ],
+      "SEARCH": [
+        "Arată-mi cele mai relevante produse pentru mine",
+        "Rafineaza rezultatele pe baza cerințelor mele",
+        "Care sunt câteva opțiuni populare printre acestea?"
+      ]
     }
   },
   "translations": {
@@ -93,7 +109,7 @@
     "orderFormVerifyPhoneNotMatch": "Acest număr de telefon nu se potrivește cu ID-ul Comenzii. Te rog să încerci din nou.",
     "orderFormEmailOnlyTrackOrderPrompt": "Introduce adresa ta de email pentru a urmări comanda",
     "orderFormEmailOnlyOtpSentPrompt": "Am trimis un OTP la ID-ul tău de email. Introduce-l pentru a continua",
-    "orderFormEmailOnlyEmailLabel": "Email address",
+    "orderFormEmailOnlyEmailLabel": "Adresă de e-mail",
     "orderFormEmailOnlyEmailPlaceholder": "Introduce email-ul tău",
     "orderFormEmailOnlyNoOrdersFound": "Nu au fost găsite comenzi pentru acest email. Te rog să încerci din nou",
     "orderFormEnterOrderId": "Introdu ID-ul comenzii",
@@ -110,10 +126,10 @@
     "orderFormNoAccountFoundEmail": "Nu a fost găsit niciun cont pentru acest email. Te rog să încerci din nou",
     "orderFormNoOrdersFoundPhone": "Nu au fost găsite comenzi pentru acest număr. Te rog să încerci din nou",
     "orderFormNoOrdersFoundOrderId": "Nu au fost găsite comenzi pentru acest ID de comandă. Te rog să încerci din nou",
-    "orderFormEmailOnlyOtpLabel": "Enter 6 digit code",
+    "orderFormEmailOnlyOtpLabel": "Introduceți codul de 6 cifre",
     "orderFormEmailOnlyOtpPlaceholder": "Parolă de unică folosință",
-    "orderFormEmailOnlyOtpExpired": "The verification code has expired. Please try again.",
-    "orderFormEmailOnlyOtpError": "The verification code does not match. Please try again.",
+    "orderFormEmailOnlyOtpExpired": "Codul de verificare a expirat. Vă rugăm să încercați din nou.",
+    "orderFormEmailOnlyOtpError": "Codul de verificare nu corespunde. Vă rugăm să încercați din nou.",
     "orderFormEmailOnlyResend": "Retrimite",
     "orderFormEmailOnlyVerifyButton": "Verifică",
     "orderFormEmailOnlyDontRememberEmail": "Ai uitat adresa de email?",
@@ -209,7 +225,7 @@
     "orderFormVerifyNoOrderFoundEmail": "Nu au fost găsite comenzi pentru acest e-mail. Te rog să încerci din nou.",
     "orderOtpRateLimitError": "Ai depășit numărul maxim de solicitări OTP. Te rog să încerci din nou peste o oră.",
     "seeOtherPicks": "Vezi alte selecții de top",
-    "orderFormVerifyNoOrderFoundOrderId": "Please enter a valid Order ID.",
+    "orderFormVerifyNoOrderFoundOrderId": "Vă rugăm să introduceți un ID de comandă valid.",
     "orderFormEmailOnlyTitle": "Să urmărim comanda ta",
     "orderListHereAreYourOrders": "Detaliile comenzii",
     "orderFormBackButton": "Înapoi",

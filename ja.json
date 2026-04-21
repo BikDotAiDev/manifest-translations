@@ -8,10 +8,26 @@
       "SEARCH": "お探しのものが見つからない場合は、正確にお探しのものを見つけるのをお手伝いいたします。"
     },
     "suggestedReplies": {
-      "COLLECTION": ["販売の多い商品は何ですか？", "あなたの商品を他の商品とどう違うと考えていますか？", "私の注文はどこですか？"],
-      "OTHER": ["販売の多い商品は何ですか？", "あなたの商品を他の商品とどう違うと考えていますか？", "私の注文はどこですか？"],
-      "PRODUCT": ["この商品の特徴は何ですか？", "このような商品をもっと見せて", "この商品の返品ポリシーは？"],
-      "SEARCH": ["私にとって最も関連性のある商品を表示してください", "私の要件に基づいて結果を絞り込む", "これらの中で人気のある選択肢は何ですか？"]
+      "COLLECTION": [
+        "販売の多い商品は何ですか？",
+        "あなたの商品を他の商品とどう違うと考えていますか？",
+        "私の注文はどこですか？"
+      ],
+      "OTHER": [
+        "販売の多い商品は何ですか？",
+        "あなたの商品を他の商品とどう違うと考えていますか？",
+        "私の注文はどこですか？"
+      ],
+      "PRODUCT": [
+        "この商品の特徴は何ですか？",
+        "このような商品をもっと見せて",
+        "この商品の返品ポリシーは？"
+      ],
+      "SEARCH": [
+        "私にとって最も関連性のある商品を表示してください",
+        "私の要件に基づいて結果を絞り込む",
+        "これらの中で人気のある選択肢は何ですか？"
+      ]
     }
   },
   "translations": {
@@ -135,7 +151,7 @@
     "orderFormVerifyPhoneNotMatch": "この電話番号は注文IDと一致しません。もう一度お試しください。",
     "orderFormEmailOnlyTrackOrderPrompt": "ご注文を追跡するにはメールアドレスを入力してください",
     "orderFormEmailOnlyOtpSentPrompt": "メールアドレスにOTPを送信しました。続行するには入力してください",
-    "orderFormEmailOnlyEmailLabel": "Email address",
+    "orderFormEmailOnlyEmailLabel": "メールアドレス",
     "orderFormEmailOnlyEmailPlaceholder": "メールアドレスを入力してください",
     "orderFormEmailOnlyNoOrdersFound": "このメールアドレスの注文が見つかりません。もう一度お試しください",
     "orderFormEnterOrderId": "注文IDを入力してください",
@@ -152,10 +168,10 @@
     "orderFormNoAccountFoundEmail": "このメールアドレスのアカウントが見つかりません。もう一度お試しください",
     "orderFormNoOrdersFoundPhone": "この番号の注文が見つかりません。もう一度お試しください",
     "orderFormNoOrdersFoundOrderId": "この注文IDの注文が見つかりません。もう一度お試しください",
-    "orderFormEmailOnlyOtpLabel": "Enter 6 digit code",
+    "orderFormEmailOnlyOtpLabel": "6桁のコードを入力してください",
     "orderFormEmailOnlyOtpPlaceholder": "ワンタイムパスワード",
-    "orderFormEmailOnlyOtpExpired": "The verification code has expired. Please try again.",
-    "orderFormEmailOnlyOtpError": "The verification code does not match. Please try again.",
+    "orderFormEmailOnlyOtpExpired": "確認コードの有効期限が切れています。もう一度お試しください。",
+    "orderFormEmailOnlyOtpError": "確認コードが一致しません。もう一度お試しください。",
     "orderFormEmailOnlyResend": "再送信",
     "orderFormEmailOnlyVerifyButton": "認証する",
     "orderFormEmailOnlyDontRememberEmail": "メールアドレスをお忘れですか？",
@@ -211,7 +227,7 @@
     "orderFormVerifyNoOrderFoundEmail": "このメールアドレスに対する注文が見つかりませんでした。再試行してください。",
     "orderOtpRateLimitError": "OTPリクエストの上限に達しました。1時間後に再試行してください。",
     "seeOtherPicks": "他のおすすめをチェック",
-    "orderFormVerifyNoOrderFoundOrderId": "Please enter a valid Order ID.",
+    "orderFormVerifyNoOrderFoundOrderId": "有効な注文IDを入力してください。",
     "orderFormEmailOnlyTitle": "注文を追跡しましょう",
     "orderListHereAreYourOrders": "注文詳細",
     "orderFormBackButton": "戻る",

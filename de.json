@@ -8,10 +8,26 @@
       "SEARCH": "Kannst du nicht finden, wonach du suchst? Lass mich dir genau das finden, wonach du suchst."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Welche sind deine meistverkauften Produkte?", "Was unterscheidet deine Produkte von anderen?", "Wo ist meine Bestellung?"],
-      "OTHER": ["Welche sind deine meistverkauften Produkte?", "Was unterscheidet deine Produkte von anderen?", "Wo ist meine Bestellung?"],
-      "PRODUCT": ["Was macht dieses Produkt besonders?", "Zeige mir mehr Produkte wie dieses", "Was ist die Rückgaberichtlinie für dieses Produkt?"],
-      "SEARCH": ["Zeige mir die relevantesten Produkte für mich", "Verfeinere die Ergebnisse basierend auf meinen Anforderungen", "Was sind einige beliebte Optionen unter diesen?"]
+      "COLLECTION": [
+        "Welche sind deine meistverkauften Produkte?",
+        "Was unterscheidet deine Produkte von anderen?",
+        "Wo ist meine Bestellung?"
+      ],
+      "OTHER": [
+        "Welche sind deine meistverkauften Produkte?",
+        "Was unterscheidet deine Produkte von anderen?",
+        "Wo ist meine Bestellung?"
+      ],
+      "PRODUCT": [
+        "Was macht dieses Produkt besonders?",
+        "Zeige mir mehr Produkte wie dieses",
+        "Was ist die Rückgaberichtlinie für dieses Produkt?"
+      ],
+      "SEARCH": [
+        "Zeige mir die relevantesten Produkte für mich",
+        "Verfeinere die Ergebnisse basierend auf meinen Anforderungen",
+        "Was sind einige beliebte Optionen unter diesen?"
+      ]
     }
   },
   "translations": {
@@ -133,7 +149,7 @@
     "orderFormVerifyNoOrderFound": "Keine Bestellung mit dieser Nummer gefunden. Bitte versuchen Sie es erneut.",
     "orderFormVerifyEmailNotMatch": "Diese E-Mail-Adresse stimmt nicht mit der Bestellnummer überein. Bitte versuchen Sie es erneut.",
     "orderFormVerifyPhoneNotMatch": "Diese Telefonnummer stimmt nicht mit der Bestellnummer überein. Bitte versuchen Sie es erneut.",
-    "orderFormVerifyNoOrderFoundOrderId": "Please enter a valid Order ID.",
+    "orderFormVerifyNoOrderFoundOrderId": "Bitte geben Sie eine gültige Bestell-ID ein.",
     "orderFormVerifyNoOrderFoundPhone": "Für diese Nummer wurden keine Bestellungen gefunden. Bitte versuchen Sie es erneut.",
     "orderFormVerifyNoOrderFoundEmail": "Für diese E-Mail wurden keine Bestellungen gefunden. Bitte versuchen Sie es erneut.",
     "orderFormEmailOnlyTitle": "Lass uns deine Bestellung verfolgen",
@@ -142,7 +158,7 @@
     "orderOtpRateLimitError": "Sie haben die maximale Anzahl von OTP-Anfragen überschritten. Bitte versuchen Sie es nach einer Stunde erneut.",
     "orderFormEmailOnlyTrackOrderPrompt": "Geben Sie Ihre E-Mail-Adresse ein, um Ihre Bestellung zu verfolgen",
     "orderFormEmailOnlyOtpSentPrompt": "Wir haben einen OTP an Ihre E-Mail gesendet. Bitte geben Sie ihn ein, um fortzufahren",
-    "orderFormEmailOnlyEmailLabel": "Email address",
+    "orderFormEmailOnlyEmailLabel": "E-Mail-Adresse",
     "orderFormEmailOnlyEmailPlaceholder": "Geben Sie Ihre E-Mail ein",
     "orderFormEmailOnlyNoOrdersFound": "Für diese E-Mail wurden keine Bestellungen gefunden. Bitte versuchen Sie es erneut",
     "orderFormEnterOrderId": "Bestell-ID eingeben",
@@ -159,10 +175,10 @@
     "orderFormNoAccountFoundEmail": "Für diese E-Mail wurde kein Konto gefunden. Bitte versuchen Sie es erneut",
     "orderFormNoOrdersFoundPhone": "Für diese Nummer wurden keine Bestellungen gefunden. Bitte versuchen Sie es erneut",
     "orderFormNoOrdersFoundOrderId": "Für diese Bestell-ID wurden keine Bestellungen gefunden. Bitte versuchen Sie es erneut",
-    "orderFormEmailOnlyOtpLabel": "Enter 6 digit code",
+    "orderFormEmailOnlyOtpLabel": "6-stelligen Code eingeben",
     "orderFormEmailOnlyOtpPlaceholder": "Einmalpasswort",
-    "orderFormEmailOnlyOtpExpired": "The verification code has expired. Please try again.",
-    "orderFormEmailOnlyOtpError": "The verification code does not match. Please try again.",
+    "orderFormEmailOnlyOtpExpired": "Der Bestätigungscode ist abgelaufen. Bitte versuchen Sie es erneut.",
+    "orderFormEmailOnlyOtpError": "Der Bestätigungscode stimmt nicht überein. Bitte versuchen Sie es erneut.",
     "orderFormEmailOnlyResend": "Erneut senden",
     "orderFormEmailOnlyVerifyButton": "Verifizieren",
     "orderFormEmailOnlyDontRememberEmail": "E-Mail-Adresse vergessen?",

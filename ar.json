@@ -8,10 +8,26 @@
       "SEARCH": "هل لا تستطيع أن تجد ما تبحث عنه؟ اسمح لي أن أساعدك في العثور بالضبط على ما تبحث عنه."
     },
     "suggestedReplies": {
-      "COLLECTION": ["ما هي منتجات الأكثر مبيعًا؟", "ما الذي يميز منتجاتكم عن غيرها؟", "أين طلبي؟"],
-      "OTHER": ["ما هي منتجاتكم الأكثر مبيعًا؟", "ما الذي يميز منتجاتكم عن غيرها؟", "أين طلبي؟"],
-      "PRODUCT": ["ما الذي يميز هذا المنتج؟", "أرني المزيد من المنتجات مثل هذه", "ما هو سياسة الإرجاع لهذا المنتج؟"],
-      "SEARCH": ["عرض أكثر المنتجات ذات الصلة بالنسبة لي", "حسّن النتائج بناءً على متطلباتي", "ما هي بعض الاختيارات الشائعة من بين هذه؟"]
+      "COLLECTION": [
+        "ما هي منتجات الأكثر مبيعًا؟",
+        "ما الذي يميز منتجاتكم عن غيرها؟",
+        "أين طلبي؟"
+      ],
+      "OTHER": [
+        "ما هي منتجاتكم الأكثر مبيعًا؟",
+        "ما الذي يميز منتجاتكم عن غيرها؟",
+        "أين طلبي؟"
+      ],
+      "PRODUCT": [
+        "ما الذي يميز هذا المنتج؟",
+        "أرني المزيد من المنتجات مثل هذه",
+        "ما هو سياسة الإرجاع لهذا المنتج؟"
+      ],
+      "SEARCH": [
+        "عرض أكثر المنتجات ذات الصلة بالنسبة لي",
+        "حسّن النتائج بناءً على متطلباتي",
+        "ما هي بعض الاختيارات الشائعة من بين هذه؟"
+      ]
     }
   },
   "translations": {
@@ -135,7 +151,7 @@
     "orderFormVerifyPhoneNotMatch": "رقم الهاتف هذا لا يطابق معرف الطلب. يرجى المحاولة مرة أخرى.",
     "orderFormEmailOnlyTrackOrderPrompt": "أدخل عنوان بريدك الإلكتروني لتتبع طلبك",
     "orderFormEmailOnlyOtpSentPrompt": "لقد أرسلنا رمز OTP إلى معرف بريدك الإلكتروني. أدخله للمتابعة",
-    "orderFormEmailOnlyEmailLabel": "Email address",
+    "orderFormEmailOnlyEmailLabel": "عنوان البريد الإلكتروني",
     "orderFormEmailOnlyEmailPlaceholder": "أدخل بريدك الإلكتروني",
     "orderFormEmailOnlyNoOrdersFound": "لم يتم العثور على طلبات لهذا البريد الإلكتروني. يرجى المحاولة مرة أخرى",
     "orderFormEnterOrderId": "أدخل معرف الطلب",
@@ -152,10 +168,10 @@
     "orderFormNoAccountFoundEmail": "لم يتم العثور على حساب لهذا البريد الإلكتروني. يرجى المحاولة مرة أخرى",
     "orderFormNoOrdersFoundPhone": "لم يتم العثور على طلبات لهذا الرقم. يرجى المحاولة مرة أخرى",
     "orderFormNoOrdersFoundOrderId": "لم يتم العثور على طلبات لمعرف الطلب هذا. يرجى المحاولة مرة أخرى",
-    "orderFormEmailOnlyOtpLabel": "Enter 6 digit code",
+    "orderFormEmailOnlyOtpLabel": "أدخل الرمز المكون من 6 أرقام",
     "orderFormEmailOnlyOtpPlaceholder": "كلمة مرور لمرة واحدة",
-    "orderFormEmailOnlyOtpExpired": "The verification code has expired. Please try again.",
-    "orderFormEmailOnlyOtpError": "The verification code does not match. Please try again.",
+    "orderFormEmailOnlyOtpExpired": "انتهت صلاحية رمز التحقق. يرجى المحاولة مرة أخرى.",
+    "orderFormEmailOnlyOtpError": "رمز التحقق غير صحيح. يرجى المحاولة مرة أخرى.",
     "orderFormEmailOnlyResend": "إعادة الإرسال",
     "orderFormEmailOnlyVerifyButton": "تحقق",
     "orderFormEmailOnlyDontRememberEmail": "هل نسيت عنوان البريد الإلكتروني؟",
@@ -211,7 +227,7 @@
     "orderFormVerifyNoOrderFoundEmail": "لم يتم العثور على طلبات لهذا البريد الإلكتروني. يرجى المحاولة مرة أخرى.",
     "orderOtpRateLimitError": "لقد تجاوزت العدد الأقصى من طلبات OTP. يرجى المحاولة مرة أخرى بعد ساعة.",
     "seeOtherPicks": "راجع اختياراتنا الأخرى المميزة",
-    "orderFormVerifyNoOrderFoundOrderId": "Please enter a valid Order ID.",
+    "orderFormVerifyNoOrderFoundOrderId": "يرجى إدخال معرف طلب صالح.",
     "orderFormEmailOnlyTitle": "دعنا نتتبع طلبك",
     "orderListHereAreYourOrders": "تفاصيل الطلب",
     "orderFormBackButton": "رجوع",

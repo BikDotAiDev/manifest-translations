@@ -8,10 +8,26 @@
       "SEARCH": "Nem találod, amit keresel? Segítek megtalálni pontosan azt, amit keresel."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Mi a legjobban eladott termékeitek?", "Mi különbözteti meg termékeiteket a többitől?", "Hol van az rendelésem?"],
-      "OTHER": ["Mi a legjobban eladott termékeitek?", "Mi különbözteti meg termékeiteket a többitől?", "Hol van az rendelésem?"],
-      "PRODUCT": ["Mi teszi ezt a terméket különlegessé?", "Mutass több olyan terméket, mint ez", "Mi a termék visszaküldési politikája?"],
-      "SEARCH": ["Mutass nekem a számomra legrelevánsabb termékeket", "Finomítsd az eredményeket az igényeim alapján", "Mi a népszerű választás ezek között?"]
+      "COLLECTION": [
+        "Mi a legjobban eladott termékeitek?",
+        "Mi különbözteti meg termékeiteket a többitől?",
+        "Hol van az rendelésem?"
+      ],
+      "OTHER": [
+        "Mi a legjobban eladott termékeitek?",
+        "Mi különbözteti meg termékeiteket a többitől?",
+        "Hol van az rendelésem?"
+      ],
+      "PRODUCT": [
+        "Mi teszi ezt a terméket különlegessé?",
+        "Mutass több olyan terméket, mint ez",
+        "Mi a termék visszaküldési politikája?"
+      ],
+      "SEARCH": [
+        "Mutass nekem a számomra legrelevánsabb termékeket",
+        "Finomítsd az eredményeket az igényeim alapján",
+        "Mi a népszerű választás ezek között?"
+      ]
     }
   },
   "translations": {
@@ -93,7 +109,7 @@
     "orderFormVerifyPhoneNotMatch": "Ez a telefonszám nem egyezik a rendelési azonosítóval. Kérlek próbáld újra.",
     "orderFormEmailOnlyTrackOrderPrompt": "Add meg az email címedet a rendelésed nyomon követéséhez",
     "orderFormEmailOnlyOtpSentPrompt": "Küldtünk egy egyszeri jelszót az email címedre. Add meg a folytatáshoz",
-    "orderFormEmailOnlyEmailLabel": "Email address",
+    "orderFormEmailOnlyEmailLabel": "E-mail cím",
     "orderFormEmailOnlyEmailPlaceholder": "Add meg az emailedet",
     "orderFormEmailOnlyNoOrdersFound": "Nincs rendelés ehhez az emailhez. Kérlek próbáld újra",
     "orderFormEnterOrderId": "Rendelési azonosító megadása",
@@ -110,10 +126,10 @@
     "orderFormNoAccountFoundEmail": "Nincs fiók ehhez az emailhez. Kérlek próbáld újra",
     "orderFormNoOrdersFoundPhone": "Nincs rendelés ehhez a telefonszámhoz. Kérlek próbáld újra",
     "orderFormNoOrdersFoundOrderId": "Nincs rendelés ehhez a rendelési azonosítóhoz. Kérlek próbáld újra",
-    "orderFormEmailOnlyOtpLabel": "Enter 6 digit code",
+    "orderFormEmailOnlyOtpLabel": "Adja meg a 6 számjegyű kódot",
     "orderFormEmailOnlyOtpPlaceholder": "Egyszeri jelszó",
-    "orderFormEmailOnlyOtpExpired": "The verification code has expired. Please try again.",
-    "orderFormEmailOnlyOtpError": "The verification code does not match. Please try again.",
+    "orderFormEmailOnlyOtpExpired": "Az ellenőrző kód lejárt. Kérjük, próbálja újra.",
+    "orderFormEmailOnlyOtpError": "Az ellenőrző kód nem egyezik. Kérjük, próbálja újra.",
     "orderFormEmailOnlyResend": "Újraküldés",
     "orderFormEmailOnlyVerifyButton": "Ellenőrzés",
     "orderFormEmailOnlyDontRememberEmail": "Elfelejtetted az e-mail címed?",
@@ -192,7 +208,9 @@
     "order_cancellation": "Rendelés lemondása",
     "returns_refunds_policy": "Visszaküldési és visszatérítési politika",
     "offers_rewards": "Ajánlatok és jutalmak",
-    "orderFormOtpTitle": "6 jegyű kódot küldtünk az e-mail címére.",    "orderFormOtpSubTitle": "Kódot küldünk ide: {{value}}",    "orderFormEmailOnlyDidntReceiveCode": "Nem kapta meg a kódot?",
+    "orderFormOtpTitle": "6 jegyű kódot küldtünk az e-mail címére.",
+    "orderFormOtpSubTitle": "Kódot küldünk ide: {{value}}",
+    "orderFormEmailOnlyDidntReceiveCode": "Nem kapta meg a kódot?",
     "orderListShowMore": "Több megjelenítése",
     "orderListScrollToTop": "Görgetés tetejére",
     "orderFormVerifyNoOrderFoundEmail": "Nem találtunk rendeléseket ehhez az e-mail címhez. Próbálkozzon újra.",
@@ -203,7 +221,7 @@
     "orderFormVerifyNoOrderFoundPhone": "Nem találtunk rendeléseket ehhez a számhoz. Próbálkozzon újra.",
     "orderFormUnverifiedTrackOrderPrompt": "Kövessük nyomon rendelését",
     "returnToChat": "Vissza a chathez",
-    "orderFormVerifyNoOrderFoundOrderId": "Please enter a valid Order ID.",
+    "orderFormVerifyNoOrderFoundOrderId": "Kérjük, adjon meg érvényes rendelési azonosítót.",
     "orderFormEmailOnlyTitle": "Kövessük nyomon a rendelését",
     "orderListReturnOrderMessage": "A rendelésem azonosítója {{orderId}}. Vissza szeretném küldeni a rendelésemet.",
     "orderListCancelOrder": "Rendelés törlése",

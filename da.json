@@ -8,10 +8,26 @@
       "SEARCH": "Kan du ikke finde det, du leder efter? Lad mig hjælpe dig med at finde præcis, hvad du leder efter."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Hvilke produkter er dine bedst-sælgende?", "Hvad adskiller jeres produkter fra andre?", "Hvor er min ordre?"],
-      "OTHER": ["Hvilke produkter er dine bedst-sælgende?", "Hvad adskiller jeres produkter fra andre?", "Hvor er min ordre?"],
-      "PRODUCT": ["Hvad gør dette produkt unikt?", "Vis mig flere produkter som dette", "Hvad er returpolitiken for dette produkt?"],
-      "SEARCH": ["Vis mig de mest relevante produkter for mig", "Forfin resultaterne baseret på mine krav", "Hvad er nogle populære valg blandt disse?"]
+      "COLLECTION": [
+        "Hvilke produkter er dine bedst-sælgende?",
+        "Hvad adskiller jeres produkter fra andre?",
+        "Hvor er min ordre?"
+      ],
+      "OTHER": [
+        "Hvilke produkter er dine bedst-sælgende?",
+        "Hvad adskiller jeres produkter fra andre?",
+        "Hvor er min ordre?"
+      ],
+      "PRODUCT": [
+        "Hvad gør dette produkt unikt?",
+        "Vis mig flere produkter som dette",
+        "Hvad er returpolitiken for dette produkt?"
+      ],
+      "SEARCH": [
+        "Vis mig de mest relevante produkter for mig",
+        "Forfin resultaterne baseret på mine krav",
+        "Hvad er nogle populære valg blandt disse?"
+      ]
     }
   },
   "translations": {
@@ -135,7 +151,7 @@
     "orderFormVerifyPhoneNotMatch": "Dette telefonnummer matcher ikke Ordre-ID'et. Prøv igen.",
     "orderFormEmailOnlyTrackOrderPrompt": "Indtast din e-mailadresse for at spore din ordre",
     "orderFormEmailOnlyOtpSentPrompt": "Vi har sendt en engangskode til din e-mail. Indtast den for at fortsætte",
-    "orderFormEmailOnlyEmailLabel": "Email address",
+    "orderFormEmailOnlyEmailLabel": "E-mailadresse",
     "orderFormEmailOnlyEmailPlaceholder": "Indtast din e-mail",
     "orderFormEmailOnlyNoOrdersFound": "Ingen ordrer fundet for denne e-mail. Prøv igen",
     "orderFormEnterOrderId": "Indtast ordre-ID",
@@ -152,10 +168,10 @@
     "orderFormNoAccountFoundEmail": "Ingen konto fundet for denne e-mail. Prøv igen",
     "orderFormNoOrdersFoundPhone": "Ingen ordrer fundet for dette nummer. Prøv igen",
     "orderFormNoOrdersFoundOrderId": "Ingen ordrer fundet for dette ordre-ID. Prøv igen",
-    "orderFormEmailOnlyOtpLabel": "Enter 6 digit code",
+    "orderFormEmailOnlyOtpLabel": "Indtast 6-cifret kode",
     "orderFormEmailOnlyOtpPlaceholder": "Engangsadgangskode",
-    "orderFormEmailOnlyOtpExpired": "The verification code has expired. Please try again.",
-    "orderFormEmailOnlyOtpError": "The verification code does not match. Please try again.",
+    "orderFormEmailOnlyOtpExpired": "Bekræftelseskoden er udløbet. Prøv venligst igen.",
+    "orderFormEmailOnlyOtpError": "Bekræftelseskoden stemmer ikke overens. Prøv venligst igen.",
     "orderFormEmailOnlyResend": "Send igen",
     "orderFormEmailOnlyVerifyButton": "Bekræft",
     "orderFormEmailOnlyDontRememberEmail": "Glemte e-mailadresse?",
@@ -211,7 +227,7 @@
     "orderFormEmailOnlyResendNow": "Send igen nu",
     "orderFormVerifyNoOrderFoundEmail": "Ingen ordrer fundet for denne e-mail. Prøv igen.",
     "orderOtpRateLimitError": "Du har overskredet det maksimale antal OTP-anmodninger. Prøv igen om en time.",
-    "orderFormVerifyNoOrderFoundOrderId": "Please enter a valid Order ID.",
+    "orderFormVerifyNoOrderFoundOrderId": "Indtast venligst et gyldigt ordre-ID.",
     "orderFormEmailOnlyTitle": "Lad os spore din ordre",
     "orderListHereAreYourOrders": "Ordredetaljer",
     "orderFormBackButton": "Tilbage",

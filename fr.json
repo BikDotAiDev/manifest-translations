@@ -8,9 +8,21 @@
       "SEARCH": "Vous ne trouvez pas ce que vous cherchez ? Laissez-moi vous aider à trouver exactement ce que vous cherchez."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Quels sont vos produits les plus vendus ?", "Qu'est-ce qui distingue vos produits des autres ?", "Où est ma commande ?"],
-      "OTHER": ["Quels sont vos produits les plus vendus ?", "Qu'est-ce qui distingue vos produits des autres ?", "Où est ma commande ?"],
-      "PRODUCT": ["Qu'est-ce qui rend ce produit unique ?", "Montrez-moi plus de produits comme celui-ci", "Quelle est la politique de retour de ce produit ?"],
+      "COLLECTION": [
+        "Quels sont vos produits les plus vendus ?",
+        "Qu'est-ce qui distingue vos produits des autres ?",
+        "Où est ma commande ?"
+      ],
+      "OTHER": [
+        "Quels sont vos produits les plus vendus ?",
+        "Qu'est-ce qui distingue vos produits des autres ?",
+        "Où est ma commande ?"
+      ],
+      "PRODUCT": [
+        "Qu'est-ce qui rend ce produit unique ?",
+        "Montrez-moi plus de produits comme celui-ci",
+        "Quelle est la politique de retour de ce produit ?"
+      ],
       "SEARCH": [
         "Montrez-moi les produits les plus pertinents pour moi",
         "Affinez les résultats en fonction de mes exigences",
@@ -137,7 +149,7 @@
     "orderFormVerifyNoOrderFound": "Aucune commande trouvée avec cet ID. Veuillez réessayer.",
     "orderFormVerifyEmailNotMatch": "Cette adresse e-mail ne correspond pas à l'ID de commande. Veuillez réessayer.",
     "orderFormVerifyPhoneNotMatch": "Ce numéro de téléphone ne correspond pas à l'ID de commande. Veuillez réessayer.",
-    "orderFormVerifyNoOrderFoundOrderId": "Please enter a valid Order ID.",
+    "orderFormVerifyNoOrderFoundOrderId": "Veuillez entrer un identifiant de commande valide.",
     "orderFormVerifyNoOrderFoundPhone": "Aucune commande trouvée pour ce numéro. Veuillez réessayer.",
     "orderFormVerifyNoOrderFoundEmail": "Aucune commande trouvée pour cet e-mail. Veuillez réessayer.",
     "orderFormEmailOnlyTitle": "Suivons votre commande",
@@ -146,7 +158,7 @@
     "orderOtpRateLimitError": "Vous avez dépassé le nombre maximum de demandes d'OTP. Veuillez réessayer dans une heure.",
     "orderFormEmailOnlyTrackOrderPrompt": "Entrez votre adresse e-mail pour suivre votre commande",
     "orderFormEmailOnlyOtpSentPrompt": "Nous avons envoyé un code OTP à votre e-mail. Entrez-le pour continuer",
-    "orderFormEmailOnlyEmailLabel": "Email address",
+    "orderFormEmailOnlyEmailLabel": "Adresse e-mail",
     "orderFormEmailOnlyEmailPlaceholder": "Entrez votre e-mail",
     "orderFormEmailOnlyNoOrdersFound": "Aucune commande trouvée pour cet e-mail. Veuillez réessayer",
     "orderFormEnterOrderId": "Entrez l'ID de commande",
@@ -163,10 +175,10 @@
     "orderFormNoAccountFoundEmail": "Aucun compte trouvé pour cet e-mail. Veuillez réessayer",
     "orderFormNoOrdersFoundPhone": "Aucune commande trouvée pour ce numéro. Veuillez réessayer",
     "orderFormNoOrdersFoundOrderId": "Aucune commande trouvée pour cet ID de commande. Veuillez réessayer",
-    "orderFormEmailOnlyOtpLabel": "Enter 6 digit code",
+    "orderFormEmailOnlyOtpLabel": "Entrez le code à 6 chiffres",
     "orderFormEmailOnlyOtpPlaceholder": "Mot de passe à usage unique",
-    "orderFormEmailOnlyOtpExpired": "The verification code has expired. Please try again.",
-    "orderFormEmailOnlyOtpError": "The verification code does not match. Please try again.",
+    "orderFormEmailOnlyOtpExpired": "Le code de vérification a expiré. Veuillez réessayer.",
+    "orderFormEmailOnlyOtpError": "Le code de vérification ne correspond pas. Veuillez réessayer.",
     "orderFormEmailOnlyResend": "Renvoyer",
     "orderFormEmailOnlyVerifyButton": "Vérifier",
     "orderFormEmailOnlyDontRememberEmail": "Adresse e-mail oubliée?",
