@@ -133,6 +133,7 @@
   "thinking": "Razmišlja",
   "findingYourAnswer": "Pronalaženje vašeg odgovora",
   "typingYourResponse": "Pisanje vašeg odgovora",
+  "orderFormSubHeader": "Unesite svoje podatke za prikaz narudžbi",
   "translations": {
     "AMA": "Pitaj me bilo što",
     "AskYourQuestion": "Postavite svoje pitanje",
@@ -215,7 +216,7 @@
     "whatAreYourBestSellers": "Koji su vaši najuspješniji proizvodi?",
     "summarizeReviews": "Sumirajte recenzije za ovaj proizvod",
     "yesSure": "Da, naravno!",
-    "orderListHereAreYourOrders": "Evo vaših narudžbi",
+    "orderListHereAreYourOrders": "Detalji narudžbe",
     "orderFormBackButton": "Natrag",
     "orderFormPhoneNumberLabel": "Unesite telefonski broj",
     "orderFormPincodeLabel": "Unesite poštanski broj",
