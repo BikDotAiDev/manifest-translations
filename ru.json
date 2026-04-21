@@ -10,6 +10,7 @@
   "orderFormPincodeError": "Пожалуйста, введите почтовый индекс",
   "orderFormNoOrdersFoundPhoneAndPincode": "Заказы с этим номером телефона и почтовым индексом не найдены",
   "orderFormForgotDetails": "Забыли ваши данные?",
+  "orderFormQuantity": "Количество",
   "productSpecialistInputPlaceholder": "Напишите свой вопрос здесь",
   "continueButton": "Нажмите здесь для продолжения",
   "olderConversations": "Старые беседы",

@@ -207,6 +207,7 @@
     "orderFormPincodeError": "Please enter a pincode",
     "orderFormNoOrdersFoundPhoneAndPincode": "No orders found with this phone number and pincode",
     "orderFormForgotDetails": "Forgot your details?",
+    "orderFormQuantity": "Quantity",
     "productSpecialistInputPlaceholder": "Type your question here",
     "continueButton": "Click here to continue",
     "ask": "Ask",

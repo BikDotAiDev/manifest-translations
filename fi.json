@@ -238,6 +238,7 @@
     "orderFormPincodeError": "Syötä postinumero",
     "orderFormNoOrdersFoundPhoneAndPincode": "Tilauksia ei löydy tällä puhelinnumerolla ja postinumerolla",
     "orderFormForgotDetails": "Unohditko tietosi?",
+    "orderFormQuantity": "Määrä",
     "productSpecialistInputPlaceholder": "Kirjoita kysymyksesi tähän",
     "continueButton": "Napsauta jatkaaksesi",
     "olderConversations": "Vanhemmat keskustelut"

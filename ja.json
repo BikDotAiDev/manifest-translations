@@ -238,6 +238,7 @@
     "orderFormPincodeError": "郵便番号を入力してください",
     "orderFormNoOrdersFoundPhoneAndPincode": "この電話番号と郵便番号の注文が見つかりません",
     "orderFormForgotDetails": "詳細を忘れましたか?",
+    "orderFormQuantity": "数量",
     "recommendLike": "類似をおすすめ",
     "productSpecialistInputPlaceholder": "ここに質問を入力してください",
     "continueButton": "ここをクリックして続行",

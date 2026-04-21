@@ -235,6 +235,7 @@
     "productSpecialistInputPlaceholder": "在此輸入你的問題",
     "continueButton": "點擊此處繼續",
     "orderFormForgotDetails": "忘记了您的详细信息?",
+    "orderFormQuantity": "數量",
     "olderConversations": "舊對話"
   }
 }

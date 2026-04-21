@@ -422,6 +422,7 @@
     "orderFormPincodeError": "กรุณากรอกรหัสไปรษณีย์",
     "orderFormNoOrdersFoundPhoneAndPincode": "ไม่พบคำสั่งซื้อด้วยหมายเลขโทรศัพท์และรหัสไปรษณีย์นี้",
     "orderFormForgotDetails": "ลืมรายละเอียดของคุณ?",
+    "orderFormQuantity": "จำนวน",
     "recommendLike": "แนะนำที่คล้ายกัน",
     "discountCouponText": "วู้ฮู! 🎉 คุณมีสิทธิ์รับ {{couponTitle}}",
     "getOffer": "รับข้อเสนอ",
