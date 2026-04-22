@@ -8,26 +8,10 @@
       "SEARCH": "找不到您想要的商品？让我来帮您找到最适合您的商品。"
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "你们的畅销产品有哪些？",
-        "你们的产品与其他产品有什么不同？",
-        "我的订单在哪里？"
-      ],
-      "OTHER": [
-        "你们的畅销产品有哪些？",
-        "你们的产品与其他产品有什么不同？",
-        "我的订单在哪里？"
-      ],
-      "PRODUCT": [
-        "这款产品有什么独特之处？",
-        "展示更多类似的产品",
-        "这款产品的退货政策是什么？"
-      ],
-      "SEARCH": [
-        "展示最适合我的产品",
-        "根据我的需求优化搜索结果",
-        "这些产品中有哪些是热门选择？"
-      ]
+      "COLLECTION": ["你们的畅销产品有哪些？", "你们的产品与其他产品有什么不同？", "我的订单在哪里？"],
+      "OTHER": ["你们的畅销产品有哪些？", "你们的产品与其他产品有什么不同？", "我的订单在哪里？"],
+      "PRODUCT": ["这款产品有什么独特之处？", "展示更多类似的产品", "这款产品的退货政策是什么？"],
+      "SEARCH": ["展示最适合我的产品", "根据我的需求优化搜索结果", "这些产品中有哪些是热门选择？"]
     }
   },
   "translations": {
@@ -233,6 +217,9 @@
     "orderFormPincodeError": "请输入邮政编码",
     "orderFormNoOrdersFoundPhoneAndPincode": "未找到使用此电话号码和邮政编码的订单",
     "orderFormForgotDetails": "忘记了您的详细信息?",
+    "orderFormQuantity": "数量",
+    "orderTrackingYourItems": "您的商品",
+    "orderTrackingShipment": "货件 {{value}}",
     "productSpecialistInputPlaceholder": "在此输入你的问题",
     "continueButton": "点击此处继续",
     "olderConversations": "旧对话"

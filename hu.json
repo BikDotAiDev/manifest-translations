@@ -8,26 +8,10 @@
       "SEARCH": "Nem találod, amit keresel? Segítek megtalálni pontosan azt, amit keresel."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "Mi a legjobban eladott termékeitek?",
-        "Mi különbözteti meg termékeiteket a többitől?",
-        "Hol van az rendelésem?"
-      ],
-      "OTHER": [
-        "Mi a legjobban eladott termékeitek?",
-        "Mi különbözteti meg termékeiteket a többitől?",
-        "Hol van az rendelésem?"
-      ],
-      "PRODUCT": [
-        "Mi teszi ezt a terméket különlegessé?",
-        "Mutass több olyan terméket, mint ez",
-        "Mi a termék visszaküldési politikája?"
-      ],
-      "SEARCH": [
-        "Mutass nekem a számomra legrelevánsabb termékeket",
-        "Finomítsd az eredményeket az igényeim alapján",
-        "Mi a népszerű választás ezek között?"
-      ]
+      "COLLECTION": ["Mi a legjobban eladott termékeitek?", "Mi különbözteti meg termékeiteket a többitől?", "Hol van az rendelésem?"],
+      "OTHER": ["Mi a legjobban eladott termékeitek?", "Mi különbözteti meg termékeiteket a többitől?", "Hol van az rendelésem?"],
+      "PRODUCT": ["Mi teszi ezt a terméket különlegessé?", "Mutass több olyan terméket, mint ez", "Mi a termék visszaküldési politikája?"],
+      "SEARCH": ["Mutass nekem a számomra legrelevánsabb termékeket", "Finomítsd az eredményeket az igényeim alapján", "Mi a népszerű választás ezek között?"]
     }
   },
   "translations": {
@@ -237,6 +221,9 @@
     "orderFormPincodeError": "Kérjük, adjon meg egy irányítószámot",
     "orderFormNoOrdersFoundPhoneAndPincode": "Nem találhatók rendelések ezzel a telefonszámmal és irányítószámmal",
     "orderFormForgotDetails": "Elfelejtetted az adataidat?",
+    "orderFormQuantity": "Mennyiség",
+    "orderTrackingYourItems": "Az Ön cikkei",
+    "orderTrackingShipment": "Szállítmány {{value}}",
     "productSpecialistInputPlaceholder": "Írd be a kérdésed itt",
     "continueButton": "Kattints ide a folyésáttétéshez",
     "recommendLike": "Ajánlj hasonlót",

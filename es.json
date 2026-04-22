@@ -8,26 +8,10 @@
       "SEARCH": "¿No puedes encontrar lo que buscas? Permíteme ayudarte a encontrar exactamente lo que necesitas."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "¿Cuáles son tus productos más vendidos?",
-        "¿Qué diferencia tus productos de los demás?",
-        "¿Dónde está mi pedido?"
-      ],
-      "OTHER": [
-        "¿Cuáles son tus productos más vendidos?",
-        "¿Qué diferencia tus productos de los demás?",
-        "¿Dónde está mi pedido?"
-      ],
-      "PRODUCT": [
-        "¿Qué hace que este producto se destaque?",
-        "Muéstrame más productos como este",
-        "¿Cuál es la política de devoluciones de este producto?"
-      ],
-      "SEARCH": [
-        "Muéstrame los productos más relevantes para mí",
-        "Refina los resultados según mis requisitos",
-        "¿Cuáles son algunas opciones populares entre estos?"
-      ]
+      "COLLECTION": ["¿Cuáles son tus productos más vendidos?", "¿Qué diferencia tus productos de los demás?", "¿Dónde está mi pedido?"],
+      "OTHER": ["¿Cuáles son tus productos más vendidos?", "¿Qué diferencia tus productos de los demás?", "¿Dónde está mi pedido?"],
+      "PRODUCT": ["¿Qué hace que este producto se destaque?", "Muéstrame más productos como este", "¿Cuál es la política de devoluciones de este producto?"],
+      "SEARCH": ["Muéstrame los productos más relevantes para mí", "Refina los resultados según mis requisitos", "¿Cuáles son algunas opciones populares entre estos?"]
     }
   },
   "translations": {
@@ -238,6 +222,9 @@
     "orderFormPincodeError": "Por favor ingrese un código postal",
     "orderFormNoOrdersFoundPhoneAndPincode": "No se encontraron pedidos con este número de teléfono y código postal",
     "orderFormForgotDetails": "¿Olvidó sus datos?",
+    "orderFormQuantity": "Cantidad",
+    "orderTrackingYourItems": "Tus artículos",
+    "orderTrackingShipment": "Envío {{value}}",
     "productSpecialistInputPlaceholder": "Escribe tu pregunta aquí",
     "continueButton": "Haz clic aquí para continuar",
     "olderConversations": "Conversaciones anteriores"

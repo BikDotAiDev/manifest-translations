@@ -8,26 +8,10 @@
       "SEARCH": "Aradığınızı bulamıyor musunuz? Sizi tam olarak aradığınızı bulmanıza yardımcı olabilirim."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "En çok satan ürünleriniz nelerdir?",
-        "Ürünlerinizi diğerlerinden ayıran nedir?",
-        "Siparişim nerede?"
-      ],
-      "OTHER": [
-        "En çok satan ürünleriniz nelerdir?",
-        "Ürünlerinizi diğerlerinden ayıran nedir?",
-        "Siparişim nerede?"
-      ],
-      "PRODUCT": [
-        "Bu ürünü öne çıkan kılan nedir?",
-        "Bana bu ürün gibi daha fazla ürün göster",
-        "Bu ürünün iade politikası nedir?"
-      ],
-      "SEARCH": [
-        "Benim için en ilgili ürünleri göster",
-        "Sonuçları gereksinimlerime göre iyileştir",
-        "Bunlar arasında popüler seçenekler neler?"
-      ]
+      "COLLECTION": ["En çok satan ürünleriniz nelerdir?", "Ürünlerinizi diğerlerinden ayıran nedir?", "Siparişim nerede?"],
+      "OTHER": ["En çok satan ürünleriniz nelerdir?", "Ürünlerinizi diğerlerinden ayıran nedir?", "Siparişim nerede?"],
+      "PRODUCT": ["Bu ürünü öne çıkan kılan nedir?", "Bana bu ürün gibi daha fazla ürün göster", "Bu ürünün iade politikası nedir?"],
+      "SEARCH": ["Benim için en ilgili ürünleri göster", "Sonuçları gereksinimlerime göre iyileştir", "Bunlar arasında popüler seçenekler neler?"]
     }
   },
   "translations": {
@@ -237,6 +221,9 @@
     "orderFormPincodeError": "Lütfen posta kodu girin",
     "orderFormNoOrdersFoundPhoneAndPincode": "Bu telefon numarası ve posta kodu ile sipariş bulunamadı",
     "orderFormForgotDetails": "Bilgilerinizi mi unuttunuz?",
+    "orderFormQuantity": "Miktar",
+    "orderTrackingYourItems": "Ürünleriniz",
+    "orderTrackingShipment": "Gönderi {{value}}",
     "recommendLike": "Benzerini öner",
     "productSpecialistInputPlaceholder": "Soruğu buraya yazın",
     "continueButton": "Devam etmek için buraya tıklayın",

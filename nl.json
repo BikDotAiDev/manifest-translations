@@ -13,21 +13,9 @@
         "Welke van deze producten zouden het beste aan mijn behoeften voldoen?",
         "Doe aanbevelingen voor populaire producten uit deze collectie"
       ],
-      "OTHER": [
-        "Wat onderscheidt jullie producten van andere?",
-        "Wat zijn enkele trendy producten in jullie winkel?",
-        "Laat me jullie nieuwste aanbiedingen en kortingen zien"
-      ],
-      "PRODUCT": [
-        "Wat maakt dit product bijzonder?",
-        "Laat me meer producten zien zoals deze",
-        "Wat is het retourbeleid voor dit product?"
-      ],
-      "SEARCH": [
-        "Toon de meest relevante producten voor mij",
-        "Verfijn de resultaten op basis van mijn eisen",
-        "Wat zijn enkele populaire keuzes hieruit?"
-      ]
+      "OTHER": ["Wat onderscheidt jullie producten van andere?", "Wat zijn enkele trendy producten in jullie winkel?", "Laat me jullie nieuwste aanbiedingen en kortingen zien"],
+      "PRODUCT": ["Wat maakt dit product bijzonder?", "Laat me meer producten zien zoals deze", "Wat is het retourbeleid voor dit product?"],
+      "SEARCH": ["Toon de meest relevante producten voor mij", "Verfijn de resultaten op basis van mijn eisen", "Wat zijn enkele populaire keuzes hieruit?"]
     }
   },
   "translations": {
@@ -238,6 +226,9 @@
     "orderFormPincodeError": "Voer alstublieft een postcode in",
     "orderFormNoOrdersFoundPhoneAndPincode": "Geen bestellingen gevonden met dit telefoonnummer en deze postcode",
     "orderFormForgotDetails": "Uw gegevens vergeten?",
+    "orderFormQuantity": "Hoeveelheid",
+    "orderTrackingYourItems": "Uw artikelen",
+    "orderTrackingShipment": "Verzending {{value}}",
     "productSpecialistInputPlaceholder": "Typ hier je vraag",
     "continueButton": "Klik hier om door te gaan",
     "olderConversations": "Oudere gesprekken"

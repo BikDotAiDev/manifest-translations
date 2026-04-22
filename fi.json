@@ -8,26 +8,10 @@
       "SEARCH": "Et löydä etsimääsi? Anna minun auttaa sinua löytämään juuri sen, mitä etsit."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "Mitkä ovat myydyimmät tuotteesi?",
-        "Mikä erottaa tuotteesi muista?",
-        "Missä on tilaukseni?"
-      ],
-      "OTHER": [
-        "Mitkä ovat myydyimmät tuotteesi?",
-        "Mikä erottaa tuotteesi muista?",
-        "Missä on tilaukseni?"
-      ],
-      "PRODUCT": [
-        "Mikä erottaa tämän tuotteen muista?",
-        "Näytä minulle lisää samanlaisia tuotteita",
-        "Mikä on tämän tuotteen palautuskäytäntö?"
-      ],
-      "SEARCH": [
-        "Näytä minulle sopivimmat tuotteet",
-        "Tarkenna tuloksia vaatimusteni perusteella",
-        "Mitkä ovat suosituimpia valintoja näiden joukosta?"
-      ]
+      "COLLECTION": ["Mitkä ovat myydyimmät tuotteesi?", "Mikä erottaa tuotteesi muista?", "Missä on tilaukseni?"],
+      "OTHER": ["Mitkä ovat myydyimmät tuotteesi?", "Mikä erottaa tuotteesi muista?", "Missä on tilaukseni?"],
+      "PRODUCT": ["Mikä erottaa tämän tuotteen muista?", "Näytä minulle lisää samanlaisia tuotteita", "Mikä on tämän tuotteen palautuskäytäntö?"],
+      "SEARCH": ["Näytä minulle sopivimmat tuotteet", "Tarkenna tuloksia vaatimusteni perusteella", "Mitkä ovat suosituimpia valintoja näiden joukosta?"]
     }
   },
   "translations": {
@@ -238,6 +222,9 @@
     "orderFormPincodeError": "Syötä postinumero",
     "orderFormNoOrdersFoundPhoneAndPincode": "Tilauksia ei löydy tällä puhelinnumerolla ja postinumerolla",
     "orderFormForgotDetails": "Unohditko tietosi?",
+    "orderFormQuantity": "Määrä",
+    "orderTrackingYourItems": "Tuotteesi",
+    "orderTrackingShipment": "Toimitus {{value}}",
     "productSpecialistInputPlaceholder": "Kirjoita kysymyksesi tähän",
     "continueButton": "Napsauta jatkaaksesi",
     "olderConversations": "Vanhemmat keskustelut"
