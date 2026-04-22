@@ -11,6 +11,8 @@
   "orderFormNoOrdersFoundPhoneAndPincode": "Заказы с этим номером телефона и почтовым индексом не найдены",
   "orderFormForgotDetails": "Забыли ваши данные?",
   "orderFormQuantity": "Количество",
+  "orderTrackingYourItems": "Ваши товары",
+  "orderTrackingShipment": "Отправление {{value}}",
   "productSpecialistInputPlaceholder": "Напишите свой вопрос здесь",
   "continueButton": "Нажмите здесь для продолжения",
   "olderConversations": "Старые беседы",

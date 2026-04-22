@@ -8,26 +8,10 @@
       "SEARCH": "Finner ikke det du leter etter? La meg hjelpe deg med å finne akkurat det du ser etter."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "Hva er dine bestselgende produkter?",
-        "Hva skiller produktene dine fra andre?",
-        "Hvor er bestillingen min?"
-      ],
-      "OTHER": [
-        "Hva er dine bestselgende produkter?",
-        "Hva skiller produktene dine fra andre?",
-        "Hvor er bestillingen min?"
-      ],
-      "PRODUCT": [
-        "Hva gjør dette produktet spesielt?",
-        "Vis meg flere produkter som dette",
-        "Hva er returpolicyen for dette produktet?"
-      ],
-      "SEARCH": [
-        "Vis meg de mest relevante produktene for meg",
-        "Forfin resultatene basert på mine krav",
-        "Hva er noen populære valg blant disse?"
-      ]
+      "COLLECTION": ["Hva er dine bestselgende produkter?", "Hva skiller produktene dine fra andre?", "Hvor er bestillingen min?"],
+      "OTHER": ["Hva er dine bestselgende produkter?", "Hva skiller produktene dine fra andre?", "Hvor er bestillingen min?"],
+      "PRODUCT": ["Hva gjør dette produktet spesielt?", "Vis meg flere produkter som dette", "Hva er returpolicyen for dette produktet?"],
+      "SEARCH": ["Vis meg de mest relevante produktene for meg", "Forfin resultatene basert på mine krav", "Hva er noen populære valg blant disse?"]
     }
   },
   "translations": {
@@ -239,6 +223,8 @@
     "orderFormNoOrdersFoundPhoneAndPincode": "Ingen bestillinger funnet med dette telefonnummeret og postnummeret",
     "orderFormForgotDetails": "Glemt detaljer dine?",
     "orderFormQuantity": "Antall",
+    "orderTrackingYourItems": "Dine varer",
+    "orderTrackingShipment": "Forsendelse {{value}}",
     "productSpecialistInputPlaceholder": "Skriv spørsmålet ditt her",
     "continueButton": "Klikk her for å fortsette",
     "olderConversations": "Eldre samtaler"

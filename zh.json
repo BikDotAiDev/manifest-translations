@@ -8,26 +8,10 @@
       "SEARCH": "找不到您想要的商品？讓我來幫您找到最適合您的商品。"
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "你們的暢銷產品有哪些？",
-        "你們的產品與其他產品有什麼不同？",
-        "我的訂單在哪裡？"
-      ],
-      "OTHER": [
-        "你們的暢銷產品有哪些？",
-        "你們的產品與其他產品有什麼不同？",
-        "我的訂單在哪裡？"
-      ],
-      "PRODUCT": [
-        "這款產品有什麼獨特之處？",
-        "展示更多類似的產品",
-        "這款產品的退貨政策是什麼？"
-      ],
-      "SEARCH": [
-        "展示最適合我的產品",
-        "根據我的需求優化搜尋結果",
-        "這些產品中有哪些是熱門選擇？"
-      ]
+      "COLLECTION": ["你們的暢銷產品有哪些？", "你們的產品與其他產品有什麼不同？", "我的訂單在哪裡？"],
+      "OTHER": ["你們的暢銷產品有哪些？", "你們的產品與其他產品有什麼不同？", "我的訂單在哪裡？"],
+      "PRODUCT": ["這款產品有什麼獨特之處？", "展示更多類似的產品", "這款產品的退貨政策是什麼？"],
+      "SEARCH": ["展示最適合我的產品", "根據我的需求優化搜尋結果", "這些產品中有哪些是熱門選擇？"]
     }
   },
   "translations": {
@@ -239,6 +223,8 @@
     "orderFormNoOrdersFoundPhoneAndPincode": "未找到使用此电话号码和邮政编码的订单",
     "orderFormForgotDetails": "忘记了您的详细信息?",
     "orderFormQuantity": "数量",
+    "orderTrackingYourItems": "您的商品",
+    "orderTrackingShipment": "货件 {{value}}",
     "productSpecialistInputPlaceholder": "在此输入你的问题",
     "continueButton": "点击此处继续",
     "olderConversations": "旧对话"

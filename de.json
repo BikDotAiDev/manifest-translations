@@ -8,26 +8,10 @@
       "SEARCH": "Kannst du nicht finden, wonach du suchst? Lass mich dir genau das finden, wonach du suchst."
     },
     "suggestedReplies": {
-      "COLLECTION": [
-        "Welche sind deine meistverkauften Produkte?",
-        "Was unterscheidet deine Produkte von anderen?",
-        "Wo ist meine Bestellung?"
-      ],
-      "OTHER": [
-        "Welche sind deine meistverkauften Produkte?",
-        "Was unterscheidet deine Produkte von anderen?",
-        "Wo ist meine Bestellung?"
-      ],
-      "PRODUCT": [
-        "Was macht dieses Produkt besonders?",
-        "Zeige mir mehr Produkte wie dieses",
-        "Was ist die Rückgaberichtlinie für dieses Produkt?"
-      ],
-      "SEARCH": [
-        "Zeige mir die relevantesten Produkte für mich",
-        "Verfeinere die Ergebnisse basierend auf meinen Anforderungen",
-        "Was sind einige beliebte Optionen unter diesen?"
-      ]
+      "COLLECTION": ["Welche sind deine meistverkauften Produkte?", "Was unterscheidet deine Produkte von anderen?", "Wo ist meine Bestellung?"],
+      "OTHER": ["Welche sind deine meistverkauften Produkte?", "Was unterscheidet deine Produkte von anderen?", "Wo ist meine Bestellung?"],
+      "PRODUCT": ["Was macht dieses Produkt besonders?", "Zeige mir mehr Produkte wie dieses", "Was ist die Rückgaberichtlinie für dieses Produkt?"],
+      "SEARCH": ["Zeige mir die relevantesten Produkte für mich", "Verfeinere die Ergebnisse basierend auf meinen Anforderungen", "Was sind einige beliebte Optionen unter diesen?"]
     }
   },
   "translations": {
@@ -239,6 +223,8 @@
     "orderFormNoOrdersFoundPhoneAndPincode": "Keine Bestellungen mit dieser Telefonnummer und Postleitzahl gefunden",
     "orderFormForgotDetails": "Haben Sie Ihre Angaben vergessen?",
     "orderFormQuantity": "Menge",
+    "orderTrackingYourItems": "Ihre Artikel",
+    "orderTrackingShipment": "Lieferung {{value}}",
     "productSpecialistInputPlaceholder": "Geben Sie hier Ihre Frage ein",
     "continueButton": "Hier klicken, um fortzufahren",
     "olderConversations": "Ältere Unterhaltungen"
