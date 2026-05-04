@@ -423,7 +423,7 @@
     "orderFormPhoneNumberError": "กรุณากรอกหมายเลขโทรศัพท์",
     "orderFormPincodeError": "กรุณากรอกรหัสไปรษณีย์",
     "orderFormNoOrdersFoundPhoneAndPincode": "ไม่พบคำสั่งซื้อด้วยหมายเลขโทรศัพท์และรหัสไปรษณีย์นี้",
-    "orderFormForgotDetails": "ลืมรายละเอียดของคุณ?",
+    "orderFormForgotDetails": "ลองวิธีอื่น",
     "orderFormQuantity": "จำนวน",
     "orderTrackingYourItems": "สินค้าของคุณ",
     "orderTrackingShipment": "การจัดส่ง {{value}}",

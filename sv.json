@@ -221,7 +221,7 @@
     "orderFormPhoneNumberError": "Vänligen ange ett telefonnummer",
     "orderFormPincodeError": "Vänligen ange ett postnummer",
     "orderFormNoOrdersFoundPhoneAndPincode": "Inga beställningar hittades med det här telefonnumret och postnumret",
-    "orderFormForgotDetails": "Glömt dina detaljer?",
+    "orderFormForgotDetails": "Prova ett annat sätt",
     "orderFormQuantity": "Antal",
     "orderTrackingYourItems": "Dina varor",
     "orderTrackingShipment": "Försändelse {{value}}",

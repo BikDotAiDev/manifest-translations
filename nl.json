@@ -226,7 +226,7 @@
     "orderFormPhoneNumberError": "Voer alstublieft een telefoonnummer in",
     "orderFormPincodeError": "Voer alstublieft een postcode in",
     "orderFormNoOrdersFoundPhoneAndPincode": "Geen bestellingen gevonden met dit telefoonnummer en deze postcode",
-    "orderFormForgotDetails": "Uw gegevens vergeten?",
+    "orderFormForgotDetails": "Probeer een andere manier",
     "orderFormQuantity": "Hoeveelheid",
     "orderTrackingYourItems": "Uw artikelen",
     "orderTrackingShipment": "Verzending {{value}}",
