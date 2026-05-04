@@ -22,5 +22,12 @@
   "pleaseShareYourContactDetails": "Пожалуйста, поделитесь своими контактными данными",
   "quizSubText": "Чтобы увидеть рекомендации на основе ваших предпочтений.",
   "discountSubText": "Чтобы получить ваше предложение.",
-  "conversationSubText": "Чтобы продолжить этот разговор."
+  "conversationSubText": "Чтобы продолжить этот разговор.",
+  "orderFormForgotEverything": "Попробуйте другой способ",
+  "orderFormEmailOnlyDontRememberEmail": "Попробуйте другой способ",
+  "orderFormVerifyNoOrderFoundOrderId": "Пожалуйста, введите корректные данные.",
+  "orderViewAllUpdates": "Просмотреть все обновления",
+  "bannerExitText": "Выход",
+  "orderListNeedHelpMessage": "Я отследил свой заказ. У меня есть дополнительные вопросы о моем заказе {{orderId}}",
+  "orderListNeedHelpShipmentMessage": "Мне нужна помощь с отправкой {{trackingNumber}} ({{status}}) из заказа {{orderId}}"
 }
