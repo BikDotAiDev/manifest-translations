@@ -222,7 +222,7 @@
     "orderFormPhoneNumberError": "يرجى إدخال رقم هاتف",
     "orderFormPincodeError": "يرجى إدخال رمز بريدي",
     "orderFormNoOrdersFoundPhoneAndPincode": "لم يتم العثور على أوامر برقم هاتف ورمز بريدي",
-    "orderFormForgotDetails": "هل نسيت بياناتك?",
+    "orderFormForgotDetails": "جرّب طريقة أخرى",
     "orderFormQuantity": "الكمية",
     "orderTrackingYourItems": "عناصرك",
     "orderTrackingShipment": "الشحنة {{value}}",

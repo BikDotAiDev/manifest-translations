@@ -222,7 +222,7 @@
     "orderFormPhoneNumberError": "Angiv venligst et telefonnummer",
     "orderFormPincodeError": "Angiv venligst et postnummer",
     "orderFormNoOrdersFoundPhoneAndPincode": "Ingen ordrer fundet med dette telefonnummer og postnummer",
-    "orderFormForgotDetails": "Glemt dine detaljer?",
+    "orderFormForgotDetails": "Prøv en anden måde",
     "orderFormQuantity": "Antal",
     "orderTrackingYourItems": "Dine varer",
     "orderTrackingShipment": "Forsendelse {{value}}",

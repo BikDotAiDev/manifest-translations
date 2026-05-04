@@ -221,7 +221,7 @@
     "orderFormPhoneNumberError": "Proszę wpisać numer telefonu",
     "orderFormPincodeError": "Proszę wpisać kod pocztowy",
     "orderFormNoOrdersFoundPhoneAndPincode": "Nie znaleziono zamówień z tym numerem telefonu i kodem pocztowym",
-    "orderFormForgotDetails": "Zapomniałeś swoich danych?",
+    "orderFormForgotDetails": "Spróbuj inaczej",
     "orderFormQuantity": "Ilość",
     "orderTrackingYourItems": "Twoje produkty",
     "orderTrackingShipment": "Przesyłka {{value}}",

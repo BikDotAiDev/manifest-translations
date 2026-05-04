@@ -221,7 +221,7 @@
     "orderFormPhoneNumberError": "Vui lòng nhập số điện thoại",
     "orderFormPincodeError": "Vui lòng nhập mã bưu chính",
     "orderFormNoOrdersFoundPhoneAndPincode": "Không tìm thấy đơn hàng nào với số điện thoại và mã bưu chính này",
-    "orderFormForgotDetails": "Quên chi tiết của bạn?",
+    "orderFormForgotDetails": "Thử cách khác",
     "orderFormQuantity": "Số lượng",
     "orderTrackingYourItems": "Mặt hàng của bạn",
     "orderTrackingShipment": "Lô hàng {{value}}",

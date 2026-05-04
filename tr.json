@@ -221,7 +221,7 @@
     "orderFormPhoneNumberError": "Lütfen telefon numarası girin",
     "orderFormPincodeError": "Lütfen posta kodu girin",
     "orderFormNoOrdersFoundPhoneAndPincode": "Bu telefon numarası ve posta kodu ile sipariş bulunamadı",
-    "orderFormForgotDetails": "Bilgilerinizi mi unuttunuz?",
+    "orderFormForgotDetails": "Başka bir yol deneyin",
     "orderFormQuantity": "Miktar",
     "orderTrackingYourItems": "Ürünleriniz",
     "orderTrackingShipment": "Gönderi {{value}}",

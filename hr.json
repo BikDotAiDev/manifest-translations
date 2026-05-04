@@ -241,7 +241,7 @@
     "orderFormPhoneNumberError": "Molimo unesite telefonski broj",
     "orderFormPincodeError": "Molimo unesite poštanski broj",
     "orderFormNoOrdersFoundPhoneAndPincode": "Nema pronađenih narudžbi s ovim telefonskim brojem i poštanskim brojem",
-    "orderFormForgotDetails": "Zaboravili ste svoje podatke?",
+    "orderFormForgotDetails": "Pokušajte na drugi način",
     "orderFormQuantity": "Količina",
     "orderTrackingYourItems": "Vaše stavke",
     "orderTrackingShipment": "Pošiljka {{value}}",

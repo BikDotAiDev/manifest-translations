@@ -222,7 +222,7 @@
     "orderFormPhoneNumberError": "電話番号を入力してください",
     "orderFormPincodeError": "郵便番号を入力してください",
     "orderFormNoOrdersFoundPhoneAndPincode": "この電話番号と郵便番号の注文が見つかりません",
-    "orderFormForgotDetails": "詳細を忘れましたか?",
+    "orderFormForgotDetails": "別の方法を試してください",
     "orderFormQuantity": "数量",
     "orderTrackingYourItems": "あなたのアイテム",
     "orderTrackingShipment": "配送便 {{value}}",

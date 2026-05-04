@@ -221,7 +221,7 @@
     "orderFormPhoneNumberError": "Kérjük, adjon meg egy telefonszámot",
     "orderFormPincodeError": "Kérjük, adjon meg egy irányítószámot",
     "orderFormNoOrdersFoundPhoneAndPincode": "Nem találhatók rendelések ezzel a telefonszámmal és irányítószámmal",
-    "orderFormForgotDetails": "Elfelejtetted az adataidat?",
+    "orderFormForgotDetails": "Próbálj egy másik módszert",
     "orderFormQuantity": "Mennyiség",
     "orderTrackingYourItems": "Az Ön cikkei",
     "orderTrackingShipment": "Szállítmány {{value}}",

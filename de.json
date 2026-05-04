@@ -222,7 +222,7 @@
     "orderFormPhoneNumberError": "Bitte geben Sie eine Telefonnummer ein",
     "orderFormPincodeError": "Bitte geben Sie eine Postleitzahl ein",
     "orderFormNoOrdersFoundPhoneAndPincode": "Keine Bestellungen mit dieser Telefonnummer und Postleitzahl gefunden",
-    "orderFormForgotDetails": "Haben Sie Ihre Angaben vergessen?",
+    "orderFormForgotDetails": "Versuche es auf eine andere Weise",
     "orderFormQuantity": "Menge",
     "orderTrackingYourItems": "Ihre Artikel",
     "orderTrackingShipment": "Lieferung {{value}}",
