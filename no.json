@@ -228,6 +228,11 @@
     "orderTrackingShipment": "Forsendelse {{value}}",
     "productSpecialistInputPlaceholder": "Skriv spørsmålet ditt her",
     "continueButton": "Klikk her for å fortsette",
-    "olderConversations": "Eldre samtaler"
+    "olderConversations": "Eldre samtaler",
+
+    "orderCancellationText": "Jeg vil gjerne kansellere - {{productText}} fra min bestilling med bestillings-ID {{orderId}}.",
+    "orderCancellationAllText": "Jeg vil gjerne kansellere alle varer fra min bestilling med bestillings-ID {{orderId}}",
+    "orderReturnText": "Jeg vil gjerne starte en retur og refusjon for - {{productText}} fra min bestilling med bestillings-ID {{orderId}}.",
+    "orderReturnAllText": "Jeg vil gjerne starte en retur og refusjon for alle varer fra min bestilling med bestillings-ID {{orderId}}"
   }
 }

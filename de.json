@@ -228,6 +228,11 @@
     "orderTrackingShipment": "Lieferung {{value}}",
     "productSpecialistInputPlaceholder": "Geben Sie hier Ihre Frage ein",
     "continueButton": "Hier klicken, um fortzufahren",
-    "olderConversations": "Ältere Unterhaltungen"
+    "olderConversations": "Ältere Unterhaltungen",
+
+    "orderCancellationText": "Ich möchte {{productText}} aus meiner Bestellung mit der Bestellnummer {{orderId}} stornieren.",
+    "orderCancellationAllText": "Ich möchte alle Artikel aus meiner Bestellung mit der Bestellnummer {{orderId}} stornieren",
+    "orderReturnText": "Ich möchte eine Rücksendung und Rückerstattung für {{productText}} aus meiner Bestellung mit der Bestellnummer {{orderId}} einleiten.",
+    "orderReturnAllText": "Ich möchte eine Rücksendung und Rückerstattung für alle Artikel aus meiner Bestellung mit der Bestellnummer {{orderId}} einleiten"
   }
 }

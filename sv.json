@@ -228,6 +228,11 @@
     "recommendLike": "Rekommendera liknande",
     "productSpecialistInputPlaceholder": "Skriv din fråga här",
     "continueButton": "Klicka här för att fortsätta",
-    "olderConversations": "Äldre konversationer"
+    "olderConversations": "Äldre konversationer",
+
+    "orderCancellationText": "Jag vill avbeställa - {{productText}} från min beställning med beställnings-ID {{orderId}}.",
+    "orderCancellationAllText": "Jag vill avbeställa alla artiklar från min beställning med beställnings-ID {{orderId}}",
+    "orderReturnText": "Jag vill initiera en retur och återbetalning för - {{productText}} från min beställning med beställnings-ID {{orderId}}.",
+    "orderReturnAllText": "Jag vill initiera en retur och återbetalning för alla artiklar från min beställning med beställnings-ID {{orderId}}"
   }
 }

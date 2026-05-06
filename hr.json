@@ -250,7 +250,12 @@
     "continueButton": "Kliknite ovdje za nastavak",
     "discountCouponText": "Woohoo 🎉 Imate pravo na {{couponTitle}}.",
     "getOffer": "Dobiti ponudu",
-    "olderConversations": "Stariji razgovori"
+    "olderConversations": "Stariji razgovori",
+
+    "orderCancellationText": "Želim otkazati - {{productText}} iz moje narudžbe s ID-om narudžbe {{orderId}}.",
+    "orderCancellationAllText": "Želim otkazati sve artikle iz moje narudžbe s ID-om narudžbe {{orderId}}",
+    "orderReturnText": "Želim pokrenuti povrat i refundaciju za - {{productText}} iz moje narudžbe s ID-om narudžbe {{orderId}}.",
+    "orderReturnAllText": "Želim pokrenuti povrat i refundaciju za sve artikle iz moje narudžbe s ID-om narudžbe {{orderId}}"
   },
   "others": {
     "popUpMessages": {

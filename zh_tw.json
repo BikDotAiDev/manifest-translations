@@ -223,6 +223,11 @@
     "orderFormQuantity": "數量",
     "orderTrackingYourItems": "您的商品",
     "orderTrackingShipment": "貨件 {{value}}",
-    "olderConversations": "舊對話"
+    "olderConversations": "舊對話",
+
+    "orderCancellationText": "我想取消訂單號{{orderId}}中的{{productText}}。",
+    "orderCancellationAllText": "我想取消訂單號{{orderId}}中的所有商品",
+    "orderReturnText": "我想對訂單號{{orderId}}中的{{productText}}啟動退貨和退款。",
+    "orderReturnAllText": "我想對訂單號{{orderId}}中的所有商品啟動退貨和退款"
   }
 }

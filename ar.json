@@ -228,6 +228,11 @@
     "orderTrackingShipment": "الشحنة {{value}}",
     "productSpecialistInputPlaceholder": "اكتب سؤالك هنا",
     "continueButton": "انقر هنا للمتابعة",
-    "olderConversations": "المحادثات الأقدم"
+    "olderConversations": "المحادثات الأقدم",
+
+    "orderCancellationText": "أريد إلغاء - {{productText}} من طلبي برقم الطلب {{orderId}}.",
+    "orderCancellationAllText": "أريد إلغاء جميع العناصر من طلبي برقم الطلب {{orderId}}",
+    "orderReturnText": "أريد بدء عملية الإرجاع والاسترداد لـ - {{productText}} من طلبي برقم الطلب {{orderId}}.",
+    "orderReturnAllText": "أريد بدء عملية الإرجاع والاسترداد لجميع العناصر من طلبي برقم الطلب {{orderId}}"
   }
 }

@@ -228,6 +228,11 @@
     "productSpecialistInputPlaceholder": "Írd be a kérdésed itt",
     "continueButton": "Kattints ide a folyésáttétéshez",
     "recommendLike": "Ajánlj hasonlót",
-    "olderConversations": "Régebbi beszélgetések"
+    "olderConversations": "Régebbi beszélgetések",
+
+    "orderCancellationText": "Szeretném lemondani - {{productText}} rendelésemből, rendelési azonosító: {{orderId}}.",
+    "orderCancellationAllText": "Szeretném lemondani az összes tételt a rendelésemből, rendelési azonosító: {{orderId}}",
+    "orderReturnText": "Szeretnék visszaküldést és visszatérítést kezdeményezni - {{productText}} rendelésemből, rendelési azonosító: {{orderId}}.",
+    "orderReturnAllText": "Szeretnék visszaküldést és visszatérítést kezdeményezni az összes tételhez a rendelésemből, rendelési azonosító: {{orderId}}"
   }
 }

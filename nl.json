@@ -232,6 +232,11 @@
     "orderTrackingShipment": "Verzending {{value}}",
     "productSpecialistInputPlaceholder": "Typ hier je vraag",
     "continueButton": "Klik hier om door te gaan",
-    "olderConversations": "Oudere gesprekken"
+    "olderConversations": "Oudere gesprekken",
+
+    "orderCancellationText": "Ik wil graag {{productText}} annuleren van mijn bestelling met bestelnummer {{orderId}}.",
+    "orderCancellationAllText": "Ik wil graag alle artikelen annuleren van mijn bestelling met bestelnummer {{orderId}}",
+    "orderReturnText": "Ik wil graag een retour en terugbetaling aanvragen voor {{productText}} van mijn bestelling met bestelnummer {{orderId}}.",
+    "orderReturnAllText": "Ik wil graag een retour en terugbetaling aanvragen voor alle artikelen van mijn bestelling met bestelnummer {{orderId}}"
   }
 }
