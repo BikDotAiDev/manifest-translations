@@ -227,6 +227,11 @@
     "recommendLike": "Recomandă similar",
     "productSpecialistInputPlaceholder": "Scrie-ți întrebarea aici",
     "continueButton": "Faceți clic aici pentru a continua",
-    "olderConversations": "Conversații anterioare"
+    "olderConversations": "Conversații anterioare",
+
+    "orderCancellationText": "Aș dori să anulez - {{productText}} din comanda mea cu ID-ul comenzii {{orderId}}.",
+    "orderCancellationAllText": "Aș dori să anulez toate articolele din comanda mea cu ID-ul comenzii {{orderId}}",
+    "orderReturnText": "Aș dori să inițiez o returnare și rambursare pentru - {{productText}} din comanda mea cu ID-ul comenzii {{orderId}}.",
+    "orderReturnAllText": "Aș dori să inițiez o returnare și rambursare pentru toate articolele din comanda mea cu ID-ul comenzii {{orderId}}"
   }
 }

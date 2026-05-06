@@ -228,6 +228,11 @@
     "productSpecialistInputPlaceholder": "Wpisz tutaj swoje pytanie",
     "continueButton": "Kliknij tutaj, aby kontynuować",
     "recommendLike": "Poleć podobne",
-    "olderConversations": "Starsze rozmowy"
+    "olderConversations": "Starsze rozmowy",
+
+    "orderCancellationText": "Chciałbym anulować - {{productText}} z mojego zamówienia o numerze {{orderId}}.",
+    "orderCancellationAllText": "Chciałbym anulować wszystkie przedmioty z mojego zamówienia o numerze {{orderId}}",
+    "orderReturnText": "Chciałbym zainicjować zwrot i zwrot pieniędzy za - {{productText}} z mojego zamówienia o numerze {{orderId}}.",
+    "orderReturnAllText": "Chciałbym zainicjować zwrot i zwrot pieniędzy za wszystkie przedmioty z mojego zamówienia o numerze {{orderId}}"
   }
 }

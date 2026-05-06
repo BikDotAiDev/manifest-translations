@@ -228,6 +228,11 @@
     "orderTrackingShipment": "Envio {{value}}",
     "productSpecialistInputPlaceholder": "Digite sua pergunta aqui",
     "continueButton": "Clique aqui para continuar",
-    "olderConversations": "Conversas anteriores"
+    "olderConversations": "Conversas anteriores",
+
+    "orderCancellationText": "Gostaria de cancelar - {{productText}} do meu pedido com ID do pedido {{orderId}}.",
+    "orderCancellationAllText": "Gostaria de cancelar todos os itens do meu pedido com ID do pedido {{orderId}}",
+    "orderReturnText": "Gostaria de iniciar uma devolução e reembolso para - {{productText}} do meu pedido com ID do pedido {{orderId}}.",
+    "orderReturnAllText": "Gostaria de iniciar uma devolução e reembolso para todos os itens do meu pedido com ID do pedido {{orderId}}"
   }
 }
