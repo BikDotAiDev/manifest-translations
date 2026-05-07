@@ -8,10 +8,26 @@
       "SEARCH": "¿No puedes encontrar lo que buscas? Permíteme ayudarte a encontrar exactamente lo que necesitas."
     },
     "suggestedReplies": {
-      "COLLECTION": ["¿Cuáles son tus productos más vendidos?", "¿Qué diferencia tus productos de los demás?", "¿Dónde está mi pedido?"],
-      "OTHER": ["¿Cuáles son tus productos más vendidos?", "¿Qué diferencia tus productos de los demás?", "¿Dónde está mi pedido?"],
-      "PRODUCT": ["¿Qué hace que este producto se destaque?", "Muéstrame más productos como este", "¿Cuál es la política de devoluciones de este producto?"],
-      "SEARCH": ["Muéstrame los productos más relevantes para mí", "Refina los resultados según mis requisitos", "¿Cuáles son algunas opciones populares entre estos?"]
+      "COLLECTION": [
+        "¿Cuáles son tus productos más vendidos?",
+        "¿Qué diferencia tus productos de los demás?",
+        "¿Dónde está mi pedido?"
+      ],
+      "OTHER": [
+        "¿Cuáles son tus productos más vendidos?",
+        "¿Qué diferencia tus productos de los demás?",
+        "¿Dónde está mi pedido?"
+      ],
+      "PRODUCT": [
+        "¿Qué hace que este producto se destaque?",
+        "Muéstrame más productos como este",
+        "¿Cuál es la política de devoluciones de este producto?"
+      ],
+      "SEARCH": [
+        "Muéstrame los productos más relevantes para mí",
+        "Refina los resultados según mis requisitos",
+        "¿Cuáles son algunas opciones populares entre estos?"
+      ]
     }
   },
   "translations": {
@@ -106,7 +122,10 @@
     "findingYourAnswer": "Encontrando tu respuesta",
     "typingYourResponse": "Escribiendo tu respuesta",
     "orderFormSubHeader": "Ingresa tus datos para ver tus pedidos",
-    "orderFormUnverifiedTrackOrderPrompt": "Vamos a rastrear tu pedido",
+    "orderTrack": "rastrear",
+    "orderCancel": "cancelar",
+    "orderReturn": "devolver",
+    "orderFormUnverifiedTrackOrderPrompt": "Inicia sesión para {{useCase}} tu pedido",
     "orderFormUnverifiedOrderDetailsLabel": "Detalles del pedido",
     "orderFormUnverifiedInputPlaceholder": "Correo electrónico / Número de teléfono / ID de pedido",
     "orderFormUnverifiedTooltipText": "Puedes ingresar tu correo electrónico, número de teléfono o un ID de pedido que comience con '#'.",
@@ -122,7 +141,7 @@
     "orderTrackingSelectOrderSubtitle": "Selecciona el pedido que quieres rastrear",
     "orderTrackingOrderedOn": "Pedido el {{value}}",
     "orderFormEmailInvalidFormat": "Por favor, introduce una dirección de correo electrónico válida",
-    "orderFormVerifyTrackOrderPrompt": "Vamos a rastrear tu pedido",
+    "orderFormVerifyTrackOrderPrompt": "Inicia sesión para {{useCase}} tu pedido",
     "orderFormVerifyOrderIdLabel": "ID de pedido",
     "orderFormVerifyOrderIdPlaceholder": "ID de pedido",
     "orderFormVerifyIdentityLabel": "Número de teléfono o correo electrónico",
@@ -136,7 +155,7 @@
     "orderFormVerifyNoOrderFoundOrderId": "Por favor, introduce datos válidos.",
     "orderFormVerifyNoOrderFoundPhone": "No se encontraron pedidos para este número. Por favor, inténtelo de nuevo.",
     "orderFormVerifyNoOrderFoundEmail": "No se encontraron pedidos para este correo electrónico. Por favor, inténtelo de nuevo.",
-    "orderFormEmailOnlyTitle": "Vamos a rastrear tu pedido",
+    "orderFormEmailOnlyTitle": "Inicia sesión para {{useCase}} tu pedido",
     "orderFormOtpTitle": "Hemos enviado un código de 6 dígitos a tu correo electrónico.",
     "orderFormOtpSubTitle": "Hemos enviado un código a {{value}}",
     "orderOtpRateLimitError": "Has excedido el número máximo de solicitudes de OTP. Por favor, inténtalo de nuevo en una hora.",
@@ -229,7 +248,6 @@
     "productSpecialistInputPlaceholder": "Escribe tu pregunta aquí",
     "continueButton": "Haz clic aquí para continuar",
     "olderConversations": "Conversaciones anteriores",
-
     "orderCancellationText": "Me gustaría cancelar - {{productText}} de mi pedido con ID de pedido {{orderId}}.",
     "orderCancellationAllText": "Me gustaría cancelar todos los artículos de mi pedido con ID de pedido {{orderId}}",
     "orderReturnText": "Me gustaría iniciar una devolución y reembolso para - {{productText}} de mi pedido con ID de pedido {{orderId}}.",

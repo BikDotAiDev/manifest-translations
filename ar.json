@@ -8,10 +8,26 @@
       "SEARCH": "هل لا تستطيع أن تجد ما تبحث عنه؟ اسمح لي أن أساعدك في العثور بالضبط على ما تبحث عنه."
     },
     "suggestedReplies": {
-      "COLLECTION": ["ما هي منتجات الأكثر مبيعًا؟", "ما الذي يميز منتجاتكم عن غيرها؟", "أين طلبي؟"],
-      "OTHER": ["ما هي منتجاتكم الأكثر مبيعًا؟", "ما الذي يميز منتجاتكم عن غيرها؟", "أين طلبي؟"],
-      "PRODUCT": ["ما الذي يميز هذا المنتج؟", "أرني المزيد من المنتجات مثل هذه", "ما هو سياسة الإرجاع لهذا المنتج؟"],
-      "SEARCH": ["عرض أكثر المنتجات ذات الصلة بالنسبة لي", "حسّن النتائج بناءً على متطلباتي", "ما هي بعض الاختيارات الشائعة من بين هذه؟"]
+      "COLLECTION": [
+        "ما هي منتجات الأكثر مبيعًا؟",
+        "ما الذي يميز منتجاتكم عن غيرها؟",
+        "أين طلبي؟"
+      ],
+      "OTHER": [
+        "ما هي منتجاتكم الأكثر مبيعًا؟",
+        "ما الذي يميز منتجاتكم عن غيرها؟",
+        "أين طلبي؟"
+      ],
+      "PRODUCT": [
+        "ما الذي يميز هذا المنتج؟",
+        "أرني المزيد من المنتجات مثل هذه",
+        "ما هو سياسة الإرجاع لهذا المنتج؟"
+      ],
+      "SEARCH": [
+        "عرض أكثر المنتجات ذات الصلة بالنسبة لي",
+        "حسّن النتائج بناءً على متطلباتي",
+        "ما هي بعض الاختيارات الشائعة من بين هذه؟"
+      ]
     }
   },
   "translations": {
@@ -106,7 +122,10 @@
     "findingYourAnswer": "العثور على إجابتك",
     "typingYourResponse": "كتابة ردك",
     "orderFormSubHeader": "أدخل تفاصيلك لعرض طلباتك",
-    "orderFormUnverifiedTrackOrderPrompt": "دعنا نتتبع طلبك",
+    "orderTrack": "تتبع",
+    "orderCancel": "إلغاء",
+    "orderReturn": "إرجاع",
+    "orderFormUnverifiedTrackOrderPrompt": "تسجيل الدخول لـ {{useCase}} طلبك",
     "orderFormUnverifiedOrderDetailsLabel": "تفاصيل الطلب",
     "orderFormUnverifiedInputPlaceholder": "عنوان البريد الإلكتروني / رقم الهاتف / معرف الطلب",
     "orderFormUnverifiedTooltipText": "يمكنك إدخال بريدك الإلكتروني أو رقم الهاتف أو معرف الطلب الذي يبدأ بـ '#'.",
@@ -122,7 +141,7 @@
     "orderTrackingSelectOrderSubtitle": "اختر الطلب الذي تريد تتبعه",
     "orderTrackingOrderedOn": "تم الطلب في {{value}}",
     "orderFormEmailInvalidFormat": "يرجى إدخال عنوان بريد إلكتروني صحيح",
-    "orderFormVerifyTrackOrderPrompt": "دعنا نتتبع طلبك",
+    "orderFormVerifyTrackOrderPrompt": "تسجيل الدخول لـ {{useCase}} طلبك",
     "orderFormVerifyOrderIdLabel": "معرف الطلب",
     "orderFormVerifyOrderIdPlaceholder": "معرف الطلب",
     "orderFormVerifyIdentityLabel": "رقم الهاتف أو البريد الإلكتروني",
@@ -213,7 +232,7 @@
     "orderOtpRateLimitError": "لقد تجاوزت العدد الأقصى من طلبات OTP. يرجى المحاولة مرة أخرى بعد ساعة.",
     "seeOtherPicks": "راجع اختياراتنا الأخرى المميزة",
     "orderFormVerifyNoOrderFoundOrderId": "يرجى إدخال بيانات صحيحة.",
-    "orderFormEmailOnlyTitle": "دعنا نتتبع طلبك",
+    "orderFormEmailOnlyTitle": "تسجيل الدخول لـ {{useCase}} طلبك",
     "orderListHereAreYourOrders": "تفاصيل الطلب",
     "orderFormBackButton": "رجوع",
     "orderFormPhoneNumberLabel": "أدخل رقم الهاتف",
@@ -229,7 +248,6 @@
     "productSpecialistInputPlaceholder": "اكتب سؤالك هنا",
     "continueButton": "انقر هنا للمتابعة",
     "olderConversations": "المحادثات الأقدم",
-
     "orderCancellationText": "أريد إلغاء - {{productText}} من طلبي برقم الطلب {{orderId}}.",
     "orderCancellationAllText": "أريد إلغاء جميع العناصر من طلبي برقم الطلب {{orderId}}",
     "orderReturnText": "أريد بدء عملية الإرجاع والاسترداد لـ - {{productText}} من طلبي برقم الطلب {{orderId}}.",

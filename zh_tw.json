@@ -8,10 +8,26 @@
       "SEARCH": "找不到您想要的商品？讓我來幫您找到最適合您的商品。"
     },
     "suggestedReplies": {
-      "COLLECTION": ["你們的暢銷產品有哪些？", "你們的產品與其他產品有什麼不同？", "我的訂單在哪裡？"],
-      "OTHER": ["你們的暢銷產品有哪些？", "你們的產品與其他產品有什麼不同？", "我的訂單在哪裡？"],
-      "PRODUCT": ["這款產品有什麼獨特之處？", "展示更多類似的產品", "這款產品的退貨政策是什麼？"],
-      "SEARCH": ["展示最適合我的產品", "根據我的需求優化搜尋結果", "這些產品中有哪些是熱門選擇？"]
+      "COLLECTION": [
+        "你們的暢銷產品有哪些？",
+        "你們的產品與其他產品有什麼不同？",
+        "我的訂單在哪裡？"
+      ],
+      "OTHER": [
+        "你們的暢銷產品有哪些？",
+        "你們的產品與其他產品有什麼不同？",
+        "我的訂單在哪裡？"
+      ],
+      "PRODUCT": [
+        "這款產品有什麼獨特之處？",
+        "展示更多類似的產品",
+        "這款產品的退貨政策是什麼？"
+      ],
+      "SEARCH": [
+        "展示最適合我的產品",
+        "根據我的需求優化搜尋結果",
+        "這些產品中有哪些是熱門選擇？"
+      ]
     }
   },
   "translations": {
@@ -101,7 +117,10 @@
     "findingYourAnswer": "正在查找您的答案",
     "typingYourResponse": "正在输入您的回复",
     "orderFormSubHeader": "輸入您的資料以查看您的訂單",
-    "orderFormUnverifiedTrackOrderPrompt": "讓我們追蹤您的訂單",
+    "orderTrack": "追蹤",
+    "orderCancel": "取消",
+    "orderReturn": "退貨",
+    "orderFormUnverifiedTrackOrderPrompt": "登入以{{useCase}}您的訂單",
     "orderFormUnverifiedOrderDetailsLabel": "订单详情",
     "orderFormUnverifiedInputPlaceholder": "电子邮件地址 / 电话号码 / 订单编号",
     "orderFormUnverifiedTooltipText": "您可以輸入您的電子郵件、電話號碼或以'#'開頭的訂單編號。",
@@ -117,7 +136,7 @@
     "orderTrackingSelectOrderSubtitle": "選擇您想追蹤的訂單",
     "orderTrackingOrderedOn": "於 {{value}} 訂購",
     "orderFormEmailInvalidFormat": "請輸入有效的電子郵件地址",
-    "orderFormVerifyTrackOrderPrompt": "讓我們追蹤您的訂單",
+    "orderFormVerifyTrackOrderPrompt": "登入以{{useCase}}您的訂單",
     "orderFormVerifyOrderIdLabel": "订单编号",
     "orderFormVerifyOrderIdPlaceholder": "订单编号",
     "orderFormVerifyIdentityLabel": "手机号或邮箱",
@@ -208,7 +227,7 @@
     "orderFormVerifyNoOrderFoundEmail": "未找到此邮箱的订单。请重试。",
     "orderOtpRateLimitError": "您已超过OTP请求的最大次数。请一小时后重试。",
     "orderFormVerifyNoOrderFoundOrderId": "請輸入有效資料。",
-    "orderFormEmailOnlyTitle": "让我们追踪您的订单",
+    "orderFormEmailOnlyTitle": "登入以{{useCase}}您的訂單",
     "orderListHereAreYourOrders": "訂單詳情",
     "orderFormBackButton": "返回",
     "orderFormPhoneNumberLabel": "请输入电话号码",
@@ -224,7 +243,6 @@
     "orderTrackingYourItems": "您的商品",
     "orderTrackingShipment": "貨件 {{value}}",
     "olderConversations": "舊對話",
-
     "orderCancellationText": "我想取消訂單號{{orderId}}中的{{productText}}。",
     "orderCancellationAllText": "我想取消訂單號{{orderId}}中的所有商品",
     "orderReturnText": "我想對訂單號{{orderId}}中的{{productText}}啟動退貨和退款。",

@@ -8,10 +8,26 @@
       "SEARCH": "Non riesci a trovare ciò che cerchi? Lascia che ti aiuti a trovare esattamente ciò che stai cercando."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Quali sono i tuoi prodotti più venduti?", "Cosa distingue i tuoi prodotti dagli altri?", "Dov'è il mio ordine?"],
-      "OTHER": ["Quali sono i tuoi prodotti più venduti?", "Cosa distingue i tuoi prodotti dagli altri?", "Dov'è il mio ordine?"],
-      "PRODUCT": ["Cosa rende questo prodotto speciale?", "Mostrami più prodotti simili a questo", "Qual è la politica di reso di questo prodotto?"],
-      "SEARCH": ["Mostrami i prodotti più rilevanti per me", "Raffina i risultati in base alle mie esigenze", "Quali sono alcune scelte popolari tra questi?"]
+      "COLLECTION": [
+        "Quali sono i tuoi prodotti più venduti?",
+        "Cosa distingue i tuoi prodotti dagli altri?",
+        "Dov'è il mio ordine?"
+      ],
+      "OTHER": [
+        "Quali sono i tuoi prodotti più venduti?",
+        "Cosa distingue i tuoi prodotti dagli altri?",
+        "Dov'è il mio ordine?"
+      ],
+      "PRODUCT": [
+        "Cosa rende questo prodotto speciale?",
+        "Mostrami più prodotti simili a questo",
+        "Qual è la politica di reso di questo prodotto?"
+      ],
+      "SEARCH": [
+        "Mostrami i prodotti più rilevanti per me",
+        "Raffina i risultati in base alle mie esigenze",
+        "Quali sono alcune scelte popolari tra questi?"
+      ]
     }
   },
   "translations": {
@@ -106,7 +122,10 @@
     "findingYourAnswer": "Trovare la risposta",
     "typingYourResponse": "Digitazione della risposta",
     "orderFormSubHeader": "Inserisci i tuoi dati per visualizzare i tuoi ordini",
-    "orderFormUnverifiedTrackOrderPrompt": "Tracciamo il tuo ordine",
+    "orderTrack": "tracciare",
+    "orderCancel": "annullare",
+    "orderReturn": "restituire",
+    "orderFormUnverifiedTrackOrderPrompt": "Accedi per {{useCase}} il tuo ordine",
     "orderFormUnverifiedOrderDetailsLabel": "Dettagli dell'ordine",
     "orderFormUnverifiedInputPlaceholder": "Indirizzo email / Numero di telefono / ID ordine",
     "orderFormUnverifiedTooltipText": "Puoi inserire la tua email, numero di telefono o un ID ordine che inizia con '#'.",
@@ -122,7 +141,7 @@
     "orderTrackingSelectOrderSubtitle": "Seleziona l'ordine che vuoi tracciare",
     "orderTrackingOrderedOn": "Ordinato il {{value}}",
     "orderFormEmailInvalidFormat": "Inserisci un indirizzo email valido",
-    "orderFormVerifyTrackOrderPrompt": "Tracciamo il tuo ordine",
+    "orderFormVerifyTrackOrderPrompt": "Accedi per {{useCase}} il tuo ordine",
     "orderFormVerifyOrderIdLabel": "ID ordine",
     "orderFormVerifyOrderIdPlaceholder": "ID ordine",
     "orderFormVerifyIdentityLabel": "Numero di telefono o email",
@@ -136,7 +155,7 @@
     "orderFormVerifyNoOrderFoundOrderId": "Inserisci dati validi.",
     "orderFormVerifyNoOrderFoundPhone": "Nessun ordine trovato per questo numero. Riprova.",
     "orderFormVerifyNoOrderFoundEmail": "Nessun ordine trovato per questa email. Riprova.",
-    "orderFormEmailOnlyTitle": "Tracciamo il tuo ordine",
+    "orderFormEmailOnlyTitle": "Accedi per {{useCase}} il tuo ordine",
     "orderFormOtpTitle": "Abbiamo inviato un codice a 6 cifre alla tua email.",
     "orderFormOtpSubTitle": "Abbiamo inviato un codice a {{value}}",
     "orderOtpRateLimitError": "Hai superato il numero massimo di richieste OTP. Riprova tra un'ora.",
@@ -229,7 +248,6 @@
     "productSpecialistInputPlaceholder": "Scrivi qui la tua domanda",
     "continueButton": "Clicca qui per continuare",
     "olderConversations": "Conversazioni precedenti",
-
     "orderCancellationText": "Vorrei annullare - {{productText}} dal mio ordine con ID ordine {{orderId}}.",
     "orderCancellationAllText": "Vorrei annullare tutti gli articoli dal mio ordine con ID ordine {{orderId}}",
     "orderReturnText": "Vorrei avviare un reso e rimborso per - {{productText}} dal mio ordine con ID ordine {{orderId}}.",

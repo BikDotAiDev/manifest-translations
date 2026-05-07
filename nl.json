@@ -13,9 +13,21 @@
         "Welke van deze producten zouden het beste aan mijn behoeften voldoen?",
         "Doe aanbevelingen voor populaire producten uit deze collectie"
       ],
-      "OTHER": ["Wat onderscheidt jullie producten van andere?", "Wat zijn enkele trendy producten in jullie winkel?", "Laat me jullie nieuwste aanbiedingen en kortingen zien"],
-      "PRODUCT": ["Wat maakt dit product bijzonder?", "Laat me meer producten zien zoals deze", "Wat is het retourbeleid voor dit product?"],
-      "SEARCH": ["Toon de meest relevante producten voor mij", "Verfijn de resultaten op basis van mijn eisen", "Wat zijn enkele populaire keuzes hieruit?"]
+      "OTHER": [
+        "Wat onderscheidt jullie producten van andere?",
+        "Wat zijn enkele trendy producten in jullie winkel?",
+        "Laat me jullie nieuwste aanbiedingen en kortingen zien"
+      ],
+      "PRODUCT": [
+        "Wat maakt dit product bijzonder?",
+        "Laat me meer producten zien zoals deze",
+        "Wat is het retourbeleid voor dit product?"
+      ],
+      "SEARCH": [
+        "Toon de meest relevante producten voor mij",
+        "Verfijn de resultaten op basis van mijn eisen",
+        "Wat zijn enkele populaire keuzes hieruit?"
+      ]
     }
   },
   "translations": {
@@ -110,7 +122,10 @@
     "findingYourAnswer": "Je antwoord zoeken",
     "typingYourResponse": "Je antwoord typen",
     "orderFormSubHeader": "Voer uw gegevens in om uw bestellingen te bekijken",
-    "orderFormUnverifiedTrackOrderPrompt": "Laten we je bestelling volgen",
+    "orderTrack": "volgen",
+    "orderCancel": "annuleren",
+    "orderReturn": "retourneren",
+    "orderFormUnverifiedTrackOrderPrompt": "Log in om je bestelling te {{useCase}}",
     "orderFormUnverifiedOrderDetailsLabel": "Bestelgegevens",
     "orderFormUnverifiedInputPlaceholder": "E-mailadres / Telefoonnummer / Bestel-ID",
     "orderFormUnverifiedTooltipText": "Je kunt je e-mailadres, telefoonnummer of een bestel-ID invoeren dat begint met '#'.",
@@ -126,7 +141,7 @@
     "orderTrackingSelectOrderSubtitle": "Selecteer de bestelling die u wilt volgen",
     "orderTrackingOrderedOn": "Besteld op {{value}}",
     "orderFormEmailInvalidFormat": "Voer een geldig e-mailadres in",
-    "orderFormVerifyTrackOrderPrompt": "Laten we je bestelling volgen",
+    "orderFormVerifyTrackOrderPrompt": "Log in om je bestelling te {{useCase}}",
     "orderFormVerifyOrderIdLabel": "Bestel-ID",
     "orderFormVerifyOrderIdPlaceholder": "Bestel-ID",
     "orderFormVerifyIdentityLabel": "Telefoonnummer of e-mail",
@@ -140,7 +155,7 @@
     "orderFormVerifyNoOrderFoundOrderId": "Voer geldige gegevens in.",
     "orderFormVerifyNoOrderFoundPhone": "Geen bestellingen gevonden voor dit nummer. Probeer het opnieuw.",
     "orderFormVerifyNoOrderFoundEmail": "Geen bestellingen gevonden voor deze e-mail. Probeer het opnieuw.",
-    "orderFormEmailOnlyTitle": "Laten we je bestelling volgen",
+    "orderFormEmailOnlyTitle": "Log in om je bestelling te {{useCase}}",
     "orderFormOtpTitle": "We hebben een 6-cijferige code naar je e-mail gestuurd.",
     "orderFormOtpSubTitle": "We hebben een code gestuurd naar {{value}}",
     "orderOtpRateLimitError": "Je hebt het maximumaantal OTP-verzoeken overschreden. Probeer het over een uur opnieuw.",
@@ -233,7 +248,6 @@
     "productSpecialistInputPlaceholder": "Typ hier je vraag",
     "continueButton": "Klik hier om door te gaan",
     "olderConversations": "Oudere gesprekken",
-
     "orderCancellationText": "Ik wil graag {{productText}} annuleren van mijn bestelling met bestelnummer {{orderId}}.",
     "orderCancellationAllText": "Ik wil graag alle artikelen annuleren van mijn bestelling met bestelnummer {{orderId}}",
     "orderReturnText": "Ik wil graag een retour en terugbetaling aanvragen voor {{productText}} van mijn bestelling met bestelnummer {{orderId}}.",

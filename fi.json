@@ -8,10 +8,26 @@
       "SEARCH": "Et löydä etsimääsi? Anna minun auttaa sinua löytämään juuri sen, mitä etsit."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Mitkä ovat myydyimmät tuotteesi?", "Mikä erottaa tuotteesi muista?", "Missä on tilaukseni?"],
-      "OTHER": ["Mitkä ovat myydyimmät tuotteesi?", "Mikä erottaa tuotteesi muista?", "Missä on tilaukseni?"],
-      "PRODUCT": ["Mikä erottaa tämän tuotteen muista?", "Näytä minulle lisää samanlaisia tuotteita", "Mikä on tämän tuotteen palautuskäytäntö?"],
-      "SEARCH": ["Näytä minulle sopivimmat tuotteet", "Tarkenna tuloksia vaatimusteni perusteella", "Mitkä ovat suosituimpia valintoja näiden joukosta?"]
+      "COLLECTION": [
+        "Mitkä ovat myydyimmät tuotteesi?",
+        "Mikä erottaa tuotteesi muista?",
+        "Missä on tilaukseni?"
+      ],
+      "OTHER": [
+        "Mitkä ovat myydyimmät tuotteesi?",
+        "Mikä erottaa tuotteesi muista?",
+        "Missä on tilaukseni?"
+      ],
+      "PRODUCT": [
+        "Mikä erottaa tämän tuotteen muista?",
+        "Näytä minulle lisää samanlaisia tuotteita",
+        "Mikä on tämän tuotteen palautuskäytäntö?"
+      ],
+      "SEARCH": [
+        "Näytä minulle sopivimmat tuotteet",
+        "Tarkenna tuloksia vaatimusteni perusteella",
+        "Mitkä ovat suosituimpia valintoja näiden joukosta?"
+      ]
     }
   },
   "translations": {
@@ -106,7 +122,10 @@
     "findingYourAnswer": "Etsii vastaamista",
     "typingYourResponse": "Kirjoittaa vastaustasi",
     "orderFormSubHeader": "Syötä tietosi nähdäksesi tilauksesi",
-    "orderFormUnverifiedTrackOrderPrompt": "Seurataanpa tilaustasi",
+    "orderTrack": "seurata",
+    "orderCancel": "peruuttaa",
+    "orderReturn": "palauttaa",
+    "orderFormUnverifiedTrackOrderPrompt": "Kirjaudu sisään {{useCase}}aksesi tilauksesi",
     "orderFormUnverifiedOrderDetailsLabel": "Tilaustiedot",
     "orderFormUnverifiedInputPlaceholder": "Sähköpostiosoite / Puhelinnumero / Tilausnumero",
     "orderFormUnverifiedTooltipText": "Voit syöttää sähköpostiosoitteesi, puhelinnumerosi tai tilausnumeron, joka alkaa merkillä '#'",
@@ -122,7 +141,7 @@
     "orderTrackingSelectOrderSubtitle": "Valitse tilaus, jota haluat seurata",
     "orderTrackingOrderedOn": "Tilattu {{value}}",
     "orderFormEmailInvalidFormat": "Syötä kelvollinen sähköpostiosoite",
-    "orderFormVerifyTrackOrderPrompt": "Seurataanpa tilaustasi",
+    "orderFormVerifyTrackOrderPrompt": "Kirjaudu sisään {{useCase}}aksesi tilauksesi",
     "orderFormVerifyOrderIdLabel": "Tilausnumero",
     "orderFormVerifyOrderIdPlaceholder": "Tilausnumero",
     "orderFormVerifyIdentityLabel": "Puhelinnumero tai sähköposti",
@@ -213,7 +232,7 @@
     "orderFormVerifyNoOrderFoundEmail": "Tälle sähköpostille ei löytynyt tilauksia. Yritä uudelleen.",
     "orderOtpRateLimitError": "Olet ylittänyt OTP-pyyntöjen enimmäismäärän. Yritä uudelleen tunnin kuluttua.",
     "orderFormVerifyNoOrderFoundOrderId": "Anna kelvolliset tiedot.",
-    "orderFormEmailOnlyTitle": "Seurataan tilaustasi",
+    "orderFormEmailOnlyTitle": "Kirjaudu sisään {{useCase}}aksesi tilauksesi",
     "orderListHereAreYourOrders": "Tilauksen tiedot",
     "orderFormBackButton": "Takaisin",
     "orderFormPhoneNumberLabel": "Syötä puhelinnumero",
@@ -229,7 +248,6 @@
     "productSpecialistInputPlaceholder": "Kirjoita kysymyksesi tähän",
     "continueButton": "Napsauta jatkaaksesi",
     "olderConversations": "Vanhemmat keskustelut",
-
     "orderCancellationText": "Haluaisin peruuttaa - {{productText}} tilauksestani tilausnumerolla {{orderId}}.",
     "orderCancellationAllText": "Haluaisin peruuttaa kaikki tuotteet tilauksestani tilausnumerolla {{orderId}}",
     "orderReturnText": "Haluaisin aloittaa palautuksen ja hyvityksen - {{productText}} tilauksestani tilausnumerolla {{orderId}}.",

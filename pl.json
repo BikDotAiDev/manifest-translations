@@ -8,10 +8,26 @@
       "SEARCH": "Nie możesz znaleźć tego, czego szukasz? Pozwól mi pomóc Ci znaleźć dokładnie to, czego szukasz."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Jakie są nasze najlepiej sprzedające się produkty?", "Co wyróżnia nasze produkty spośród innych?", "Gdzie jest moje zamówienie?"],
-      "OTHER": ["Jakie są nasze najlepiej sprzedające się produkty?", "Co wyróżnia nasze produkty spośród innych?", "Gdzie jest moje zamówienie?"],
-      "PRODUCT": ["Co wyróżnia ten produkt?", "Pokaż mi więcej produktów podobnych do tego", "Jaka jest polityka zwrotów tego produktu?"],
-      "SEARCH": ["Pokaż mi najbardziej odpowiednie produkty dla mnie", "Uściślij wyniki na podstawie moich wymagań", "Jakie są popularne wybory wśród tych produktów?"]
+      "COLLECTION": [
+        "Jakie są nasze najlepiej sprzedające się produkty?",
+        "Co wyróżnia nasze produkty spośród innych?",
+        "Gdzie jest moje zamówienie?"
+      ],
+      "OTHER": [
+        "Jakie są nasze najlepiej sprzedające się produkty?",
+        "Co wyróżnia nasze produkty spośród innych?",
+        "Gdzie jest moje zamówienie?"
+      ],
+      "PRODUCT": [
+        "Co wyróżnia ten produkt?",
+        "Pokaż mi więcej produktów podobnych do tego",
+        "Jaka jest polityka zwrotów tego produktu?"
+      ],
+      "SEARCH": [
+        "Pokaż mi najbardziej odpowiednie produkty dla mnie",
+        "Uściślij wyniki na podstawie moich wymagań",
+        "Jakie są popularne wybory wśród tych produktów?"
+      ]
     }
   },
   "translations": {
@@ -105,7 +121,10 @@
     "findingYourAnswer": "Znajdowanie twojej odpowiedzi",
     "typingYourResponse": "Wpisywanie twojej odpowiedzi",
     "orderFormSubHeader": "Wprowadź swoje dane, aby zobaczyć zamówienia",
-    "orderFormUnverifiedTrackOrderPrompt": "Śledźmy Twoje zamówienie",
+    "orderTrack": "śledzić",
+    "orderCancel": "anulować",
+    "orderReturn": "zwrócić",
+    "orderFormUnverifiedTrackOrderPrompt": "Zaloguj się, aby {{useCase}} swoje zamówienie",
     "orderFormUnverifiedOrderDetailsLabel": "Szczegóły zamówienia",
     "orderFormUnverifiedInputPlaceholder": "Adres e-mail / Numer telefonu / ID zamówienia",
     "orderFormUnverifiedTooltipText": "Możesz podać swój e-mail, numer telefonu lub ID zamówienia zaczynające się od '#'",
@@ -121,7 +140,7 @@
     "orderTrackingSelectOrderSubtitle": "Wybierz zamówienie, które chcesz śledzić",
     "orderTrackingOrderedOn": "Zamówiono dnia {{value}}",
     "orderFormEmailInvalidFormat": "Wprowadź poprawny adres e-mail",
-    "orderFormVerifyTrackOrderPrompt": "Śledźmy Twoje zamówienie",
+    "orderFormVerifyTrackOrderPrompt": "Zaloguj się, aby {{useCase}} swoje zamówienie",
     "orderFormVerifyOrderIdLabel": "ID zamówienia",
     "orderFormVerifyOrderIdPlaceholder": "ID zamówienia",
     "orderFormVerifyIdentityLabel": "Numer telefonu lub e-mail",
@@ -135,7 +154,7 @@
     "orderFormVerifyNoOrderFoundOrderId": "Proszę wprowadzić prawidłowe dane.",
     "orderFormVerifyNoOrderFoundPhone": "Nie znaleziono zamówień dla tego numeru. Spróbuj ponownie.",
     "orderFormVerifyNoOrderFoundEmail": "Nie znaleziono zamówień dla tego adresu e-mail. Spróbuj ponownie.",
-    "orderFormEmailOnlyTitle": "Śledźmy twoje zamówienie",
+    "orderFormEmailOnlyTitle": "Zaloguj się, aby {{useCase}} swoje zamówienie",
     "orderFormOtpTitle": "Wysłaliśmy 6-cyfrowy kod na Twój e-mail.",
     "orderFormOtpSubTitle": "Wysłaliśmy kod na adres {{value}}",
     "orderOtpRateLimitError": "Przekroczyłeś maksymalną liczbę żądań OTP. Spróbuj ponownie za godzinę.",
@@ -229,7 +248,6 @@
     "continueButton": "Kliknij tutaj, aby kontynuować",
     "recommendLike": "Poleć podobne",
     "olderConversations": "Starsze rozmowy",
-
     "orderCancellationText": "Chciałbym anulować - {{productText}} z mojego zamówienia o numerze {{orderId}}.",
     "orderCancellationAllText": "Chciałbym anulować wszystkie przedmioty z mojego zamówienia o numerze {{orderId}}",
     "orderReturnText": "Chciałbym zainicjować zwrot i zwrot pieniędzy za - {{productText}} z mojego zamówienia o numerze {{orderId}}.",

@@ -8,10 +8,26 @@
       "SEARCH": "Finner ikke det du leter etter? La meg hjelpe deg med å finne akkurat det du ser etter."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Hva er dine bestselgende produkter?", "Hva skiller produktene dine fra andre?", "Hvor er bestillingen min?"],
-      "OTHER": ["Hva er dine bestselgende produkter?", "Hva skiller produktene dine fra andre?", "Hvor er bestillingen min?"],
-      "PRODUCT": ["Hva gjør dette produktet fremtredende?", "Vis meg flere produkter som dette", "Hva er returpolicyen for dette produktet?"],
-      "SEARCH": ["Vis meg de mest relevante produktene for meg", "Forfin resultatene basert på mine krav", "Hva er noen populære valg blant disse?"]
+      "COLLECTION": [
+        "Hva er dine bestselgende produkter?",
+        "Hva skiller produktene dine fra andre?",
+        "Hvor er bestillingen min?"
+      ],
+      "OTHER": [
+        "Hva er dine bestselgende produkter?",
+        "Hva skiller produktene dine fra andre?",
+        "Hvor er bestillingen min?"
+      ],
+      "PRODUCT": [
+        "Hva gjør dette produktet fremtredende?",
+        "Vis meg flere produkter som dette",
+        "Hva er returpolicyen for dette produktet?"
+      ],
+      "SEARCH": [
+        "Vis meg de mest relevante produktene for meg",
+        "Forfin resultatene basert på mine krav",
+        "Hva er noen populære valg blant disse?"
+      ]
     }
   },
   "translations": {
@@ -105,7 +121,10 @@
     "findingYourAnswer": "Finner svaret ditt",
     "typingYourResponse": "Skriver svaret ditt",
     "orderFormSubHeader": "Skriv inn opplysningene dine for å se bestillingene dine",
-    "orderFormUnverifiedTrackOrderPrompt": "La oss spore bestillingen din",
+    "orderTrack": "spore",
+    "orderCancel": "kansellere",
+    "orderReturn": "returnere",
+    "orderFormUnverifiedTrackOrderPrompt": "Logg inn for å {{useCase}} bestillingen din",
     "orderFormUnverifiedOrderDetailsLabel": "Bestillingsdetaljer",
     "orderFormUnverifiedInputPlaceholder": "E-postadresse / Telefonnummer / Ordre-ID",
     "orderFormUnverifiedTooltipText": "Du kan skrive inn e-post, telefonnummer eller en Ordre-ID som begynner med '#'.",
@@ -121,7 +140,7 @@
     "orderTrackingSelectOrderSubtitle": "Velg bestillingen du vil spore",
     "orderTrackingOrderedOn": "Bestilt den {{value}}",
     "orderFormEmailInvalidFormat": "Vennligst skriv inn en gyldig e-postadresse",
-    "orderFormVerifyTrackOrderPrompt": "La oss spore bestillingen din",
+    "orderFormVerifyTrackOrderPrompt": "Logg inn for å {{useCase}} bestillingen din",
     "orderFormVerifyOrderIdLabel": "Ordre-ID",
     "orderFormVerifyOrderIdPlaceholder": "Ordre-ID",
     "orderFormVerifyIdentityLabel": "Telefonnummer eller e-post",
@@ -210,7 +229,7 @@
     "orderListReturnOrder": "Returner bestilling",
     "orderFormVerifyNoOrderFoundOrderId": "Vennligst oppgi gyldige data.",
     "orderListCancelOrderMessage": "Min bestillings-ID er {{orderId}}. Jeg vil avbryte bestillingen min.",
-    "orderFormEmailOnlyTitle": "La oss spore bestillingen din",
+    "orderFormEmailOnlyTitle": "Logg inn for å {{useCase}} bestillingen din",
     "orderListNeedHelpMessage": "Jeg sporet bestillingen min. Jeg har flere spørsmål om bestillingen min {{orderId}}",
     "orderListNeedHelpShipmentMessage": "Jeg trenger hjelp med forsendelse {{trackingNumber}} ({{status}}) fra ordre {{orderId}}",
     "orderListHereAreYourOrders": "Bestillingsdetaljer",
@@ -228,7 +247,6 @@
     "productSpecialistInputPlaceholder": "Skriv spørsmålet ditt her",
     "continueButton": "Klikk her for å fortsætte",
     "olderConversations": "Eldre samtaler",
-
     "orderCancellationText": "Jeg vil gjerne kansellere - {{productText}} fra min bestilling med bestillings-ID {{orderId}}.",
     "orderCancellationAllText": "Jeg vil gjerne kansellere alle varer fra min bestilling med bestillings-ID {{orderId}}",
     "orderReturnText": "Jeg vil gjerne starte en retur og refusjon for - {{productText}} fra min bestilling med bestillings-ID {{orderId}}.",
