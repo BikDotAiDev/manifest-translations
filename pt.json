@@ -8,10 +8,26 @@
       "SEARCH": "Não consegue encontrar o que procura? Deixe-me ajudar você a encontrar exatamente o que procura."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Quais são os seus produtos mais vendidos?", "O que distingue os seus produtos dos outros?", "Onde está o meu pedido?"],
-      "OTHER": ["Quais são os seus produtos mais vendidos?", "O que distingue os seus produtos dos outros?", "Onde está o meu pedido?"],
-      "PRODUCT": ["O que torna este produto especial?", "Mostre-me mais produtos como este", "Qual é a política de devolução deste produto?"],
-      "SEARCH": ["Mostre-me os produtos mais relevantes para mim", "Refine os resultados com base nos meus requisitos", "Quais são algumas opções populares entre estes?"]
+      "COLLECTION": [
+        "Quais são os seus produtos mais vendidos?",
+        "O que distingue os seus produtos dos outros?",
+        "Onde está o meu pedido?"
+      ],
+      "OTHER": [
+        "Quais são os seus produtos mais vendidos?",
+        "O que distingue os seus produtos dos outros?",
+        "Onde está o meu pedido?"
+      ],
+      "PRODUCT": [
+        "O que torna este produto especial?",
+        "Mostre-me mais produtos como este",
+        "Qual é a política de devolução deste produto?"
+      ],
+      "SEARCH": [
+        "Mostre-me os produtos mais relevantes para mim",
+        "Refine os resultados com base nos meus requisitos",
+        "Quais são algumas opções populares entre estes?"
+      ]
     }
   },
   "translations": {
@@ -106,7 +122,10 @@
     "findingYourAnswer": "Encontrando sua resposta",
     "typingYourResponse": "Digitando sua resposta",
     "orderFormSubHeader": "Insira seus dados para ver seus pedidos",
-    "orderFormUnverifiedTrackOrderPrompt": "Vamos rastrear seu pedido",
+    "orderTrack": "rastrear",
+    "orderCancel": "cancelar",
+    "orderReturn": "devolver",
+    "orderFormUnverifiedTrackOrderPrompt": "Faça login para {{useCase}} seu pedido",
     "orderFormUnverifiedOrderDetailsLabel": "Detalhes do pedido",
     "orderFormUnverifiedInputPlaceholder": "Endereço de e-mail / Número de telefone / ID do pedido",
     "orderFormUnverifiedTooltipText": "Você pode inserir seu e-mail, telefone ou um ID de pedido que começa com '#'",
@@ -122,7 +141,7 @@
     "orderTrackingSelectOrderSubtitle": "Selecione o pedido que deseja rastrear",
     "orderTrackingOrderedOn": "Pedido em {{value}}",
     "orderFormEmailInvalidFormat": "Por favor, insira um endereço de e-mail válido",
-    "orderFormVerifyTrackOrderPrompt": "Vamos rastrear seu pedido",
+    "orderFormVerifyTrackOrderPrompt": "Faça login para {{useCase}} seu pedido",
     "orderFormVerifyOrderIdLabel": "ID do pedido",
     "orderFormVerifyOrderIdPlaceholder": "ID do pedido",
     "orderFormVerifyIdentityLabel": "Telefone ou e-mail",
@@ -136,7 +155,7 @@
     "orderFormVerifyNoOrderFoundOrderId": "Por favor, insira dados válidos.",
     "orderFormVerifyNoOrderFoundPhone": "Nenhum pedido encontrado para este número. Tente novamente.",
     "orderFormVerifyNoOrderFoundEmail": "Nenhum pedido encontrado para este e-mail. Tente novamente.",
-    "orderFormEmailOnlyTitle": "Vamos rastrear seu pedido",
+    "orderFormEmailOnlyTitle": "Faça login para {{useCase}} seu pedido",
     "orderFormOtpTitle": "Enviamos um código de 6 dígitos para seu e-mail.",
     "orderFormOtpSubTitle": "Enviamos um código para {{value}}",
     "orderOtpRateLimitError": "Você excedeu o número máximo de solicitações de OTP. Tente novamente após uma hora.",
@@ -229,7 +248,6 @@
     "productSpecialistInputPlaceholder": "Digite sua pergunta aqui",
     "continueButton": "Clique aqui para continuar",
     "olderConversations": "Conversas anteriores",
-
     "orderCancellationText": "Gostaria de cancelar - {{productText}} do meu pedido com ID do pedido {{orderId}}.",
     "orderCancellationAllText": "Gostaria de cancelar todos os itens do meu pedido com ID do pedido {{orderId}}",
     "orderReturnText": "Gostaria de iniciar uma devolução e reembolso para - {{productText}} do meu pedido com ID do pedido {{orderId}}.",

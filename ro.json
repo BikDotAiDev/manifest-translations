@@ -8,10 +8,26 @@
       "SEARCH": "Nu găsești ce cauți? Lasă-mă să te ajut să găsești exact ceea ce cauți."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Care sunt cele mai bine vândute produse ale voastre?", "Ce deosebește produsele voastre de cele ale altora?", "Unde este comanda mea?"],
-      "OTHER": ["Care sunt cele mai bine vândute produse ale voastre?", "Ce deosebește produsele voastre de cele ale altora?", "Unde este comanda mea?"],
-      "PRODUCT": ["Ce face acest produs să se remarce?", "Arată-mi mai multe produse ca acesta", "Care este politica de returnare pentru acest produs?"],
-      "SEARCH": ["Arată-mi cele mai relevante produse pentru mine", "Rafineaza rezultatele pe baza cerințelor mele", "Care sunt câteva opțiuni populare printre acestea?"]
+      "COLLECTION": [
+        "Care sunt cele mai bine vândute produse ale voastre?",
+        "Ce deosebește produsele voastre de cele ale altora?",
+        "Unde este comanda mea?"
+      ],
+      "OTHER": [
+        "Care sunt cele mai bine vândute produse ale voastre?",
+        "Ce deosebește produsele voastre de cele ale altora?",
+        "Unde este comanda mea?"
+      ],
+      "PRODUCT": [
+        "Ce face acest produs să se remarce?",
+        "Arată-mi mai multe produse ca acesta",
+        "Care este politica de returnare pentru acest produs?"
+      ],
+      "SEARCH": [
+        "Arată-mi cele mai relevante produse pentru mine",
+        "Rafineaza rezultatele pe baza cerințelor mele",
+        "Care sunt câteva opțiuni populare printre acestea?"
+      ]
     }
   },
   "translations": {
@@ -79,8 +95,8 @@
     "orderFormUnverifiedInputPlaceholder": "Adresa de Email / Număr de Telefon / ID Comandă",
     "orderFormUnverifiedOrderDetailsLabel": "Detalii comandă",
     "orderFormUnverifiedTooltipText": "Poți introduce Email-ul, Numărul de Telefon sau un ID de Comandă care începe cu '#'.",
-    "orderFormUnverifiedTrackOrderPrompt": "Hai să urmărim comanda ta",
-    "orderFormVerifyTrackOrderPrompt": "Hai să urmărim comanda ta",
+    "orderFormUnverifiedTrackOrderPrompt": "Conectează-te pentru a-ți {{useCase}} comanda",
+    "orderFormVerifyTrackOrderPrompt": "Conectează-te pentru a-ți {{useCase}} comanda",
     "orderFormVerifyOrderIdLabel": "ID Comandă",
     "orderFormVerifyOrderIdPlaceholder": "ID Comandă",
     "orderFormVerifyIdentityLabel": "Număr de Telefon sau Email",
@@ -211,7 +227,7 @@
     "orderOtpRateLimitError": "Ai depășit numărul maxim de solicitări OTP. Te rog să încerci din nou peste o oră.",
     "seeOtherPicks": "Vezi alte selecții de top",
     "orderFormVerifyNoOrderFoundOrderId": "Vă rugăm să introduceți date valide.",
-    "orderFormEmailOnlyTitle": "Să urmărim comanda ta",
+    "orderFormEmailOnlyTitle": "Conectează-te pentru a-ți {{useCase}} comanda",
     "orderListHereAreYourOrders": "Detaliile comenzii",
     "orderFormBackButton": "Înapoi",
     "orderFormPhoneNumberLabel": "Introduceți numărul de telefon",
@@ -228,10 +244,12 @@
     "productSpecialistInputPlaceholder": "Scrie-ți întrebarea aici",
     "continueButton": "Faceți clic aici pentru a continua",
     "olderConversations": "Conversații anterioare",
-
     "orderCancellationText": "Aș dori să anulez - {{productText}} din comanda mea cu ID-ul comenzii {{orderId}}.",
     "orderCancellationAllText": "Aș dori să anulez toate articolele din comanda mea cu ID-ul comenzii {{orderId}}",
     "orderReturnText": "Aș dori să inițiez o returnare și rambursare pentru - {{productText}} din comanda mea cu ID-ul comenzii {{orderId}}.",
-    "orderReturnAllText": "Aș dori să inițiez o returnare și rambursare pentru toate articolele din comanda mea cu ID-ul comenzii {{orderId}}"
+    "orderReturnAllText": "Aș dori să inițiez o returnare și rambursare pentru toate articolele din comanda mea cu ID-ul comenzii {{orderId}}",
+    "orderTrack": "urmări",
+    "orderCancel": "anula",
+    "orderReturn": "returna"
   }
 }

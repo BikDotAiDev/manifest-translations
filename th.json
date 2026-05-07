@@ -257,7 +257,6 @@
     "viewResultsFromCollection": "ดูผลลัพธ์จากคอลเลกชันนี้",
     "leaveCustomWorkflow": "You’re about to leave the {{query}} flow",
     "orderFormVerifyIdentityPlaceholder": "ป้อนหมายเลขโทรศัพท์หรือ ID อีเมลของคุณ",
-
     "orderFormVerifyNoOrderFound": "No order found with this ID. กรุณาลองใหม่อีกครั้ง",
     "orderFormVerifyNoOrderFoundOrderId": "กรุณาใส่ข้อมูลที่ถูกต้อง",
     "orderFormEmailOnlyEmailLabel": "ที่อยู่อีเมล",
@@ -323,7 +322,7 @@
     "storeLocationIntent": "ร้านของคุณตั้งอยู่ที่ไหน",
     "ourTopProduct": "ผลิตภัณฑ์ยอดนิยมของเรา",
     "orderFormInputTypeEmail": "ที่อยู่อีเมล",
-    "orderFormVerifyTrackOrderPrompt": "มาติดตามคำสั่งซื้อของคุณกันเถอะ",
+    "orderFormVerifyTrackOrderPrompt": "เข้าสู่ระบบเพื่อ{{useCase}}คำสั่งซื้อของคุณ",
     "askAboutSpecificProduct": "ถามเกี่ยวกับผลิตภัณฑ์เฉพาะ",
     "askAboutProduct": "ถามเพิ่มเติมเกี่ยวกับผลิตภัณฑ์นี้",
     "noThanks": "ไม่ ขอบคุณ",
@@ -344,12 +343,12 @@
     "orderFormEmailOnlyOtpExpired": "รหัสยืนยันหมดอายุแล้ว โปรดลองอีกครั้ง",
     "orderFormVerifyNoOrderFoundPhone": "ไม่พบคำสั่งซื้อสำหรับหมายเลขนี้ กรุณาลองใหม่อีกครั้ง",
     "additionalDetails": "รายละเอียดเพิ่มเติม",
-    "orderFormUnverifiedTrackOrderPrompt": "มาติดตามคำสั่งซื้อของคุณกันเถอะ",
+    "orderFormUnverifiedTrackOrderPrompt": "เข้าสู่ระบบเพื่อ{{useCase}}คำสั่งซื้อของคุณ",
     "orderFormInputTypePhone": "หมายเลขโทรศัพท์",
     "addToCart": "เพิ่มไปยังรถเข็น",
     "orderFormEmailOnlyResendIn": "ส่งใหม่ในอีก {{countdown}} วินาที",
     "navigationPageTitle": "คุณเข้าไปในหน้า {{navigationContext}} แล้ว",
-    "orderFormEmailOnlyTitle": "มาติดตามคำสั่งซื้อของคุณกันเถอะ",
+    "orderFormEmailOnlyTitle": "เข้าสู่ระบบเพื่อ{{useCase}}คำสั่งซื้อของคุณ",
     "offersEnquiryIntent": "ฉันต้องการทราบเกี่ยวกับคำสั่งซื้อของฉัน",
     "orderDetailsHeader": "นี่คือรายละเอียดคำสั่งซื้อของคุณ",
     "itWasOkay": "มันก็ยังไม่เลว",
@@ -431,11 +430,13 @@
     "discountCouponText": "วู้ฮู! 🎉 คุณมีสิทธิ์รับ {{couponTitle}}",
     "getOffer": "รับข้อเสนอ",
     "olderConversations": "การสนทนาเก่า",
-
     "orderCancellationText": "ฉันต้องการยกเลิก - {{productText}} จากคำสั่งซื้อของฉันที่มีรหัสคำสั่งซื้อ {{orderId}}",
     "orderCancellationAllText": "ฉันต้องการยกเลิกสินค้าทั้งหมดจากคำสั่งซื้อของฉันที่มีรหัสคำสั่งซื้อ {{orderId}}",
     "orderReturnText": "ฉันต้องการเริ่มต้นการคืนสินค้าและคืนเงินสำหรับ - {{productText}} จากคำสั่งซื้อของฉันที่มีรหัสคำสั่งซื้อ {{orderId}}",
-    "orderReturnAllText": "ฉันต้องการเริ่มต้นการคืนสินค้าและคืนเงินสำหรับสินค้าทั้งหมดจากคำสั่งซื้อของฉันที่มีรหัสคำสั่งซื้อ {{orderId}}"
+    "orderReturnAllText": "ฉันต้องการเริ่มต้นการคืนสินค้าและคืนเงินสำหรับสินค้าทั้งหมดจากคำสั่งซื้อของฉันที่มีรหัสคำสั่งซื้อ {{orderId}}",
+    "orderTrack": "ติดตาม",
+    "orderCancel": "ยกเลิก",
+    "orderReturn": "คืนสินค้า"
   },
   "others": {
     "popUpMessages": {

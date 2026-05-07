@@ -8,10 +8,26 @@
       "SEARCH": "Hittar du inte vad du letar efter? Låt mig hjälpa dig att hitta exakt det du söker."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Vilka är dina bästsäljande produkter?", "Vad skiljer dina produkter från andra?", "Var är min beställning?"],
-      "OTHER": ["Vilka är dina bästsäljande produkter?", "Vad skiljer dina produkter från andra?", "Var är min beställning?"],
-      "PRODUCT": ["Vad utmärker den här produkten?", "Visa mig fler produkter som denna", "Vad är returpolicyn för den här produkten?"],
-      "SEARCH": ["Visa de mest relevanta produkterna för mig", "Förfina resultaten baserat på mina krav", "Vilka är några populära val bland dessa?"]
+      "COLLECTION": [
+        "Vilka är dina bästsäljande produkter?",
+        "Vad skiljer dina produkter från andra?",
+        "Var är min beställning?"
+      ],
+      "OTHER": [
+        "Vilka är dina bästsäljande produkter?",
+        "Vad skiljer dina produkter från andra?",
+        "Var är min beställning?"
+      ],
+      "PRODUCT": [
+        "Vad utmärker den här produkten?",
+        "Visa mig fler produkter som denna",
+        "Vad är returpolicyn för den här produkten?"
+      ],
+      "SEARCH": [
+        "Visa de mest relevanta produkterna för mig",
+        "Förfina resultaten baserat på mina krav",
+        "Vilka är några populära val bland dessa?"
+      ]
     }
   },
   "translations": {
@@ -79,8 +95,8 @@
     "orderFormUnverifiedInputPlaceholder": "E-postadress / Telefonnummer / Beställnings-ID",
     "orderFormUnverifiedOrderDetailsLabel": "Beställningsdetaljer",
     "orderFormUnverifiedTooltipText": "Du kan ange din e-post, telefonnummer eller ett beställnings-ID som börjar med '#'.",
-    "orderFormUnverifiedTrackOrderPrompt": "Låt oss spåra din beställning",
-    "orderFormVerifyTrackOrderPrompt": "Låt oss spåra din beställning",
+    "orderFormUnverifiedTrackOrderPrompt": "Logga in för att {{useCase}} din beställning",
+    "orderFormVerifyTrackOrderPrompt": "Logga in för att {{useCase}} din beställning",
     "orderFormVerifyOrderIdLabel": "Beställnings-ID",
     "orderFormVerifyOrderIdPlaceholder": "Beställnings-ID",
     "orderFormVerifyIdentityLabel": "Telefonnummer eller e-post",
@@ -157,6 +173,9 @@
     "findingYourAnswer": "Hittar ditt svar",
     "typingYourResponse": "Skriver ditt svar",
     "orderFormSubHeader": "Ange dina uppgifter för att se dina beställningar",
+    "orderTrack": "spåra",
+    "orderCancel": "avboka",
+    "orderReturn": "returnera",
     "orderFormFallbackNoOtherOptions": "Inga problem, vi har andra alternativ tillgängliga för att hjälpa dig med din beställning.",
     "orderFormFallbackTalkToAgent": "Prata med en agent",
     "orderFormFallbackCheckTrackingPortal": "Kolla vår spårningsportal",
@@ -212,7 +231,7 @@
     "orderOtpRateLimitError": "Du har överskridit det maximala antalet OTP-förfrågningar. Försök igen om en timme.",
     "seeOtherPicks": "Se våra andra toppval",
     "orderFormVerifyNoOrderFoundOrderId": "Vänligen ange giltiga uppgifter.",
-    "orderFormEmailOnlyTitle": "Låt oss spåra din beställning",
+    "orderFormEmailOnlyTitle": "Logga in för att {{useCase}} din beställning",
     "orderListHereAreYourOrders": "Beställningsdetaljer",
     "orderFormBackButton": "Tillbaka",
     "orderFormPhoneNumberLabel": "Ange telefonnummer",
@@ -229,7 +248,6 @@
     "productSpecialistInputPlaceholder": "Skriv din fråga här",
     "continueButton": "Klicka här för att fortsätta",
     "olderConversations": "Äldre konversationer",
-
     "orderCancellationText": "Jag vill avbeställa - {{productText}} från min beställning med beställnings-ID {{orderId}}.",
     "orderCancellationAllText": "Jag vill avbeställa alla artiklar från min beställning med beställnings-ID {{orderId}}",
     "orderReturnText": "Jag vill initiera en retur och återbetalning för - {{productText}} från min beställning med beställnings-ID {{orderId}}.",

@@ -8,9 +8,21 @@
       "SEARCH": "Vous ne trouvez pas ce que vous cherchez ? Laissez-moi vous aider à trouver exactement ce que vous cherchez."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Quels sont vos produits les plus vendus ?", "Qu'est-ce qui distingue vos produits des autres ?", "Où est ma commande ?"],
-      "OTHER": ["Quels sont vos produits les plus vendus ?", "Qu'est-ce qui distingue vos produits des autres ?", "Où est ma commande ?"],
-      "PRODUCT": ["Qu'est-ce qui rend ce produit unique ?", "Montrez-moi plus de produits comme celui-ci", "Quelle est la politique de retour de ce produit ?"],
+      "COLLECTION": [
+        "Quels sont vos produits les plus vendus ?",
+        "Qu'est-ce qui distingue vos produits des autres ?",
+        "Où est ma commande ?"
+      ],
+      "OTHER": [
+        "Quels sont vos produits les plus vendus ?",
+        "Qu'est-ce qui distingue vos produits des autres ?",
+        "Où est ma commande ?"
+      ],
+      "PRODUCT": [
+        "Qu'est-ce qui rend ce produit unique ?",
+        "Montrez-moi plus de produits comme celui-ci",
+        "Quelle est la politique de retour de ce produit ?"
+      ],
       "SEARCH": [
         "Montrez-moi les produits les plus pertinents pour moi",
         "Affinez les résultats en fonction de mes exigences",
@@ -110,7 +122,10 @@
     "findingYourAnswer": "Trouver votre réponse",
     "typingYourResponse": "Tapez votre réponse",
     "orderFormSubHeader": "Entrez vos informations pour consulter vos commandes",
-    "orderFormUnverifiedTrackOrderPrompt": "Suivons votre commande",
+    "orderTrack": "suivre",
+    "orderCancel": "annuler",
+    "orderReturn": "retourner",
+    "orderFormUnverifiedTrackOrderPrompt": "Connectez-vous pour {{useCase}} votre commande",
     "orderFormUnverifiedOrderDetailsLabel": "Détails de la commande",
     "orderFormUnverifiedInputPlaceholder": "Adresse e-mail / Numéro de téléphone / Numéro de commande",
     "orderFormUnverifiedTooltipText": "Vous pouvez entrer votre Email, Phone Number, ou un Order ID qui commence par '#'.",
@@ -126,7 +141,7 @@
     "orderTrackingSelectOrderSubtitle": "Sélectionnez la commande que vous souhaitez suivre",
     "orderTrackingOrderedOn": "Commandé le {{value}}",
     "orderFormEmailInvalidFormat": "Veuillez entrer une adresse e-mail valide",
-    "orderFormVerifyTrackOrderPrompt": "Suivons votre commande",
+    "orderFormVerifyTrackOrderPrompt": "Connectez-vous pour {{useCase}} votre commande",
     "orderFormVerifyOrderIdLabel": "ID de commande",
     "orderFormVerifyOrderIdPlaceholder": "ID de commande",
     "orderFormVerifyIdentityLabel": "Numéro de téléphone ou e-mail",
@@ -140,7 +155,7 @@
     "orderFormVerifyNoOrderFoundOrderId": "Veuillez saisir des données valides.",
     "orderFormVerifyNoOrderFoundPhone": "Aucune commande trouvée pour ce numéro. Veuillez réessayer.",
     "orderFormVerifyNoOrderFoundEmail": "Aucune commande trouvée pour cet e-mail. Veuillez réessayer.",
-    "orderFormEmailOnlyTitle": "Suivons votre commande",
+    "orderFormEmailOnlyTitle": "Connectez-vous pour {{useCase}} votre commande",
     "orderFormOtpTitle": "Nous avons envoyé un code à 6 chiffres à votre e-mail.",
     "orderFormOtpSubTitle": "Nous avons envoyé un code à {{value}}",
     "orderOtpRateLimitError": "Vous avez dépassé le nombre maximum de demandes d'OTP. Veuillez réessayer dans une heure.",
@@ -233,7 +248,6 @@
     "productSpecialistInputPlaceholder": "Tapez votre question ici",
     "continueButton": "Cliquez ici pour continuer",
     "olderConversations": "Conversations plus anciennes",
-
     "orderCancellationText": "Je souhaite annuler - {{productText}} de ma commande avec le numéro de commande {{orderId}}.",
     "orderCancellationAllText": "Je souhaite annuler tous les articles de ma commande avec le numéro de commande {{orderId}}",
     "orderReturnText": "Je souhaite initier un retour et un remboursement pour - {{productText}} de ma commande avec le numéro de commande {{orderId}}.",

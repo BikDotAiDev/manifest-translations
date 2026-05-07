@@ -8,10 +8,26 @@
       "SEARCH": "Không tìm thấy điều bạn đang tìm kiếm? Hãy để tôi giúp bạn tìm chính xác điều bạn đang tìm kiếm."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Các sản phẩm bán chạy nhất của bạn là gì?", "Điều gì làm các sản phẩm của bạn nổi bật so với các sản phẩm khác?", "Đơn hàng của tôi đang ở đâu?"],
-      "OTHER": ["Các sản phẩm bán chạy nhất của bạn là gì?", "Điều gì làm sản phẩm của bạn nổi bật so với các sản phẩm khác?", "Đơn hàng của tôi đang ở đâu?"],
-      "PRODUCT": ["Điều gì khiến sản phẩm này nổi bật?", "Cho tôi xem thêm các sản phẩm giống như thế này", "Chính sách đổi trả của sản phẩm này là gì?"],
-      "SEARCH": ["Cho tôi xem các sản phẩm phù hợp nhất với tôi", "Tinh chỉnh kết quả dựa trên yêu cầu của tôi", "Có những lựa chọn phổ biến nào trong số này không?"]
+      "COLLECTION": [
+        "Các sản phẩm bán chạy nhất của bạn là gì?",
+        "Điều gì làm các sản phẩm của bạn nổi bật so với các sản phẩm khác?",
+        "Đơn hàng của tôi đang ở đâu?"
+      ],
+      "OTHER": [
+        "Các sản phẩm bán chạy nhất của bạn là gì?",
+        "Điều gì làm sản phẩm của bạn nổi bật so với các sản phẩm khác?",
+        "Đơn hàng của tôi đang ở đâu?"
+      ],
+      "PRODUCT": [
+        "Điều gì khiến sản phẩm này nổi bật?",
+        "Cho tôi xem thêm các sản phẩm giống như thế này",
+        "Chính sách đổi trả của sản phẩm này là gì?"
+      ],
+      "SEARCH": [
+        "Cho tôi xem các sản phẩm phù hợp nhất với tôi",
+        "Tinh chỉnh kết quả dựa trên yêu cầu của tôi",
+        "Có những lựa chọn phổ biến nào trong số này không?"
+      ]
     }
   },
   "translations": {
@@ -105,7 +121,10 @@
     "findingYourAnswer": "Đang tìm câu trả lời của bạn",
     "typingYourResponse": "Đang gõ câu trả lời của bạn",
     "orderFormSubHeader": "Nhập thông tin của bạn để xem đơn hàng",
-    "orderFormUnverifiedTrackOrderPrompt": "Hãy theo dõi đơn hàng của bạn",
+    "orderTrack": "theo dõi",
+    "orderCancel": "hủy",
+    "orderReturn": "trả hàng",
+    "orderFormUnverifiedTrackOrderPrompt": "Đăng nhập để {{useCase}} đơn hàng của bạn",
     "orderFormUnverifiedOrderDetailsLabel": "Chi tiết đơn hàng",
     "orderFormUnverifiedInputPlaceholder": "Địa chỉ Email / Số điện thoại / Mã đơn hàng",
     "orderFormUnverifiedTooltipText": "Bạn có thể nhập Email, Số điện thoại hoặc Mã đơn hàng bắt đầu bằng '#'",
@@ -121,7 +140,7 @@
     "orderTrackingSelectOrderSubtitle": "Chọn đơn hàng bạn muốn theo dõi",
     "orderTrackingOrderedOn": "Đã đặt vào {{value}}",
     "orderFormEmailInvalidFormat": "Vui lòng nhập địa chỉ email hợp lệ",
-    "orderFormVerifyTrackOrderPrompt": "Hãy theo dõi đơn hàng của bạn",
+    "orderFormVerifyTrackOrderPrompt": "Đăng nhập để {{useCase}} đơn hàng của bạn",
     "orderFormVerifyOrderIdLabel": "Mã đơn hàng",
     "orderFormVerifyOrderIdPlaceholder": "Mã đơn hàng",
     "orderFormVerifyIdentityLabel": "Số điện thoại hoặc Email",
@@ -210,7 +229,7 @@
     "orderListReturnOrder": "Trả lại đơn hàng",
     "orderFormVerifyNoOrderFoundOrderId": "Vui lòng nhập dữ liệu hợp lệ.",
     "orderListCancelOrderMessage": "ID đơn hàng của tôi là {{orderId}}. Tôi muốn hủy đơn hàng.",
-    "orderFormEmailOnlyTitle": "Hãy theo dõi đơn hàng của bạn",
+    "orderFormEmailOnlyTitle": "Đăng nhập để {{useCase}} đơn hàng của bạn",
     "orderListNeedHelpMessage": "Tôi đã theo dõi đơn hàng. Tôi có thêm câu hỏi về đơn hàng {{orderId}}",
     "orderListNeedHelpShipmentMessage": "Tôi cần trợ giúp với lô hàng {{trackingNumber}} ({{status}}) từ đơn hàng {{orderId}}",
     "orderListHereAreYourOrders": "Chi tiết đơn hàng",
@@ -229,7 +248,6 @@
     "productSpecialistInputPlaceholder": "Nhập câu hỏi của bạn đây",
     "continueButton": "Nhận vào đây để tiếp tục",
     "olderConversations": "Cuộc trò chuyện cũ hơn",
-
     "orderCancellationText": "Tôi muốn hủy - {{productText}} từ đơn hàng của tôi với mã đơn hàng {{orderId}}.",
     "orderCancellationAllText": "Tôi muốn hủy tất cả các mặt hàng từ đơn hàng của tôi với mã đơn hàng {{orderId}}",
     "orderReturnText": "Tôi muốn bắt đầu trả hàng và hoàn tiền cho - {{productText}} từ đơn hàng của tôi với mã đơn hàng {{orderId}}.",

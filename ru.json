@@ -30,9 +30,14 @@
   "bannerExitText": "Выход",
   "orderListNeedHelpMessage": "Я отследил свой заказ. У меня есть дополнительные вопросы о моем заказе {{orderId}}",
   "orderListNeedHelpShipmentMessage": "Мне нужна помощь с отправкой {{trackingNumber}} ({{status}}) из заказа {{orderId}}",
-
   "orderCancellationText": "Я хочу отменить - {{productText}} из моего заказа с номером {{orderId}}.",
   "orderCancellationAllText": "Я хочу отменить все товары из моего заказа с номером {{orderId}}",
   "orderReturnText": "Я хочу оформить возврат и возмещение для - {{productText}} из моего заказа с номером {{orderId}}.",
-  "orderReturnAllText": "Я хочу оформить возврат и возмещение для всех товаров из моего заказа с номером {{orderId}}"
+  "orderReturnAllText": "Я хочу оформить возврат и возмещение для всех товаров из моего заказа с номером {{orderId}}",
+  "orderTrack": "отследить",
+  "orderCancel": "отменить",
+  "orderReturn": "вернуть",
+  "orderFormUnverifiedTrackOrderPrompt": "Войдите, чтобы {{useCase}} ваш заказ",
+  "orderFormVerifyTrackOrderPrompt": "Войдите, чтобы {{useCase}} ваш заказ",
+  "orderFormEmailOnlyTitle": "Войдите, чтобы {{useCase}} ваш заказ"
 }

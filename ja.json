@@ -8,10 +8,26 @@
       "SEARCH": "お探しのものが見つからない場合は、正確にお探しのものを見つけるのをお手伝いいたします。"
     },
     "suggestedReplies": {
-      "COLLECTION": ["販売の多い商品は何ですか？", "あなたの商品を他の商品とどう違うと考えていますか？", "私の注文はどこですか？"],
-      "OTHER": ["販売の多い商品は何ですか？", "あなたの商品を他の商品とどう違うと考えていますか？", "私の注文はどこですか？"],
-      "PRODUCT": ["この商品の特徴は何ですか？", "このような商品をもっと見せて", "この商品の返品ポリシーは？"],
-      "SEARCH": ["私にとって最も関連性のある商品を表示してください", "私の要件に基づいて結果を絞り込む", "これらの中で人気のある選択肢は何ですか？"]
+      "COLLECTION": [
+        "販売の多い商品は何ですか？",
+        "あなたの商品を他の商品とどう違うと考えていますか？",
+        "私の注文はどこですか？"
+      ],
+      "OTHER": [
+        "販売の多い商品は何ですか？",
+        "あなたの商品を他の商品とどう違うと考えていますか？",
+        "私の注文はどこですか？"
+      ],
+      "PRODUCT": [
+        "この商品の特徴は何ですか？",
+        "このような商品をもっと見せて",
+        "この商品の返品ポリシーは？"
+      ],
+      "SEARCH": [
+        "私にとって最も関連性のある商品を表示してください",
+        "私の要件に基づいて結果を絞り込む",
+        "これらの中で人気のある選択肢は何ですか？"
+      ]
     }
   },
   "translations": {
@@ -106,7 +122,10 @@
     "findingYourAnswer": "回答を探しています",
     "typingYourResponse": "回答を入力しています",
     "orderFormSubHeader": "注文を確認するには詳細を入力してください",
-    "orderFormUnverifiedTrackOrderPrompt": "ご注文を追跡しましょう",
+    "orderTrack": "追跡",
+    "orderCancel": "キャンセル",
+    "orderReturn": "返品",
+    "orderFormUnverifiedTrackOrderPrompt": "ご注文を{{useCase}}するためにログインしてください",
     "orderFormUnverifiedOrderDetailsLabel": "注文詳細",
     "orderFormUnverifiedInputPlaceholder": "メールアドレス / 電話番号 / 注文ID",
     "orderFormUnverifiedTooltipText": "メールアドレス、電話番号、または'#'で始まる注文IDを入力できます。",
@@ -122,7 +141,7 @@
     "orderTrackingSelectOrderSubtitle": "追跡したい注文を選択してください",
     "orderTrackingOrderedOn": "{{value}} に注文",
     "orderFormEmailInvalidFormat": "有効なメールアドレスを入力してください",
-    "orderFormVerifyTrackOrderPrompt": "ご注文を追跡しましょう",
+    "orderFormVerifyTrackOrderPrompt": "ご注文を{{useCase}}するためにログインしてください",
     "orderFormVerifyOrderIdLabel": "注文ID",
     "orderFormVerifyOrderIdPlaceholder": "注文ID",
     "orderFormVerifyIdentityLabel": "電話番号またはメールアドレス",
@@ -213,7 +232,7 @@
     "orderOtpRateLimitError": "OTPリクエストの上限に達しました。1時間後に再試行してください。",
     "seeOtherPicks": "他のおすすめをチェック",
     "orderFormVerifyNoOrderFoundOrderId": "有効なデータを入力してください。",
-    "orderFormEmailOnlyTitle": "注文を追跡しましょう",
+    "orderFormEmailOnlyTitle": "ご注文を{{useCase}}するためにログインしてください",
     "orderListHereAreYourOrders": "注文詳細",
     "orderFormBackButton": "戻る",
     "orderFormPhoneNumberLabel": "電話番号を入力してください",
@@ -230,7 +249,6 @@
     "productSpecialistInputPlaceholder": "ここに質問を入力してください",
     "continueButton": "ここをクリックして続行",
     "olderConversations": "過去の会話",
-
     "orderCancellationText": "注文番号{{orderId}}の注文から{{productText}}をキャンセルしたいです。",
     "orderCancellationAllText": "注文番号{{orderId}}の注文からすべての商品をキャンセルしたいです",
     "orderReturnText": "注文番号{{orderId}}の注文から{{productText}}の返品と返金を開始したいです。",

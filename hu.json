@@ -8,10 +8,26 @@
       "SEARCH": "Nem találod, amit keresel? Segítek megtalálni pontosan azt, amit keresel."
     },
     "suggestedReplies": {
-      "COLLECTION": ["Mi a legjobban eladott termékeitek?", "Mi különbözteti meg termékeiteket a többitől?", "Hol van az rendelésem?"],
-      "OTHER": ["Mi a legjobban eladott termékeitek?", "Mi különbözteti meg termékeiteket a többitől?", "Hol van az rendelésem?"],
-      "PRODUCT": ["Mi teszi ezt a terméket különlegessé?", "Mutass több olyan terméket, mint ez", "Mi a termék visszaküldési politikája?"],
-      "SEARCH": ["Mutass nekem a számomra legrelevánsabb termékeket", "Finomítsd az eredményeket az igényeim alapján", "Mi a népszerű választás ezek között?"]
+      "COLLECTION": [
+        "Mi a legjobban eladott termékeitek?",
+        "Mi különbözteti meg termékeiteket a többitől?",
+        "Hol van az rendelésem?"
+      ],
+      "OTHER": [
+        "Mi a legjobban eladott termékeitek?",
+        "Mi különbözteti meg termékeiteket a többitől?",
+        "Hol van az rendelésem?"
+      ],
+      "PRODUCT": [
+        "Mi teszi ezt a terméket különlegessé?",
+        "Mutass több olyan terméket, mint ez",
+        "Mi a termék visszaküldési politikája?"
+      ],
+      "SEARCH": [
+        "Mutass nekem a számomra legrelevánsabb termékeket",
+        "Finomítsd az eredményeket az igényeim alapján",
+        "Mi a népszerű választás ezek között?"
+      ]
     }
   },
   "translations": {
@@ -80,7 +96,7 @@
     "orderFormUnverifiedOrderDetailsLabel": "Rendelés részletei",
     "orderFormUnverifiedTooltipText": "Megadhatod az email címedet, telefonszámodat vagy egy '#' jellel kezdődő rendelési azonosítót.",
     "orderFormForgotEverything": "Próbáld meg másképp",
-    "orderFormVerifyTrackOrderPrompt": "Kövessük nyomon a rendelésedet",
+    "orderFormVerifyTrackOrderPrompt": "Jelentkezzen be a rendelés {{useCase}}éhez",
     "orderFormVerifyOrderIdLabel": "Rendelési azonosító",
     "orderFormVerifyOrderIdPlaceholder": "Rendelési azonosító",
     "orderFormVerifyIdentityLabel": "Telefonszám vagy Email",
@@ -157,6 +173,9 @@
     "findingYourAnswer": "A válaszod megkeresése",
     "typingYourResponse": "A válaszod gépelése",
     "orderFormSubHeader": "Adja meg adatait a rendelések megtekintéséhez",
+    "orderTrack": "követni",
+    "orderCancel": "lemondani",
+    "orderReturn": "visszaküldeni",
     "orderFormFallbackNoOtherOptions": "Semmi baj, más lehetőségek is rendelkezésre állnak a rendelésével kapcsolatos segítségnyújtáshoz.",
     "orderFormFallbackTalkToAgent": "Beszélj egy ügynökkel",
     "orderFormFallbackCheckTrackingPortal": "Ellenőrizze nyomon követési portálunkat",
@@ -204,10 +223,10 @@
     "orderListNeedHelpShipmentMessage": "Segítségre van szükségem a(z) {{trackingNumber}} ({{status}}) számú szállítmánnyal a(z) {{orderId}} számú rendelésből",
     "orderListNeedHelp": "Segítségre van szüksége?",
     "orderFormVerifyNoOrderFoundPhone": "Nem találtunk rendeléseket ehhez a számhoz. Próbálkozzon újra.",
-    "orderFormUnverifiedTrackOrderPrompt": "Kövessük nyomon rendelését",
+    "orderFormUnverifiedTrackOrderPrompt": "Jelentkezzen be a rendelés {{useCase}}éhez",
     "returnToChat": "Vissza a chathez",
     "orderFormVerifyNoOrderFoundOrderId": "Kérjük, adjon meg érvényes adatokat.",
-    "orderFormEmailOnlyTitle": "Kövessük nyomon a rendelését",
+    "orderFormEmailOnlyTitle": "Jelentkezzen be a rendelés {{useCase}}éhez",
     "orderListReturnOrderMessage": "A rendelésem azonosítója {{orderId}}. Vissza szeretném küldeni a rendelésemet.",
     "orderListCancelOrder": "Rendelés törlése",
     "orderFormEmailOnlyResendNow": "Újraküldés most",
@@ -229,7 +248,6 @@
     "continueButton": "Kattints ide a folyésáttétéshez",
     "recommendLike": "Ajánlj hasonlót",
     "olderConversations": "Régebbi beszélgetések",
-
     "orderCancellationText": "Szeretném lemondani - {{productText}} rendelésemből, rendelési azonosító: {{orderId}}.",
     "orderCancellationAllText": "Szeretném lemondani az összes tételt a rendelésemből, rendelési azonosító: {{orderId}}",
     "orderReturnText": "Szeretnék visszaküldést és visszatérítést kezdeményezni - {{productText}} rendelésemből, rendelési azonosító: {{orderId}}.",
