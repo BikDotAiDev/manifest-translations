@@ -219,10 +219,10 @@
     "ask": "Ask",
     "olderConversations": "Older Conversations",
 
-    "orderCancellationText": "I would like to cancel - {{productText}} from my order with order ID {{orderId}}.",
-    "orderCancellationAllText": "I would like to cancel all Items from my order with order ID {{orderId}}",
-    "orderReturnText": "I would like to initiate a return and refund for - {{productText}} from my order with order ID {{orderId}}.",
-    "orderReturnAllText": "I would like to initiate a return and refund for all items from my order with order ID {{orderId}}"
+    "orderCancellationText": "I would like to cancel - {{productText}} from my order with the order ID {{orderId}}.",
+    "orderCancellationAllText": "I would like to cancel all Items from my order with the order ID {{orderId}}",
+    "orderReturnText": "I would like to initiate a return and refund for - {{productText}} from my order with the order ID {{orderId}}.",
+    "orderReturnAllText": "I would like to initiate a return and refund for all items from my order with the order ID {{orderId}}"
   },
   "others": {
     "suggestedReplies": {
