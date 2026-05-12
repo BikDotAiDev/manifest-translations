@@ -245,12 +245,9 @@
     "orderFormQuantity": "Antal",
     "orderTrackingYourItems": "Dine varer",
     "orderTrackingShipment": "Forsendelse {{value}}",
+    "orderFormCloseMessage": "Jeg ønsker ikke at indtaste oplysninger.",
     "productSpecialistInputPlaceholder": "Skriv dit spørgsmål her",
     "continueButton": "Klik her for at fortsætte",
-    "olderConversations": "Ældre samtaler",
-    "orderCancellationText": "Jeg vil gerne annullere - {{productText}} fra min ordre med ordre-ID {{orderId}}.",
-    "orderCancellationAllText": "Jeg vil gerne annullere alle varer fra min ordre med ordre-ID {{orderId}}",
-    "orderReturnText": "Jeg vil gerne igangsætte en retur og refusion for - {{productText}} fra min ordre med ordre-ID {{orderId}}.",
-    "orderReturnAllText": "Jeg vil gerne igangsætte en retur og refusion for alle varer fra min ordre med ordre-ID {{orderId}}"
+    "olderConversations": "Ældre samtaler"
   }
 }

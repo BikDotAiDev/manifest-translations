@@ -245,12 +245,9 @@
     "orderFormQuantity": "数量",
     "orderTrackingYourItems": "您的商品",
     "orderTrackingShipment": "货件 {{value}}",
+    "orderFormCloseMessage": "我不想输入详细信息。",
     "productSpecialistInputPlaceholder": "在此输入你的问题",
     "continueButton": "点击此处继续",
-    "olderConversations": "旧对话",
-    "orderCancellationText": "我想取消订单号{{orderId}}中的{{productText}}。",
-    "orderCancellationAllText": "我想取消订单号{{orderId}}中的所有商品",
-    "orderReturnText": "我想对订单号{{orderId}}中的{{productText}}启动退货和退款。",
-    "orderReturnAllText": "我想对订单号{{orderId}}中的所有商品启动退货和退款"
+    "olderConversations": "旧对话"
   }
 }

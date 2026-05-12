@@ -245,12 +245,9 @@
     "orderFormQuantity": "Quantité",
     "orderTrackingYourItems": "Vos articles",
     "orderTrackingShipment": "Expédition {{value}}",
+    "orderFormCloseMessage": "Je ne veux pas entrer de détails.",
     "productSpecialistInputPlaceholder": "Tapez votre question ici",
     "continueButton": "Cliquez ici pour continuer",
-    "olderConversations": "Conversations plus anciennes",
-    "orderCancellationText": "Je souhaite annuler - {{productText}} de ma commande avec le numéro de commande {{orderId}}.",
-    "orderCancellationAllText": "Je souhaite annuler tous les articles de ma commande avec le numéro de commande {{orderId}}",
-    "orderReturnText": "Je souhaite initier un retour et un remboursement pour - {{productText}} de ma commande avec le numéro de commande {{orderId}}.",
-    "orderReturnAllText": "Je souhaite initier un retour et un remboursement pour tous les articles de ma commande avec le numéro de commande {{orderId}}"
+    "olderConversations": "Conversations plus anciennes"
   }
 }

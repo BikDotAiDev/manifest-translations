@@ -245,12 +245,9 @@
     "orderFormQuantity": "Määrä",
     "orderTrackingYourItems": "Tuotteesi",
     "orderTrackingShipment": "Toimitus {{value}}",
+    "orderFormCloseMessage": "En halua syöttää tietoja.",
     "productSpecialistInputPlaceholder": "Kirjoita kysymyksesi tähän",
     "continueButton": "Napsauta jatkaaksesi",
-    "olderConversations": "Vanhemmat keskustelut",
-    "orderCancellationText": "Haluaisin peruuttaa - {{productText}} tilauksestani tilausnumerolla {{orderId}}.",
-    "orderCancellationAllText": "Haluaisin peruuttaa kaikki tuotteet tilauksestani tilausnumerolla {{orderId}}",
-    "orderReturnText": "Haluaisin aloittaa palautuksen ja hyvityksen - {{productText}} tilauksestani tilausnumerolla {{orderId}}.",
-    "orderReturnAllText": "Haluaisin aloittaa palautuksen ja hyvityksen kaikille tuotteille tilauksestani tilausnumerolla {{orderId}}"
+    "olderConversations": "Vanhemmat keskustelut"
   }
 }
