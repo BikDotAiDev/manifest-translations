@@ -245,13 +245,10 @@
     "orderFormQuantity": "数量",
     "orderTrackingYourItems": "あなたのアイテム",
     "orderTrackingShipment": "配送便 {{value}}",
+    "orderFormCloseMessage": "詳細を入力したくありません。",
     "recommendLike": "類似をおすすめ",
     "productSpecialistInputPlaceholder": "ここに質問を入力してください",
     "continueButton": "ここをクリックして続行",
-    "olderConversations": "過去の会話",
-    "orderCancellationText": "注文番号{{orderId}}の注文から{{productText}}をキャンセルしたいです。",
-    "orderCancellationAllText": "注文番号{{orderId}}の注文からすべての商品をキャンセルしたいです",
-    "orderReturnText": "注文番号{{orderId}}の注文から{{productText}}の返品と返金を開始したいです。",
-    "orderReturnAllText": "注文番号{{orderId}}の注文からすべての商品の返品と返金を開始したいです"
+    "olderConversations": "過去の会話"
   }
 }

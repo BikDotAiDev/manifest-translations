@@ -244,13 +244,10 @@
     "orderFormQuantity": "Số lượng",
     "orderTrackingYourItems": "Mặt hàng của bạn",
     "orderTrackingShipment": "Lô hàng {{value}}",
+    "orderFormCloseMessage": "Tôi không muốn nhập thông tin chi tiết.",
     "recommendLike": "Đề xuất tương tự",
     "productSpecialistInputPlaceholder": "Nhập câu hỏi của bạn đây",
     "continueButton": "Nhận vào đây để tiếp tục",
-    "olderConversations": "Cuộc trò chuyện cũ hơn",
-    "orderCancellationText": "Tôi muốn hủy - {{productText}} từ đơn hàng của tôi với mã đơn hàng {{orderId}}.",
-    "orderCancellationAllText": "Tôi muốn hủy tất cả các mặt hàng từ đơn hàng của tôi với mã đơn hàng {{orderId}}",
-    "orderReturnText": "Tôi muốn bắt đầu trả hàng và hoàn tiền cho - {{productText}} từ đơn hàng của tôi với mã đơn hàng {{orderId}}.",
-    "orderReturnAllText": "Tôi muốn bắt đầu trả hàng và hoàn tiền cho tất cả các mặt hàng từ đơn hàng của tôi với mã đơn hàng {{orderId}}"
+    "olderConversations": "Cuộc trò chuyện cũ hơn"
   }
 }

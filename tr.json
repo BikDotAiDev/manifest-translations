@@ -244,13 +244,10 @@
     "orderFormQuantity": "Miktar",
     "orderTrackingYourItems": "Ürünleriniz",
     "orderTrackingShipment": "Gönderi {{value}}",
+    "orderFormCloseMessage": "Ayrıntı girmek istemiyorum.",
     "recommendLike": "Benzerini öner",
     "productSpecialistInputPlaceholder": "Soruğu buraya yazın",
     "continueButton": "Devam etmek için buraya tıklayın",
-    "olderConversations": "Eski sohbetler",
-    "orderCancellationText": "Sipariş numaram {{orderId}} olan siparişimden {{productText}} ürününü iptal etmek istiyorum.",
-    "orderCancellationAllText": "Sipariş numaram {{orderId}} olan siparişimdeki tüm ürünleri iptal etmek istiyorum",
-    "orderReturnText": "Sipariş numaram {{orderId}} olan siparişimden {{productText}} için iade ve geri ödeme başlatmak istiyorum.",
-    "orderReturnAllText": "Sipariş numaram {{orderId}} olan siparişimdeki tüm ürünler için iade ve geri ödeme başlatmak istiyorum"
+    "olderConversations": "Eski sohbetler"
   }
 }

@@ -91,6 +91,7 @@
     "findingYourAnswer": "Finding your answer",
     "typingYourResponse": "Typing your response",
     "orderFormSubHeader": "Enter your details to view your orders",
+    "proceed": "Proceed",
     "orderTrack": "track",
     "orderCancel": "cancel",
     "orderReturn": "return",
@@ -132,6 +133,7 @@
     "orderFormTrackUsingOrderId": "Track using order ID",
     "orderFormForgotOrderId": "Forgot order ID?",
     "orderFormForgotEmailPhone": "Forgot email/phone?",
+    "orderProductSelectionTitle": "Select the product you want to {{useCase}}",
     "orderFormValidOrderIdRequired": "Please enter a valid order ID.",
     "orderFormValidEmailPhoneRequired": "Please enter a valid email address or phone number.",
     "orderFormNoOrdersFoundEmail": "No orders were found for this e-mail. Please try again",
@@ -214,15 +216,11 @@
     "orderFormQuantity": "Quantity",
     "orderTrackingYourItems": "Your items",
     "orderTrackingShipment": "Shipment {{value}}",
+    "orderFormCloseMessage": "I don't want to enter details.",
     "productSpecialistInputPlaceholder": "Type your question here",
     "continueButton": "Click here to continue",
     "ask": "Ask",
-    "olderConversations": "Older Conversations",
-
-    "orderCancellationText": "I would like to cancel - {{productText}} from my order with the order ID {{orderId}}.",
-    "orderCancellationAllText": "I would like to cancel all Items from my order with the order ID {{orderId}}",
-    "orderReturnText": "I would like to initiate a return and refund for - {{productText}} from my order with the order ID {{orderId}}.",
-    "orderReturnAllText": "I would like to initiate a return and refund for all items from my order with the order ID {{orderId}}"
+    "olderConversations": "Older Conversations"
   },
   "others": {
     "suggestedReplies": {
