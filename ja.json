@@ -246,7 +246,8 @@
     "orderTrackingYourItems": "あなたのアイテム",
     "orderTrackingShipment": "配送便 {{value}}",
     "orderFormCloseMessage": "詳細を入力したくありません。",
-    "recommendLike": "類似をおすすめ",
+    "orderFormCloseSelectionMessage": "選択したくない",
+    "recommendLike": "類似をおすすめ"
     "productSpecialistInputPlaceholder": "ここに質問を入力してください",
     "continueButton": "ここをクリックして続行",
     "olderConversations": "過去の会話"

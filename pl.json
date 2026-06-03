@@ -245,7 +245,8 @@
     "orderTrackingYourItems": "Twoje produkty",
     "orderTrackingShipment": "Przesyłka {{value}}",
     "orderFormCloseMessage": "Nie chcę podawać szczegółów.",
-    "productSpecialistInputPlaceholder": "Wpisz tutaj swoje pytanie",
+    "orderFormCloseSelectionMessage": "Nie chcę wybrać",
+    "productSpecialistInputPlaceholder": "Wpisz tutaj swoje pytanie"
     "continueButton": "Kliknij tutaj, aby kontynuować",
     "recommendLike": "Poleć podobne",
     "olderConversations": "Starsze rozmowy"
