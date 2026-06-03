@@ -246,7 +246,8 @@
     "orderTrackingYourItems": "Tuotteesi",
     "orderTrackingShipment": "Toimitus {{value}}",
     "orderFormCloseMessage": "En halua syöttää tietoja.",
-    "productSpecialistInputPlaceholder": "Kirjoita kysymyksesi tähän",
+    "orderFormCloseSelectionMessage": "En halua valita",
+    "productSpecialistInputPlaceholder": "Kirjoita kysymyksesi tähän"
     "continueButton": "Napsauta jatkaaksesi",
     "olderConversations": "Vanhemmat keskustelut"
   }

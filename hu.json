@@ -245,7 +245,8 @@
     "orderTrackingYourItems": "Az Ön cikkei",
     "orderTrackingShipment": "Szállítmány {{value}}",
     "orderFormCloseMessage": "Nem szeretnék adatokat megadni.",
-    "productSpecialistInputPlaceholder": "Írd be a kérdésed itt",
+    "orderFormCloseSelectionMessage": "Nem szeretnék választani",
+    "productSpecialistInputPlaceholder": "Írd be a kérdésed itt"
     "continueButton": "Kattints ide a folyésáttétéshez",
     "recommendLike": "Ajánlj hasonlót",
     "olderConversations": "Régebbi beszélgetések"

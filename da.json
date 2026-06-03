@@ -246,7 +246,8 @@
     "orderTrackingYourItems": "Dine varer",
     "orderTrackingShipment": "Forsendelse {{value}}",
     "orderFormCloseMessage": "Jeg ønsker ikke at indtaste oplysninger.",
-    "productSpecialistInputPlaceholder": "Skriv dit spørgsmål her",
+    "orderFormCloseSelectionMessage": "Jeg ønsker ikke at vælge",
+    "productSpecialistInputPlaceholder": "Skriv dit spørgsmål her"
     "continueButton": "Klik her for at fortsætte",
     "olderConversations": "Ældre samtaler"
   }

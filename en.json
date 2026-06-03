@@ -217,6 +217,7 @@
     "orderTrackingYourItems": "Your items",
     "orderTrackingShipment": "Shipment {{value}}",
     "orderFormCloseMessage": "I don't want to enter details.",
+    "orderFormCloseSelectionMessage": "I don't want to select.",
     "productSpecialistInputPlaceholder": "Type your question here",
     "continueButton": "Click here to continue",
     "ask": "Ask",
