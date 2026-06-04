@@ -33,6 +33,8 @@
     "bannerExitText": "Выход",
     "orderListNeedHelpMessage": "Я отследил свой заказ. У меня есть дополнительные вопросы о моем заказе {{orderId}}",
     "orderListNeedHelpShipmentMessage": "Мне нужна помощь с отправкой {{trackingNumber}} ({{status}}) из заказа {{orderId}}",
+    "orderListCancelOrderMessage": "Я хочу отменить мой заказ, и мой номер заказа {{orderId}}.",
+    "orderListReturnOrderMessage": "Я хочу вернуть мой заказ, и мой номер заказа {{orderId}}.",
     "orderTrack": "отследить",
     "orderCancel": "отменить",
     "orderReturn": "вернуть",
