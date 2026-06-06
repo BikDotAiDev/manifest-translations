@@ -247,7 +247,7 @@
     "orderTrackingShipment": "Forsendelse {{value}}",
     "orderFormCloseMessage": "Jeg ønsker ikke å oppgi detaljer.",
     "orderFormCloseSelectionMessage": "Jeg ønsker ikke å velge",
-    "productSpecialistInputPlaceholder": "Skriv spørsmålet ditt her"
+    "productSpecialistInputPlaceholder": "Skriv spørsmålet ditt her",
     "continueButton": "Klikk her for å fortsette",
     "olderConversations": "Eldre samtaler"
   }

@@ -247,7 +247,7 @@
     "orderTrackingShipment": "Pošiljka {{value}}",
     "orderFormCloseMessage": "Ne želim unositi pojedinosti.",
     "orderFormCloseSelectionMessage": "Ne želim odabrati",
-    "recommendLike": "Preporuči slično"
+    "recommendLike": "Preporuči slično",
     "productSpecialistInputPlaceholder": "Upiši svoje pitanje ovdje",
     "continueButton": "Kliknite ovdje za nastavak",
     "discountCouponText": "Woohoo 🎉 Imate pravo na {{couponTitle}}.",
