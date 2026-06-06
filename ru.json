@@ -16,7 +16,7 @@
     "orderTrackingShipment": "Отправление {{value}}",
     "orderFormCloseMessage": "Я не хочу вводить данные.",
     "orderFormCloseSelectionMessage": "Я не хочу выбирать",
-    "productSpecialistInputPlaceholder": "Напишите свой вопрос здесь"
+    "productSpecialistInputPlaceholder": "Напишите свой вопрос здесь",
     "continueButton": "Нажмите здесь для продолжения",
     "olderConversations": "Старые беседы",
     "searchCountryOrCode": "Поиск страны или кода",
