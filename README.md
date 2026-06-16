@@ -47,3 +47,14 @@ Dynamic values use `{{placeholder}}` syntax (e.g. `{{storeName}}`, `{{collection
 1. Copy `en.json` to a new file named with the appropriate locale code (e.g. `ko.json`).
 2. Translate all string values, keeping JSON keys and `{{placeholder}}` tokens unchanged.
 3. Open a pull request targeting `main`.
+
+## Pre-commit hook
+
+A tracked hook in `.githooks/pre-commit` blocks commits that stage **invalid JSON**
+(a malformed locale breaks the widget's `fetch().json()`) and warns when a staged
+locale is missing keys present in `en.json`. Enable it once per clone (requires
+Node):
+
+```sh
+git config core.hooksPath .githooks
+```
