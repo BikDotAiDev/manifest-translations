@@ -1,0 +1,55 @@
+#!/usr/bin/env sh
+# Pre-commit guard for the translations repo.
+#
+#  1. BLOCKS the commit if any staged *.json is not valid JSON
+#     (a malformed locale file breaks the widget's fetch().json()).
+#  2. WARNS (non-blocking) when a staged locale is missing keys that exist in
+#     en.json — key parity is normally maintained by .github/syncWithEn.js, so
+#     this is informational only.
+#
+# Enable once per clone:  git config core.hooksPath .githooks
+
+# Staged (Added/Copied/Modified) JSON files
+files=$(git diff --cached --name-only --diff-filter=ACM | grep -E '\.json$')
+[ -z "$files" ] && exit 0
+
+fail=0
+for f in $files; do
+  # Validate the STAGED content (what is actually being committed).
+  if ! git show ":$f" | node -e "JSON.parse(require('fs').readFileSync(0,'utf8'))" 2>/dev/null; then
+    echo "✗ Invalid JSON (staged): $f"
+    fail=1
+  fi
+done
+
+if [ "$fail" -ne 0 ]; then
+  echo ""
+  echo "Commit blocked: fix the invalid JSON above."
+  exit 1
+fi
+
+# Non-blocking key-parity warning vs en.json.
+if git cat-file -e :en.json 2>/dev/null; then
+  for f in $files; do
+    case "$f" in
+      en.json | .github/* | home/*) continue ;;
+    esac
+    F="$f" node <<'NODE' || true
+const { execSync } = require('child_process');
+const f = process.env.F;
+try {
+  const en = (JSON.parse(execSync('git show :en.json').toString()).translations) || {};
+  const cur = (JSON.parse(execSync('git show :' + f).toString()).translations) || {};
+  const missing = Object.keys(en).filter((k) => !(k in cur));
+  if (missing.length) {
+    const head = missing.slice(0, 8).join(', ');
+    console.warn(`⚠ ${f}: missing ${missing.length} key(s) vs en.json: ${head}${missing.length > 8 ? '…' : ''}`);
+  }
+} catch (e) {
+  /* ignore — parity is best-effort */
+}
+NODE
+  done
+fi
+
+exit 0

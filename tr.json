@@ -31,6 +31,16 @@
     }
   },
   "translations": {
+    "formFieldRequired": "Bu alan zorunludur.",
+    "formSelectAtLeastOne": "Lütfen en az bir seçenek seçin.",
+    "formValidNumber": "Lütfen geçerli bir sayı girin.",
+    "formValueMin": "Değer en az {{min}} olmalıdır.",
+    "formValueMax": "Değer en fazla {{max}} olmalıdır.",
+    "formSelectCountryCode": "Lütfen bir ülke kodu seçin.",
+    "formSubmitting": "Gönderiliyor…",
+    "formSuccessTitle": "Tamamlandı!",
+    "formSuccessBody": "Yanıtlarınız başarıyla kaydedildi.",
+    "formGenericError": "Bir şeyler ters gitti. Lütfen tekrar deneyin.",
     "AMA": "Bana herhangi bir şey sor",
     "AskYourQuestion": "Sorunu sor",
     "addCommentsHere": "Yorumları buraya ekleyin",

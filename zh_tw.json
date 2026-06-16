@@ -15,6 +15,16 @@
     }
   },
   "translations": {
+    "formFieldRequired": "此欄位為必填。",
+    "formSelectAtLeastOne": "請至少選擇一個選項。",
+    "formValidNumber": "請輸入有效的數字。",
+    "formValueMin": "值不能小於 {{min}}。",
+    "formValueMax": "值不能大於 {{max}}。",
+    "formSelectCountryCode": "請選擇國家/地區代碼。",
+    "formSubmitting": "提交中…",
+    "formSuccessTitle": "全部完成！",
+    "formSuccessBody": "您的回覆已成功儲存。",
+    "formGenericError": "發生錯誤，請重試。",
     "AMA": "問我任何問題",
     "AskYourQuestion": "詢問您的問題",
     "addCommentsHere": "在这里添加评论",

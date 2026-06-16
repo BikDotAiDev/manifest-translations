@@ -31,6 +31,16 @@
     }
   },
   "translations": {
+    "formFieldRequired": "To pole jest wymagane.",
+    "formSelectAtLeastOne": "Wybierz co najmniej jedną opcję.",
+    "formValidNumber": "Wprowadź prawidłową liczbę.",
+    "formValueMin": "Wartość musi wynosić co najmniej {{min}}.",
+    "formValueMax": "Wartość nie może przekraczać {{max}}.",
+    "formSelectCountryCode": "Wybierz kod kraju.",
+    "formSubmitting": "Wysyłanie…",
+    "formSuccessTitle": "Gotowe!",
+    "formSuccessBody": "Twoje odpowiedzi zostały zapisane.",
+    "formGenericError": "Coś poszło nie tak. Spróbuj ponownie.",
     "AMA": "Zapytaj mnie o cokolwiek",
     "AskYourQuestion": "Zadaj swoje pytanie",
     "addCommentsHere": "Dodaj tutaj komentarz",

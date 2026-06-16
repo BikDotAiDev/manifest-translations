@@ -1,5 +1,15 @@
 {
   "translations": {
+    "formFieldRequired": "Это поле обязательно для заполнения.",
+    "formSelectAtLeastOne": "Выберите хотя бы один вариант.",
+    "formValidNumber": "Введите корректное число.",
+    "formValueMin": "Значение должно быть не меньше {{min}}.",
+    "formValueMax": "Значение должно быть не больше {{max}}.",
+    "formSelectCountryCode": "Выберите код страны.",
+    "formSubmitting": "Отправка…",
+    "formSuccessTitle": "Готово!",
+    "formSuccessBody": "Ваши ответы успешно сохранены.",
+    "formGenericError": "Что-то пошло не так. Попробуйте ещё раз.",
     "recommendLike": "Рекомендовать похожее",
     "ask": "Спросить",
     "selectCountryCode": "Выберите код страны",

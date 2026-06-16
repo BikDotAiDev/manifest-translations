@@ -31,6 +31,16 @@
     }
   },
   "translations": {
+    "formFieldRequired": "Trường này là bắt buộc.",
+    "formSelectAtLeastOne": "Vui lòng chọn ít nhất một tùy chọn.",
+    "formValidNumber": "Vui lòng nhập một số hợp lệ.",
+    "formValueMin": "Giá trị phải ít nhất là {{min}}.",
+    "formValueMax": "Giá trị tối đa là {{max}}.",
+    "formSelectCountryCode": "Vui lòng chọn mã quốc gia.",
+    "formSubmitting": "Đang gửi…",
+    "formSuccessTitle": "Hoàn tất!",
+    "formSuccessBody": "Câu trả lời của bạn đã được lưu thành công.",
+    "formGenericError": "Đã xảy ra lỗi. Vui lòng thử lại.",
     "AMA": "Hỏi tôi về bất cứ điều gì",
     "AskYourQuestion": "Đặt câu hỏi của bạn",
     "addCommentsHere": "Thêm comment ở đây",

@@ -31,6 +31,16 @@
     }
   },
   "translations": {
+    "formFieldRequired": "Det här fältet är obligatoriskt.",
+    "formSelectAtLeastOne": "Välj minst ett alternativ.",
+    "formValidNumber": "Ange ett giltigt tal.",
+    "formValueMin": "Värdet måste vara minst {{min}}.",
+    "formValueMax": "Värdet får högst vara {{max}}.",
+    "formSelectCountryCode": "Välj en landskod.",
+    "formSubmitting": "Skickar…",
+    "formSuccessTitle": "Klart!",
+    "formSuccessBody": "Dina svar har sparats.",
+    "formGenericError": "Något gick fel. Försök igen.",
     "AMA": "Fråga mig vad som helst",
     "AskYourQuestion": "Ställ din fråga",
     "addCommentsHere": "Lägg till kommentarer här",
