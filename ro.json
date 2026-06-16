@@ -31,6 +31,16 @@
     }
   },
   "translations": {
+    "formFieldRequired": "Acest câmp este obligatoriu.",
+    "formSelectAtLeastOne": "Selectați cel puțin o opțiune.",
+    "formValidNumber": "Introduceți un număr valid.",
+    "formValueMin": "Valoarea trebuie să fie cel puțin {{min}}.",
+    "formValueMax": "Valoarea trebuie să fie cel mult {{max}}.",
+    "formSelectCountryCode": "Selectați un prefix de țară.",
+    "formSubmitting": "Se trimite…",
+    "formSuccessTitle": "Gata!",
+    "formSuccessBody": "Răspunsurile dvs. au fost salvate.",
+    "formGenericError": "Ceva nu a mers bine. Încercați din nou.",
     "AMA": "Întreabă-mă orice",
     "AskYourQuestion": "Pune-ți întrebarea",
     "addCommentsHere": "Adaugă comentarii aici",

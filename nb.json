@@ -31,6 +31,16 @@
     }
   },
   "translations": {
+    "formFieldRequired": "Dette feltet er påkrevd.",
+    "formSelectAtLeastOne": "Velg minst ett alternativ.",
+    "formValidNumber": "Skriv inn et gyldig tall.",
+    "formValueMin": "Verdien må være minst {{min}}.",
+    "formValueMax": "Verdien kan være høyst {{max}}.",
+    "formSelectCountryCode": "Velg en landskode.",
+    "formSubmitting": "Sender…",
+    "formSuccessTitle": "Ferdig!",
+    "formSuccessBody": "Svarene dine er lagret.",
+    "formGenericError": "Noe gikk galt. Prøv igjen.",
     "AMA": "Spør meg om hva som helst",
     "AskYourQuestion": "Still spørsmålet ditt",
     "addCommentsHere": "Legg til kommentarer her",

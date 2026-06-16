@@ -31,6 +31,16 @@
     }
   },
   "translations": {
+    "formFieldRequired": "Tämä kenttä on pakollinen.",
+    "formSelectAtLeastOne": "Valitse vähintään yksi vaihtoehto.",
+    "formValidNumber": "Anna kelvollinen numero.",
+    "formValueMin": "Arvon on oltava vähintään {{min}}.",
+    "formValueMax": "Arvo saa olla enintään {{max}}.",
+    "formSelectCountryCode": "Valitse maan suuntanumero.",
+    "formSubmitting": "Lähetetään…",
+    "formSuccessTitle": "Valmis!",
+    "formSuccessBody": "Vastauksesi on tallennettu.",
+    "formGenericError": "Jotain meni pieleen. Yritä uudelleen.",
     "AMA": "Kysy minulta mitä tahansa",
     "AskYourQuestion": "Esitä kysymyksesi",
     "addCommentsHere": "Lisää kommentteja tähän",

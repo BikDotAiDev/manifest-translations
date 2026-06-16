@@ -31,6 +31,16 @@
     }
   },
   "translations": {
+    "formFieldRequired": "Ez a mező kötelező.",
+    "formSelectAtLeastOne": "Válasszon legalább egy lehetőséget.",
+    "formValidNumber": "Adjon meg egy érvényes számot.",
+    "formValueMin": "Az értéknek legalább {{min}} kell lennie.",
+    "formValueMax": "Az érték legfeljebb {{max}} lehet.",
+    "formSelectCountryCode": "Válasszon országhívószámot.",
+    "formSubmitting": "Küldés…",
+    "formSuccessTitle": "Kész!",
+    "formSuccessBody": "A válaszait sikeresen mentettük.",
+    "formGenericError": "Hiba történt. Kérjük, próbálja újra.",
     "AMA": "Kérdezz bármit",
     "AskYourQuestion": "Tedd fel a kérdésed",
     "addCommentsHere": "Itt adhatsz hozzá megjegyzéseket",

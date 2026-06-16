@@ -31,6 +31,16 @@
     }
   },
   "translations": {
+    "formFieldRequired": "この項目は必須です。",
+    "formSelectAtLeastOne": "少なくとも1つのオプションを選択してください。",
+    "formValidNumber": "有効な数値を入力してください。",
+    "formValueMin": "値は{{min}}以上である必要があります。",
+    "formValueMax": "値は{{max}}以下である必要があります。",
+    "formSelectCountryCode": "国番号を選択してください。",
+    "formSubmitting": "送信中…",
+    "formSuccessTitle": "完了しました！",
+    "formSuccessBody": "回答が正常に保存されました。",
+    "formGenericError": "問題が発生しました。もう一度お試しください。",
     "AMA": "何でも聞いてください",
     "AskYourQuestion": "質問してください",
     "addCommentsHere": "ここにコメントを追加してください",

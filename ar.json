@@ -15,6 +15,16 @@
     }
   },
   "translations": {
+    "formFieldRequired": "هذا الحقل مطلوب.",
+    "formSelectAtLeastOne": "يرجى اختيار خيار واحد على الأقل.",
+    "formValidNumber": "يرجى إدخال رقم صالح.",
+    "formValueMin": "يجب ألا تقل القيمة عن {{min}}.",
+    "formValueMax": "يجب ألا تزيد القيمة عن {{max}}.",
+    "formSelectCountryCode": "يرجى اختيار رمز الدولة.",
+    "formSubmitting": "جارٍ الإرسال…",
+    "formSuccessTitle": "تم بنجاح!",
+    "formSuccessBody": "تم حفظ إجاباتك بنجاح.",
+    "formGenericError": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
     "AMA": "اسألني عن أي شيء",
     "AskYourQuestion": "اسأل سؤالك",
     "addCommentsHere": "أضف التعليقات هنا",

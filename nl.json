@@ -31,6 +31,16 @@
     }
   },
   "translations": {
+    "formFieldRequired": "Dit veld is verplicht.",
+    "formSelectAtLeastOne": "Selecteer ten minste één optie.",
+    "formValidNumber": "Voer een geldig getal in.",
+    "formValueMin": "De waarde moet minimaal {{min}} zijn.",
+    "formValueMax": "De waarde mag maximaal {{max}} zijn.",
+    "formSelectCountryCode": "Selecteer een landcode.",
+    "formSubmitting": "Bezig met verzenden…",
+    "formSuccessTitle": "Klaar!",
+    "formSuccessBody": "Je antwoorden zijn succesvol opgeslagen.",
+    "formGenericError": "Er is iets misgegaan. Probeer het opnieuw.",
     "AMA": "Vraag me alles",
     "AskYourQuestion": "Stel je vraag",
     "addCommentsHere": "Voeg hier opmerkingen toe",

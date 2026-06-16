@@ -1,6 +1,16 @@
 {
   "welcomeMessageCollectionNamePage": "Ask me anything about the {{collectionName}} collection",
   "translations": {
+    "formFieldRequired": "This field is required.",
+    "formSelectAtLeastOne": "Please select at least one option.",
+    "formValidNumber": "Please enter a valid number.",
+    "formValueMin": "Value must be at least {{min}}.",
+    "formValueMax": "Value must be at most {{max}}.",
+    "formSelectCountryCode": "Please select a country code.",
+    "formSubmitting": "Submitting…",
+    "formSuccessTitle": "All done!",
+    "formSuccessBody": "Your responses have been saved successfully.",
+    "formGenericError": "Something went wrong. Please try again.",
     "viewResultsFromCollection": "View results from this collection",
     "headerGreeting": "Hey, I'm",
     "welcomeMessageHomePage": "Welcome to {{storeName}}! How can I help you today?",
