@@ -258,6 +258,12 @@
     "olderConversations": "Conversații anterioare",
     "orderTrack": "urmări",
     "orderCancel": "anula",
-    "orderReturn": "returna"
+    "orderReturn": "returna",
+    "agentAuthVerifyEmailTitle": "Verifică-ți e-mailul",
+    "agentAuthVerifyPhoneTitle": "Verifică-ți telefonul",
+    "agentAuthEmailPrompt": "Introdu adresa de e-mail pentru a primi un cod de unică folosință.",
+    "agentAuthPhonePrompt": "Introdu numărul de telefon pentru a primi un cod de unică folosință.",
+    "agentAuthSendCode": "Trimite codul",
+    "agentAuthAttemptsRemaining": "{{count}} încercări rămase"
   }
 }

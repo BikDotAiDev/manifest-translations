@@ -259,6 +259,12 @@
     "recommendLike": "Benzerini öner",
     "productSpecialistInputPlaceholder": "Soruğu buraya yazın",
     "continueButton": "Devam etmek için buraya tıklayın",
-    "olderConversations": "Eski sohbetler"
+    "olderConversations": "Eski sohbetler",
+    "agentAuthVerifyEmailTitle": "E-postanızı doğrulayın",
+    "agentAuthVerifyPhoneTitle": "Telefonunuzu doğrulayın",
+    "agentAuthEmailPrompt": "Tek kullanımlık kod almak için e-postanızı girin.",
+    "agentAuthPhonePrompt": "Tek kullanımlık kod almak için telefon numaranızı girin.",
+    "agentAuthSendCode": "Kod gönder",
+    "agentAuthAttemptsRemaining": "{{count}} deneme kaldı"
   }
 }

@@ -259,6 +259,12 @@
     "orderFormCloseSelectionMessage": "En halua valita",
     "productSpecialistInputPlaceholder": "Kirjoita kysymyksesi tähän",
     "continueButton": "Napsauta jatkaaksesi",
-    "olderConversations": "Vanhemmat keskustelut"
+    "olderConversations": "Vanhemmat keskustelut",
+    "agentAuthVerifyEmailTitle": "Vahvista sähköpostiosoitteesi",
+    "agentAuthVerifyPhoneTitle": "Vahvista puhelinnumerosi",
+    "agentAuthEmailPrompt": "Anna sähköpostiosoitteesi saadaksesi kertakäyttökoodin.",
+    "agentAuthPhonePrompt": "Anna puhelinnumerosi saadaksesi kertakäyttökoodin.",
+    "agentAuthSendCode": "Lähetä koodi",
+    "agentAuthAttemptsRemaining": "{{count}} yritystä jäljellä"
   }
 }

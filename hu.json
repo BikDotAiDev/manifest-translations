@@ -259,6 +259,12 @@
     "productSpecialistInputPlaceholder": "Írd be a kérdésed itt",
     "continueButton": "Kattints ide a folyésáttétéshez",
     "recommendLike": "Ajánlj hasonlót",
-    "olderConversations": "Régebbi beszélgetések"
+    "olderConversations": "Régebbi beszélgetések",
+    "agentAuthVerifyEmailTitle": "Erősítse meg e-mail-címét",
+    "agentAuthVerifyPhoneTitle": "Erősítse meg telefonszámát",
+    "agentAuthEmailPrompt": "Adja meg e-mail-címét az egyszeri kód fogadásához.",
+    "agentAuthPhonePrompt": "Adja meg telefonszámát az egyszeri kód fogadásához.",
+    "agentAuthSendCode": "Kód küldése",
+    "agentAuthAttemptsRemaining": "{{count}} próbálkozás maradt"
   }
 }

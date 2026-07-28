@@ -259,6 +259,12 @@
     "orderFormCloseSelectionMessage": "Jeg ønsker ikke at vælge",
     "productSpecialistInputPlaceholder": "Skriv dit spørgsmål her",
     "continueButton": "Klik her for at fortsætte",
-    "olderConversations": "Ældre samtaler"
+    "olderConversations": "Ældre samtaler",
+    "agentAuthVerifyEmailTitle": "Bekræft din e-mail",
+    "agentAuthVerifyPhoneTitle": "Bekræft dit telefonnummer",
+    "agentAuthEmailPrompt": "Indtast din e-mail for at modtage en engangskode.",
+    "agentAuthPhonePrompt": "Indtast dit telefonnummer for at modtage en engangskode.",
+    "agentAuthSendCode": "Send kode",
+    "agentAuthAttemptsRemaining": "{{count}} forsøg tilbage"
   }
 }

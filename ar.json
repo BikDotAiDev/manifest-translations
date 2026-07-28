@@ -243,6 +243,12 @@
     "orderFormCloseSelectionMessage": "لا أريد أن أختار",
     "productSpecialistInputPlaceholder": "اكتب سؤالك هنا",
     "continueButton": "انقر هنا للمتابعة",
-    "olderConversations": "المحادثات الأقدم"
+    "olderConversations": "المحادثات الأقدم",
+    "agentAuthVerifyEmailTitle": "تأكيد بريدك الإلكتروني",
+    "agentAuthVerifyPhoneTitle": "تأكيد رقم هاتفك",
+    "agentAuthEmailPrompt": "أدخل بريدك الإلكتروني لتلقّي رمز لمرة واحدة.",
+    "agentAuthPhonePrompt": "أدخل رقم هاتفك لتلقّي رمز لمرة واحدة.",
+    "agentAuthSendCode": "إرسال الرمز",
+    "agentAuthAttemptsRemaining": "{{count}} محاولة متبقية"
   }
 }

@@ -259,6 +259,12 @@
     "orderFormCloseSelectionMessage": "Não quero selecionar",
     "productSpecialistInputPlaceholder": "Digite sua pergunta aqui",
     "continueButton": "Clique aqui para continuar",
-    "olderConversations": "Conversas anteriores"
+    "olderConversations": "Conversas anteriores",
+    "agentAuthVerifyEmailTitle": "Verifique o seu e-mail",
+    "agentAuthVerifyPhoneTitle": "Verifique o seu telefone",
+    "agentAuthEmailPrompt": "Introduza o seu e-mail para receber um código de utilização única.",
+    "agentAuthPhonePrompt": "Introduza o seu número de telefone para receber um código de utilização única.",
+    "agentAuthSendCode": "Enviar código",
+    "agentAuthAttemptsRemaining": "{{count}} tentativas restantes"
   }
 }

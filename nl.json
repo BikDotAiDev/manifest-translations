@@ -259,6 +259,12 @@
     "orderFormCloseSelectionMessage": "Ik wil niet selecteren",
     "productSpecialistInputPlaceholder": "Typ hier je vraag",
     "continueButton": "Klik hier om door te gaan",
-    "olderConversations": "Oudere gesprekken"
+    "olderConversations": "Oudere gesprekken",
+    "agentAuthVerifyEmailTitle": "Verifieer je e-mail",
+    "agentAuthVerifyPhoneTitle": "Verifieer je telefoon",
+    "agentAuthEmailPrompt": "Voer je e-mailadres in om een eenmalige code te ontvangen.",
+    "agentAuthPhonePrompt": "Voer je telefoonnummer in om een eenmalige code te ontvangen.",
+    "agentAuthSendCode": "Code verzenden",
+    "agentAuthAttemptsRemaining": "{{count}} pogingen over"
   }
 }
