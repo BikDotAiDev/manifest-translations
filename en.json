@@ -231,7 +231,13 @@
     "productSpecialistInputPlaceholder": "Type your question here",
     "continueButton": "Click here to continue",
     "ask": "Ask",
-    "olderConversations": "Older Conversations"
+    "olderConversations": "Older Conversations",
+    "agentAuthVerifyEmailTitle": "Verify your email",
+    "agentAuthVerifyPhoneTitle": "Verify your phone",
+    "agentAuthEmailPrompt": "Enter your email to receive a one-time code.",
+    "agentAuthPhonePrompt": "Enter your phone number to receive a one-time code.",
+    "agentAuthSendCode": "Send code",
+    "agentAuthAttemptsRemaining": "{{count}} attempts remaining"
   },
   "others": {
     "suggestedReplies": {

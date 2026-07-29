@@ -260,6 +260,12 @@
     "recommendLike": "類似をおすすめ",
     "productSpecialistInputPlaceholder": "ここに質問を入力してください",
     "continueButton": "ここをクリックして続行",
-    "olderConversations": "過去の会話"
+    "olderConversations": "過去の会話",
+    "agentAuthVerifyEmailTitle": "メールアドレスを確認",
+    "agentAuthVerifyPhoneTitle": "電話番号を確認",
+    "agentAuthEmailPrompt": "ワンタイムコードを受け取るにはメールアドレスを入力してください。",
+    "agentAuthPhonePrompt": "ワンタイムコードを受け取るには電話番号を入力してください。",
+    "agentAuthSendCode": "コードを送信",
+    "agentAuthAttemptsRemaining": "残り{{count}}回"
   }
 }

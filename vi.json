@@ -259,6 +259,12 @@
     "recommendLike": "Đề xuất tương tự",
     "productSpecialistInputPlaceholder": "Nhập câu hỏi của bạn đây",
     "continueButton": "Nhận vào đây để tiếp tục",
-    "olderConversations": "Cuộc trò chuyện cũ hơn"
+    "olderConversations": "Cuộc trò chuyện cũ hơn",
+    "agentAuthVerifyEmailTitle": "Xác minh email của bạn",
+    "agentAuthVerifyPhoneTitle": "Xác minh điện thoại của bạn",
+    "agentAuthEmailPrompt": "Nhập email của bạn để nhận mã dùng một lần.",
+    "agentAuthPhonePrompt": "Nhập số điện thoại của bạn để nhận mã dùng một lần.",
+    "agentAuthSendCode": "Gửi mã",
+    "agentAuthAttemptsRemaining": "Còn lại {{count}} lần thử"
   }
 }

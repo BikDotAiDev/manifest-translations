@@ -259,6 +259,12 @@
     "orderFormCloseSelectionMessage": "Ich möchte nicht auswählen",
     "productSpecialistInputPlaceholder": "Geben Sie hier Ihre Frage ein",
     "continueButton": "Hier klicken, um fortzufahren",
-    "olderConversations": "Ältere Unterhaltungen"
+    "olderConversations": "Ältere Unterhaltungen",
+    "agentAuthVerifyEmailTitle": "Bestätigen Sie Ihre E-Mail",
+    "agentAuthVerifyPhoneTitle": "Bestätigen Sie Ihre Telefonnummer",
+    "agentAuthEmailPrompt": "Geben Sie Ihre E-Mail ein, um einen Einmalcode zu erhalten.",
+    "agentAuthPhonePrompt": "Geben Sie Ihre Telefonnummer ein, um einen Einmalcode zu erhalten.",
+    "agentAuthSendCode": "Code senden",
+    "agentAuthAttemptsRemaining": "{{count}} Versuche übrig"
   }
 }

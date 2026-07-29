@@ -238,6 +238,12 @@
     "orderTrackingShipment": "貨件 {{value}}",
     "orderFormCloseMessage": "我不想輸入詳細資訊。",
     "orderFormCloseSelectionMessage": "我不想選擇",
-    "olderConversations": "舊對話"
+    "olderConversations": "舊對話",
+    "agentAuthVerifyEmailTitle": "驗證您的電子郵件",
+    "agentAuthVerifyPhoneTitle": "驗證您的電話",
+    "agentAuthEmailPrompt": "輸入您的電子郵件以接收一次性驗證碼。",
+    "agentAuthPhonePrompt": "輸入您的電話號碼以接收一次性驗證碼。",
+    "agentAuthSendCode": "傳送驗證碼",
+    "agentAuthAttemptsRemaining": "剩餘 {{count}} 次嘗試"
   }
 }

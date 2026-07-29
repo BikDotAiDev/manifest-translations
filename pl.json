@@ -259,6 +259,12 @@
     "productSpecialistInputPlaceholder": "Wpisz tutaj swoje pytanie",
     "continueButton": "Kliknij tutaj, aby kontynuować",
     "recommendLike": "Poleć podobne",
-    "olderConversations": "Starsze rozmowy"
+    "olderConversations": "Starsze rozmowy",
+    "agentAuthVerifyEmailTitle": "Zweryfikuj swój e-mail",
+    "agentAuthVerifyPhoneTitle": "Zweryfikuj swój telefon",
+    "agentAuthEmailPrompt": "Wprowadź swój e-mail, aby otrzymać kod jednorazowy.",
+    "agentAuthPhonePrompt": "Wprowadź swój numer telefonu, aby otrzymać kod jednorazowy.",
+    "agentAuthSendCode": "Wyślij kod",
+    "agentAuthAttemptsRemaining": "Pozostało prób: {{count}}"
   }
 }

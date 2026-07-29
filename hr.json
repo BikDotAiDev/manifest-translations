@@ -268,7 +268,13 @@
     "orderReturn": "vratiti",
     "orderFormUnverifiedTrackOrderPrompt": "Prijavite se za {{useCase}} narudžbe",
     "orderFormVerifyTrackOrderPrompt": "Prijavite se za {{useCase}} narudžbe",
-    "orderFormEmailOnlyTitle": "Prijavite se za {{useCase}} narudžbe"
+    "orderFormEmailOnlyTitle": "Prijavite se za {{useCase}} narudžbe",
+    "agentAuthVerifyEmailTitle": "Potvrdite svoju e-poštu",
+    "agentAuthVerifyPhoneTitle": "Potvrdite svoj telefon",
+    "agentAuthEmailPrompt": "Unesite svoju e-poštu za primanje jednokratnog koda.",
+    "agentAuthPhonePrompt": "Unesite svoj telefonski broj za primanje jednokratnog koda.",
+    "agentAuthSendCode": "Pošalji kod",
+    "agentAuthAttemptsRemaining": "Preostalo pokušaja: {{count}}"
   },
   "others": {
     "popUpMessages": {

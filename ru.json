@@ -50,6 +50,12 @@
     "orderReturn": "вернуть",
     "orderFormUnverifiedTrackOrderPrompt": "Войдите, чтобы {{useCase}} ваш заказ",
     "orderFormVerifyTrackOrderPrompt": "Войдите, чтобы {{useCase}} ваш заказ",
-    "orderFormEmailOnlyTitle": "Войдите, чтобы {{useCase}} ваш заказ"
+    "orderFormEmailOnlyTitle": "Войдите, чтобы {{useCase}} ваш заказ",
+    "agentAuthVerifyEmailTitle": "Подтвердите вашу эл. почту",
+    "agentAuthVerifyPhoneTitle": "Подтвердите ваш телефон",
+    "agentAuthEmailPrompt": "Введите адрес эл. почты, чтобы получить одноразовый код.",
+    "agentAuthPhonePrompt": "Введите номер телефона, чтобы получить одноразовый код.",
+    "agentAuthSendCode": "Отправить код",
+    "agentAuthAttemptsRemaining": "Осталось попыток: {{count}}"
   }
 }

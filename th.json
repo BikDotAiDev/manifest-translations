@@ -444,7 +444,13 @@
     "olderConversations": "การสนทนาเก่า",
     "orderTrack": "ติดตาม",
     "orderCancel": "ยกเลิก",
-    "orderReturn": "คืนสินค้า"
+    "orderReturn": "คืนสินค้า",
+    "agentAuthVerifyEmailTitle": "ยืนยันอีเมลของคุณ",
+    "agentAuthVerifyPhoneTitle": "ยืนยันหมายเลขโทรศัพท์ของคุณ",
+    "agentAuthEmailPrompt": "กรอกอีเมลของคุณเพื่อรับรหัสแบบใช้ครั้งเดียว",
+    "agentAuthPhonePrompt": "กรอกหมายเลขโทรศัพท์ของคุณเพื่อรับรหัสแบบใช้ครั้งเดียว",
+    "agentAuthSendCode": "ส่งรหัส",
+    "agentAuthAttemptsRemaining": "เหลืออีก {{count}} ครั้ง"
   },
   "others": {
     "popUpMessages": {

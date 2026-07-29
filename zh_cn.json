@@ -254,6 +254,12 @@
     "orderFormCloseSelectionMessage": "我不想选择",
     "productSpecialistInputPlaceholder": "在此输入你的问题",
     "continueButton": "点击此处继续",
-    "olderConversations": "旧对话"
+    "olderConversations": "旧对话",
+    "agentAuthVerifyEmailTitle": "验证您的邮箱",
+    "agentAuthVerifyPhoneTitle": "验证您的手机",
+    "agentAuthEmailPrompt": "输入您的邮箱以接收一次性验证码。",
+    "agentAuthPhonePrompt": "输入您的手机号以接收一次性验证码。",
+    "agentAuthSendCode": "发送验证码",
+    "agentAuthAttemptsRemaining": "剩余 {{count}} 次尝试"
   }
 }

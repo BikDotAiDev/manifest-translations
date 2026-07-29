@@ -259,6 +259,12 @@
     "recommendLike": "Rekommendera liknande",
     "productSpecialistInputPlaceholder": "Skriv din fråga här",
     "continueButton": "Klicka här för att fortsätta",
-    "olderConversations": "Äldre konversationer"
+    "olderConversations": "Äldre konversationer",
+    "agentAuthVerifyEmailTitle": "Verifiera din e-post",
+    "agentAuthVerifyPhoneTitle": "Verifiera din telefon",
+    "agentAuthEmailPrompt": "Ange din e-post för att få en engångskod.",
+    "agentAuthPhonePrompt": "Ange ditt telefonnummer för att få en engångskod.",
+    "agentAuthSendCode": "Skicka kod",
+    "agentAuthAttemptsRemaining": "{{count}} försök kvar"
   }
 }
