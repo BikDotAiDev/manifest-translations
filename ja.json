@@ -148,7 +148,7 @@
     "orderTrackingContinue": "続ける",
     "orderTrackingTrackItems": "商品を追跡する",
     "orderTrackingSelectOrderTitle": "注文を選択してください",
-    "orderTrackingSelectOrderSubtitle": "追跡したい注文を選択してください",
+    "orderTrackingSelectOrderSubtitle": "{{useCase}}したい注文を選択してください",
     "orderTrackingOrderedOn": "{{value}} に注文",
     "orderFormEmailInvalidFormat": "有効なメールアドレスを入力してください",
     "orderFormVerifyTrackOrderPrompt": "ご注文を{{useCase}}するためにログインしてください",

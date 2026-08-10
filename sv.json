@@ -99,7 +99,7 @@
     "orderTrackingContinue": "Fortsätt",
     "orderTrackingTrackItems": "Spåra artikel(ar)",
     "orderTrackingSelectOrderTitle": "Välj din beställning",
-    "orderTrackingSelectOrderSubtitle": "Välj den beställning du vill spåra",
+    "orderTrackingSelectOrderSubtitle": "Välj den beställning du vill {{useCase}}",
     "orderTrackingOrderedOn": "Beställd den {{value}}",
     "orderFormEmailInvalidFormat": "Ange en giltig e-postadress",
     "orderFormUnverifiedInputPlaceholder": "E-postadress / Telefonnummer / Beställnings-ID",

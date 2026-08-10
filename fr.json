@@ -136,7 +136,7 @@
     "orderTrackingContinue": "Continuer",
     "orderTrackingTrackItems": "Suivre l'article (les articles)",
     "orderTrackingSelectOrderTitle": "Sélectionnez votre commande",
-    "orderTrackingSelectOrderSubtitle": "Sélectionnez la commande que vous souhaitez suivre",
+    "orderTrackingSelectOrderSubtitle": "Sélectionnez la commande que vous souhaitez {{useCase}}",
     "orderTrackingOrderedOn": "Commandé le {{value}}",
     "orderFormEmailInvalidFormat": "Veuillez entrer une adresse e-mail valide",
     "orderFormVerifyTrackOrderPrompt": "Connectez-vous pour {{useCase}} votre commande",

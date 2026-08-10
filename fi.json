@@ -148,7 +148,7 @@
     "orderTrackingContinue": "Jatka",
     "orderTrackingTrackItems": "Seuraa tuote(t)",
     "orderTrackingSelectOrderTitle": "Valitse tilauksesi",
-    "orderTrackingSelectOrderSubtitle": "Valitse tilaus, jota haluat seurata",
+    "orderTrackingSelectOrderSubtitle": "Valitse tilaus, jota haluat {{useCase}}",
     "orderTrackingOrderedOn": "Tilattu {{value}}",
     "orderFormEmailInvalidFormat": "Syötä kelvollinen sähköpostiosoite",
     "orderFormVerifyTrackOrderPrompt": "Kirjaudu sisään {{useCase}}aksesi tilauksesi",

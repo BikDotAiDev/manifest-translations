@@ -99,7 +99,7 @@
     "orderTrackingContinue": "Continuă",
     "orderTrackingTrackItems": "Urmărește articol(ele)",
     "orderTrackingSelectOrderTitle": "Selectează comanda ta",
-    "orderTrackingSelectOrderSubtitle": "Selectați comanda pe care doriți să o urmăriți",
+    "orderTrackingSelectOrderSubtitle": "Selectați comanda pe care doriți să o {{useCase}}ți",
     "orderTrackingOrderedOn": "Comandat pe {{value}}",
     "orderFormEmailInvalidFormat": "Vă rugăm să introduceți o adresă de e-mail validă",
     "orderFormUnverifiedInputPlaceholder": "Adresa de Email / Număr de Telefon / ID Comandă",

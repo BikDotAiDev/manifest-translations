@@ -148,7 +148,7 @@
     "orderTrackingContinue": "Doorgaan",
     "orderTrackingTrackItems": "Artikel(en) volgen",
     "orderTrackingSelectOrderTitle": "Selecteer uw bestelling",
-    "orderTrackingSelectOrderSubtitle": "Selecteer de bestelling die u wilt volgen",
+    "orderTrackingSelectOrderSubtitle": "Selecteer de bestelling die u wilt {{useCase}}",
     "orderTrackingOrderedOn": "Besteld op {{value}}",
     "orderFormEmailInvalidFormat": "Voer een geldig e-mailadres in",
     "orderFormVerifyTrackOrderPrompt": "Log in om je bestelling te {{useCase}}",

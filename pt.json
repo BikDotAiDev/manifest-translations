@@ -148,7 +148,7 @@
     "orderTrackingContinue": "Continuar",
     "orderTrackingTrackItems": "Rastrear item(ns)",
     "orderTrackingSelectOrderTitle": "Selecione seu pedido",
-    "orderTrackingSelectOrderSubtitle": "Selecione o pedido que deseja rastrear",
+    "orderTrackingSelectOrderSubtitle": "Selecione o pedido que deseja {{useCase}}",
     "orderTrackingOrderedOn": "Pedido em {{value}}",
     "orderFormEmailInvalidFormat": "Por favor, insira um endereço de e-mail válido",
     "orderFormVerifyTrackOrderPrompt": "Faça login para {{useCase}} seu pedido",
