@@ -168,7 +168,7 @@
     "orderTrackingContinue": "Continue",
     "orderTrackingTrackItems": "Track item(s)",
     "orderTrackingSelectOrderTitle": "Select your order",
-    "orderTrackingSelectOrderSubtitle": "Select the order you want to track",
+    "orderTrackingSelectOrderSubtitle": "Select the order you want to {{useCase}}",
     "orderTrackingOrderedOn": "Ordered on {{value}}",
     "orderFormEmailInvalidFormat": "Please enter a valid email address",
     "insideOrderTrackingFlow": "You're inside order tracking flow",

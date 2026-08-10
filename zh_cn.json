@@ -143,7 +143,7 @@
     "orderTrackingContinue": "继续",
     "orderTrackingTrackItems": "追踪商品",
     "orderTrackingSelectOrderTitle": "选择您的订单",
-    "orderTrackingSelectOrderSubtitle": "选择您想追踪的订单",
+    "orderTrackingSelectOrderSubtitle": "选择您想{{useCase}}的订单",
     "orderTrackingOrderedOn": "于 {{value}} 下单",
     "orderFormEmailInvalidFormat": "请输入有效的电子邮件地址",
     "orderFormVerifyTrackOrderPrompt": "登录以{{useCase}}您的订单",

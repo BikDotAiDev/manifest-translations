@@ -147,7 +147,7 @@
     "orderTrackingContinue": "Kontynuuj",
     "orderTrackingTrackItems": "Śledź produkt(y)",
     "orderTrackingSelectOrderTitle": "Wybierz swoje zamówienie",
-    "orderTrackingSelectOrderSubtitle": "Wybierz zamówienie, które chcesz śledzić",
+    "orderTrackingSelectOrderSubtitle": "Wybierz zamówienie, które chcesz {{useCase}}",
     "orderTrackingOrderedOn": "Zamówiono dnia {{value}}",
     "orderFormEmailInvalidFormat": "Wprowadź poprawny adres e-mail",
     "orderFormVerifyTrackOrderPrompt": "Zaloguj się, aby {{useCase}} swoje zamówienie",

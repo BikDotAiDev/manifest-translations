@@ -127,7 +127,7 @@
     "orderTrackingContinue": "繼續",
     "orderTrackingTrackItems": "追蹤商品",
     "orderTrackingSelectOrderTitle": "選擇您的訂單",
-    "orderTrackingSelectOrderSubtitle": "選擇您想追蹤的訂單",
+    "orderTrackingSelectOrderSubtitle": "選擇您想{{useCase}}的訂單",
     "orderTrackingOrderedOn": "於 {{value}} 訂購",
     "orderFormEmailInvalidFormat": "請輸入有效的電子郵件地址",
     "orderFormVerifyTrackOrderPrompt": "登入以{{useCase}}您的訂單",

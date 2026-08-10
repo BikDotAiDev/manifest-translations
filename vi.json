@@ -147,7 +147,7 @@
     "orderTrackingContinue": "Tiếp tục",
     "orderTrackingTrackItems": "Theo dõi sản phẩm",
     "orderTrackingSelectOrderTitle": "Chọn đơn hàng của bạn",
-    "orderTrackingSelectOrderSubtitle": "Chọn đơn hàng bạn muốn theo dõi",
+    "orderTrackingSelectOrderSubtitle": "Chọn đơn hàng bạn muốn {{useCase}}",
     "orderTrackingOrderedOn": "Đã đặt vào {{value}}",
     "orderFormEmailInvalidFormat": "Vui lòng nhập địa chỉ email hợp lệ",
     "orderFormVerifyTrackOrderPrompt": "Đăng nhập để {{useCase}} đơn hàng của bạn",

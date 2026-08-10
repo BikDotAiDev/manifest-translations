@@ -148,7 +148,7 @@
     "orderTrackingContinue": "Fortsett",
     "orderTrackingTrackItems": "Spor vare(r)",
     "orderTrackingSelectOrderTitle": "Velg din bestilling",
-    "orderTrackingSelectOrderSubtitle": "Velg bestillingen du vil spore",
+    "orderTrackingSelectOrderSubtitle": "Velg bestillingen du vil {{useCase}}",
     "orderTrackingOrderedOn": "Bestilt den {{value}}",
     "orderFormEmailInvalidFormat": "Vennligst skriv inn en gyldig e-postadresse",
     "orderFormVerifyTrackOrderPrompt": "Logg inn for å {{useCase}} bestillingen din",
