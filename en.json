@@ -210,6 +210,8 @@
     "orderListCancelOrder": "Cancel order",
     "orderListReturnOrder": "Return order",
     "orderListOrderContextMessage": "It's about my order {{orderId}} ({{status}}). Items: {{items}}.",
+    "orderListCancelOrderMessage": "I want to cancel my order {{orderId}} ({{status}}). Items: {{items}}.",
+    "orderListReturnOrderMessage": "I want to return my order {{orderId}} ({{status}}). Items: {{items}}.",
     "orderListNeedHelpMessage": "I tracked my order. I have more enquiry about my order {{orderId}}",
     "orderListNeedHelpShipmentMessage": "I need help with shipment {{trackingNumber}} ({{status}}) from order {{orderId}}",
     "seeOtherPicks": "See our other top picks",
