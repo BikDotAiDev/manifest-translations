@@ -125,6 +125,7 @@
     "orderTrackingLoggedInAs": "以 {{value}} 身份登入",
     "orderTrackingChange": "更改",
     "orderTrackingContinue": "繼續",
+    "orderTrackingSelect": "選擇",
     "orderTrackingTrackItems": "追蹤商品",
     "orderTrackingSelectOrderTitle": "選擇您的訂單",
     "orderTrackingSelectOrderSubtitle": "選擇您想{{useCase}}的訂單",

@@ -146,6 +146,7 @@
     "orderTrackingLoggedInAs": "Accesso come {{value}}",
     "orderTrackingChange": "Cambia",
     "orderTrackingContinue": "Continua",
+    "orderTrackingSelect": "Seleziona",
     "orderTrackingTrackItems": "Traccia articolo/i",
     "orderTrackingSelectOrderTitle": "Seleziona il tuo ordine",
     "orderTrackingSelectOrderSubtitle": "Seleziona l'ordine che vuoi {{useCase}}",

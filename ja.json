@@ -146,6 +146,7 @@
     "orderTrackingLoggedInAs": "{{value}} としてログイン中",
     "orderTrackingChange": "変更",
     "orderTrackingContinue": "続ける",
+    "orderTrackingSelect": "選択",
     "orderTrackingTrackItems": "商品を追跡する",
     "orderTrackingSelectOrderTitle": "注文を選択してください",
     "orderTrackingSelectOrderSubtitle": "{{useCase}}したい注文を選択してください",

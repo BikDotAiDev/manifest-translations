@@ -146,6 +146,7 @@
     "orderTrackingLoggedInAs": "Ingelogd als {{value}}",
     "orderTrackingChange": "Wijzigen",
     "orderTrackingContinue": "Doorgaan",
+    "orderTrackingSelect": "Selecteren",
     "orderTrackingTrackItems": "Artikel(en) volgen",
     "orderTrackingSelectOrderTitle": "Selecteer uw bestelling",
     "orderTrackingSelectOrderSubtitle": "Selecteer de bestelling die u wilt {{useCase}}",

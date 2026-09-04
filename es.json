@@ -130,6 +130,7 @@
     "orderTrackingLoggedInAs": "Conectado como {{value}}",
     "orderTrackingChange": "Cambiar",
     "orderTrackingContinue": "Continuar",
+    "orderTrackingSelect": "Seleccionar",
     "orderTrackingTrackItems": "Rastrear artículo(s)",
     "orderTrackingSelectOrderTitle": "Selecciona tu pedido",
     "orderTrackingSelectOrderSubtitle": "Selecciona el pedido que quieres {{useCase}}",

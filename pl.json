@@ -145,6 +145,7 @@
     "orderTrackingLoggedInAs": "Zalogowany jako {{value}}",
     "orderTrackingChange": "Zmień",
     "orderTrackingContinue": "Kontynuuj",
+    "orderTrackingSelect": "Wybierz",
     "orderTrackingTrackItems": "Śledź produkt(y)",
     "orderTrackingSelectOrderTitle": "Wybierz swoje zamówienie",
     "orderTrackingSelectOrderSubtitle": "Wybierz zamówienie, które chcesz {{useCase}}",

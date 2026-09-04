@@ -146,6 +146,7 @@
     "orderTrackingLoggedInAs": "Logget inn som {{value}}",
     "orderTrackingChange": "Endre",
     "orderTrackingContinue": "Fortsett",
+    "orderTrackingSelect": "Velg",
     "orderTrackingTrackItems": "Spor vare(r)",
     "orderTrackingSelectOrderTitle": "Velg din bestilling",
     "orderTrackingSelectOrderSubtitle": "Velg bestillingen du vil {{useCase}}",

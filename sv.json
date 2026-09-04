@@ -97,6 +97,7 @@
     "orderTrackingLoggedInAs": "Inloggad som {{value}}",
     "orderTrackingChange": "Ändra",
     "orderTrackingContinue": "Fortsätt",
+    "orderTrackingSelect": "Välj",
     "orderTrackingTrackItems": "Spåra artikel(ar)",
     "orderTrackingSelectOrderTitle": "Välj din beställning",
     "orderTrackingSelectOrderSubtitle": "Välj den beställning du vill {{useCase}}",

@@ -145,6 +145,7 @@
     "orderTrackingLoggedInAs": "{{value}} olarak giriş yapıldı",
     "orderTrackingChange": "Değiştir",
     "orderTrackingContinue": "Devam et",
+    "orderTrackingSelect": "Seç",
     "orderTrackingTrackItems": "Ürünü/Ürünleri takip et",
     "orderTrackingSelectOrderTitle": "Siparişinizi seçin",
     "orderTrackingSelectOrderSubtitle": "Takip etmek istediğiniz siparişi seçin",
