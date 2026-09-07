@@ -25,7 +25,7 @@
     "orderTrackingYourItems": "Ваши товары",
     "orderTrackingShipment": "Отправление {{value}}",
     "orderFormCloseMessage": "Я не хочу вводить данные.",
-    "orderFormCloseSelectionMessage": "Я не хочу выбирать",
+    "orderFormCloseSelectionMessage": "Закрываю форму заказа, ничего не выбрав",
     "productSpecialistInputPlaceholder": "Напишите свой вопрос здесь",
     "continueButton": "Нажмите здесь для продолжения",
     "olderConversations": "Старые беседы",

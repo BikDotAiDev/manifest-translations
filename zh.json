@@ -259,7 +259,7 @@
     "orderTrackingYourItems": "您的商品",
     "orderTrackingShipment": "货件 {{value}}",
     "orderFormCloseMessage": "我不想输入详细信息。",
-    "orderFormCloseSelectionMessage": "我不想选择",
+    "orderFormCloseSelectionMessage": "我关闭了订单表单，没有选择任何内容",
     "productSpecialistInputPlaceholder": "在此输入你的问题",
     "continueButton": "点击此处继续",
     "olderConversations": "旧对话",

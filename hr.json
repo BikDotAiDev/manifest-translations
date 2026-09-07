@@ -257,7 +257,7 @@
     "orderTrackingYourItems": "Vaše stavke",
     "orderTrackingShipment": "Pošiljka {{value}}",
     "orderFormCloseMessage": "Ne želim unositi pojedinosti.",
-    "orderFormCloseSelectionMessage": "Ne želim odabrati",
+    "orderFormCloseSelectionMessage": "Zatvaram obrazac narudžbe bez odabira",
     "recommendLike": "Preporuči slično",
     "productSpecialistInputPlaceholder": "Upiši svoje pitanje ovdje",
     "continueButton": "Kliknite ovdje za nastavak",

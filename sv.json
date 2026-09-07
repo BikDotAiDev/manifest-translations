@@ -258,7 +258,7 @@
     "orderTrackingYourItems": "Dina varor",
     "orderTrackingShipment": "Försändelse {{value}}",
     "orderFormCloseMessage": "Jag vill inte ange detaljer.",
-    "orderFormCloseSelectionMessage": "Jag vill inte välja",
+    "orderFormCloseSelectionMessage": "Jag stängde orderformuläret utan att välja något",
     "recommendLike": "Rekommendera liknande",
     "productSpecialistInputPlaceholder": "Skriv din fråga här",
     "continueButton": "Klicka här för att fortsätta",

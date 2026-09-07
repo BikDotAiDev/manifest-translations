@@ -258,7 +258,7 @@
     "orderTrackingYourItems": "Mặt hàng của bạn",
     "orderTrackingShipment": "Lô hàng {{value}}",
     "orderFormCloseMessage": "Tôi không muốn nhập thông tin chi tiết.",
-    "orderFormCloseSelectionMessage": "Tôi không muốn chọn",
+    "orderFormCloseSelectionMessage": "Tôi đã đóng biểu mẫu đơn hàng mà không chọn gì",
     "recommendLike": "Đề xuất tương tự",
     "productSpecialistInputPlaceholder": "Nhập câu hỏi của bạn đây",
     "continueButton": "Nhận vào đây để tiếp tục",

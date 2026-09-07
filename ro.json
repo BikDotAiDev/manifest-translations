@@ -254,7 +254,7 @@
     "orderTrackingYourItems": "Articolele dvs.",
     "orderTrackingShipment": "Expediere {{value}}",
     "orderFormCloseMessage": "Nu vreau să introduc detalii.",
-    "orderFormCloseSelectionMessage": "Nu vreau să selectez",
+    "orderFormCloseSelectionMessage": "Am închis formularul de comandă fără să selectez nimic",
     "recommendLike": "Recomandă similar",
     "productSpecialistInputPlaceholder": "Scrie-ți întrebarea aici",
     "continueButton": "Faceți clic aici pentru a continua",

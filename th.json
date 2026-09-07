@@ -440,7 +440,7 @@
     "orderTrackingYourItems": "สินค้าของคุณ",
     "orderTrackingShipment": "การจัดส่ง {{value}}",
     "orderFormCloseMessage": "ฉันไม่ต้องการกรอกรายละเอียด",
-    "orderFormCloseSelectionMessage": "ฉันไม่อยากเลือก",
+    "orderFormCloseSelectionMessage": "ฉันปิดแบบฟอร์มคำสั่งซื้อโดยไม่ได้เลือกอะไร",
     "recommendLike": "แนะนำที่คล้ายกัน",
     "discountCouponText": "วู้ฮู! 🎉 คุณมีสิทธิ์รับ {{couponTitle}}",
     "getOffer": "รับข้อเสนอ",

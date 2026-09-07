@@ -240,7 +240,7 @@
     "orderTrackingYourItems": "您的商品",
     "orderTrackingShipment": "貨件 {{value}}",
     "orderFormCloseMessage": "我不想輸入詳細資訊。",
-    "orderFormCloseSelectionMessage": "我不想選擇",
+    "orderFormCloseSelectionMessage": "我關閉了訂單表單，沒有選擇任何內容",
     "olderConversations": "舊對話",
     "agentAuthVerifyEmailTitle": "驗證您的電子郵件",
     "agentAuthVerifyPhoneTitle": "驗證您的電話",
