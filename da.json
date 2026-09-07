@@ -259,7 +259,7 @@
     "orderTrackingYourItems": "Dine varer",
     "orderTrackingShipment": "Forsendelse {{value}}",
     "orderFormCloseMessage": "Jeg ønsker ikke at indtaste oplysninger.",
-    "orderFormCloseSelectionMessage": "Jeg ønsker ikke at vælge",
+    "orderFormCloseSelectionMessage": "Jeg lukkede ordreformularen uden at vælge noget",
     "productSpecialistInputPlaceholder": "Skriv dit spørgsmål her",
     "continueButton": "Klik her for at fortsætte",
     "olderConversations": "Ældre samtaler",

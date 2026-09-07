@@ -259,7 +259,7 @@
     "orderTrackingYourItems": "I tuoi articoli",
     "orderTrackingShipment": "Spedizione {{value}}",
     "orderFormCloseMessage": "Non voglio inserire i dettagli.",
-    "orderFormCloseSelectionMessage": "Non voglio selezionare",
+    "orderFormCloseSelectionMessage": "Ho chiuso il modulo dell'ordine senza selezionare nulla",
     "productSpecialistInputPlaceholder": "Scrivi qui la tua domanda",
     "continueButton": "Clicca qui per continuare",
     "olderConversations": "Conversazioni precedenti",
