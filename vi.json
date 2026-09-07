@@ -145,6 +145,7 @@
     "orderTrackingLoggedInAs": "Đã đăng nhập với tư cách {{value}}",
     "orderTrackingChange": "Thay đổi",
     "orderTrackingContinue": "Tiếp tục",
+    "orderTrackingSelect": "Chọn",
     "orderTrackingTrackItems": "Theo dõi sản phẩm",
     "orderTrackingSelectOrderTitle": "Chọn đơn hàng của bạn",
     "orderTrackingSelectOrderSubtitle": "Chọn đơn hàng bạn muốn {{useCase}}",

@@ -141,6 +141,7 @@
     "orderTrackingLoggedInAs": "以 {{value}} 身份登录",
     "orderTrackingChange": "更改",
     "orderTrackingContinue": "继续",
+    "orderTrackingSelect": "选择",
     "orderTrackingTrackItems": "追踪商品",
     "orderTrackingSelectOrderTitle": "选择您的订单",
     "orderTrackingSelectOrderSubtitle": "选择您想{{useCase}}的订单",

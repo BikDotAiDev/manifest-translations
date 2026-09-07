@@ -130,6 +130,7 @@
     "orderTrackingLoggedInAs": "تم تسجيل الدخول بوصفك {{value}}",
     "orderTrackingChange": "تغيير",
     "orderTrackingContinue": "متابعة",
+    "orderTrackingSelect": "اختيار",
     "orderTrackingTrackItems": "تتبع العنصر (العناصر)",
     "orderTrackingSelectOrderTitle": "اختر طلبك",
     "orderTrackingSelectOrderSubtitle": "اختر الطلب الذي تريد تتبعه",

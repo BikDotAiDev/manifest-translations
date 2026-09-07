@@ -97,6 +97,7 @@
     "orderTrackingLoggedInAs": "Bejelentkezve mint {{value}}",
     "orderTrackingChange": "Változtat",
     "orderTrackingContinue": "Folytatás",
+    "orderTrackingSelect": "Kiválasztás",
     "orderTrackingTrackItems": "Tétel(ek) nyomon követése",
     "orderTrackingSelectOrderTitle": "Válassza ki a rendelését",
     "orderTrackingSelectOrderSubtitle": "Válassza ki a nyomon követni kívánt rendelést",

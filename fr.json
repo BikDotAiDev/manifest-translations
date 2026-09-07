@@ -134,6 +134,7 @@
     "orderTrackingLoggedInAs": "Connecté en tant que {{value}}",
     "orderTrackingChange": "Modifier",
     "orderTrackingContinue": "Continuer",
+    "orderTrackingSelect": "Sélectionner",
     "orderTrackingTrackItems": "Suivre l'article (les articles)",
     "orderTrackingSelectOrderTitle": "Sélectionnez votre commande",
     "orderTrackingSelectOrderSubtitle": "Sélectionnez la commande que vous souhaitez {{useCase}}",

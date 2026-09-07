@@ -166,6 +166,7 @@
     "orderTrackingLoggedInAs": "Logged in as {{value}}",
     "orderTrackingChange": "Change",
     "orderTrackingContinue": "Continue",
+    "orderTrackingSelect": "Select",
     "orderTrackingTrackItems": "Track item(s)",
     "orderTrackingSelectOrderTitle": "Select your order",
     "orderTrackingSelectOrderSubtitle": "Select the order you want to {{useCase}}",
