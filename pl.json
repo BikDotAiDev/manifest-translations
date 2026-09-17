@@ -273,6 +273,17 @@
     "agentAuthEmailPrompt": "Wprowadź swój e-mail, aby otrzymać kod jednorazowy.",
     "agentAuthPhonePrompt": "Wprowadź swój numer telefonu, aby otrzymać kod jednorazowy.",
     "agentAuthSendCode": "Wyślij kod",
-    "agentAuthAttemptsRemaining": "Pozostało prób: {{count}}"
+    "agentAuthAttemptsRemaining": "Pozostało prób: {{count}}",
+    "wsTakingLongerThanExpected": "To trwa dłużej niż zwykle…",
+    "wsTakingLongerThanUsual": "Ta odpowiedź trwa dłużej niż zwykle",
+    "wsResponseNotLoadedMessage": "Przepraszamy, nie możemy teraz załadować tej odpowiedzi. Spróbuj ponownie.",
+    "wsUnableToHelpMessage": "Przepraszamy, nie możemy teraz pomóc. Jeśli potrzebujesz natychmiastowej pomocy, skontaktuj się z obsługą klienta.",
+    "wsResponseNotLoadedBanner": "Nie udało się załadować odpowiedzi",
+    "wsMessageNotSentBanner": "Twoja wiadomość nie została wysłana.",
+    "wsTryAgain": "Spróbuj ponownie",
+    "wsResendMessage": "Wyślij wiadomość ponownie",
+    "wsLostConnectionReconnecting": "Utracono połączenie… Ponowne łączenie…",
+    "wsConnectionFailed": "Coś poszło nie tak.",
+    "wsReload": "Odśwież"
   }
 }

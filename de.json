@@ -273,6 +273,17 @@
     "agentAuthEmailPrompt": "Geben Sie Ihre E-Mail ein, um einen Einmalcode zu erhalten.",
     "agentAuthPhonePrompt": "Geben Sie Ihre Telefonnummer ein, um einen Einmalcode zu erhalten.",
     "agentAuthSendCode": "Code senden",
-    "agentAuthAttemptsRemaining": "{{count}} Versuche übrig"
+    "agentAuthAttemptsRemaining": "{{count}} Versuche übrig",
+    "wsTakingLongerThanExpected": "Dauert länger als erwartet…",
+    "wsTakingLongerThanUsual": "Diese Anfrage dauert länger als gewöhnlich",
+    "wsResponseNotLoadedMessage": "Es tut mir leid, ich kann diese Antwort gerade nicht laden. Bitte versuchen Sie es erneut.",
+    "wsUnableToHelpMessage": "Es tut mir leid, ich kann Ihnen gerade nicht weiterhelfen. Wenn Sie sofort Unterstützung benötigen, wenden Sie sich bitte an den Kundendienst.",
+    "wsResponseNotLoadedBanner": "Ihre Antwort konnte nicht geladen werden",
+    "wsMessageNotSentBanner": "Ihre Nachricht wurde nicht gesendet.",
+    "wsTryAgain": "Erneut versuchen",
+    "wsResendMessage": "Nachricht erneut senden",
+    "wsLostConnectionReconnecting": "Verbindung verloren… Verbindung wird wiederhergestellt…",
+    "wsConnectionFailed": "Etwas ist schiefgelaufen.",
+    "wsReload": "Neu laden"
   }
 }

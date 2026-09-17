@@ -273,6 +273,17 @@
     "agentAuthEmailPrompt": "Anna sähköpostiosoitteesi saadaksesi kertakäyttökoodin.",
     "agentAuthPhonePrompt": "Anna puhelinnumerosi saadaksesi kertakäyttökoodin.",
     "agentAuthSendCode": "Lähetä koodi",
-    "agentAuthAttemptsRemaining": "{{count}} yritystä jäljellä"
+    "agentAuthAttemptsRemaining": "{{count}} yritystä jäljellä",
+    "wsTakingLongerThanExpected": "Tämä kestää odotettua kauemmin…",
+    "wsTakingLongerThanUsual": "Tämä vastaus kestää tavallista kauemmin",
+    "wsResponseNotLoadedMessage": "Valitettavasti en voi ladata tätä vastausta juuri nyt. Yritä uudelleen.",
+    "wsUnableToHelpMessage": "Valitettavasti en voi auttaa sinua juuri nyt. Jos tarvitset välitöntä tukea, ota yhteyttä asiakaspalveluun.",
+    "wsResponseNotLoadedBanner": "Vastaustasi ei voitu ladata",
+    "wsMessageNotSentBanner": "Viestiäsi ei lähetetty.",
+    "wsTryAgain": "Yritä uudelleen",
+    "wsResendMessage": "Lähetä viesti uudelleen",
+    "wsLostConnectionReconnecting": "Yhteys katkesi… Yhdistetään uudelleen…",
+    "wsConnectionFailed": "Jotain meni pieleen.",
+    "wsReload": "Lataa uudelleen"
   }
 }

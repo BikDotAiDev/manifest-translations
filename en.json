@@ -244,7 +244,18 @@
     "agentAuthEmailPrompt": "Enter your email to receive a one-time code.",
     "agentAuthPhonePrompt": "Enter your phone number to receive a one-time code.",
     "agentAuthSendCode": "Send code",
-    "agentAuthAttemptsRemaining": "{{count}} attempts remaining"
+    "agentAuthAttemptsRemaining": "{{count}} attempts remaining",
+    "wsTakingLongerThanExpected": "Taking longer than expected…",
+    "wsTakingLongerThanUsual": "This one is taking longer than usual",
+    "wsResponseNotLoadedMessage": "I'm sorry I'm unable to load this response right now. Please try again.",
+    "wsUnableToHelpMessage": "I'm sorry I'm unable help you right now. If you need immediate support please reach out to customer support.",
+    "wsResponseNotLoadedBanner": "Your response could not be loaded",
+    "wsMessageNotSentBanner": "Your message was not sent.",
+    "wsTryAgain": "Try again",
+    "wsResendMessage": "Resend message",
+    "wsLostConnectionReconnecting": "Lost connection… Trying to re-connect…",
+    "wsConnectionFailed": "Something went wrong.",
+    "wsReload": "Reload"
   },
   "others": {
     "suggestedReplies": {

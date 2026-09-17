@@ -272,6 +272,17 @@
     "agentAuthEmailPrompt": "Introdu adresa de e-mail pentru a primi un cod de unică folosință.",
     "agentAuthPhonePrompt": "Introdu numărul de telefon pentru a primi un cod de unică folosință.",
     "agentAuthSendCode": "Trimite codul",
-    "agentAuthAttemptsRemaining": "{{count}} încercări rămase"
+    "agentAuthAttemptsRemaining": "{{count}} încercări rămase",
+    "wsTakingLongerThanExpected": "Durează mai mult decât de obicei…",
+    "wsTakingLongerThanUsual": "Acest răspuns durează mai mult decât de obicei",
+    "wsResponseNotLoadedMessage": "Ne pare rău, nu putem încărca acest răspuns momentan. Încercați din nou.",
+    "wsUnableToHelpMessage": "Ne pare rău, nu vă putem ajuta momentan. Dacă aveți nevoie de asistență imediată, contactați serviciul clienți.",
+    "wsResponseNotLoadedBanner": "Răspunsul dvs. nu a putut fi încărcat",
+    "wsMessageNotSentBanner": "Mesajul dvs. nu a fost trimis.",
+    "wsTryAgain": "Încercați din nou",
+    "wsResendMessage": "Retrimiteți mesajul",
+    "wsLostConnectionReconnecting": "Conexiune pierdută… Se reconectează…",
+    "wsConnectionFailed": "Ceva nu a mers bine.",
+    "wsReload": "Reîncărcați"
   }
 }

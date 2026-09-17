@@ -459,7 +459,18 @@
     "agentAuthEmailPrompt": "กรอกอีเมลของคุณเพื่อรับรหัสแบบใช้ครั้งเดียว",
     "agentAuthPhonePrompt": "กรอกหมายเลขโทรศัพท์ของคุณเพื่อรับรหัสแบบใช้ครั้งเดียว",
     "agentAuthSendCode": "ส่งรหัส",
-    "agentAuthAttemptsRemaining": "เหลืออีก {{count}} ครั้ง"
+    "agentAuthAttemptsRemaining": "เหลืออีก {{count}} ครั้ง",
+    "wsTakingLongerThanExpected": "ใช้เวลานานกว่าที่คาดไว้…",
+    "wsTakingLongerThanUsual": "คำตอบนี้ใช้เวลานานกว่าปกติ",
+    "wsResponseNotLoadedMessage": "ขออภัย ขณะนี้ไม่สามารถโหลดคำตอบนี้ได้ กรุณาลองใหม่อีกครั้ง",
+    "wsUnableToHelpMessage": "ขออภัย ขณะนี้ไม่สามารถช่วยเหลือคุณได้ หากต้องการความช่วยเหลือด่วน โปรดติดต่อฝ่ายบริการลูกค้า",
+    "wsResponseNotLoadedBanner": "ไม่สามารถโหลดคำตอบของคุณได้",
+    "wsMessageNotSentBanner": "ข้อความของคุณไม่ได้ถูกส่ง",
+    "wsTryAgain": "ลองใหม่อีกครั้ง",
+    "wsResendMessage": "ส่งข้อความอีกครั้ง",
+    "wsLostConnectionReconnecting": "การเชื่อมต่อขาดหาย… กำลังเชื่อมต่อใหม่…",
+    "wsConnectionFailed": "เกิดข้อผิดพลาด",
+    "wsReload": "โหลดใหม่"
   },
   "others": {
     "popUpMessages": {

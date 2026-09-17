@@ -273,6 +273,17 @@
     "agentAuthEmailPrompt": "Indtast din e-mail for at modtage en engangskode.",
     "agentAuthPhonePrompt": "Indtast dit telefonnummer for at modtage en engangskode.",
     "agentAuthSendCode": "Send kode",
-    "agentAuthAttemptsRemaining": "{{count}} forsøg tilbage"
+    "agentAuthAttemptsRemaining": "{{count}} forsøg tilbage",
+    "wsTakingLongerThanExpected": "Dette tager længere tid end forventet…",
+    "wsTakingLongerThanUsual": "Dette svar tager længere tid end normalt",
+    "wsResponseNotLoadedMessage": "Beklager, jeg kan ikke indlæse dette svar lige nu. Prøv igen.",
+    "wsUnableToHelpMessage": "Beklager, jeg kan ikke hjælpe dig lige nu. Hvis du har brug for øjeblikkelig hjælp, bedes du kontakte kundeservice.",
+    "wsResponseNotLoadedBanner": "Dit svar kunne ikke indlæses",
+    "wsMessageNotSentBanner": "Din besked blev ikke sendt.",
+    "wsTryAgain": "Prøv igen",
+    "wsResendMessage": "Send besked igen",
+    "wsLostConnectionReconnecting": "Mistede forbindelsen… Genopretter forbindelse…",
+    "wsConnectionFailed": "Noget gik galt.",
+    "wsReload": "Genindlæs"
   }
 }
