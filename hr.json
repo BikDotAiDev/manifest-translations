@@ -266,6 +266,8 @@
     "orderTrackingYourItems": "Vaše stavke",
     "orderTrackingShipment": "Pošiljka {{value}}",
     "orderFormCloseMessage": "Ne želim unositi pojedinosti.",
+    "orderFormCloseNoOrderFoundMessage": "Unio sam svoje podatke, ali nije pronađena nijedna narudžba.",
+    "orderFormCloseOtpFailedMessage": "Unio sam svoje podatke, ali nisam mogao dovršiti OTP provjeru.",
     "orderFormCloseSelectionMessage": "Zatvaram obrazac narudžbe bez odabira",
     "recommendLike": "Preporuči slično",
     "productSpecialistInputPlaceholder": "Upiši svoje pitanje ovdje",

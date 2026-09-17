@@ -446,6 +446,8 @@
     "orderTrackingYourItems": "สินค้าของคุณ",
     "orderTrackingShipment": "การจัดส่ง {{value}}",
     "orderFormCloseMessage": "ฉันไม่ต้องการกรอกรายละเอียด",
+    "orderFormCloseNoOrderFoundMessage": "ฉันกรอกรายละเอียดแล้ว แต่ไม่พบคำสั่งซื้อที่ตรงกัน",
+    "orderFormCloseOtpFailedMessage": "ฉันกรอกรายละเอียดแล้ว แต่ยืนยันรหัส OTP ไม่สำเร็จ",
     "orderFormCloseSelectionMessage": "ฉันปิดแบบฟอร์มคำสั่งซื้อโดยไม่ได้เลือกอะไร",
     "recommendLike": "แนะนำที่คล้ายกัน",
     "discountCouponText": "วู้ฮู! 🎉 คุณมีสิทธิ์รับ {{couponTitle}}",

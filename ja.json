@@ -264,6 +264,8 @@
     "orderTrackingYourItems": "あなたのアイテム",
     "orderTrackingShipment": "配送便 {{value}}",
     "orderFormCloseMessage": "詳細を入力したくありません。",
+    "orderFormCloseNoOrderFoundMessage": "詳細を入力しましたが、該当する注文が見つかりませんでした。",
+    "orderFormCloseOtpFailedMessage": "詳細を入力しましたが、OTP認証を完了できませんでした。",
     "orderFormCloseSelectionMessage": "注文フォームを何も選ばずに閉じました",
     "recommendLike": "類似をおすすめ",
     "productSpecialistInputPlaceholder": "ここに質問を入力してください",

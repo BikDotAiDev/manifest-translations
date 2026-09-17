@@ -264,6 +264,8 @@
     "orderTrackingYourItems": "Tuotteesi",
     "orderTrackingShipment": "Toimitus {{value}}",
     "orderFormCloseMessage": "En halua syöttää tietoja.",
+    "orderFormCloseNoOrderFoundMessage": "Syötin tietoni, mutta niillä ei löytynyt yhtään tilausta.",
+    "orderFormCloseOtpFailedMessage": "Syötin tietoni, mutta en saanut OTP-vahvistusta valmiiksi.",
     "orderFormCloseSelectionMessage": "Suljin tilauslomakkeen valitsematta mitään",
     "productSpecialistInputPlaceholder": "Kirjoita kysymyksesi tähän",
     "continueButton": "Napsauta jatkaaksesi",

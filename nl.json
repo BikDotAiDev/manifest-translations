@@ -264,6 +264,8 @@
     "orderTrackingYourItems": "Uw artikelen",
     "orderTrackingShipment": "Verzending {{value}}",
     "orderFormCloseMessage": "Ik wil geen details invoeren.",
+    "orderFormCloseNoOrderFoundMessage": "Ik heb mijn gegevens ingevoerd, maar er is geen bestelling gevonden.",
+    "orderFormCloseOtpFailedMessage": "Ik heb mijn gegevens ingevoerd, maar kon de OTP-verificatie niet voltooien.",
     "orderFormCloseSelectionMessage": "Ik heb het bestelformulier gesloten zonder iets te selecteren",
     "productSpecialistInputPlaceholder": "Typ hier je vraag",
     "continueButton": "Klik hier om door te gaan",

@@ -263,6 +263,8 @@
     "orderTrackingYourItems": "Dina varor",
     "orderTrackingShipment": "Försändelse {{value}}",
     "orderFormCloseMessage": "Jag vill inte ange detaljer.",
+    "orderFormCloseNoOrderFoundMessage": "Jag angav mina uppgifter, men ingen order hittades.",
+    "orderFormCloseOtpFailedMessage": "Jag angav mina uppgifter, men kunde inte slutföra OTP-verifieringen.",
     "orderFormCloseSelectionMessage": "Jag stängde orderformuläret utan att välja något",
     "recommendLike": "Rekommendera liknande",
     "productSpecialistInputPlaceholder": "Skriv din fråga här",

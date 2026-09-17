@@ -264,6 +264,8 @@
     "orderTrackingYourItems": "您的商品",
     "orderTrackingShipment": "货件 {{value}}",
     "orderFormCloseMessage": "我不想输入详细信息。",
+    "orderFormCloseNoOrderFoundMessage": "我输入了我的信息，但没有找到相应的订单。",
+    "orderFormCloseOtpFailedMessage": "我输入了我的信息，但未能完成 OTP 验证。",
     "orderFormCloseSelectionMessage": "我关闭了订单表单，没有选择任何内容",
     "productSpecialistInputPlaceholder": "在此输入你的问题",
     "continueButton": "点击此处继续",

@@ -248,6 +248,8 @@
     "orderTrackingYourItems": "عناصرك",
     "orderTrackingShipment": "الشحنة {{value}}",
     "orderFormCloseMessage": "لا أريد إدخال التفاصيل.",
+    "orderFormCloseNoOrderFoundMessage": "أدخلت بياناتي، لكن لم يُعثر على أي طلب مطابق.",
+    "orderFormCloseOtpFailedMessage": "أدخلت بياناتي، لكن لم أتمكن من إكمال التحقق برمز OTP.",
     "orderFormCloseSelectionMessage": "أغلقت نموذج الطلب دون اختيار أي شيء",
     "productSpecialistInputPlaceholder": "اكتب سؤالك هنا",
     "continueButton": "انقر هنا للمتابعة",

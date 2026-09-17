@@ -263,6 +263,8 @@
     "orderTrackingYourItems": "Ürünleriniz",
     "orderTrackingShipment": "Gönderi {{value}}",
     "orderFormCloseMessage": "Ayrıntı girmek istemiyorum.",
+    "orderFormCloseNoOrderFoundMessage": "Bilgilerimi girdim ama eşleşen bir sipariş bulunamadı.",
+    "orderFormCloseOtpFailedMessage": "Bilgilerimi girdim ama OTP doğrulamasını tamamlayamadım.",
     "orderFormCloseSelectionMessage": "Sipariş formunu hiçbir şey seçmeden kapattım",
     "recommendLike": "Benzerini öner",
     "productSpecialistInputPlaceholder": "Soruğu buraya yazın",

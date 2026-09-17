@@ -259,6 +259,8 @@
     "orderTrackingYourItems": "Articolele dvs.",
     "orderTrackingShipment": "Expediere {{value}}",
     "orderFormCloseMessage": "Nu vreau să introduc detalii.",
+    "orderFormCloseNoOrderFoundMessage": "Am introdus datele, dar nu a fost găsită nicio comandă.",
+    "orderFormCloseOtpFailedMessage": "Am introdus datele, dar nu am putut finaliza verificarea OTP.",
     "orderFormCloseSelectionMessage": "Am închis formularul de comandă fără să selectez nimic",
     "recommendLike": "Recomandă similar",
     "productSpecialistInputPlaceholder": "Scrie-ți întrebarea aici",
