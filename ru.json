@@ -34,6 +34,8 @@
     "orderTrackingYourItems": "Ваши товары",
     "orderTrackingShipment": "Отправление {{value}}",
     "orderFormCloseMessage": "Я не хочу вводить данные.",
+    "orderFormCloseNoOrderFoundMessage": "Данные введены, но заказ по ним не найден.",
+    "orderFormCloseOtpFailedMessage": "Данные введены, но пройти проверку по коду OTP не удалось.",
     "orderFormCloseSelectionMessage": "Закрываю форму заказа, ничего не выбрав",
     "productSpecialistInputPlaceholder": "Напишите свой вопрос здесь",
     "continueButton": "Нажмите здесь для продолжения",

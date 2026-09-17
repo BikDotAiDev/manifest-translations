@@ -252,6 +252,8 @@
     "orderTrackingYourItems": "Vos articles",
     "orderTrackingShipment": "Expédition {{value}}",
     "orderFormCloseMessage": "Je ne veux pas entrer de détails.",
+    "orderFormCloseNoOrderFoundMessage": "J'ai saisi mes informations, mais aucune commande n'a été trouvée.",
+    "orderFormCloseOtpFailedMessage": "J'ai saisi mes informations, mais je n'ai pas pu terminer la vérification OTP.",
     "orderFormCloseSelectionMessage": "J'ai fermé le formulaire de commande sans rien sélectionner",
     "productSpecialistInputPlaceholder": "Tapez votre question ici",
     "continueButton": "Cliquez ici pour continuer",

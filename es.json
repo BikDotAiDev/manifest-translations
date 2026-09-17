@@ -248,6 +248,8 @@
     "orderTrackingYourItems": "Tus artículos",
     "orderTrackingShipment": "Envío {{value}}",
     "orderFormCloseMessage": "No quiero ingresar detalles.",
+    "orderFormCloseNoOrderFoundMessage": "Ingresé mis datos, pero no se encontró ningún pedido.",
+    "orderFormCloseOtpFailedMessage": "Ingresé mis datos, pero no pude completar la verificación con el código OTP.",
     "orderFormCloseSelectionMessage": "Cerré el formulario de pedido sin seleccionar nada",
     "productSpecialistInputPlaceholder": "Escribe tu pregunta aquí",
     "continueButton": "Haz clic aquí para continuar",

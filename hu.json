@@ -263,6 +263,8 @@
     "orderTrackingYourItems": "Az Ön cikkei",
     "orderTrackingShipment": "Szállítmány {{value}}",
     "orderFormCloseMessage": "Nem szeretnék adatokat megadni.",
+    "orderFormCloseNoOrderFoundMessage": "Megadtam az adataimat, de nem található hozzájuk rendelés.",
+    "orderFormCloseOtpFailedMessage": "Megadtam az adataimat, de nem tudtam befejezni az OTP-ellenőrzést.",
     "orderFormCloseSelectionMessage": "Bezártam a megrendelési űrlapot anélkül, hogy bármit kiválasztottam volna",
     "productSpecialistInputPlaceholder": "Írd be a kérdésed itt",
     "continueButton": "Kattints ide a folyésáttétéshez",

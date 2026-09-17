@@ -263,6 +263,8 @@
     "orderTrackingYourItems": "Mặt hàng của bạn",
     "orderTrackingShipment": "Lô hàng {{value}}",
     "orderFormCloseMessage": "Tôi không muốn nhập thông tin chi tiết.",
+    "orderFormCloseNoOrderFoundMessage": "Tôi đã nhập thông tin nhưng không tìm thấy đơn hàng nào.",
+    "orderFormCloseOtpFailedMessage": "Tôi đã nhập thông tin nhưng không hoàn tất được xác minh OTP.",
     "orderFormCloseSelectionMessage": "Tôi đã đóng biểu mẫu đơn hàng mà không chọn gì",
     "recommendLike": "Đề xuất tương tự",
     "productSpecialistInputPlaceholder": "Nhập câu hỏi của bạn đây",
