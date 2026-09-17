@@ -275,6 +275,17 @@
     "agentAuthEmailPrompt": "Ange din e-post för att få en engångskod.",
     "agentAuthPhonePrompt": "Ange ditt telefonnummer för att få en engångskod.",
     "agentAuthSendCode": "Skicka kod",
-    "agentAuthAttemptsRemaining": "{{count}} försök kvar"
+    "agentAuthAttemptsRemaining": "{{count}} försök kvar",
+    "wsTakingLongerThanExpected": "Det tar längre tid än väntat…",
+    "wsTakingLongerThanUsual": "Det här svaret tar längre tid än vanligt",
+    "wsResponseNotLoadedMessage": "Tyvärr kan jag inte läsa in det här svaret just nu. Försök igen.",
+    "wsUnableToHelpMessage": "Tyvärr kan jag inte hjälpa dig just nu. Om du behöver omedelbar hjälp, kontakta kundtjänst.",
+    "wsResponseNotLoadedBanner": "Ditt svar kunde inte läsas in",
+    "wsMessageNotSentBanner": "Ditt meddelande skickades inte.",
+    "wsTryAgain": "Försök igen",
+    "wsResendMessage": "Skicka meddelandet igen",
+    "wsLostConnectionReconnecting": "Anslutningen bröts… Återansluter…",
+    "wsConnectionFailed": "Något gick fel.",
+    "wsReload": "Ladda om"
   }
 }

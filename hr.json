@@ -287,7 +287,18 @@
     "agentAuthEmailPrompt": "Unesite svoju e-poštu za primanje jednokratnog koda.",
     "agentAuthPhonePrompt": "Unesite svoj telefonski broj za primanje jednokratnog koda.",
     "agentAuthSendCode": "Pošalji kod",
-    "agentAuthAttemptsRemaining": "Preostalo pokušaja: {{count}}"
+    "agentAuthAttemptsRemaining": "Preostalo pokušaja: {{count}}",
+    "wsTakingLongerThanExpected": "Ovo traje dulje nego što se očekivalo…",
+    "wsTakingLongerThanUsual": "Ovaj odgovor traje dulje nego inače",
+    "wsResponseNotLoadedMessage": "Nažalost, trenutno ne mogu učitati ovaj odgovor. Pokušajte ponovno.",
+    "wsUnableToHelpMessage": "Nažalost, trenutno vam ne mogu pomoći. Ako vam je potrebna hitna podrška, obratite se korisničkoj podršci.",
+    "wsResponseNotLoadedBanner": "Vaš odgovor nije bilo moguće učitati",
+    "wsMessageNotSentBanner": "Vaša poruka nije poslana.",
+    "wsTryAgain": "Pokušajte ponovno",
+    "wsResendMessage": "Ponovno pošalji poruku",
+    "wsLostConnectionReconnecting": "Veza je izgubljena… Ponovno povezivanje…",
+    "wsConnectionFailed": "Nešto je pošlo po zlu.",
+    "wsReload": "Ponovno učitaj"
   },
   "others": {
     "popUpMessages": {

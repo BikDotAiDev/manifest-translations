@@ -259,6 +259,17 @@
     "agentAuthEmailPrompt": "أدخل بريدك الإلكتروني لتلقّي رمز لمرة واحدة.",
     "agentAuthPhonePrompt": "أدخل رقم هاتفك لتلقّي رمز لمرة واحدة.",
     "agentAuthSendCode": "إرسال الرمز",
-    "agentAuthAttemptsRemaining": "{{count}} محاولة متبقية"
+    "agentAuthAttemptsRemaining": "{{count}} محاولة متبقية",
+    "wsTakingLongerThanExpected": "يستغرق وقتًا أطول من المتوقع…",
+    "wsTakingLongerThanUsual": "يستغرق هذا الرد وقتًا أطول من المعتاد",
+    "wsResponseNotLoadedMessage": "عذرًا، لا يمكنني تحميل هذا الرد الآن. يرجى المحاولة مرة أخرى.",
+    "wsUnableToHelpMessage": "عذرًا، لا يمكنني مساعدتك الآن. إذا كنت بحاجة إلى دعم فوري، يرجى التواصل مع خدمة العملاء.",
+    "wsResponseNotLoadedBanner": "تعذر تحميل ردك",
+    "wsMessageNotSentBanner": "لم يتم إرسال رسالتك.",
+    "wsTryAgain": "حاول مرة أخرى",
+    "wsResendMessage": "إعادة إرسال الرسالة",
+    "wsLostConnectionReconnecting": "انقطع الاتصال… جارٍ إعادة الاتصال…",
+    "wsConnectionFailed": "حدث خطأ ما.",
+    "wsReload": "إعادة التحميل"
   }
 }

@@ -275,6 +275,17 @@
     "agentAuthEmailPrompt": "Nhập email của bạn để nhận mã dùng một lần.",
     "agentAuthPhonePrompt": "Nhập số điện thoại của bạn để nhận mã dùng một lần.",
     "agentAuthSendCode": "Gửi mã",
-    "agentAuthAttemptsRemaining": "Còn lại {{count}} lần thử"
+    "agentAuthAttemptsRemaining": "Còn lại {{count}} lần thử",
+    "wsTakingLongerThanExpected": "Việc này đang mất nhiều thời gian hơn dự kiến…",
+    "wsTakingLongerThanUsual": "Câu trả lời này đang mất nhiều thời gian hơn bình thường",
+    "wsResponseNotLoadedMessage": "Xin lỗi, hiện tại tôi không thể tải câu trả lời này. Vui lòng thử lại.",
+    "wsUnableToHelpMessage": "Xin lỗi, hiện tại tôi không thể giúp bạn. Nếu bạn cần hỗ trợ ngay lập tức, vui lòng liên hệ bộ phận chăm sóc khách hàng.",
+    "wsResponseNotLoadedBanner": "Không thể tải câu trả lời của bạn",
+    "wsMessageNotSentBanner": "Tin nhắn của bạn chưa được gửi.",
+    "wsTryAgain": "Thử lại",
+    "wsResendMessage": "Gửi lại tin nhắn",
+    "wsLostConnectionReconnecting": "Mất kết nối… Đang kết nối lại…",
+    "wsConnectionFailed": "Đã xảy ra lỗi.",
+    "wsReload": "Tải lại"
   }
 }

@@ -69,6 +69,17 @@
     "agentAuthEmailPrompt": "Введите адрес эл. почты, чтобы получить одноразовый код.",
     "agentAuthPhonePrompt": "Введите номер телефона, чтобы получить одноразовый код.",
     "agentAuthSendCode": "Отправить код",
-    "agentAuthAttemptsRemaining": "Осталось попыток: {{count}}"
+    "agentAuthAttemptsRemaining": "Осталось попыток: {{count}}",
+    "wsTakingLongerThanExpected": "Это занимает больше времени, чем обычно…",
+    "wsTakingLongerThanUsual": "Этот ответ занимает больше времени, чем обычно",
+    "wsResponseNotLoadedMessage": "Извините, не удаётся загрузить этот ответ прямо сейчас. Попробуйте ещё раз.",
+    "wsUnableToHelpMessage": "Извините, сейчас я не могу вам помочь. Если вам нужна немедленная поддержка, обратитесь в службу поддержки клиентов.",
+    "wsResponseNotLoadedBanner": "Не удалось загрузить ваш ответ",
+    "wsMessageNotSentBanner": "Ваше сообщение не было отправлено.",
+    "wsTryAgain": "Попробовать снова",
+    "wsResendMessage": "Отправить сообщение повторно",
+    "wsLostConnectionReconnecting": "Соединение потеряно… Повторное подключение…",
+    "wsConnectionFailed": "Что-то пошло не так.",
+    "wsReload": "Перезагрузить"
   }
 }

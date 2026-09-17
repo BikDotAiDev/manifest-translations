@@ -275,6 +275,17 @@
     "agentAuthEmailPrompt": "Adja meg e-mail-címét az egyszeri kód fogadásához.",
     "agentAuthPhonePrompt": "Adja meg telefonszámát az egyszeri kód fogadásához.",
     "agentAuthSendCode": "Kód küldése",
-    "agentAuthAttemptsRemaining": "{{count}} próbálkozás maradt"
+    "agentAuthAttemptsRemaining": "{{count}} próbálkozás maradt",
+    "wsTakingLongerThanExpected": "Ez tovább tart a vártnál…",
+    "wsTakingLongerThanUsual": "Ez a válasz a szokásosnál tovább tart",
+    "wsResponseNotLoadedMessage": "Sajnáljuk, jelenleg nem sikerül betölteni ezt a választ. Kérjük, próbálja újra.",
+    "wsUnableToHelpMessage": "Sajnáljuk, jelenleg nem tudunk segíteni. Ha azonnali segítségre van szüksége, kérjük, forduljon ügyfélszolgálatunkhoz.",
+    "wsResponseNotLoadedBanner": "A válasz betöltése nem sikerült",
+    "wsMessageNotSentBanner": "Az üzenetét nem sikerült elküldeni.",
+    "wsTryAgain": "Próbálja újra",
+    "wsResendMessage": "Üzenet újraküldése",
+    "wsLostConnectionReconnecting": "Megszakadt a kapcsolat… Újracsatlakozás…",
+    "wsConnectionFailed": "Hiba történt.",
+    "wsReload": "Újratöltés"
   }
 }

@@ -275,6 +275,17 @@
     "agentAuthEmailPrompt": "Tek kullanımlık kod almak için e-postanızı girin.",
     "agentAuthPhonePrompt": "Tek kullanımlık kod almak için telefon numaranızı girin.",
     "agentAuthSendCode": "Kod gönder",
-    "agentAuthAttemptsRemaining": "{{count}} deneme kaldı"
+    "agentAuthAttemptsRemaining": "{{count}} deneme kaldı",
+    "wsTakingLongerThanExpected": "Beklenenden daha uzun sürüyor…",
+    "wsTakingLongerThanUsual": "Bu yanıt her zamankinden daha uzun sürüyor",
+    "wsResponseNotLoadedMessage": "Üzgünüm, şu anda bu yanıtı yükleyemiyorum. Lütfen tekrar deneyin.",
+    "wsUnableToHelpMessage": "Üzgünüm, şu anda size yardımcı olamıyorum. Acil desteğe ihtiyacınız varsa lütfen müşteri hizmetleriyle iletişime geçin.",
+    "wsResponseNotLoadedBanner": "Yanıtınız yüklenemedi",
+    "wsMessageNotSentBanner": "Mesajınız gönderilemedi.",
+    "wsTryAgain": "Tekrar dene",
+    "wsResendMessage": "Mesajı yeniden gönder",
+    "wsLostConnectionReconnecting": "Bağlantı kesildi… Yeniden bağlanılıyor…",
+    "wsConnectionFailed": "Bir şeyler ters gitti.",
+    "wsReload": "Yeniden yükle"
   }
 }

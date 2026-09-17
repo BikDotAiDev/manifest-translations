@@ -275,6 +275,17 @@
     "agentAuthEmailPrompt": "Introduza o seu e-mail para receber um código de utilização única.",
     "agentAuthPhonePrompt": "Introduza o seu número de telefone para receber um código de utilização única.",
     "agentAuthSendCode": "Enviar código",
-    "agentAuthAttemptsRemaining": "{{count}} tentativas restantes"
+    "agentAuthAttemptsRemaining": "{{count}} tentativas restantes",
+    "wsTakingLongerThanExpected": "Está demorando mais do que o esperado…",
+    "wsTakingLongerThanUsual": "Esta resposta está demorando mais que o normal",
+    "wsResponseNotLoadedMessage": "Desculpe, não consigo carregar esta resposta agora. Tente novamente.",
+    "wsUnableToHelpMessage": "Desculpe, não consigo ajudá-lo agora. Se precisar de suporte imediato, entre em contato com o atendimento ao cliente.",
+    "wsResponseNotLoadedBanner": "Sua resposta não pôde ser carregada",
+    "wsMessageNotSentBanner": "Sua mensagem não foi enviada.",
+    "wsTryAgain": "Tentar novamente",
+    "wsResendMessage": "Reenviar mensagem",
+    "wsLostConnectionReconnecting": "Conexão perdida… Tentando reconectar…",
+    "wsConnectionFailed": "Algo deu errado.",
+    "wsReload": "Recarregar"
   }
 }

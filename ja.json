@@ -276,6 +276,17 @@
     "agentAuthEmailPrompt": "ワンタイムコードを受け取るにはメールアドレスを入力してください。",
     "agentAuthPhonePrompt": "ワンタイムコードを受け取るには電話番号を入力してください。",
     "agentAuthSendCode": "コードを送信",
-    "agentAuthAttemptsRemaining": "残り{{count}}回"
+    "agentAuthAttemptsRemaining": "残り{{count}}回",
+    "wsTakingLongerThanExpected": "予想より時間がかかっています…",
+    "wsTakingLongerThanUsual": "この回答にはいつもより時間がかかっています",
+    "wsResponseNotLoadedMessage": "申し訳ございません。ただいまこの回答を読み込めません。もう一度お試しください。",
+    "wsUnableToHelpMessage": "申し訳ございません。ただいまお手伝いできません。至急サポートが必要な場合は、カスタマーサポートまでお問い合わせください。",
+    "wsResponseNotLoadedBanner": "回答を読み込めませんでした",
+    "wsMessageNotSentBanner": "メッセージを送信できませんでした。",
+    "wsTryAgain": "もう一度試す",
+    "wsResendMessage": "メッセージを再送信",
+    "wsLostConnectionReconnecting": "接続が切断されました… 再接続しています…",
+    "wsConnectionFailed": "問題が発生しました。",
+    "wsReload": "再読み込み"
   }
 }

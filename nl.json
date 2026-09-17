@@ -275,6 +275,17 @@
     "agentAuthEmailPrompt": "Voer je e-mailadres in om een eenmalige code te ontvangen.",
     "agentAuthPhonePrompt": "Voer je telefoonnummer in om een eenmalige code te ontvangen.",
     "agentAuthSendCode": "Code verzenden",
-    "agentAuthAttemptsRemaining": "{{count}} pogingen over"
+    "agentAuthAttemptsRemaining": "{{count}} pogingen over",
+    "wsTakingLongerThanExpected": "Dit duurt langer dan verwacht…",
+    "wsTakingLongerThanUsual": "Dit duurt langer dan gebruikelijk",
+    "wsResponseNotLoadedMessage": "Sorry, ik kan dit antwoord nu niet laden. Probeer het opnieuw.",
+    "wsUnableToHelpMessage": "Sorry, ik kan je nu niet helpen. Neem contact op met de klantenservice als je direct hulp nodig hebt.",
+    "wsResponseNotLoadedBanner": "Je antwoord kon niet worden geladen",
+    "wsMessageNotSentBanner": "Je bericht is niet verzonden.",
+    "wsTryAgain": "Probeer opnieuw",
+    "wsResendMessage": "Bericht opnieuw verzenden",
+    "wsLostConnectionReconnecting": "Verbinding verloren… Opnieuw verbinden…",
+    "wsConnectionFailed": "Er is iets misgegaan.",
+    "wsReload": "Vernieuwen"
   }
 }
