@@ -289,8 +289,9 @@
     "wsReload": "Genindlæs",
     "crmHandoverPrompt": "Før jeg sætter dig i forbindelse med en medarbejder, kan du så oplyse følgende, så vi kan hjælpe dig bedre?",
     "crmFormName": "Navn",
-    "crmFormEnterName": "Indtast navn",
-    "crmFormEnterEmail": "Indtast e-mailadresse",
+    "crmFormEnterField": "Indtast {{field}}",
+    "crmFormNameInPhrase": "navn",
+    "crmFormEmailInPhrase": "e-mailadresse",
     "crmFormCountryCode": "Landekode",
     "crmFormCode": "Kode",
     "crmFormConsent": "Ved at give disse oplysninger giver du samtykke til, at vi bruger dem til at følge op på din henvendelse og forbedre din supportoplevelse."

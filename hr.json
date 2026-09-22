@@ -301,8 +301,9 @@
     "wsReload": "Ponovno učitaj",
     "crmHandoverPrompt": "Prije nego što vas povežem s agentom, možete li podijeliti sljedeće podatke kako bismo vam mogli bolje pomoći?",
     "crmFormName": "Ime",
-    "crmFormEnterName": "Unesite ime",
-    "crmFormEnterEmail": "Unesite adresu e-pošte",
+    "crmFormEnterField": "Unesite {{field}}",
+    "crmFormNameInPhrase": "ime",
+    "crmFormEmailInPhrase": "adresu e-pošte",
     "crmFormCountryCode": "Pozivni broj države",
     "crmFormCode": "Pozivni broj",
     "crmFormConsent": "Davanjem ovih podataka pristajete da ih koristimo za odgovor na vaš upit i poboljšanje vašeg iskustva podrške."

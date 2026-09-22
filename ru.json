@@ -83,8 +83,9 @@
     "wsReload": "Перезагрузить",
     "crmHandoverPrompt": "Прежде чем соединить вас с оператором, не могли бы вы предоставить следующие данные, чтобы мы могли лучше вам помочь?",
     "crmFormName": "Имя",
-    "crmFormEnterName": "Введите имя",
-    "crmFormEnterEmail": "Введите адрес эл. почты",
+    "crmFormEnterField": "Введите {{field}}",
+    "crmFormNameInPhrase": "имя",
+    "crmFormEmailInPhrase": "адрес эл. почты",
     "crmFormCountryCode": "Код страны",
     "crmFormCode": "Код",
     "crmFormConsent": "Предоставляя эту информацию, вы соглашаетесь на её использование для ответа на ваш запрос и улучшения качества поддержки."
