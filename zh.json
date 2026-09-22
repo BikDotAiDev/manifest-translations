@@ -286,6 +286,16 @@
     "wsResendMessage": "重新发送消息",
     "wsLostConnectionReconnecting": "连接已断开…正在尝试重新连接…",
     "wsConnectionFailed": "出错了。",
-    "wsReload": "重新加载"
+    "wsReload": "重新加载",
+    "crmHandoverPrompt": "在为您转接人工客服之前，可以请您提供以下信息，以便我们更好地为您服务吗？",
+    "crmFormName": "姓名",
+    "crmFormEnterName": "请输入姓名",
+    "crmFormEmail": "邮箱地址",
+    "crmFormEnterEmail": "请输入邮箱地址",
+    "crmFormPhone": "电话号码",
+    "crmFormEnterPhone": "请输入电话号码",
+    "crmFormCountryCode": "国家/地区代码",
+    "crmFormCode": "区号",
+    "crmFormConsent": "提供这些信息即表示您同意我们使用这些信息来跟进您的问题并改善您的支持体验。"
   }
 }

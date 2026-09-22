@@ -472,7 +472,17 @@
     "wsResendMessage": "ส่งข้อความอีกครั้ง",
     "wsLostConnectionReconnecting": "การเชื่อมต่อขาดหาย… กำลังเชื่อมต่อใหม่…",
     "wsConnectionFailed": "เกิดข้อผิดพลาด",
-    "wsReload": "โหลดใหม่"
+    "wsReload": "โหลดใหม่",
+    "crmHandoverPrompt": "ก่อนที่จะเชื่อมต่อคุณกับเจ้าหน้าที่ รบกวนกรอกข้อมูลต่อไปนี้เพื่อให้เราช่วยเหลือคุณได้ดียิ่งขึ้น",
+    "crmFormName": "ชื่อ",
+    "crmFormEnterName": "กรอกชื่อ",
+    "crmFormEmail": "ที่อยู่อีเมล",
+    "crmFormEnterEmail": "กรอกอีเมล",
+    "crmFormPhone": "หมายเลขโทรศัพท์",
+    "crmFormEnterPhone": "กรุณากรอกหมายเลขโทรศัพท์",
+    "crmFormCountryCode": "รหัสประเทศ",
+    "crmFormCode": "รหัส",
+    "crmFormConsent": "การให้ข้อมูลนี้ถือว่าคุณยินยอมให้เราใช้ข้อมูลดังกล่าวเพื่อติดตามคำถามของคุณและปรับปรุงประสบการณ์การให้บริการ"
   },
   "others": {
     "popUpMessages": {

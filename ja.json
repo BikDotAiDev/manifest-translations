@@ -287,6 +287,16 @@
     "wsResendMessage": "メッセージを再送信",
     "wsLostConnectionReconnecting": "接続が切断されました… 再接続しています…",
     "wsConnectionFailed": "問題が発生しました。",
-    "wsReload": "再読み込み"
+    "wsReload": "再読み込み",
+    "crmHandoverPrompt": "担当者におつなぎする前に、より良いサポートのため以下の情報をご入力いただけますか？",
+    "crmFormName": "お名前",
+    "crmFormEnterName": "お名前を入力してください",
+    "crmFormEmail": "メールアドレス",
+    "crmFormEnterEmail": "メールアドレスを入力してください",
+    "crmFormPhone": "電話番号",
+    "crmFormEnterPhone": "電話番号を入力してください",
+    "crmFormCountryCode": "国番号",
+    "crmFormCode": "国番号",
+    "crmFormConsent": "この情報をご提供いただくことで、お問い合わせへの対応およびサポート品質の向上のために利用することに同意いただいたものとみなします。"
   }
 }

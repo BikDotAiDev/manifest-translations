@@ -285,6 +285,16 @@
     "wsResendMessage": "Retrimiteți mesajul",
     "wsLostConnectionReconnecting": "Conexiune pierdută… Se reconectează…",
     "wsConnectionFailed": "Ceva nu a mers bine.",
-    "wsReload": "Reîncărcați"
+    "wsReload": "Reîncărcați",
+    "crmHandoverPrompt": "Înainte să vă pun în legătură cu un agent, ați putea să ne furnizați următoarele informații pentru a vă putea ajuta mai bine?",
+    "crmFormName": "Nume",
+    "crmFormEnterName": "Introduceți numele",
+    "crmFormEmail": "Adresa de e-mail",
+    "crmFormEnterEmail": "Introduceți adresa de e-mail",
+    "crmFormPhone": "Numărul de telefon",
+    "crmFormEnterPhone": "Introduceți numărul de telefon",
+    "crmFormCountryCode": "Prefix de țară",
+    "crmFormCode": "Prefix",
+    "crmFormConsent": "Prin furnizarea acestor informații, sunteți de acord să le folosim pentru a da curs solicitării dvs. și pentru a îmbunătăți experiența de asistență."
   }
 }

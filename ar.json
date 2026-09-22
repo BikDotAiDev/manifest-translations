@@ -270,6 +270,16 @@
     "wsResendMessage": "إعادة إرسال الرسالة",
     "wsLostConnectionReconnecting": "انقطع الاتصال… جارٍ إعادة الاتصال…",
     "wsConnectionFailed": "حدث خطأ ما.",
-    "wsReload": "إعادة التحميل"
+    "wsReload": "إعادة التحميل",
+    "crmHandoverPrompt": "قبل أن أوصلك بأحد الوكلاء، هل يمكنك مشاركة المعلومات التالية حتى نتمكن من مساعدتك بشكل أفضل؟",
+    "crmFormName": "الاسم",
+    "crmFormEnterName": "أدخل الاسم",
+    "crmFormEmail": "عنوان البريد الإلكتروني",
+    "crmFormEnterEmail": "أدخل البريد الإلكتروني",
+    "crmFormPhone": "رقم الهاتف",
+    "crmFormEnterPhone": "أدخل رقم الهاتف",
+    "crmFormCountryCode": "رمز الدولة",
+    "crmFormCode": "الرمز",
+    "crmFormConsent": "بتقديم هذه المعلومات، فإنك توافق على استخدامنا لها لمتابعة استفسارك وتحسين تجربة الدعم الخاصة بك."
   }
 }

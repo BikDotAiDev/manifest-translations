@@ -286,6 +286,16 @@
     "wsResendMessage": "Mesajı yeniden gönder",
     "wsLostConnectionReconnecting": "Bağlantı kesildi… Yeniden bağlanılıyor…",
     "wsConnectionFailed": "Bir şeyler ters gitti.",
-    "wsReload": "Yeniden yükle"
+    "wsReload": "Yeniden yükle",
+    "crmHandoverPrompt": "Sizi bir temsilciye bağlamadan önce, size daha iyi yardımcı olabilmemiz için aşağıdaki bilgileri paylaşır mısınız?",
+    "crmFormName": "Ad",
+    "crmFormEnterName": "Adınızı girin",
+    "crmFormEmail": "E-posta adresi",
+    "crmFormEnterEmail": "E-posta adresini girin",
+    "crmFormPhone": "Telefon numarası",
+    "crmFormEnterPhone": "Telefon numarasını girin",
+    "crmFormCountryCode": "Ülke kodu",
+    "crmFormCode": "Kod",
+    "crmFormConsent": "Bu bilgileri paylaşarak, talebinizi takip etmek ve destek deneyiminizi iyileştirmek için kullanmamıza izin vermiş olursunuz."
   }
 }

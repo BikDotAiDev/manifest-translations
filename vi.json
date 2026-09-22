@@ -286,6 +286,16 @@
     "wsResendMessage": "Gửi lại tin nhắn",
     "wsLostConnectionReconnecting": "Mất kết nối… Đang kết nối lại…",
     "wsConnectionFailed": "Đã xảy ra lỗi.",
-    "wsReload": "Tải lại"
+    "wsReload": "Tải lại",
+    "crmHandoverPrompt": "Trước khi kết nối bạn với nhân viên hỗ trợ, bạn vui lòng cung cấp những thông tin sau để chúng tôi có thể hỗ trợ bạn tốt hơn nhé?",
+    "crmFormName": "Tên",
+    "crmFormEnterName": "Nhập tên",
+    "crmFormEmail": "Địa chỉ email",
+    "crmFormEnterEmail": "Nhập địa chỉ email",
+    "crmFormPhone": "Số điện thoại",
+    "crmFormEnterPhone": "Nhập số điện thoại",
+    "crmFormCountryCode": "Mã quốc gia",
+    "crmFormCode": "Mã",
+    "crmFormConsent": "Bằng việc cung cấp thông tin này, bạn đồng ý cho chúng tôi sử dụng để phản hồi yêu cầu của bạn và cải thiện trải nghiệm hỗ trợ."
   }
 }
