@@ -273,9 +273,8 @@
     "wsReload": "إعادة التحميل",
     "crmHandoverPrompt": "قبل أن أوصلك بأحد الوكلاء، هل يمكنك مشاركة المعلومات التالية حتى نتمكن من مساعدتك بشكل أفضل؟",
     "crmFormName": "الاسم",
-    "crmFormEnterField": "أدخل {{field}}",
-    "crmFormNameInPhrase": "الاسم",
-    "crmFormEmailInPhrase": "البريد الإلكتروني",
+    "crmFormEnterName": "أدخل الاسم",
+    "crmFormEnterEmail": "أدخل البريد الإلكتروني",
     "crmFormCountryCode": "رمز الدولة",
     "crmFormCode": "الرمز",
     "crmFormConsent": "بتقديم هذه المعلومات، فإنك توافق على استخدامنا لها لمتابعة استفسارك وتحسين تجربة الدعم الخاصة بك."

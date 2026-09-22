@@ -289,9 +289,8 @@
     "wsReload": "Újratöltés",
     "crmHandoverPrompt": "Mielőtt összekapcsolom egy munkatárssal, megosztaná az alábbi adatokat, hogy jobban tudjunk segíteni?",
     "crmFormName": "Név",
-    "crmFormEnterField": "Adja meg {{field}}",
-    "crmFormNameInPhrase": "a nevét",
-    "crmFormEmailInPhrase": "az e-mail-címet",
+    "crmFormEnterName": "Adja meg a nevét",
+    "crmFormEnterEmail": "Adja meg az e-mail-címet",
     "crmFormCountryCode": "Országhívószám",
     "crmFormCode": "Hívószám",
     "crmFormConsent": "Az adatok megadásával hozzájárul ahhoz, hogy felhasználjuk őket kérdése megválaszolásához és ügyfélszolgálati élménye javításához."

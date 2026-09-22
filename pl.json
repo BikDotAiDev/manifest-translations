@@ -289,9 +289,8 @@
     "wsReload": "Odśwież",
     "crmHandoverPrompt": "Zanim połączę Cię z konsultantem, czy możesz podać poniższe dane, abyśmy mogli lepiej Ci pomóc?",
     "crmFormName": "Imię",
-    "crmFormEnterField": "Wpisz {{field}}",
-    "crmFormNameInPhrase": "imię",
-    "crmFormEmailInPhrase": "adres e-mail",
+    "crmFormEnterName": "Wpisz imię",
+    "crmFormEnterEmail": "Wpisz adres e-mail",
     "crmFormCountryCode": "Kod kraju",
     "crmFormCode": "Kod",
     "crmFormConsent": "Podając te informacje, wyrażasz zgodę na ich wykorzystanie w celu udzielenia odpowiedzi na Twoje zapytanie i poprawy jakości obsługi."

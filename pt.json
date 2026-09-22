@@ -289,9 +289,8 @@
     "wsReload": "Recarregar",
     "crmHandoverPrompt": "Antes de conectar você com um atendente, poderia informar os dados abaixo para que possamos ajudar melhor?",
     "crmFormName": "Nome",
-    "crmFormEnterField": "Digite {{field}}",
-    "crmFormNameInPhrase": "o nome",
-    "crmFormEmailInPhrase": "o endereço de e-mail",
+    "crmFormEnterName": "Digite o nome",
+    "crmFormEnterEmail": "Digite o endereço de e-mail",
     "crmFormCountryCode": "Código do país",
     "crmFormCode": "Código",
     "crmFormConsent": "Ao fornecer estas informações, você concorda que as utilizemos para dar seguimento à sua solicitação e melhorar sua experiência de atendimento."

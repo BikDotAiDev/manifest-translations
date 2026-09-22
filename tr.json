@@ -289,9 +289,8 @@
     "wsReload": "Yeniden yükle",
     "crmHandoverPrompt": "Sizi bir temsilciye bağlamadan önce, size daha iyi yardımcı olabilmemiz için aşağıdaki bilgileri paylaşır mısınız?",
     "crmFormName": "Ad",
-    "crmFormEnterField": "{{field}} girin",
-    "crmFormNameInPhrase": "Adınızı",
-    "crmFormEmailInPhrase": "E-posta adresini",
+    "crmFormEnterName": "Adınızı girin",
+    "crmFormEnterEmail": "E-posta adresini girin",
     "crmFormCountryCode": "Ülke kodu",
     "crmFormCode": "Kod",
     "crmFormConsent": "Bu bilgileri paylaşarak, talebinizi takip etmek ve destek deneyiminizi iyileştirmek için kullanmamıza izin vermiş olursunuz."

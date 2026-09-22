@@ -289,9 +289,8 @@
     "wsReload": "Lataa uudelleen",
     "crmHandoverPrompt": "Ennen kuin yhdistän sinut asiakaspalvelijalle, voisitko antaa seuraavat tiedot, jotta voimme auttaa sinua paremmin?",
     "crmFormName": "Nimi",
-    "crmFormEnterField": "Anna {{field}}",
-    "crmFormNameInPhrase": "nimi",
-    "crmFormEmailInPhrase": "sähköpostiosoite",
+    "crmFormEnterName": "Anna nimi",
+    "crmFormEnterEmail": "Anna sähköpostiosoite",
     "crmFormCountryCode": "Maakoodi",
     "crmFormCode": "Koodi",
     "crmFormConsent": "Antamalla nämä tiedot hyväksyt, että käytämme niitä kyselysi käsittelyyn ja tukikokemuksesi parantamiseen."
