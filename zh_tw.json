@@ -269,8 +269,6 @@
     "crmHandoverPrompt": "在為您轉接真人客服之前，可以請您提供以下資訊，以便我們更好地為您服務嗎？",
     "crmFormName": "姓名",
     "crmFormEnterField": "請輸入{{field}}",
-    "crmFormNameInPhrase": "姓名",
-    "crmFormEmailInPhrase": "電子郵件地址",
     "crmFormCountryCode": "國家/地區代碼",
     "crmFormCode": "區號",
     "crmFormConsent": "提供這些資訊即表示您同意我們使用這些資訊來跟進您的問題並改善您的支援體驗。"

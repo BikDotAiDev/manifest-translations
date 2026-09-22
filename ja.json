@@ -291,8 +291,6 @@
     "crmHandoverPrompt": "担当者におつなぎする前に、より良いサポートのため以下の情報をご入力いただけますか？",
     "crmFormName": "お名前",
     "crmFormEnterField": "{{field}}を入力してください",
-    "crmFormNameInPhrase": "お名前",
-    "crmFormEmailInPhrase": "メールアドレス",
     "crmFormCountryCode": "国番号",
     "crmFormCode": "国番号",
     "crmFormConsent": "この情報をご提供いただくことで、お問い合わせへの対応およびサポート品質の向上のために利用することに同意いただいたものとみなします。"

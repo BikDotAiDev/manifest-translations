@@ -476,8 +476,6 @@
     "crmHandoverPrompt": "ก่อนที่จะเชื่อมต่อคุณกับเจ้าหน้าที่ รบกวนกรอกข้อมูลต่อไปนี้เพื่อให้เราช่วยเหลือคุณได้ดียิ่งขึ้น",
     "crmFormName": "ชื่อ",
     "crmFormEnterField": "กรอก{{field}}",
-    "crmFormNameInPhrase": "ชื่อ",
-    "crmFormEmailInPhrase": "อีเมล",
     "crmFormCountryCode": "รหัสประเทศ",
     "crmFormCode": "รหัส",
     "crmFormConsent": "การให้ข้อมูลนี้ถือว่าคุณยินยอมให้เราใช้ข้อมูลดังกล่าวเพื่อติดตามคำถามของคุณและปรับปรุงประสบการณ์การให้บริการ"

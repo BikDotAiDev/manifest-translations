@@ -289,8 +289,6 @@
     "crmHandoverPrompt": "Înainte să vă pun în legătură cu un agent, ați putea să ne furnizați următoarele informații pentru a vă putea ajuta mai bine?",
     "crmFormName": "Nume",
     "crmFormEnterField": "Introduceți {{field}}",
-    "crmFormNameInPhrase": "numele",
-    "crmFormEmailInPhrase": "adresa de e-mail",
     "crmFormCountryCode": "Prefix de țară",
     "crmFormCode": "Prefix",
     "crmFormConsent": "Prin furnizarea acestor informații, sunteți de acord să le folosim pentru a da curs solicitării dvs. și pentru a îmbunătăți experiența de asistență."

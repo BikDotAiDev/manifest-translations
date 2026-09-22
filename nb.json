@@ -289,8 +289,6 @@
     "crmHandoverPrompt": "Før jeg setter deg i kontakt med en kundebehandler, kan du oppgi følgende slik at vi kan hjelpe deg bedre?",
     "crmFormName": "Navn",
     "crmFormEnterField": "Skriv inn {{field}}",
-    "crmFormNameInPhrase": "navn",
-    "crmFormEmailInPhrase": "e-postadresse",
     "crmFormCountryCode": "Landkode",
     "crmFormCode": "Kode",
     "crmFormConsent": "Ved å oppgi disse opplysningene samtykker du i at vi bruker dem til å følge opp henvendelsen din og forbedre supportopplevelsen din."

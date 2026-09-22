@@ -274,8 +274,6 @@
     "crmHandoverPrompt": "Antes de ponerte en contacto con un agente, ¿podrías compartir la siguiente información para que podamos ayudarte mejor?",
     "crmFormName": "Nombre",
     "crmFormEnterField": "Introduce {{field}}",
-    "crmFormNameInPhrase": "el nombre",
-    "crmFormEmailInPhrase": "el correo electrónico",
     "crmFormCountryCode": "Código de país",
     "crmFormCode": "Código",
     "crmFormConsent": "Al proporcionar esta información, aceptas que la usemos para dar seguimiento a tu consulta y mejorar tu experiencia de soporte."

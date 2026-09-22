@@ -290,8 +290,6 @@
     "crmHandoverPrompt": "Bevor ich Sie mit einem Mitarbeiter verbinde, könnten Sie bitte die folgenden Angaben machen, damit wir Ihnen besser helfen können?",
     "crmFormName": "Name",
     "crmFormEnterField": "{{field}} eingeben",
-    "crmFormNameInPhrase": "Name",
-    "crmFormEmailInPhrase": "E-Mail-Adresse",
     "crmFormCountryCode": "Ländervorwahl",
     "crmFormCode": "Vorwahl",
     "crmFormConsent": "Mit der Angabe dieser Daten stimmen Sie zu, dass wir sie verwenden, um Ihre Anfrage weiterzuverfolgen und Ihr Support-Erlebnis zu verbessern."
