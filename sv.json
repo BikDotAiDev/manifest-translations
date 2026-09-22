@@ -286,6 +286,12 @@
     "wsResendMessage": "Skicka meddelandet igen",
     "wsLostConnectionReconnecting": "Anslutningen bröts… Återansluter…",
     "wsConnectionFailed": "Något gick fel.",
-    "wsReload": "Ladda om"
+    "wsReload": "Ladda om",
+    "crmHandoverPrompt": "Innan jag kopplar dig till en handläggare, kan du dela följande uppgifter så att vi kan hjälpa dig bättre?",
+    "crmFormName": "Namn",
+    "crmFormEnterField": "Ange {{field}}",
+    "crmFormCountryCode": "Landskod",
+    "crmFormCode": "Kod",
+    "crmFormConsent": "Genom att lämna dessa uppgifter samtycker du till att vi använder dem för att följa upp din förfrågan och förbättra din supportupplevelse."
   }
 }

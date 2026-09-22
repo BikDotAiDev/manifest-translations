@@ -286,6 +286,12 @@
     "wsResendMessage": "Lähetä viesti uudelleen",
     "wsLostConnectionReconnecting": "Yhteys katkesi… Yhdistetään uudelleen…",
     "wsConnectionFailed": "Jotain meni pieleen.",
-    "wsReload": "Lataa uudelleen"
+    "wsReload": "Lataa uudelleen",
+    "crmHandoverPrompt": "Ennen kuin yhdistän sinut asiakaspalvelijalle, voisitko antaa seuraavat tiedot, jotta voimme auttaa sinua paremmin?",
+    "crmFormName": "Nimi",
+    "crmFormEnterField": "Anna {{field}}",
+    "crmFormCountryCode": "Maakoodi",
+    "crmFormCode": "Koodi",
+    "crmFormConsent": "Antamalla nämä tiedot hyväksyt, että käytämme niitä kyselysi käsittelyyn ja tukikokemuksesi parantamiseen."
   }
 }

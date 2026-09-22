@@ -286,6 +286,12 @@
     "wsResendMessage": "Üzenet újraküldése",
     "wsLostConnectionReconnecting": "Megszakadt a kapcsolat… Újracsatlakozás…",
     "wsConnectionFailed": "Hiba történt.",
-    "wsReload": "Újratöltés"
+    "wsReload": "Újratöltés",
+    "crmHandoverPrompt": "Mielőtt összekapcsolom egy munkatárssal, megosztaná az alábbi adatokat, hogy jobban tudjunk segíteni?",
+    "crmFormName": "Név",
+    "crmFormEnterField": "Adja meg {{field}}",
+    "crmFormCountryCode": "Országhívószám",
+    "crmFormCode": "Hívószám",
+    "crmFormConsent": "Az adatok megadásával hozzájárul ahhoz, hogy felhasználjuk őket kérdése megválaszolásához és ügyfélszolgálati élménye javításához."
   }
 }

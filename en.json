@@ -257,7 +257,13 @@
     "wsResendMessage": "Resend message",
     "wsLostConnectionReconnecting": "Lost connection… Trying to re-connect…",
     "wsConnectionFailed": "Something went wrong.",
-    "wsReload": "Reload"
+    "wsReload": "Reload",
+    "crmHandoverPrompt": "Before I connect you with an agent, could you please share the following so we can assist you better?",
+    "crmFormName": "Name",
+    "crmFormEnterField": "Enter {{field}}",
+    "crmFormCountryCode": "Country Code",
+    "crmFormCode": "Code",
+    "crmFormConsent": "By providing this information, you consent to us using it to follow up on your query and improve your support experience."
   },
   "others": {
     "suggestedReplies": {

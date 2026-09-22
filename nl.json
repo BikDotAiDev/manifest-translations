@@ -286,6 +286,12 @@
     "wsResendMessage": "Bericht opnieuw verzenden",
     "wsLostConnectionReconnecting": "Verbinding verloren… Opnieuw verbinden…",
     "wsConnectionFailed": "Er is iets misgegaan.",
-    "wsReload": "Vernieuwen"
+    "wsReload": "Vernieuwen",
+    "crmHandoverPrompt": "Voordat ik u doorverbind met een medewerker, kunt u het volgende delen zodat wij u beter kunnen helpen?",
+    "crmFormName": "Naam",
+    "crmFormEnterField": "Voer {{field}} in",
+    "crmFormCountryCode": "Landcode",
+    "crmFormCode": "Code",
+    "crmFormConsent": "Door deze gegevens te verstrekken, stemt u ermee in dat wij ze gebruiken om uw vraag op te volgen en uw serviceervaring te verbeteren."
   }
 }
