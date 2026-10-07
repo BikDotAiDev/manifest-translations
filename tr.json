@@ -294,6 +294,15 @@
     "crmFormEnterField": "{{field}} girin",
     "crmFormCountryCode": "Ülke kodu",
     "crmFormCode": "Kod",
-    "crmFormConsent": "Bu bilgileri paylaşarak, talebinizi takip etmek ve destek deneyiminizi iyileştirmek için kullanmamıza izin vermiş olursunuz."
+    "crmFormConsent": "Bu bilgileri paylaşarak, talebinizi takip etmek ve destek deneyiminizi iyileştirmek için kullanmamıza izin vermiş olursunuz.",
+    "iAgree": "Kabul ediyorum",
+    "privacyPolicy": "Gizlilik politikası",
+    "consentTitle": "Devam etmeden önce",
+    "consentCancel": "İptal",
+    "consentResponseReady": "Yanıtınız hazır",
+    "consentResponsePaused": "Yanıt duraklatıldı. Devam etmek için aşağıdan onay verin.",
+    "consentRecorded": "Sohbetiniz kaydedilecek ve saklanacak",
+    "consentDisclosure": "Bir soru göndererek veya seçerek bu sohbetin kaydedilmesini ve saklanmasını kabul etmiş olursunuz.",
+    "askAboutThisProductPlaceholder": "Bu ürün hakkında soru sorun..."
   }
 }

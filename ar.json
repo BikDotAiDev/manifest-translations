@@ -278,6 +278,15 @@
     "crmFormEnterField": "أدخل {{field}}",
     "crmFormCountryCode": "رمز الدولة",
     "crmFormCode": "الرمز",
-    "crmFormConsent": "بتقديم هذه المعلومات، فإنك توافق على استخدامنا لها لمتابعة استفسارك وتحسين تجربة الدعم الخاصة بك."
+    "crmFormConsent": "بتقديم هذه المعلومات، فإنك توافق على استخدامنا لها لمتابعة استفسارك وتحسين تجربة الدعم الخاصة بك.",
+    "iAgree": "أوافق",
+    "privacyPolicy": "سياسة الخصوصية",
+    "consentTitle": "قبل أن نتابع",
+    "consentCancel": "إلغاء",
+    "consentResponseReady": "إجابتك جاهزة",
+    "consentResponsePaused": "تم إيقاف الرد مؤقتًا. وافق أدناه للمتابعة.",
+    "consentRecorded": "سيتم تسجيل محادثتك وحفظها",
+    "consentDisclosure": "بإرسال سؤال أو اختياره، فإنك توافق على تسجيل هذه المحادثة وحفظها.",
+    "askAboutThisProductPlaceholder": "اسأل عن هذا المنتج..."
   }
 }

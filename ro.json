@@ -293,6 +293,15 @@
     "crmFormEnterField": "Introduceți {{field}}",
     "crmFormCountryCode": "Prefix de țară",
     "crmFormCode": "Prefix",
-    "crmFormConsent": "Prin furnizarea acestor informații, sunteți de acord să le folosim pentru a da curs solicitării dvs. și pentru a îmbunătăți experiența de asistență."
+    "crmFormConsent": "Prin furnizarea acestor informații, sunteți de acord să le folosim pentru a da curs solicitării dvs. și pentru a îmbunătăți experiența de asistență.",
+    "iAgree": "Sunt de acord",
+    "privacyPolicy": "Politica de confidențialitate",
+    "consentTitle": "Înainte să continuăm",
+    "consentCancel": "Anulează",
+    "consentResponseReady": "Răspunsul dvs. este gata",
+    "consentResponsePaused": "Răspuns întrerupt. Exprimați-vă acordul mai jos pentru a continua.",
+    "consentRecorded": "Conversația dvs. va fi înregistrată și stocată",
+    "consentDisclosure": "Prin trimiterea sau selectarea unei întrebări, sunteți de acord ca această conversație să fie înregistrată și stocată.",
+    "askAboutThisProductPlaceholder": "Întreabă despre acest produs..."
   }
 }

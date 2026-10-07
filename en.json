@@ -265,7 +265,16 @@
     "crmFormEnterField": "Enter {{field}}",
     "crmFormCountryCode": "Country Code",
     "crmFormCode": "Code",
-    "crmFormConsent": "By providing this information, you consent to us using it to follow up on your query and improve your support experience."
+    "crmFormConsent": "By providing this information, you consent to us using it to follow up on your query and improve your support experience.",
+    "iAgree": "I agree",
+    "privacyPolicy": "Privacy policy",
+    "consentTitle": "Before we continue",
+    "consentCancel": "Cancel",
+    "consentResponseReady": "Your response is ready",
+    "consentResponsePaused": "Response paused. Agree below to continue.",
+    "consentRecorded": "Your chat will be recorded and stored",
+    "consentDisclosure": "By sending or selecting a question, you agree to this chat being recorded and stored.",
+    "askAboutThisProductPlaceholder": "Ask about this product..."
   },
   "others": {
     "suggestedReplies": {

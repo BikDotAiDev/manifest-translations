@@ -294,6 +294,15 @@
     "crmFormEnterField": "{{field}} eingeben",
     "crmFormCountryCode": "Ländervorwahl",
     "crmFormCode": "Vorwahl",
-    "crmFormConsent": "Mit der Angabe dieser Daten stimmen Sie zu, dass wir sie verwenden, um Ihre Anfrage weiterzuverfolgen und Ihr Support-Erlebnis zu verbessern."
+    "crmFormConsent": "Mit der Angabe dieser Daten stimmen Sie zu, dass wir sie verwenden, um Ihre Anfrage weiterzuverfolgen und Ihr Support-Erlebnis zu verbessern.",
+    "iAgree": "Ich stimme zu",
+    "privacyPolicy": "Datenschutzerklärung",
+    "consentTitle": "Bevor wir fortfahren",
+    "consentCancel": "Abbrechen",
+    "consentResponseReady": "Ihre Antwort ist bereit",
+    "consentResponsePaused": "Antwort pausiert. Stimmen Sie unten zu, um fortzufahren.",
+    "consentRecorded": "Ihr Chat wird aufgezeichnet und gespeichert",
+    "consentDisclosure": "Indem Sie eine Frage senden oder auswählen, stimmen Sie zu, dass dieser Chat aufgezeichnet und gespeichert wird.",
+    "askAboutThisProductPlaceholder": "Frage zu diesem Produkt..."
   }
 }

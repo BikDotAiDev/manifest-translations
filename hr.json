@@ -306,7 +306,16 @@
     "crmFormEnterField": "Unesite {{field}}",
     "crmFormCountryCode": "Pozivni broj države",
     "crmFormCode": "Pozivni broj",
-    "crmFormConsent": "Davanjem ovih podataka pristajete da ih koristimo za odgovor na vaš upit i poboljšanje vašeg iskustva podrške."
+    "crmFormConsent": "Davanjem ovih podataka pristajete da ih koristimo za odgovor na vaš upit i poboljšanje vašeg iskustva podrške.",
+    "iAgree": "Slažem se",
+    "privacyPolicy": "Pravila privatnosti",
+    "consentTitle": "Prije nego što nastavimo",
+    "consentCancel": "Odustani",
+    "consentResponseReady": "Vaš odgovor je spreman",
+    "consentResponsePaused": "Odgovor je pauziran. Prihvatite ispod kako biste nastavili.",
+    "consentRecorded": "Vaš razgovor bit će snimljen i pohranjen",
+    "consentDisclosure": "Slanjem ili odabirom pitanja pristajete na snimanje i pohranu ovog razgovora.",
+    "askAboutThisProductPlaceholder": "Pitajte o ovom proizvodu..."
   },
   "others": {
     "popUpMessages": {
