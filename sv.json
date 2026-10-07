@@ -292,6 +292,15 @@
     "crmFormEnterField": "Ange {{field}}",
     "crmFormCountryCode": "Landskod",
     "crmFormCode": "Kod",
-    "crmFormConsent": "Genom att lämna dessa uppgifter samtycker du till att vi använder dem för att följa upp din förfrågan och förbättra din supportupplevelse."
+    "crmFormConsent": "Genom att lämna dessa uppgifter samtycker du till att vi använder dem för att följa upp din förfrågan och förbättra din supportupplevelse.",
+    "iAgree": "Jag godkänner",
+    "privacyPolicy": "Integritetspolicy",
+    "consentTitle": "Innan vi fortsätter",
+    "consentCancel": "Avbryt",
+    "consentResponseReady": "Ditt svar är klart",
+    "consentResponsePaused": "Svaret är pausat. Godkänn nedan för att fortsätta.",
+    "consentRecorded": "Din chatt kommer att registreras och sparas",
+    "consentDisclosure": "Genom att skicka eller välja en fråga godkänner du att den här chatten registreras och sparas.",
+    "askAboutThisProductPlaceholder": "Fråga om den här produkten..."
   }
 }

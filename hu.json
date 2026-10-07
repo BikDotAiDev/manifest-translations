@@ -292,6 +292,15 @@
     "crmFormEnterField": "Adja meg {{field}}",
     "crmFormCountryCode": "Országhívószám",
     "crmFormCode": "Hívószám",
-    "crmFormConsent": "Az adatok megadásával hozzájárul ahhoz, hogy felhasználjuk őket kérdése megválaszolásához és ügyfélszolgálati élménye javításához."
+    "crmFormConsent": "Az adatok megadásával hozzájárul ahhoz, hogy felhasználjuk őket kérdése megválaszolásához és ügyfélszolgálati élménye javításához.",
+    "iAgree": "Elfogadom",
+    "privacyPolicy": "Adatvédelmi irányelvek",
+    "consentTitle": "Mielőtt folytatnánk",
+    "consentCancel": "Mégse",
+    "consentResponseReady": "A válasza elkészült",
+    "consentResponsePaused": "A válasz szüneteltetve. A folytatáshoz fogadja el lent.",
+    "consentRecorded": "A csevegése rögzítésre és tárolásra kerül",
+    "consentDisclosure": "Egy kérdés elküldésével vagy kiválasztásával hozzájárul ahhoz, hogy ezt a csevegést rögzítsük és tároljuk.",
+    "askAboutThisProductPlaceholder": "Kérdezz erről a termékről..."
   }
 }

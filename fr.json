@@ -280,6 +280,15 @@
     "crmFormEnterField": "Entrez {{field}}",
     "crmFormCountryCode": "Indicatif du pays",
     "crmFormCode": "Indicatif",
-    "crmFormConsent": "En fournissant ces informations, vous consentez à ce que nous les utilisions pour donner suite à votre demande et améliorer votre expérience d'assistance."
+    "crmFormConsent": "En fournissant ces informations, vous consentez à ce que nous les utilisions pour donner suite à votre demande et améliorer votre expérience d'assistance.",
+    "iAgree": "J'accepte",
+    "privacyPolicy": "Politique de confidentialité",
+    "consentTitle": "Avant de continuer",
+    "consentCancel": "Annuler",
+    "consentResponseReady": "Votre réponse est prête",
+    "consentResponsePaused": "Réponse en pause. Acceptez ci-dessous pour continuer.",
+    "consentRecorded": "Votre conversation sera enregistrée et conservée",
+    "consentDisclosure": "En envoyant ou en sélectionnant une question, vous acceptez que cette conversation soit enregistrée et conservée.",
+    "askAboutThisProductPlaceholder": "Posez une question sur ce produit..."
   }
 }

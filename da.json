@@ -292,6 +292,15 @@
     "crmFormEnterField": "Indtast {{field}}",
     "crmFormCountryCode": "Landekode",
     "crmFormCode": "Kode",
-    "crmFormConsent": "Ved at give disse oplysninger giver du samtykke til, at vi bruger dem til at følge op på din henvendelse og forbedre din supportoplevelse."
+    "crmFormConsent": "Ved at give disse oplysninger giver du samtykke til, at vi bruger dem til at følge op på din henvendelse og forbedre din supportoplevelse.",
+    "iAgree": "Jeg accepterer",
+    "privacyPolicy": "Privatlivspolitik",
+    "consentTitle": "Før vi fortsætter",
+    "consentCancel": "Annuller",
+    "consentResponseReady": "Dit svar er klar",
+    "consentResponsePaused": "Svaret er sat på pause. Accepter nedenfor for at fortsætte.",
+    "consentRecorded": "Din chat vil blive registreret og gemt",
+    "consentDisclosure": "Ved at sende eller vælge et spørgsmål accepterer du, at denne chat registreres og gemmes.",
+    "askAboutThisProductPlaceholder": "Spørg om dette produkt..."
   }
 }

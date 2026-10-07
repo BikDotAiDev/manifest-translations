@@ -292,6 +292,15 @@
     "crmFormEnterField": "Wpisz {{field}}",
     "crmFormCountryCode": "Kod kraju",
     "crmFormCode": "Kod",
-    "crmFormConsent": "Podając te informacje, wyrażasz zgodę na ich wykorzystanie w celu udzielenia odpowiedzi na Twoje zapytanie i poprawy jakości obsługi."
+    "crmFormConsent": "Podając te informacje, wyrażasz zgodę na ich wykorzystanie w celu udzielenia odpowiedzi na Twoje zapytanie i poprawy jakości obsługi.",
+    "iAgree": "Zgadzam się",
+    "privacyPolicy": "Polityka prywatności",
+    "consentTitle": "Zanim przejdziemy dalej",
+    "consentCancel": "Anuluj",
+    "consentResponseReady": "Twoja odpowiedź jest gotowa",
+    "consentResponsePaused": "Odpowiedź wstrzymana. Wyraź zgodę poniżej, aby kontynuować.",
+    "consentRecorded": "Twój czat zostanie zarejestrowany i zapisany",
+    "consentDisclosure": "Wysyłając lub wybierając pytanie, zgadzasz się na rejestrowanie i przechowywanie tego czatu.",
+    "askAboutThisProductPlaceholder": "Zapytaj o ten produkt..."
   }
 }

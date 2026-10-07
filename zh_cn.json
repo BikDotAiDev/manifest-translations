@@ -287,6 +287,15 @@
     "crmFormEnterField": "请输入{{field}}",
     "crmFormCountryCode": "国家/地区代码",
     "crmFormCode": "区号",
-    "crmFormConsent": "提供这些信息即表示您同意我们使用这些信息来跟进您的问题并改善您的支持体验。"
+    "crmFormConsent": "提供这些信息即表示您同意我们使用这些信息来跟进您的问题并改善您的支持体验。",
+    "iAgree": "我同意",
+    "privacyPolicy": "隐私政策",
+    "consentTitle": "继续之前",
+    "consentCancel": "取消",
+    "consentResponseReady": "您的回复已准备好",
+    "consentResponsePaused": "回复已暂停。请在下方同意以继续。",
+    "consentRecorded": "您的聊天将被记录并保存",
+    "consentDisclosure": "发送或选择问题即表示您同意记录并保存此聊天。",
+    "askAboutThisProductPlaceholder": "询问关于此产品的问题..."
   }
 }

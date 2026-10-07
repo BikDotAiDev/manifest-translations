@@ -292,6 +292,15 @@
     "crmFormEnterField": "Inserisci {{field}}",
     "crmFormCountryCode": "Prefisso internazionale",
     "crmFormCode": "Prefisso",
-    "crmFormConsent": "Fornendo queste informazioni, acconsenti al loro utilizzo per dare seguito alla tua richiesta e migliorare la tua esperienza di assistenza."
+    "crmFormConsent": "Fornendo queste informazioni, acconsenti al loro utilizzo per dare seguito alla tua richiesta e migliorare la tua esperienza di assistenza.",
+    "iAgree": "Accetto",
+    "privacyPolicy": "Informativa sulla privacy",
+    "consentTitle": "Prima di continuare",
+    "consentCancel": "Annulla",
+    "consentResponseReady": "La tua risposta è pronta",
+    "consentResponsePaused": "Risposta in pausa. Accetta qui sotto per continuare.",
+    "consentRecorded": "La tua chat verrà registrata e conservata",
+    "consentDisclosure": "Inviando o selezionando una domanda, accetti che questa chat venga registrata e conservata.",
+    "askAboutThisProductPlaceholder": "Chiedi di questo prodotto..."
   }
 }

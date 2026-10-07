@@ -293,6 +293,15 @@
     "crmFormEnterField": "{{field}}を入力してください",
     "crmFormCountryCode": "国番号",
     "crmFormCode": "国番号",
-    "crmFormConsent": "この情報をご提供いただくことで、お問い合わせへの対応およびサポート品質の向上のために利用することに同意いただいたものとみなします。"
+    "crmFormConsent": "この情報をご提供いただくことで、お問い合わせへの対応およびサポート品質の向上のために利用することに同意いただいたものとみなします。",
+    "iAgree": "同意する",
+    "privacyPolicy": "プライバシーポリシー",
+    "consentTitle": "続行する前に",
+    "consentCancel": "キャンセル",
+    "consentResponseReady": "回答の準備ができました",
+    "consentResponsePaused": "回答を一時停止しています。続行するには下で同意してください。",
+    "consentRecorded": "チャットは記録・保存されます",
+    "consentDisclosure": "質問を送信または選択することで、このチャットが記録・保存されることに同意したものとみなされます。",
+    "askAboutThisProductPlaceholder": "この商品について質問する..."
   }
 }
