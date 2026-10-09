@@ -274,7 +274,19 @@
     "consentResponsePaused": "Response paused. Agree below to continue.",
     "consentRecorded": "Your chat will be recorded and stored",
     "consentDisclosure": "By sending or selecting a question, you agree to this chat being recorded and stored.",
-    "askAboutThisProductPlaceholder": "Ask about this product..."
+    "askAboutThisProductPlaceholder": "Ask about this product...",
+    "askMore": "Ask more",
+    "orderFormPhoneOtpNoOrdersFound": "No orders found for this phone number. Please try again",
+    "crmChatWithAi": "Chat with AI",
+    "crmConnectAgain": "Connect again",
+    "crmTicketClosed": "Ticket Closed",
+    "crmWaitingForAgent": "Waiting for an agent",
+    "crmRecentChat": "Recent Chat",
+    "resetChat": "Reset chat",
+    "getChatTranscript": "Get chat transcript",
+    "talkToAiAssistant": "Talk to AI assistant",
+    "talkToAgent": "Talk to Agent",
+    "latestMessages": "Latest messages"
   },
   "others": {
     "suggestedReplies": {

@@ -303,6 +303,19 @@
     "consentResponsePaused": "Câu trả lời đã tạm dừng. Hãy đồng ý bên dưới để tiếp tục.",
     "consentRecorded": "Cuộc trò chuyện của bạn sẽ được ghi lại và lưu trữ",
     "consentDisclosure": "Bằng việc gửi hoặc chọn một câu hỏi, bạn đồng ý cho cuộc trò chuyện này được ghi lại và lưu trữ.",
-    "askAboutThisProductPlaceholder": "Hỏi về sản phẩm này..."
+    "askAboutThisProductPlaceholder": "Hỏi về sản phẩm này...",
+    "askMore": "Hỏi thêm",
+    "proceed": "Tiếp tục",
+    "orderFormPhoneOtpNoOrdersFound": "Không tìm thấy đơn hàng nào cho số điện thoại này. Vui lòng thử lại",
+    "crmChatWithAi": "Trò chuyện với AI",
+    "crmConnectAgain": "Kết nối lại",
+    "crmTicketClosed": "Yêu cầu hỗ trợ đã đóng",
+    "crmWaitingForAgent": "Đang chờ nhân viên hỗ trợ",
+    "crmRecentChat": "Cuộc trò chuyện gần đây",
+    "resetChat": "Đặt lại cuộc trò chuyện",
+    "getChatTranscript": "Nhận bản ghi cuộc trò chuyện",
+    "talkToAiAssistant": "Trò chuyện với trợ lý AI",
+    "talkToAgent": "Trò chuyện với nhân viên hỗ trợ",
+    "latestMessages": "Tin nhắn mới nhất"
   }
 }

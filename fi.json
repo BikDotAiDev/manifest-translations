@@ -303,6 +303,19 @@
     "consentResponsePaused": "Vastaus on keskeytetty. Hyväksy alla jatkaaksesi.",
     "consentRecorded": "Keskustelusi tallennetaan ja säilytetään",
     "consentDisclosure": "Lähettämällä tai valitsemalla kysymyksen hyväksyt, että tämä keskustelu tallennetaan ja säilytetään.",
-    "askAboutThisProductPlaceholder": "Kysy tästä tuotteesta..."
+    "askAboutThisProductPlaceholder": "Kysy tästä tuotteesta...",
+    "askMore": "Kysy lisää",
+    "proceed": "Jatka",
+    "orderFormPhoneOtpNoOrdersFound": "Tälle puhelinnumerolle ei löytynyt tilauksia. Yritä uudelleen",
+    "crmChatWithAi": "Keskustele tekoälyn kanssa",
+    "crmConnectAgain": "Yhdistä uudelleen",
+    "crmTicketClosed": "Tukipyyntö suljettu",
+    "crmWaitingForAgent": "Odotetaan asiakaspalvelijaa",
+    "crmRecentChat": "Viimeisin keskustelu",
+    "resetChat": "Nollaa keskustelu",
+    "getChatTranscript": "Hae keskustelun tallenne",
+    "talkToAiAssistant": "Keskustele tekoälyavustajan kanssa",
+    "talkToAgent": "Keskustele asiakaspalvelijan kanssa",
+    "latestMessages": "Uusimmat viestit"
   }
 }

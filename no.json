@@ -303,6 +303,19 @@
     "consentResponsePaused": "Svaret er satt på pause. Godta nedenfor for å fortsette.",
     "consentRecorded": "Chatten din blir registrert og lagret",
     "consentDisclosure": "Ved å sende eller velge et spørsmål godtar du at denne chatten blir registrert og lagret.",
-    "askAboutThisProductPlaceholder": "Spør om dette produktet..."
+    "askAboutThisProductPlaceholder": "Spør om dette produktet...",
+    "askMore": "Spør mer",
+    "proceed": "Fortsett",
+    "orderFormPhoneOtpNoOrdersFound": "Ingen bestillinger ble funnet for dette telefonnummeret. Vennligst prøv igjen",
+    "crmChatWithAi": "Chat med AI",
+    "crmConnectAgain": "Koble til på nytt",
+    "crmTicketClosed": "Sak lukket",
+    "crmWaitingForAgent": "Venter på en agent",
+    "crmRecentChat": "Nylig chat",
+    "resetChat": "Tilbakestill chat",
+    "getChatTranscript": "Hent chatutskrift",
+    "talkToAiAssistant": "Snakk med AI-assistenten",
+    "talkToAgent": "Snakk med en agent",
+    "latestMessages": "Siste meldinger"
   }
 }

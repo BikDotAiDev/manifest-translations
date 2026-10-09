@@ -303,6 +303,19 @@
     "consentResponsePaused": "Antwoord gepauzeerd. Ga hieronder akkoord om verder te gaan.",
     "consentRecorded": "Uw chat wordt vastgelegd en opgeslagen",
     "consentDisclosure": "Door een vraag te verzenden of te selecteren, gaat u ermee akkoord dat deze chat wordt vastgelegd en opgeslagen.",
-    "askAboutThisProductPlaceholder": "Vraag over dit product..."
+    "askAboutThisProductPlaceholder": "Vraag over dit product...",
+    "askMore": "Vraag meer",
+    "proceed": "Doorgaan",
+    "orderFormPhoneOtpNoOrdersFound": "Geen bestellingen gevonden voor dit telefoonnummer. Probeer het opnieuw",
+    "crmChatWithAi": "Chat met AI",
+    "crmConnectAgain": "Opnieuw verbinden",
+    "crmTicketClosed": "Ticket gesloten",
+    "crmWaitingForAgent": "Wachten op een agent",
+    "crmRecentChat": "Recente chat",
+    "resetChat": "Chat resetten",
+    "getChatTranscript": "Chattranscript opvragen",
+    "talkToAiAssistant": "Praat met de AI-assistent",
+    "talkToAgent": "Praat met een agent",
+    "latestMessages": "Nieuwste berichten"
   }
 }

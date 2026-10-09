@@ -303,6 +303,19 @@
     "consentResponsePaused": "A válasz szüneteltetve. A folytatáshoz fogadja el lent.",
     "consentRecorded": "A csevegése rögzítésre és tárolásra kerül",
     "consentDisclosure": "Egy kérdés elküldésével vagy kiválasztásával hozzájárul ahhoz, hogy ezt a csevegést rögzítsük és tároljuk.",
-    "askAboutThisProductPlaceholder": "Kérdezz erről a termékről..."
+    "askAboutThisProductPlaceholder": "Kérdezz erről a termékről...",
+    "askMore": "Kérdezz többet",
+    "proceed": "Tovább",
+    "orderFormPhoneOtpNoOrdersFound": "Nem található rendelés ehhez a telefonszámhoz. Kérlek, próbáld újra",
+    "crmChatWithAi": "Csevegés az AI-val",
+    "crmConnectAgain": "Újracsatlakozás",
+    "crmTicketClosed": "Jegy lezárva",
+    "crmWaitingForAgent": "Várakozás egy ügynökre",
+    "crmRecentChat": "Legutóbbi csevegés",
+    "resetChat": "Csevegés visszaállítása",
+    "getChatTranscript": "Beszélgetés átiratának lekérése",
+    "talkToAiAssistant": "Beszélj az AI-asszisztenssel",
+    "talkToAgent": "Beszélj egy ügynökkel",
+    "latestMessages": "Legújabb üzenetek"
   }
 }

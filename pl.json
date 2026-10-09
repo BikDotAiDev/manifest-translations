@@ -303,6 +303,19 @@
     "consentResponsePaused": "Odpowiedź wstrzymana. Wyraź zgodę poniżej, aby kontynuować.",
     "consentRecorded": "Twój czat zostanie zarejestrowany i zapisany",
     "consentDisclosure": "Wysyłając lub wybierając pytanie, zgadzasz się na rejestrowanie i przechowywanie tego czatu.",
-    "askAboutThisProductPlaceholder": "Zapytaj o ten produkt..."
+    "askAboutThisProductPlaceholder": "Zapytaj o ten produkt...",
+    "askMore": "Zapytaj o więcej",
+    "proceed": "Kontynuuj",
+    "orderFormPhoneOtpNoOrdersFound": "Nie znaleziono zamówień dla tego numeru telefonu. Spróbuj ponownie",
+    "crmChatWithAi": "Czat z AI",
+    "crmConnectAgain": "Połącz ponownie",
+    "crmTicketClosed": "Zgłoszenie zamknięte",
+    "crmWaitingForAgent": "Oczekiwanie na agenta",
+    "crmRecentChat": "Ostatni czat",
+    "resetChat": "Zresetuj czat",
+    "getChatTranscript": "Pobierz transkrypcję czatu",
+    "talkToAiAssistant": "Porozmawiaj z asystentem AI",
+    "talkToAgent": "Porozmawiaj z agentem",
+    "latestMessages": "Najnowsze wiadomości"
   }
 }

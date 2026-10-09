@@ -282,6 +282,21 @@
     "consentResponsePaused": "回覆已暫停。請在下方同意以繼續。",
     "consentRecorded": "您的聊天將被記錄並儲存",
     "consentDisclosure": "傳送或選擇問題即表示您同意記錄並儲存此聊天。",
-    "askAboutThisProductPlaceholder": "詢問關於此產品的問題..."
+    "askAboutThisProductPlaceholder": "詢問關於此產品的問題...",
+    "askMore": "詢問更多",
+    "viewSimilar": "查看類似的",
+    "recommendLike": "推薦類似的",
+    "proceed": "繼續",
+    "orderFormPhoneOtpNoOrdersFound": "未找到此電話號碼的訂單。請重試",
+    "crmChatWithAi": "與AI聊天",
+    "crmConnectAgain": "重新連線",
+    "crmTicketClosed": "工單已關閉",
+    "crmWaitingForAgent": "正在等待客服",
+    "crmRecentChat": "最近的聊天",
+    "resetChat": "重設聊天",
+    "getChatTranscript": "取得聊天記錄",
+    "talkToAiAssistant": "與AI助理對話",
+    "talkToAgent": "與客服對話",
+    "latestMessages": "最新訊息"
   }
 }

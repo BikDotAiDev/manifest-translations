@@ -303,6 +303,19 @@
     "consentResponsePaused": "Svaret är pausat. Godkänn nedan för att fortsätta.",
     "consentRecorded": "Din chatt kommer att registreras och sparas",
     "consentDisclosure": "Genom att skicka eller välja en fråga godkänner du att den här chatten registreras och sparas.",
-    "askAboutThisProductPlaceholder": "Fråga om den här produkten..."
+    "askAboutThisProductPlaceholder": "Fråga om den här produkten...",
+    "askMore": "Fråga mer",
+    "proceed": "Fortsätt",
+    "orderFormPhoneOtpNoOrdersFound": "Inga beställningar hittades för detta telefonnummer. Försök igen",
+    "crmChatWithAi": "Chatta med AI",
+    "crmConnectAgain": "Anslut igen",
+    "crmTicketClosed": "Ärendet stängt",
+    "crmWaitingForAgent": "Väntar på en agent",
+    "crmRecentChat": "Senaste chatt",
+    "resetChat": "Återställ chatt",
+    "getChatTranscript": "Hämta chattutskrift",
+    "talkToAiAssistant": "Prata med AI-assistenten",
+    "talkToAgent": "Prata med en agent",
+    "latestMessages": "Senaste meddelanden"
   }
 }

@@ -298,6 +298,21 @@
     "consentResponsePaused": "回复已暂停。请在下方同意以继续。",
     "consentRecorded": "您的聊天将被记录并保存",
     "consentDisclosure": "发送或选择问题即表示您同意记录并保存此聊天。",
-    "askAboutThisProductPlaceholder": "询问关于此产品的问题..."
+    "askAboutThisProductPlaceholder": "询问关于此产品的问题...",
+    "askMore": "询问更多",
+    "viewSimilar": "查看类似的",
+    "recommendLike": "推荐类似的",
+    "proceed": "继续",
+    "orderFormPhoneOtpNoOrdersFound": "未找到此电话号码的订单。请重试",
+    "crmChatWithAi": "与AI聊天",
+    "crmConnectAgain": "重新连接",
+    "crmTicketClosed": "工单已关闭",
+    "crmWaitingForAgent": "正在等待客服",
+    "crmRecentChat": "最近的聊天",
+    "resetChat": "重置聊天",
+    "getChatTranscript": "获取聊天记录",
+    "talkToAiAssistant": "与AI助手对话",
+    "talkToAgent": "与客服对话",
+    "latestMessages": "最新消息"
   }
 }

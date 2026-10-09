@@ -291,6 +291,19 @@
     "consentResponsePaused": "Réponse en pause. Acceptez ci-dessous pour continuer.",
     "consentRecorded": "Votre conversation sera enregistrée et conservée",
     "consentDisclosure": "En envoyant ou en sélectionnant une question, vous acceptez que cette conversation soit enregistrée et conservée.",
-    "askAboutThisProductPlaceholder": "Posez une question sur ce produit..."
+    "askAboutThisProductPlaceholder": "Posez une question sur ce produit...",
+    "askMore": "Poser une question",
+    "proceed": "Continuer",
+    "orderFormPhoneOtpNoOrdersFound": "Aucune commande trouvée pour ce numéro de téléphone. Veuillez réessayer",
+    "crmChatWithAi": "Discuter avec l'IA",
+    "crmConnectAgain": "Se reconnecter",
+    "crmTicketClosed": "Ticket fermé",
+    "crmWaitingForAgent": "En attente d'un agent",
+    "crmRecentChat": "Conversation récente",
+    "resetChat": "Réinitialiser la conversation",
+    "getChatTranscript": "Obtenir la transcription de la conversation",
+    "talkToAiAssistant": "Parler à l'assistant IA",
+    "talkToAgent": "Parler à un agent",
+    "latestMessages": "Derniers messages"
   }
 }

@@ -304,6 +304,19 @@
     "consentResponsePaused": "回答を一時停止しています。続行するには下で同意してください。",
     "consentRecorded": "チャットは記録・保存されます",
     "consentDisclosure": "質問を送信または選択することで、このチャットが記録・保存されることに同意したものとみなされます。",
-    "askAboutThisProductPlaceholder": "この商品について質問する..."
+    "askAboutThisProductPlaceholder": "この商品について質問する...",
+    "askMore": "もっと聞く",
+    "proceed": "続行",
+    "orderFormPhoneOtpNoOrdersFound": "この電話番号の注文が見つかりません。もう一度お試しください",
+    "crmChatWithAi": "AIとチャット",
+    "crmConnectAgain": "再接続する",
+    "crmTicketClosed": "チケットは終了しました",
+    "crmWaitingForAgent": "エージェントを待っています",
+    "crmRecentChat": "最近のチャット",
+    "resetChat": "チャットをリセット",
+    "getChatTranscript": "チャットの記録を取得",
+    "talkToAiAssistant": "AIアシスタントと話す",
+    "talkToAgent": "エージェントと話す",
+    "latestMessages": "最新のメッセージ"
   }
 }

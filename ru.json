@@ -97,6 +97,19 @@
     "consentResponsePaused": "Ответ приостановлен. Чтобы продолжить, дайте согласие ниже.",
     "consentRecorded": "Ваш чат будет записан и сохранён",
     "consentDisclosure": "Отправляя или выбирая вопрос, вы соглашаетесь на запись и хранение этого чата.",
-    "askAboutThisProductPlaceholder": "Спросите об этом товаре..."
+    "askAboutThisProductPlaceholder": "Спросите об этом товаре...",
+    "askMore": "Задать вопрос",
+    "proceed": "Продолжить",
+    "orderFormPhoneOtpNoOrdersFound": "Заказы для этого номера телефона не найдены. Пожалуйста, попробуйте ещё раз",
+    "crmChatWithAi": "Чат с ИИ",
+    "crmConnectAgain": "Подключиться снова",
+    "crmTicketClosed": "Обращение закрыто",
+    "crmWaitingForAgent": "Ожидание оператора",
+    "crmRecentChat": "Недавний чат",
+    "resetChat": "Сбросить чат",
+    "getChatTranscript": "Получить расшифровку чата",
+    "talkToAiAssistant": "Поговорить с ИИ-ассистентом",
+    "talkToAgent": "Поговорить с оператором",
+    "latestMessages": "Последние сообщения"
   }
 }

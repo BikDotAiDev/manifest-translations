@@ -287,6 +287,19 @@
     "consentResponsePaused": "تم إيقاف الرد مؤقتًا. وافق أدناه للمتابعة.",
     "consentRecorded": "سيتم تسجيل محادثتك وحفظها",
     "consentDisclosure": "بإرسال سؤال أو اختياره، فإنك توافق على تسجيل هذه المحادثة وحفظها.",
-    "askAboutThisProductPlaceholder": "اسأل عن هذا المنتج..."
+    "askAboutThisProductPlaceholder": "اسأل عن هذا المنتج...",
+    "askMore": "اسأل المزيد",
+    "proceed": "متابعة",
+    "orderFormPhoneOtpNoOrdersFound": "لم يتم العثور على طلبات لرقم الهاتف هذا. يرجى المحاولة مرة أخرى",
+    "crmChatWithAi": "تحدث مع الذكاء الاصطناعي",
+    "crmConnectAgain": "إعادة الاتصال",
+    "crmTicketClosed": "تم إغلاق التذكرة",
+    "crmWaitingForAgent": "في انتظار وكيل",
+    "crmRecentChat": "المحادثة الأخيرة",
+    "resetChat": "إعادة ضبط المحادثة",
+    "getChatTranscript": "الحصول على نص المحادثة",
+    "talkToAiAssistant": "تحدث مع المساعد الذكي",
+    "talkToAgent": "تحدث مع وكيل",
+    "latestMessages": "أحدث الرسائل"
   }
 }

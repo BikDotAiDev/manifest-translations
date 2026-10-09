@@ -303,6 +303,19 @@
     "consentResponsePaused": "Antwort pausiert. Stimmen Sie unten zu, um fortzufahren.",
     "consentRecorded": "Ihr Chat wird aufgezeichnet und gespeichert",
     "consentDisclosure": "Indem Sie eine Frage senden oder auswählen, stimmen Sie zu, dass dieser Chat aufgezeichnet und gespeichert wird.",
-    "askAboutThisProductPlaceholder": "Frage zu diesem Produkt..."
+    "askAboutThisProductPlaceholder": "Frage zu diesem Produkt...",
+    "askMore": "Mehr fragen",
+    "proceed": "Fortfahren",
+    "orderFormPhoneOtpNoOrdersFound": "Für diese Telefonnummer wurden keine Bestellungen gefunden. Bitte versuchen Sie es erneut",
+    "crmChatWithAi": "Mit KI chatten",
+    "crmConnectAgain": "Erneut verbinden",
+    "crmTicketClosed": "Ticket geschlossen",
+    "crmWaitingForAgent": "Warten auf einen Agenten",
+    "crmRecentChat": "Letzter Chat",
+    "resetChat": "Chat zurücksetzen",
+    "getChatTranscript": "Chat-Protokoll anfordern",
+    "talkToAiAssistant": "Mit dem KI-Assistenten sprechen",
+    "talkToAgent": "Mit einem Agenten sprechen",
+    "latestMessages": "Neueste Nachrichten"
   }
 }
