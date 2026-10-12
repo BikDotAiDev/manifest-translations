@@ -351,6 +351,7 @@
     "iHaveAQuestion": "ฉันมีคำถาม",
     "hallucinationResponse": "การตอบสนองที่ไม่สม่ำเสมอ",
     "AMA": "Ask me anything",
+    "askAi": "ถาม AI",
     "quickActions": "การดำเนินการด่วน",
     "directRewardNextPurchaseCoupon": "ขอบคุณที่ช้อปปิ้งกับเรา! เรามีข้อเสนออยู่ {{couponTitle}} คุณต้องการใช้ข้อเสนอนี้ในการซื้อครั้งถัดไปหรือไม่",
     "orderFormFallbackCheckTrackingPortal": "ตรวจสобที่พอร์ทัลติดตามของเรา",

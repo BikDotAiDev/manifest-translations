@@ -1,5 +1,6 @@
 {
   "translations": {
+    "askAi": "Спросить ИИ",
     "formFieldRequired": "Это поле обязательно для заполнения.",
     "formSelectAtLeastOne": "Выберите хотя бы один вариант.",
     "formValidNumber": "Введите корректное число.",
