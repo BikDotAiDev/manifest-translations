@@ -325,6 +325,15 @@
     "getChatTranscript": "Obter transcrição da conversa",
     "talkToAiAssistant": "Falar com o assistente de IA",
     "talkToAgent": "Falar com um agente",
-    "latestMessages": "Últimas mensagens"
+    "latestMessages": "Últimas mensagens",
+    "buyingFactorsReviewCount": "{{count}} avaliações",
+    "buyingFactorsReviewCountOne": "{{count}} avaliação",
+    "buyingFactorsOnlyLeft": "Restam apenas {{count}}",
+    "buyingFactorsReviews": "Avaliações",
+    "buyingFactorsAiReviewSummary": "Resumo das avaliações por IA",
+    "buyingFactorsGeneratedFromReviews": "Gerado a partir do texto das avaliações de clientes",
+    "buyingFactorsBuyersMention": "Os compradores mencionam",
+    "buyingFactorsRecentReviews": "Avaliações recentes",
+    "buyingFactorsBack": "Voltar"
   }
 }

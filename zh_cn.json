@@ -322,6 +322,15 @@
     "getChatTranscript": "获取聊天记录",
     "talkToAiAssistant": "与AI助手对话",
     "talkToAgent": "与客服对话",
-    "latestMessages": "最新消息"
+    "latestMessages": "最新消息",
+    "buyingFactorsReviewCount": "{{count}} 条评价",
+    "buyingFactorsReviewCountOne": "{{count}} 条评价",
+    "buyingFactorsOnlyLeft": "仅剩 {{count}} 件",
+    "buyingFactorsReviews": "评价",
+    "buyingFactorsAiReviewSummary": "AI 评价摘要",
+    "buyingFactorsGeneratedFromReviews": "根据顾客评价内容生成",
+    "buyingFactorsBuyersMention": "买家提到",
+    "buyingFactorsRecentReviews": "最新评价",
+    "buyingFactorsBack": "返回"
   }
 }

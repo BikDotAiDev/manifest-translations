@@ -325,6 +325,15 @@
     "getChatTranscript": "Hent chatudskrift",
     "talkToAiAssistant": "Tal med AI-assistenten",
     "talkToAgent": "Tal med en agent",
-    "latestMessages": "Seneste beskeder"
+    "latestMessages": "Seneste beskeder",
+    "buyingFactorsReviewCount": "{{count}} anmeldelser",
+    "buyingFactorsReviewCountOne": "{{count}} anmeldelse",
+    "buyingFactorsOnlyLeft": "Kun {{count}} tilbage",
+    "buyingFactorsReviews": "Anmeldelser",
+    "buyingFactorsAiReviewSummary": "AI-resumé af anmeldelser",
+    "buyingFactorsGeneratedFromReviews": "Genereret ud fra teksten i kundeanmeldelser",
+    "buyingFactorsBuyersMention": "Købere nævner",
+    "buyingFactorsRecentReviews": "Seneste anmeldelser",
+    "buyingFactorsBack": "Tilbage"
   }
 }

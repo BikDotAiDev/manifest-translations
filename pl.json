@@ -325,6 +325,15 @@
     "getChatTranscript": "Pobierz transkrypcję czatu",
     "talkToAiAssistant": "Porozmawiaj z asystentem AI",
     "talkToAgent": "Porozmawiaj z agentem",
-    "latestMessages": "Najnowsze wiadomości"
+    "latestMessages": "Najnowsze wiadomości",
+    "buyingFactorsReviewCount": "Opinie: {{count}}",
+    "buyingFactorsReviewCountOne": "{{count}} opinia",
+    "buyingFactorsOnlyLeft": "Zostało tylko {{count}}",
+    "buyingFactorsReviews": "Opinie",
+    "buyingFactorsAiReviewSummary": "Podsumowanie opinii AI",
+    "buyingFactorsGeneratedFromReviews": "Wygenerowano na podstawie treści opinii klientów",
+    "buyingFactorsBuyersMention": "Kupujący wspominają",
+    "buyingFactorsRecentReviews": "Najnowsze opinie",
+    "buyingFactorsBack": "Wstecz"
   }
 }

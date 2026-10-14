@@ -306,6 +306,15 @@
     "getChatTranscript": "取得聊天記錄",
     "talkToAiAssistant": "與AI助理對話",
     "talkToAgent": "與客服對話",
-    "latestMessages": "最新訊息"
+    "latestMessages": "最新訊息",
+    "buyingFactorsReviewCount": "{{count}} 則評價",
+    "buyingFactorsReviewCountOne": "{{count}} 則評價",
+    "buyingFactorsOnlyLeft": "僅剩 {{count}} 件",
+    "buyingFactorsReviews": "評價",
+    "buyingFactorsAiReviewSummary": "AI 評價摘要",
+    "buyingFactorsGeneratedFromReviews": "根據顧客評價內容產生",
+    "buyingFactorsBuyersMention": "買家提到",
+    "buyingFactorsRecentReviews": "最新評價",
+    "buyingFactorsBack": "返回"
   }
 }

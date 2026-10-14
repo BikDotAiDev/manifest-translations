@@ -325,6 +325,15 @@
     "getChatTranscript": "Hämta chattutskrift",
     "talkToAiAssistant": "Prata med AI-assistenten",
     "talkToAgent": "Prata med en agent",
-    "latestMessages": "Senaste meddelanden"
+    "latestMessages": "Senaste meddelanden",
+    "buyingFactorsReviewCount": "{{count}} recensioner",
+    "buyingFactorsReviewCountOne": "{{count}} recension",
+    "buyingFactorsOnlyLeft": "Bara {{count}} kvar",
+    "buyingFactorsReviews": "Recensioner",
+    "buyingFactorsAiReviewSummary": "AI-sammanfattning av recensioner",
+    "buyingFactorsGeneratedFromReviews": "Genererad från texten i kundrecensioner",
+    "buyingFactorsBuyersMention": "Köpare nämner",
+    "buyingFactorsRecentReviews": "Senaste recensioner",
+    "buyingFactorsBack": "Tillbaka"
   }
 }

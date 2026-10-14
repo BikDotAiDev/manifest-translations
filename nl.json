@@ -325,6 +325,15 @@
     "getChatTranscript": "Chattranscript opvragen",
     "talkToAiAssistant": "Praat met de AI-assistent",
     "talkToAgent": "Praat met een agent",
-    "latestMessages": "Nieuwste berichten"
+    "latestMessages": "Nieuwste berichten",
+    "buyingFactorsReviewCount": "{{count}} reviews",
+    "buyingFactorsReviewCountOne": "{{count}} review",
+    "buyingFactorsOnlyLeft": "Nog maar {{count}} over",
+    "buyingFactorsReviews": "Reviews",
+    "buyingFactorsAiReviewSummary": "AI-samenvatting van reviews",
+    "buyingFactorsGeneratedFromReviews": "Gegenereerd uit de tekst van klantreviews",
+    "buyingFactorsBuyersMention": "Kopers noemen",
+    "buyingFactorsRecentReviews": "Recente reviews",
+    "buyingFactorsBack": "Terug"
   }
 }

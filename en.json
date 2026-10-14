@@ -295,7 +295,16 @@
     "getChatTranscript": "Get chat transcript",
     "talkToAiAssistant": "Talk to AI assistant",
     "talkToAgent": "Talk to Agent",
-    "latestMessages": "Latest messages"
+    "latestMessages": "Latest messages",
+    "buyingFactorsReviewCount": "{{count}} reviews",
+    "buyingFactorsReviewCountOne": "{{count}} review",
+    "buyingFactorsOnlyLeft": "Only {{count}} left",
+    "buyingFactorsReviews": "Reviews",
+    "buyingFactorsAiReviewSummary": "AI Review summary",
+    "buyingFactorsGeneratedFromReviews": "Generated from the text from customer reviews",
+    "buyingFactorsBuyersMention": "Buyers mention",
+    "buyingFactorsRecentReviews": "Recent reviews",
+    "buyingFactorsBack": "Back"
   },
   "others": {
     "suggestedReplies": {

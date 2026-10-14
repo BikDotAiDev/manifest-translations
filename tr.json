@@ -325,6 +325,15 @@
     "getChatTranscript": "Sohbet dökümünü al",
     "talkToAiAssistant": "Yapay zeka asistanıyla konuşun",
     "talkToAgent": "Bir temsilciyle konuşun",
-    "latestMessages": "Son mesajlar"
+    "latestMessages": "Son mesajlar",
+    "buyingFactorsReviewCount": "{{count}} değerlendirme",
+    "buyingFactorsReviewCountOne": "{{count}} değerlendirme",
+    "buyingFactorsOnlyLeft": "Yalnızca {{count}} adet kaldı",
+    "buyingFactorsReviews": "Değerlendirmeler",
+    "buyingFactorsAiReviewSummary": "Yapay zeka değerlendirme özeti",
+    "buyingFactorsGeneratedFromReviews": "Müşteri değerlendirmelerinin metninden oluşturuldu",
+    "buyingFactorsBuyersMention": "Alıcıların bahsettikleri",
+    "buyingFactorsRecentReviews": "Son değerlendirmeler",
+    "buyingFactorsBack": "Geri"
   }
 }

@@ -348,7 +348,16 @@
     "getChatTranscript": "Preuzmi transkript razgovora",
     "talkToAiAssistant": "Razgovarajte s AI asistentom",
     "talkToAgent": "Razgovarajte s agentom",
-    "latestMessages": "Najnovije poruke"
+    "latestMessages": "Najnovije poruke",
+    "buyingFactorsReviewCount": "{{count}} recenzija",
+    "buyingFactorsReviewCountOne": "{{count}} recenzija",
+    "buyingFactorsOnlyLeft": "Još samo {{count}}",
+    "buyingFactorsReviews": "Recenzije",
+    "buyingFactorsAiReviewSummary": "AI sažetak recenzija",
+    "buyingFactorsGeneratedFromReviews": "Generirano iz teksta recenzija kupaca",
+    "buyingFactorsBuyersMention": "Kupci spominju",
+    "buyingFactorsRecentReviews": "Najnovije recenzije",
+    "buyingFactorsBack": "Natrag"
   },
   "others": {
     "popUpMessages": {
