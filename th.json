@@ -528,7 +528,19 @@
     "getChatTranscript": "ขอบันทึกการสนทนา",
     "talkToAiAssistant": "คุยกับผู้ช่วย AI",
     "talkToAgent": "พูดคุยกับเอเจนต์",
-    "latestMessages": "ข้อความล่าสุด"
+    "latestMessages": "ข้อความล่าสุด",
+    "buyingFactorsReviewCount": "{{count}} รีวิว",
+    "buyingFactorsReviewCountOne": "{{count}} รีวิว",
+    "buyingFactorsOnlyLeft": "เหลือเพียง {{count}} ชิ้น",
+    "buyingFactorsBestseller": "สินค้าขายดี",
+    "buyingFactorsBoughtThisWeek": "มีผู้ซื้อ {{count}} คนในสัปดาห์นี้",
+    "buyingFactorsBoughtThisWeekOne": "มีผู้ซื้อ {{count}} คนในสัปดาห์นี้",
+    "buyingFactorsReviews": "รีวิว",
+    "buyingFactorsAiReviewSummary": "สรุปรีวิวโดย AI",
+    "buyingFactorsGeneratedFromReviews": "สร้างจากข้อความในรีวิวของลูกค้า",
+    "buyingFactorsBuyersMention": "ผู้ซื้อกล่าวถึง",
+    "buyingFactorsRecentReviews": "รีวิวล่าสุด",
+    "buyingFactorsBack": "ย้อนกลับ"
   },
   "others": {
     "popUpMessages": {

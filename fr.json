@@ -313,6 +313,18 @@
     "getChatTranscript": "Obtenir la transcription de la conversation",
     "talkToAiAssistant": "Parler à l'assistant IA",
     "talkToAgent": "Parler à un agent",
-    "latestMessages": "Derniers messages"
+    "latestMessages": "Derniers messages",
+    "buyingFactorsReviewCount": "{{count}} avis",
+    "buyingFactorsReviewCountOne": "{{count}} avis",
+    "buyingFactorsOnlyLeft": "Plus que {{count}} en stock",
+    "buyingFactorsBestseller": "Meilleure vente",
+    "buyingFactorsBoughtThisWeek": "{{count}} personnes l'ont acheté cette semaine",
+    "buyingFactorsBoughtThisWeekOne": "{{count}} personne l'a acheté cette semaine",
+    "buyingFactorsReviews": "Avis",
+    "buyingFactorsAiReviewSummary": "Résumé des avis par IA",
+    "buyingFactorsGeneratedFromReviews": "Généré à partir du texte des avis clients",
+    "buyingFactorsBuyersMention": "Les acheteurs mentionnent",
+    "buyingFactorsRecentReviews": "Avis récents",
+    "buyingFactorsBack": "Retour"
   }
 }

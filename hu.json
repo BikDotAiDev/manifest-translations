@@ -325,6 +325,18 @@
     "getChatTranscript": "Beszélgetés átiratának lekérése",
     "talkToAiAssistant": "Beszélj az AI-asszisztenssel",
     "talkToAgent": "Beszélj egy ügynökkel",
-    "latestMessages": "Legújabb üzenetek"
+    "latestMessages": "Legújabb üzenetek",
+    "buyingFactorsReviewCount": "{{count}} értékelés",
+    "buyingFactorsReviewCountOne": "{{count}} értékelés",
+    "buyingFactorsOnlyLeft": "Már csak {{count}} db",
+    "buyingFactorsBestseller": "Bestseller",
+    "buyingFactorsBoughtThisWeek": "{{count}} ember vásárolta meg ezen a héten",
+    "buyingFactorsBoughtThisWeekOne": "{{count}} ember vásárolta meg ezen a héten",
+    "buyingFactorsReviews": "Értékelések",
+    "buyingFactorsAiReviewSummary": "MI-összefoglaló az értékelésekről",
+    "buyingFactorsGeneratedFromReviews": "A vásárlói értékelések szövege alapján készült",
+    "buyingFactorsBuyersMention": "A vásárlók említik",
+    "buyingFactorsRecentReviews": "Legutóbbi értékelések",
+    "buyingFactorsBack": "Vissza"
   }
 }

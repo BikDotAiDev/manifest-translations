@@ -309,6 +309,18 @@
     "getChatTranscript": "الحصول على نص المحادثة",
     "talkToAiAssistant": "تحدث مع المساعد الذكي",
     "talkToAgent": "تحدث مع وكيل",
-    "latestMessages": "أحدث الرسائل"
+    "latestMessages": "أحدث الرسائل",
+    "buyingFactorsReviewCount": "{{count}} تقييمات",
+    "buyingFactorsReviewCountOne": "{{count}} تقييم",
+    "buyingFactorsOnlyLeft": "متبقٍ {{count}} فقط",
+    "buyingFactorsBestseller": "الأكثر مبيعًا",
+    "buyingFactorsBoughtThisWeek": "اشترى {{count}} شخصًا هذا المنتج هذا الأسبوع",
+    "buyingFactorsBoughtThisWeekOne": "اشترى {{count}} شخص هذا المنتج هذا الأسبوع",
+    "buyingFactorsReviews": "التقييمات",
+    "buyingFactorsAiReviewSummary": "ملخص التقييمات بالذكاء الاصطناعي",
+    "buyingFactorsGeneratedFromReviews": "تم إنشاؤه من نصوص تقييمات العملاء",
+    "buyingFactorsBuyersMention": "يذكر المشترون",
+    "buyingFactorsRecentReviews": "أحدث التقييمات",
+    "buyingFactorsBack": "رجوع"
   }
 }

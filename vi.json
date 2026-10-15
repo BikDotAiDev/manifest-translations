@@ -325,6 +325,18 @@
     "getChatTranscript": "Nhận bản ghi cuộc trò chuyện",
     "talkToAiAssistant": "Trò chuyện với trợ lý AI",
     "talkToAgent": "Trò chuyện với nhân viên hỗ trợ",
-    "latestMessages": "Tin nhắn mới nhất"
+    "latestMessages": "Tin nhắn mới nhất",
+    "buyingFactorsReviewCount": "{{count}} đánh giá",
+    "buyingFactorsReviewCountOne": "{{count}} đánh giá",
+    "buyingFactorsOnlyLeft": "Chỉ còn {{count}} sản phẩm",
+    "buyingFactorsBestseller": "Bán chạy",
+    "buyingFactorsBoughtThisWeek": "{{count}} người đã mua trong tuần này",
+    "buyingFactorsBoughtThisWeekOne": "{{count}} người đã mua trong tuần này",
+    "buyingFactorsReviews": "Đánh giá",
+    "buyingFactorsAiReviewSummary": "Tóm tắt đánh giá bằng AI",
+    "buyingFactorsGeneratedFromReviews": "Được tạo từ nội dung đánh giá của khách hàng",
+    "buyingFactorsBuyersMention": "Người mua nhắc đến",
+    "buyingFactorsRecentReviews": "Đánh giá gần đây",
+    "buyingFactorsBack": "Quay lại"
   }
 }

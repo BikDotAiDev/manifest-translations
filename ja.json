@@ -326,6 +326,18 @@
     "getChatTranscript": "チャットの記録を取得",
     "talkToAiAssistant": "AIアシスタントと話す",
     "talkToAgent": "エージェントと話す",
-    "latestMessages": "最新のメッセージ"
+    "latestMessages": "最新のメッセージ",
+    "buyingFactorsReviewCount": "{{count}}件のレビュー",
+    "buyingFactorsReviewCountOne": "{{count}}件のレビュー",
+    "buyingFactorsOnlyLeft": "残り{{count}}点",
+    "buyingFactorsBestseller": "ベストセラー",
+    "buyingFactorsBoughtThisWeek": "今週{{count}}人が購入しました",
+    "buyingFactorsBoughtThisWeekOne": "今週{{count}}人が購入しました",
+    "buyingFactorsReviews": "レビュー",
+    "buyingFactorsAiReviewSummary": "AIレビュー要約",
+    "buyingFactorsGeneratedFromReviews": "お客様のレビュー本文から生成",
+    "buyingFactorsBuyersMention": "購入者の声",
+    "buyingFactorsRecentReviews": "最新のレビュー",
+    "buyingFactorsBack": "戻る"
   }
 }

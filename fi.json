@@ -325,6 +325,18 @@
     "getChatTranscript": "Hae keskustelun tallenne",
     "talkToAiAssistant": "Keskustele tekoälyavustajan kanssa",
     "talkToAgent": "Keskustele asiakaspalvelijan kanssa",
-    "latestMessages": "Uusimmat viestit"
+    "latestMessages": "Uusimmat viestit",
+    "buyingFactorsReviewCount": "{{count}} arvostelua",
+    "buyingFactorsReviewCountOne": "{{count}} arvostelu",
+    "buyingFactorsOnlyLeft": "Vain {{count}} jäljellä",
+    "buyingFactorsBestseller": "Myydyin",
+    "buyingFactorsBoughtThisWeek": "{{count}} henkilöä osti tämän tällä viikolla",
+    "buyingFactorsBoughtThisWeekOne": "{{count}} henkilö osti tämän tällä viikolla",
+    "buyingFactorsReviews": "Arvostelut",
+    "buyingFactorsAiReviewSummary": "Tekoälyn yhteenveto arvosteluista",
+    "buyingFactorsGeneratedFromReviews": "Luotu asiakasarvostelujen tekstistä",
+    "buyingFactorsBuyersMention": "Ostajat mainitsevat",
+    "buyingFactorsRecentReviews": "Uusimmat arvostelut",
+    "buyingFactorsBack": "Takaisin"
   }
 }

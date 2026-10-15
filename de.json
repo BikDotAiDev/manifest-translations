@@ -325,6 +325,18 @@
     "getChatTranscript": "Chat-Protokoll anfordern",
     "talkToAiAssistant": "Mit dem KI-Assistenten sprechen",
     "talkToAgent": "Mit einem Agenten sprechen",
-    "latestMessages": "Neueste Nachrichten"
+    "latestMessages": "Neueste Nachrichten",
+    "buyingFactorsReviewCount": "{{count}} Bewertungen",
+    "buyingFactorsReviewCountOne": "{{count}} Bewertung",
+    "buyingFactorsOnlyLeft": "Nur noch {{count}} verfügbar",
+    "buyingFactorsBestseller": "Bestseller",
+    "buyingFactorsBoughtThisWeek": "{{count}} Personen haben das diese Woche gekauft",
+    "buyingFactorsBoughtThisWeekOne": "{{count}} Person hat das diese Woche gekauft",
+    "buyingFactorsReviews": "Bewertungen",
+    "buyingFactorsAiReviewSummary": "KI-Zusammenfassung der Bewertungen",
+    "buyingFactorsGeneratedFromReviews": "Erstellt aus dem Text von Kundenbewertungen",
+    "buyingFactorsBuyersMention": "Käufer erwähnen",
+    "buyingFactorsRecentReviews": "Neueste Bewertungen",
+    "buyingFactorsBack": "Zurück"
   }
 }

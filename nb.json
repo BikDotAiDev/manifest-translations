@@ -325,6 +325,18 @@
     "getChatTranscript": "Hent chatutskrift",
     "talkToAiAssistant": "Snakk med AI-assistenten",
     "talkToAgent": "Snakk med en agent",
-    "latestMessages": "Siste meldinger"
+    "latestMessages": "Siste meldinger",
+    "buyingFactorsReviewCount": "{{count}} anmeldelser",
+    "buyingFactorsReviewCountOne": "{{count}} anmeldelse",
+    "buyingFactorsOnlyLeft": "Bare {{count}} igjen",
+    "buyingFactorsBestseller": "Bestselger",
+    "buyingFactorsBoughtThisWeek": "{{count}} personer kjøpte denne denne uken",
+    "buyingFactorsBoughtThisWeekOne": "{{count}} person kjøpte denne denne uken",
+    "buyingFactorsReviews": "Anmeldelser",
+    "buyingFactorsAiReviewSummary": "AI-sammendrag av anmeldelser",
+    "buyingFactorsGeneratedFromReviews": "Generert fra teksten i kundeanmeldelser",
+    "buyingFactorsBuyersMention": "Kjøpere nevner",
+    "buyingFactorsRecentReviews": "Nyeste anmeldelser",
+    "buyingFactorsBack": "Tilbake"
   }
 }

@@ -111,6 +111,18 @@
     "getChatTranscript": "Получить расшифровку чата",
     "talkToAiAssistant": "Поговорить с ИИ-ассистентом",
     "talkToAgent": "Поговорить с оператором",
-    "latestMessages": "Последние сообщения"
+    "latestMessages": "Последние сообщения",
+    "buyingFactorsReviewCount": "Отзывов: {{count}}",
+    "buyingFactorsReviewCountOne": "{{count}} отзыв",
+    "buyingFactorsOnlyLeft": "Осталось всего {{count}}",
+    "buyingFactorsBestseller": "Бестселлер",
+    "buyingFactorsBoughtThisWeek": "{{count}} покупателей купили на этой неделе",
+    "buyingFactorsBoughtThisWeekOne": "{{count}} покупатель купил на этой неделе",
+    "buyingFactorsReviews": "Отзывы",
+    "buyingFactorsAiReviewSummary": "ИИ-сводка отзывов",
+    "buyingFactorsGeneratedFromReviews": "Создано на основе текста отзывов покупателей",
+    "buyingFactorsBuyersMention": "Покупатели отмечают",
+    "buyingFactorsRecentReviews": "Последние отзывы",
+    "buyingFactorsBack": "Назад"
   }
 }
