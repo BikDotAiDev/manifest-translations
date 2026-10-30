@@ -127,6 +127,11 @@
     "a11yCartWithCount": "Корзина, товаров: {{count}}",
     "a11ySimilarProducts": "Показать похожие товары",
     "a11yScrollLeft": "Прокрутить влево",
-    "a11yScrollRight": "Прокрутить вправо"
+    "a11yScrollRight": "Прокрутить вправо",
+    "a11yTypeMessage": "Введите сообщение",
+    "a11ySendMessage": "Отправить сообщение",
+    "a11yAskQuestion": "Задать вопрос",
+    "a11yMoreActions": "Другие действия",
+    "a11yCloseMenu": "Закрыть меню"
   }
 }

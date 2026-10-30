@@ -341,6 +341,11 @@
     "a11yCartWithCount": "Sepet, {{count}} ürün",
     "a11ySimilarProducts": "Benzer ürünleri göster",
     "a11yScrollLeft": "Sola kaydır",
-    "a11yScrollRight": "Sağa kaydır"
+    "a11yScrollRight": "Sağa kaydır",
+    "a11yTypeMessage": "Mesajınızı yazın",
+    "a11ySendMessage": "Mesaj gönder",
+    "a11yAskQuestion": "Soru sor",
+    "a11yMoreActions": "Diğer işlemler",
+    "a11yCloseMenu": "Menüyü kapat"
   }
 }

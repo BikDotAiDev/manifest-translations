@@ -544,7 +544,12 @@
     "a11yCartWithCount": "รถเข็น, สินค้า {{count}} รายการ",
     "a11ySimilarProducts": "แสดงผลิตภัณฑ์ที่คล้ายกัน",
     "a11yScrollLeft": "เลื่อนไปทางซ้าย",
-    "a11yScrollRight": "เลื่อนไปทางขวา"
+    "a11yScrollRight": "เลื่อนไปทางขวา",
+    "a11yTypeMessage": "พิมพ์ข้อความของคุณ",
+    "a11ySendMessage": "ส่งข้อความ",
+    "a11yAskQuestion": "ถามคำถาม",
+    "a11yMoreActions": "การดำเนินการเพิ่มเติม",
+    "a11yCloseMenu": "ปิดเมนู"
   },
   "others": {
     "popUpMessages": {

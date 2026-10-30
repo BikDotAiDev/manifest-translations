@@ -341,6 +341,11 @@
     "a11yCartWithCount": "Winkelwagen, {{count}} artikelen",
     "a11ySimilarProducts": "Vergelijkbare producten tonen",
     "a11yScrollLeft": "Naar links scrollen",
-    "a11yScrollRight": "Naar rechts scrollen"
+    "a11yScrollRight": "Naar rechts scrollen",
+    "a11yTypeMessage": "Typ je bericht",
+    "a11ySendMessage": "Bericht verzenden",
+    "a11yAskQuestion": "Stel een vraag",
+    "a11yMoreActions": "Meer acties",
+    "a11yCloseMenu": "Menu sluiten"
   }
 }

@@ -341,6 +341,11 @@
     "a11yCartWithCount": "Giỏ hàng, {{count}} sản phẩm",
     "a11ySimilarProducts": "Xem các sản phẩm tương tự",
     "a11yScrollLeft": "Cuộn sang trái",
-    "a11yScrollRight": "Cuộn sang phải"
+    "a11yScrollRight": "Cuộn sang phải",
+    "a11yTypeMessage": "Nhập tin nhắn của bạn",
+    "a11ySendMessage": "Gửi tin nhắn",
+    "a11yAskQuestion": "Đặt câu hỏi",
+    "a11yMoreActions": "Thêm thao tác",
+    "a11yCloseMenu": "Đóng menu"
   }
 }

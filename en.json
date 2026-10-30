@@ -311,7 +311,12 @@
     "a11yCartWithCount": "Cart, {{count}} items",
     "a11ySimilarProducts": "Show similar products",
     "a11yScrollLeft": "Scroll left",
-    "a11yScrollRight": "Scroll right"
+    "a11yScrollRight": "Scroll right",
+    "a11yTypeMessage": "Type your message",
+    "a11ySendMessage": "Send message",
+    "a11yAskQuestion": "Ask a question",
+    "a11yMoreActions": "More actions",
+    "a11yCloseMenu": "Close menu"
   },
   "others": {
     "suggestedReplies": {
