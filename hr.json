@@ -348,7 +348,23 @@
     "getChatTranscript": "Preuzmi transkript razgovora",
     "talkToAiAssistant": "Razgovarajte s AI asistentom",
     "talkToAgent": "Razgovarajte s agentom",
-    "latestMessages": "Najnovije poruke"
+    "latestMessages": "Najnovije poruke",
+    "a11yOpenChat": "Otvori chat",
+    "a11yClose": "Zatvori",
+    "a11yBack": "Natrag",
+    "a11yExpand": "Proširi",
+    "a11yMinimize": "Smanji",
+    "a11ySubmit": "Pošalji",
+    "a11yChatOptions": "Opcije chata",
+    "a11yAddAttachment": "Dodaj privitak",
+    "a11yAddImage": "Dodaj sliku",
+    "a11yRemoveAttachment": "Ukloni privitak",
+    "a11yClearSearch": "Očisti pretraživanje",
+    "a11yCopyCode": "Kopiraj kod",
+    "a11yCartWithCount": "Košarica, broj artikala: {{count}}",
+    "a11ySimilarProducts": "Prikaži slične proizvode",
+    "a11yScrollLeft": "Pomakni ulijevo",
+    "a11yScrollRight": "Pomakni udesno"
   },
   "others": {
     "popUpMessages": {

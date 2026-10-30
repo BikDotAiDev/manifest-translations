@@ -295,7 +295,23 @@
     "getChatTranscript": "Get chat transcript",
     "talkToAiAssistant": "Talk to AI assistant",
     "talkToAgent": "Talk to Agent",
-    "latestMessages": "Latest messages"
+    "latestMessages": "Latest messages",
+    "a11yOpenChat": "Open chat",
+    "a11yClose": "Close",
+    "a11yBack": "Back",
+    "a11yExpand": "Expand",
+    "a11yMinimize": "Minimize",
+    "a11ySubmit": "Submit",
+    "a11yChatOptions": "Chat options",
+    "a11yAddAttachment": "Add attachment",
+    "a11yAddImage": "Add image",
+    "a11yRemoveAttachment": "Remove attachment",
+    "a11yClearSearch": "Clear search",
+    "a11yCopyCode": "Copy code",
+    "a11yCartWithCount": "Cart, {{count}} items",
+    "a11ySimilarProducts": "Show similar products",
+    "a11yScrollLeft": "Scroll left",
+    "a11yScrollRight": "Scroll right"
   },
   "others": {
     "suggestedReplies": {

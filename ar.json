@@ -309,6 +309,22 @@
     "getChatTranscript": "الحصول على نص المحادثة",
     "talkToAiAssistant": "تحدث مع المساعد الذكي",
     "talkToAgent": "تحدث مع وكيل",
-    "latestMessages": "أحدث الرسائل"
+    "latestMessages": "أحدث الرسائل",
+    "a11yOpenChat": "فتح الدردشة",
+    "a11yClose": "إغلاق",
+    "a11yBack": "رجوع",
+    "a11yExpand": "توسيع",
+    "a11yMinimize": "تصغير",
+    "a11ySubmit": "تقديم",
+    "a11yChatOptions": "خيارات الدردشة",
+    "a11yAddAttachment": "إضافة مرفق",
+    "a11yAddImage": "إضافة صورة",
+    "a11yRemoveAttachment": "إزالة المرفق",
+    "a11yClearSearch": "مسح البحث",
+    "a11yCopyCode": "نسخ الكود",
+    "a11yCartWithCount": "السلة، عدد المنتجات: {{count}}",
+    "a11ySimilarProducts": "عرض منتجات مشابهة",
+    "a11yScrollLeft": "التمرير لليسار",
+    "a11yScrollRight": "التمرير لليمين"
   }
 }
