@@ -346,6 +346,15 @@
     "a11ySendMessage": "Lähetä viesti",
     "a11yAskQuestion": "Esitä kysymys",
     "a11yMoreActions": "Lisää toimintoja",
-    "a11yCloseMenu": "Sulje valikko"
+    "a11yCloseMenu": "Sulje valikko",
+    "a11yConversation": "Keskustelu",
+    "a11yAssistantTyping": "Avustaja kirjoittaa",
+    "a11yNamedAssistantTyping": "{{name}} kirjoittaa",
+    "a11yReconnected": "Yhteys palautettu",
+    "a11yAddedToCart": "Lisätty ostoskoriin",
+    "a11yChatWindow": "Chat: {{name}}",
+    "a11yChatFrameTitle": "Chat-avustaja",
+    "a11yChatFrameTitleWithStore": "Kaupan {{storeName}} chat-avustaja",
+    "a11ySearchOptions": "Hae vaihtoehdoista"
   }
 }

@@ -346,6 +346,15 @@
     "a11ySendMessage": "Trimite mesajul",
     "a11yAskQuestion": "Pune o întrebare",
     "a11yMoreActions": "Mai multe acțiuni",
-    "a11yCloseMenu": "Închide meniul"
+    "a11yCloseMenu": "Închide meniul",
+    "a11yConversation": "Conversație",
+    "a11yAssistantTyping": "Asistentul scrie",
+    "a11yNamedAssistantTyping": "{{name}} scrie",
+    "a11yReconnected": "Reconectat",
+    "a11yAddedToCart": "Adăugat în coș",
+    "a11yChatWindow": "Chat cu {{name}}",
+    "a11yChatFrameTitle": "Asistent de chat",
+    "a11yChatFrameTitleWithStore": "Chat cu asistentul {{storeName}}",
+    "a11ySearchOptions": "Caută în opțiuni"
   }
 }

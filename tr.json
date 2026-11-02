@@ -346,6 +346,15 @@
     "a11ySendMessage": "Mesaj gönder",
     "a11yAskQuestion": "Soru sor",
     "a11yMoreActions": "Diğer işlemler",
-    "a11yCloseMenu": "Menüyü kapat"
+    "a11yCloseMenu": "Menüyü kapat",
+    "a11yConversation": "Sohbet",
+    "a11yAssistantTyping": "Asistan yazıyor",
+    "a11yNamedAssistantTyping": "{{name}} yazıyor",
+    "a11yReconnected": "Yeniden bağlandı",
+    "a11yAddedToCart": "Sepete eklendi",
+    "a11yChatWindow": "{{name}} ile sohbet",
+    "a11yChatFrameTitle": "Sohbet asistanı",
+    "a11yChatFrameTitleWithStore": "{{storeName}} sohbet asistanı",
+    "a11ySearchOptions": "Seçeneklerde ara"
   }
 }

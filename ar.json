@@ -330,6 +330,15 @@
     "a11ySendMessage": "إرسال الرسالة",
     "a11yAskQuestion": "اطرح سؤالاً",
     "a11yMoreActions": "مزيد من الإجراءات",
-    "a11yCloseMenu": "إغلاق القائمة"
+    "a11yCloseMenu": "إغلاق القائمة",
+    "a11yConversation": "المحادثة",
+    "a11yAssistantTyping": "المساعد يكتب",
+    "a11yNamedAssistantTyping": "{{name}} يكتب",
+    "a11yReconnected": "تمت إعادة الاتصال",
+    "a11yAddedToCart": "تمت الإضافة إلى السلة",
+    "a11yChatWindow": "الدردشة مع {{name}}",
+    "a11yChatFrameTitle": "مساعد الدردشة",
+    "a11yChatFrameTitleWithStore": "الدردشة مع مساعد {{storeName}}",
+    "a11ySearchOptions": "البحث في الخيارات"
   }
 }

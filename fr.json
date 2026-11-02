@@ -334,6 +334,15 @@
     "a11ySendMessage": "Envoyer le message",
     "a11yAskQuestion": "Poser une question",
     "a11yMoreActions": "Plus d'actions",
-    "a11yCloseMenu": "Fermer le menu"
+    "a11yCloseMenu": "Fermer le menu",
+    "a11yConversation": "Conversation",
+    "a11yAssistantTyping": "L'assistant écrit",
+    "a11yNamedAssistantTyping": "{{name}} écrit",
+    "a11yReconnected": "Reconnecté",
+    "a11yAddedToCart": "Ajouté au panier",
+    "a11yChatWindow": "Chat avec {{name}}",
+    "a11yChatFrameTitle": "Assistant de chat",
+    "a11yChatFrameTitleWithStore": "Chat avec l'assistant de {{storeName}}",
+    "a11ySearchOptions": "Rechercher parmi les options"
   }
 }

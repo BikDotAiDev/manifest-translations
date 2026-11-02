@@ -132,6 +132,15 @@
     "a11ySendMessage": "Отправить сообщение",
     "a11yAskQuestion": "Задать вопрос",
     "a11yMoreActions": "Другие действия",
-    "a11yCloseMenu": "Закрыть меню"
+    "a11yCloseMenu": "Закрыть меню",
+    "a11yConversation": "Диалог",
+    "a11yAssistantTyping": "Ассистент печатает",
+    "a11yNamedAssistantTyping": "{{name}} печатает",
+    "a11yReconnected": "Соединение восстановлено",
+    "a11yAddedToCart": "Добавлено в корзину",
+    "a11yChatWindow": "Чат: {{name}}",
+    "a11yChatFrameTitle": "Чат-ассистент",
+    "a11yChatFrameTitleWithStore": "Чат-ассистент магазина {{storeName}}",
+    "a11ySearchOptions": "Поиск по вариантам"
   }
 }

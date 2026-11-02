@@ -347,6 +347,15 @@
     "a11ySendMessage": "メッセージを送信",
     "a11yAskQuestion": "質問する",
     "a11yMoreActions": "その他の操作",
-    "a11yCloseMenu": "メニューを閉じる"
+    "a11yCloseMenu": "メニューを閉じる",
+    "a11yConversation": "会話",
+    "a11yAssistantTyping": "アシスタントが入力中",
+    "a11yNamedAssistantTyping": "{{name}}が入力中",
+    "a11yReconnected": "再接続しました",
+    "a11yAddedToCart": "カートに追加しました",
+    "a11yChatWindow": "{{name}}とのチャット",
+    "a11yChatFrameTitle": "チャットアシスタント",
+    "a11yChatFrameTitleWithStore": "{{storeName}}のチャットアシスタント",
+    "a11ySearchOptions": "オプションを検索"
   }
 }

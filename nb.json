@@ -346,6 +346,15 @@
     "a11ySendMessage": "Send melding",
     "a11yAskQuestion": "Still et spørsmål",
     "a11yMoreActions": "Flere handlinger",
-    "a11yCloseMenu": "Lukk menyen"
+    "a11yCloseMenu": "Lukk menyen",
+    "a11yConversation": "Samtale",
+    "a11yAssistantTyping": "Assistenten skriver",
+    "a11yNamedAssistantTyping": "{{name}} skriver",
+    "a11yReconnected": "Tilkoblet igjen",
+    "a11yAddedToCart": "Lagt i handlekurven",
+    "a11yChatWindow": "Chat med {{name}}",
+    "a11yChatFrameTitle": "Chatassistent",
+    "a11yChatFrameTitleWithStore": "Chat med assistenten til {{storeName}}",
+    "a11ySearchOptions": "Søk i alternativer"
   }
 }

@@ -346,6 +346,15 @@
     "a11ySendMessage": "Nachricht senden",
     "a11yAskQuestion": "Frage stellen",
     "a11yMoreActions": "Weitere Aktionen",
-    "a11yCloseMenu": "Menü schließen"
+    "a11yCloseMenu": "Menü schließen",
+    "a11yConversation": "Unterhaltung",
+    "a11yAssistantTyping": "Assistent schreibt",
+    "a11yNamedAssistantTyping": "{{name}} schreibt",
+    "a11yReconnected": "Wieder verbunden",
+    "a11yAddedToCart": "Zum Warenkorb hinzugefügt",
+    "a11yChatWindow": "Chat mit {{name}}",
+    "a11yChatFrameTitle": "Chat-Assistent",
+    "a11yChatFrameTitleWithStore": "Chat mit dem Assistenten von {{storeName}}",
+    "a11ySearchOptions": "Optionen durchsuchen"
   }
 }
