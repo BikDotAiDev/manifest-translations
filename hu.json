@@ -341,6 +341,11 @@
     "a11yCartWithCount": "Kosár, {{count}} termék",
     "a11ySimilarProducts": "Hasonló termékek megjelenítése",
     "a11yScrollLeft": "Görgetés balra",
-    "a11yScrollRight": "Görgetés jobbra"
+    "a11yScrollRight": "Görgetés jobbra",
+    "a11yTypeMessage": "Írd be az üzeneted",
+    "a11ySendMessage": "Üzenet küldése",
+    "a11yAskQuestion": "Tegyél fel egy kérdést",
+    "a11yMoreActions": "További műveletek",
+    "a11yCloseMenu": "Menü bezárása"
   }
 }

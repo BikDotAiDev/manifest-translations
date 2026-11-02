@@ -364,7 +364,12 @@
     "a11yCartWithCount": "Košarica, broj artikala: {{count}}",
     "a11ySimilarProducts": "Prikaži slične proizvode",
     "a11yScrollLeft": "Pomakni ulijevo",
-    "a11yScrollRight": "Pomakni udesno"
+    "a11yScrollRight": "Pomakni udesno",
+    "a11yTypeMessage": "Upišite svoju poruku",
+    "a11ySendMessage": "Pošalji poruku",
+    "a11yAskQuestion": "Postavite pitanje",
+    "a11yMoreActions": "Više radnji",
+    "a11yCloseMenu": "Zatvori izbornik"
   },
   "others": {
     "popUpMessages": {

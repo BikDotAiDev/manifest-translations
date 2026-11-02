@@ -338,6 +338,11 @@
     "a11yCartWithCount": "购物车，{{count}} 件商品",
     "a11ySimilarProducts": "查看类似产品",
     "a11yScrollLeft": "向左滚动",
-    "a11yScrollRight": "向右滚动"
+    "a11yScrollRight": "向右滚动",
+    "a11yTypeMessage": "输入您的消息",
+    "a11ySendMessage": "发送消息",
+    "a11yAskQuestion": "提出问题",
+    "a11yMoreActions": "更多操作",
+    "a11yCloseMenu": "关闭菜单"
   }
 }

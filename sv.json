@@ -341,6 +341,11 @@
     "a11yCartWithCount": "Kundvagn, {{count}} varor",
     "a11ySimilarProducts": "Visa liknande produkter",
     "a11yScrollLeft": "Scrolla åt vänster",
-    "a11yScrollRight": "Scrolla åt höger"
+    "a11yScrollRight": "Scrolla åt höger",
+    "a11yTypeMessage": "Skriv ditt meddelande",
+    "a11ySendMessage": "Skicka meddelande",
+    "a11yAskQuestion": "Ställ en fråga",
+    "a11yMoreActions": "Fler åtgärder",
+    "a11yCloseMenu": "Stäng menyn"
   }
 }

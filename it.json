@@ -341,6 +341,11 @@
     "a11yCartWithCount": "Carrello, {{count}} articoli",
     "a11ySimilarProducts": "Mostra prodotti simili",
     "a11yScrollLeft": "Scorri a sinistra",
-    "a11yScrollRight": "Scorri a destra"
+    "a11yScrollRight": "Scorri a destra",
+    "a11yTypeMessage": "Scrivi il tuo messaggio",
+    "a11ySendMessage": "Invia messaggio",
+    "a11yAskQuestion": "Fai una domanda",
+    "a11yMoreActions": "Altre azioni",
+    "a11yCloseMenu": "Chiudi menu"
   }
 }

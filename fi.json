@@ -341,6 +341,11 @@
     "a11yCartWithCount": "Ostoskori, tuotteita: {{count}}",
     "a11ySimilarProducts": "Näytä samankaltaiset tuotteet",
     "a11yScrollLeft": "Vieritä vasemmalle",
-    "a11yScrollRight": "Vieritä oikealle"
+    "a11yScrollRight": "Vieritä oikealle",
+    "a11yTypeMessage": "Kirjoita viestisi",
+    "a11ySendMessage": "Lähetä viesti",
+    "a11yAskQuestion": "Esitä kysymys",
+    "a11yMoreActions": "Lisää toimintoja",
+    "a11yCloseMenu": "Sulje valikko"
   }
 }

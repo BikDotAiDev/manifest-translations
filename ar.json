@@ -325,6 +325,11 @@
     "a11yCartWithCount": "السلة، عدد المنتجات: {{count}}",
     "a11ySimilarProducts": "عرض منتجات مشابهة",
     "a11yScrollLeft": "التمرير لليسار",
-    "a11yScrollRight": "التمرير لليمين"
+    "a11yScrollRight": "التمرير لليمين",
+    "a11yTypeMessage": "اكتب رسالتك",
+    "a11ySendMessage": "إرسال الرسالة",
+    "a11yAskQuestion": "اطرح سؤالاً",
+    "a11yMoreActions": "مزيد من الإجراءات",
+    "a11yCloseMenu": "إغلاق القائمة"
   }
 }

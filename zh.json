@@ -341,6 +341,11 @@
     "a11yCartWithCount": "購物車，{{count}} 件商品",
     "a11ySimilarProducts": "查看類似產品",
     "a11yScrollLeft": "向左捲動",
-    "a11yScrollRight": "向右捲動"
+    "a11yScrollRight": "向右捲動",
+    "a11yTypeMessage": "輸入您的訊息",
+    "a11ySendMessage": "傳送訊息",
+    "a11yAskQuestion": "提出問題",
+    "a11yMoreActions": "更多操作",
+    "a11yCloseMenu": "關閉選單"
   }
 }

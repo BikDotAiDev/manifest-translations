@@ -341,6 +341,11 @@
     "a11yCartWithCount": "Indkøbsvogn, {{count}} varer",
     "a11ySimilarProducts": "Vis lignende produkter",
     "a11yScrollLeft": "Rul til venstre",
-    "a11yScrollRight": "Rul til højre"
+    "a11yScrollRight": "Rul til højre",
+    "a11yTypeMessage": "Skriv din besked",
+    "a11ySendMessage": "Send besked",
+    "a11yAskQuestion": "Stil et spørgsmål",
+    "a11yMoreActions": "Flere handlinger",
+    "a11yCloseMenu": "Luk menu"
   }
 }
