@@ -141,6 +141,8 @@
     "a11yChatWindow": "Чат: {{name}}",
     "a11yChatFrameTitle": "Чат-ассистент",
     "a11yChatFrameTitleWithStore": "Чат-ассистент магазина {{storeName}}",
-    "a11ySearchOptions": "Поиск по вариантам"
+    "a11ySearchOptions": "Поиск по вариантам",
+    "imageUploadPending": "Изображение загружается",
+    "askSomethingElse": "Спросить о другом"
   }
 }

@@ -378,7 +378,9 @@
     "a11yChatWindow": "Chat: {{name}}",
     "a11yChatFrameTitle": "Chat asistent",
     "a11yChatFrameTitleWithStore": "Chat asistent trgovine {{storeName}}",
-    "a11ySearchOptions": "Pretraži opcije"
+    "a11ySearchOptions": "Pretraži opcije",
+    "imageUploadPending": "Prijenos slike u tijeku",
+    "askSomethingElse": "Pitajte nešto drugo"
   },
   "others": {
     "popUpMessages": {

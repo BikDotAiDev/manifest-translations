@@ -356,6 +356,8 @@
     "a11yChatWindow": "{{name}}とのチャット",
     "a11yChatFrameTitle": "チャットアシスタント",
     "a11yChatFrameTitleWithStore": "{{storeName}}のチャットアシスタント",
-    "a11ySearchOptions": "オプションを検索"
+    "a11ySearchOptions": "オプションを検索",
+    "imageUploadPending": "画像をアップロード中",
+    "askSomethingElse": "他のことを質問する"
   }
 }

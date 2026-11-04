@@ -558,7 +558,9 @@
     "a11yChatWindow": "แชทกับ {{name}}",
     "a11yChatFrameTitle": "ผู้ช่วยแชท",
     "a11yChatFrameTitleWithStore": "ผู้ช่วยแชทของ {{storeName}}",
-    "a11ySearchOptions": "ค้นหาตัวเลือก"
+    "a11ySearchOptions": "ค้นหาตัวเลือก",
+    "imageUploadPending": "กำลังอัปโหลดรูปภาพ",
+    "askSomethingElse": "ถามเรื่องอื่น"
   },
   "others": {
     "popUpMessages": {

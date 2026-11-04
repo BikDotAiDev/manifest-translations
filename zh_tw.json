@@ -336,6 +336,8 @@
     "a11yChatWindow": "與 {{name}} 聊天",
     "a11yChatFrameTitle": "聊天助理",
     "a11yChatFrameTitleWithStore": "{{storeName}} 聊天助理",
-    "a11ySearchOptions": "搜尋選項"
+    "a11ySearchOptions": "搜尋選項",
+    "imageUploadPending": "圖片上傳中",
+    "askSomethingElse": "詢問其他問題"
   }
 }

@@ -355,6 +355,8 @@
     "a11yChatWindow": "Czat: {{name}}",
     "a11yChatFrameTitle": "Asystent czatu",
     "a11yChatFrameTitleWithStore": "Asystent czatu sklepu {{storeName}}",
-    "a11ySearchOptions": "Szukaj w opcjach"
+    "a11ySearchOptions": "Szukaj w opcjach",
+    "imageUploadPending": "Trwa przesyłanie obrazu",
+    "askSomethingElse": "Zapytaj o coś innego"
   }
 }

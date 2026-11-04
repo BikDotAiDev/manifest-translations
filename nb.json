@@ -355,6 +355,8 @@
     "a11yChatWindow": "Chat med {{name}}",
     "a11yChatFrameTitle": "Chatassistent",
     "a11yChatFrameTitleWithStore": "Chat med assistenten til {{storeName}}",
-    "a11ySearchOptions": "Søk i alternativer"
+    "a11ySearchOptions": "Søk i alternativer",
+    "imageUploadPending": "Bildeopplasting pågår",
+    "askSomethingElse": "Spør om noe annet"
   }
 }

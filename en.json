@@ -325,7 +325,9 @@
     "a11yChatWindow": "Chat with {{name}}",
     "a11yChatFrameTitle": "Chat assistant",
     "a11yChatFrameTitleWithStore": "Chat with {{storeName}} assistant",
-    "a11ySearchOptions": "Search options"
+    "a11ySearchOptions": "Search options",
+    "imageUploadPending": "Image upload pending",
+    "askSomethingElse": "Ask something else"
   },
   "others": {
     "suggestedReplies": {

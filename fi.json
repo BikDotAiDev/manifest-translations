@@ -355,6 +355,8 @@
     "a11yChatWindow": "Chat: {{name}}",
     "a11yChatFrameTitle": "Chat-avustaja",
     "a11yChatFrameTitleWithStore": "Kaupan {{storeName}} chat-avustaja",
-    "a11ySearchOptions": "Hae vaihtoehdoista"
+    "a11ySearchOptions": "Hae vaihtoehdoista",
+    "imageUploadPending": "Kuvan lataus kesken",
+    "askSomethingElse": "Kysy jotain muuta"
   }
 }

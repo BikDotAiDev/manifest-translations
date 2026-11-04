@@ -355,6 +355,8 @@
     "a11yChatWindow": "Csevegés: {{name}}",
     "a11yChatFrameTitle": "Csevegési asszisztens",
     "a11yChatFrameTitleWithStore": "{{storeName}} – csevegési asszisztens",
-    "a11ySearchOptions": "Keresés a lehetőségek között"
+    "a11ySearchOptions": "Keresés a lehetőségek között",
+    "imageUploadPending": "Képfeltöltés folyamatban",
+    "askSomethingElse": "Kérdezz valami mást"
   }
 }

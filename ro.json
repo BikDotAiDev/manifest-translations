@@ -355,6 +355,8 @@
     "a11yChatWindow": "Chat cu {{name}}",
     "a11yChatFrameTitle": "Asistent de chat",
     "a11yChatFrameTitleWithStore": "Chat cu asistentul {{storeName}}",
-    "a11ySearchOptions": "Caută în opțiuni"
+    "a11ySearchOptions": "Caută în opțiuni",
+    "imageUploadPending": "Încărcarea imaginii este în curs",
+    "askSomethingElse": "Întreabă altceva"
   }
 }

@@ -352,6 +352,8 @@
     "a11yChatWindow": "与 {{name}} 聊天",
     "a11yChatFrameTitle": "聊天助手",
     "a11yChatFrameTitleWithStore": "{{storeName}} 聊天助手",
-    "a11ySearchOptions": "搜索选项"
+    "a11ySearchOptions": "搜索选项",
+    "imageUploadPending": "图片上传中",
+    "askSomethingElse": "询问其他问题"
   }
 }

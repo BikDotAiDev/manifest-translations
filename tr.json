@@ -355,6 +355,8 @@
     "a11yChatWindow": "{{name}} ile sohbet",
     "a11yChatFrameTitle": "Sohbet asistanı",
     "a11yChatFrameTitleWithStore": "{{storeName}} sohbet asistanı",
-    "a11ySearchOptions": "Seçeneklerde ara"
+    "a11ySearchOptions": "Seçeneklerde ara",
+    "imageUploadPending": "Görsel yükleniyor",
+    "askSomethingElse": "Başka bir şey sor"
   }
 }

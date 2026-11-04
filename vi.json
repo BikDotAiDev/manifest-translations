@@ -355,6 +355,8 @@
     "a11yChatWindow": "Trò chuyện với {{name}}",
     "a11yChatFrameTitle": "Trợ lý trò chuyện",
     "a11yChatFrameTitleWithStore": "Trợ lý trò chuyện của {{storeName}}",
-    "a11ySearchOptions": "Tìm kiếm tùy chọn"
+    "a11ySearchOptions": "Tìm kiếm tùy chọn",
+    "imageUploadPending": "Đang tải ảnh lên",
+    "askSomethingElse": "Hỏi điều khác"
   }
 }

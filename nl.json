@@ -355,6 +355,8 @@
     "a11yChatWindow": "Chat met {{name}}",
     "a11yChatFrameTitle": "Chatassistent",
     "a11yChatFrameTitleWithStore": "Chat met de assistent van {{storeName}}",
-    "a11ySearchOptions": "Opties doorzoeken"
+    "a11ySearchOptions": "Opties doorzoeken",
+    "imageUploadPending": "Afbeelding wordt geüpload",
+    "askSomethingElse": "Vraag iets anders"
   }
 }
