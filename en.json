@@ -316,7 +316,18 @@
     "a11ySendMessage": "Send message",
     "a11yAskQuestion": "Ask a question",
     "a11yMoreActions": "More actions",
-    "a11yCloseMenu": "Close menu"
+    "a11yCloseMenu": "Close menu",
+    "a11yConversation": "Conversation",
+    "a11yAssistantTyping": "Assistant is typing",
+    "a11yNamedAssistantTyping": "{{name}} is typing",
+    "a11yReconnected": "Reconnected",
+    "a11yAddedToCart": "Added to cart",
+    "a11yChatWindow": "Chat with {{name}}",
+    "a11yChatFrameTitle": "Chat assistant",
+    "a11yChatFrameTitleWithStore": "Chat with {{storeName}} assistant",
+    "a11ySearchOptions": "Search options",
+    "imageUploadPending": "Image upload pending",
+    "askSomethingElse": "Ask something else"
   },
   "others": {
     "suggestedReplies": {

@@ -346,6 +346,17 @@
     "a11ySendMessage": "Bericht verzenden",
     "a11yAskQuestion": "Stel een vraag",
     "a11yMoreActions": "Meer acties",
-    "a11yCloseMenu": "Menu sluiten"
+    "a11yCloseMenu": "Menu sluiten",
+    "a11yConversation": "Gesprek",
+    "a11yAssistantTyping": "Assistent typt",
+    "a11yNamedAssistantTyping": "{{name}} typt",
+    "a11yReconnected": "Opnieuw verbonden",
+    "a11yAddedToCart": "Toegevoegd aan winkelwagen",
+    "a11yChatWindow": "Chat met {{name}}",
+    "a11yChatFrameTitle": "Chatassistent",
+    "a11yChatFrameTitleWithStore": "Chat met de assistent van {{storeName}}",
+    "a11ySearchOptions": "Opties doorzoeken",
+    "imageUploadPending": "Afbeelding wordt geüpload",
+    "askSomethingElse": "Vraag iets anders"
   }
 }

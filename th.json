@@ -549,7 +549,18 @@
     "a11ySendMessage": "ส่งข้อความ",
     "a11yAskQuestion": "ถามคำถาม",
     "a11yMoreActions": "การดำเนินการเพิ่มเติม",
-    "a11yCloseMenu": "ปิดเมนู"
+    "a11yCloseMenu": "ปิดเมนู",
+    "a11yConversation": "การสนทนา",
+    "a11yAssistantTyping": "ผู้ช่วยกำลังพิมพ์",
+    "a11yNamedAssistantTyping": "{{name}} กำลังพิมพ์",
+    "a11yReconnected": "เชื่อมต่ออีกครั้งแล้ว",
+    "a11yAddedToCart": "เพิ่มลงในรถเข็นแล้ว",
+    "a11yChatWindow": "แชทกับ {{name}}",
+    "a11yChatFrameTitle": "ผู้ช่วยแชท",
+    "a11yChatFrameTitleWithStore": "ผู้ช่วยแชทของ {{storeName}}",
+    "a11ySearchOptions": "ค้นหาตัวเลือก",
+    "imageUploadPending": "กำลังอัปโหลดรูปภาพ",
+    "askSomethingElse": "ถามเรื่องอื่น"
   },
   "others": {
     "popUpMessages": {

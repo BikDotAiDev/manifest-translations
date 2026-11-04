@@ -369,7 +369,18 @@
     "a11ySendMessage": "Pošalji poruku",
     "a11yAskQuestion": "Postavite pitanje",
     "a11yMoreActions": "Više radnji",
-    "a11yCloseMenu": "Zatvori izbornik"
+    "a11yCloseMenu": "Zatvori izbornik",
+    "a11yConversation": "Razgovor",
+    "a11yAssistantTyping": "Asistent piše",
+    "a11yNamedAssistantTyping": "{{name}} piše",
+    "a11yReconnected": "Veza je ponovno uspostavljena",
+    "a11yAddedToCart": "Dodano u košaricu",
+    "a11yChatWindow": "Chat: {{name}}",
+    "a11yChatFrameTitle": "Chat asistent",
+    "a11yChatFrameTitleWithStore": "Chat asistent trgovine {{storeName}}",
+    "a11ySearchOptions": "Pretraži opcije",
+    "imageUploadPending": "Prijenos slike u tijeku",
+    "askSomethingElse": "Pitajte nešto drugo"
   },
   "others": {
     "popUpMessages": {

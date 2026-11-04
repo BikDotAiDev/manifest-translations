@@ -346,6 +346,17 @@
     "a11ySendMessage": "Üzenet küldése",
     "a11yAskQuestion": "Tegyél fel egy kérdést",
     "a11yMoreActions": "További műveletek",
-    "a11yCloseMenu": "Menü bezárása"
+    "a11yCloseMenu": "Menü bezárása",
+    "a11yConversation": "Beszélgetés",
+    "a11yAssistantTyping": "Az asszisztens ír",
+    "a11yNamedAssistantTyping": "{{name}} ír",
+    "a11yReconnected": "Újracsatlakozva",
+    "a11yAddedToCart": "Hozzáadva a kosárhoz",
+    "a11yChatWindow": "Csevegés: {{name}}",
+    "a11yChatFrameTitle": "Csevegési asszisztens",
+    "a11yChatFrameTitleWithStore": "{{storeName}} – csevegési asszisztens",
+    "a11ySearchOptions": "Keresés a lehetőségek között",
+    "imageUploadPending": "Képfeltöltés folyamatban",
+    "askSomethingElse": "Kérdezz valami mást"
   }
 }
