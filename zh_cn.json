@@ -322,6 +322,22 @@
     "getChatTranscript": "获取聊天记录",
     "talkToAiAssistant": "与AI助手对话",
     "talkToAgent": "与客服对话",
-    "latestMessages": "最新消息"
+    "latestMessages": "最新消息",
+    "a11yOpenChat": "打开聊天",
+    "a11yClose": "关闭",
+    "a11yBack": "返回",
+    "a11yExpand": "展开",
+    "a11yMinimize": "最小化",
+    "a11ySubmit": "提交",
+    "a11yChatOptions": "聊天选项",
+    "a11yAddAttachment": "添加附件",
+    "a11yAddImage": "添加图片",
+    "a11yRemoveAttachment": "移除附件",
+    "a11yClearSearch": "清除搜索",
+    "a11yCopyCode": "复制代码",
+    "a11yCartWithCount": "购物车，{{count}} 件商品",
+    "a11ySimilarProducts": "查看类似产品",
+    "a11yScrollLeft": "向左滚动",
+    "a11yScrollRight": "向右滚动"
   }
 }

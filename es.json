@@ -309,6 +309,22 @@
     "getChatTranscript": "Obtener transcripción del chat",
     "talkToAiAssistant": "Hablar con el asistente de IA",
     "talkToAgent": "Hablar con un agente",
-    "latestMessages": "Últimos mensajes"
+    "latestMessages": "Últimos mensajes",
+    "a11yOpenChat": "Abrir chat",
+    "a11yClose": "Cerrar",
+    "a11yBack": "Volver",
+    "a11yExpand": "Expandir",
+    "a11yMinimize": "Minimizar",
+    "a11ySubmit": "Enviar",
+    "a11yChatOptions": "Opciones del chat",
+    "a11yAddAttachment": "Adjuntar archivo",
+    "a11yAddImage": "Agregar imagen",
+    "a11yRemoveAttachment": "Quitar archivo adjunto",
+    "a11yClearSearch": "Borrar búsqueda",
+    "a11yCopyCode": "Copiar código",
+    "a11yCartWithCount": "Carrito, {{count}} artículos",
+    "a11ySimilarProducts": "Ver productos similares",
+    "a11yScrollLeft": "Desplazar a la izquierda",
+    "a11yScrollRight": "Desplazar a la derecha"
   }
 }

@@ -325,6 +325,22 @@
     "getChatTranscript": "Hae keskustelun tallenne",
     "talkToAiAssistant": "Keskustele tekoälyavustajan kanssa",
     "talkToAgent": "Keskustele asiakaspalvelijan kanssa",
-    "latestMessages": "Uusimmat viestit"
+    "latestMessages": "Uusimmat viestit",
+    "a11yOpenChat": "Avaa chat",
+    "a11yClose": "Sulje",
+    "a11yBack": "Takaisin",
+    "a11yExpand": "Laajenna",
+    "a11yMinimize": "Pienennä",
+    "a11ySubmit": "Lähetä",
+    "a11yChatOptions": "Chatin asetukset",
+    "a11yAddAttachment": "Lisää liite",
+    "a11yAddImage": "Lisää kuva",
+    "a11yRemoveAttachment": "Poista liite",
+    "a11yClearSearch": "Tyhjennä haku",
+    "a11yCopyCode": "Kopioi koodi",
+    "a11yCartWithCount": "Ostoskori, tuotteita: {{count}}",
+    "a11ySimilarProducts": "Näytä samankaltaiset tuotteet",
+    "a11yScrollLeft": "Vieritä vasemmalle",
+    "a11yScrollRight": "Vieritä oikealle"
   }
 }

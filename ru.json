@@ -111,6 +111,22 @@
     "getChatTranscript": "Получить расшифровку чата",
     "talkToAiAssistant": "Поговорить с ИИ-ассистентом",
     "talkToAgent": "Поговорить с оператором",
-    "latestMessages": "Последние сообщения"
+    "latestMessages": "Последние сообщения",
+    "a11yOpenChat": "Открыть чат",
+    "a11yClose": "Закрыть",
+    "a11yBack": "Назад",
+    "a11yExpand": "Развернуть",
+    "a11yMinimize": "Свернуть",
+    "a11ySubmit": "Отправить",
+    "a11yChatOptions": "Параметры чата",
+    "a11yAddAttachment": "Добавить вложение",
+    "a11yAddImage": "Добавить изображение",
+    "a11yRemoveAttachment": "Удалить вложение",
+    "a11yClearSearch": "Очистить поиск",
+    "a11yCopyCode": "Копировать код",
+    "a11yCartWithCount": "Корзина, товаров: {{count}}",
+    "a11ySimilarProducts": "Показать похожие товары",
+    "a11yScrollLeft": "Прокрутить влево",
+    "a11yScrollRight": "Прокрутить вправо"
   }
 }

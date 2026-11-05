@@ -325,6 +325,22 @@
     "getChatTranscript": "Hent chatutskrift",
     "talkToAiAssistant": "Snakk med AI-assistenten",
     "talkToAgent": "Snakk med en agent",
-    "latestMessages": "Siste meldinger"
+    "latestMessages": "Siste meldinger",
+    "a11yOpenChat": "Åpne chat",
+    "a11yClose": "Lukk",
+    "a11yBack": "Tilbake",
+    "a11yExpand": "Utvid",
+    "a11yMinimize": "Minimer",
+    "a11ySubmit": "Send inn",
+    "a11yChatOptions": "Chatalternativer",
+    "a11yAddAttachment": "Legg til vedlegg",
+    "a11yAddImage": "Legg til bilde",
+    "a11yRemoveAttachment": "Fjern vedlegg",
+    "a11yClearSearch": "Tøm søk",
+    "a11yCopyCode": "Kopier kode",
+    "a11yCartWithCount": "Handlekurv, {{count}} varer",
+    "a11ySimilarProducts": "Vis lignende produkter",
+    "a11yScrollLeft": "Rull til venstre",
+    "a11yScrollRight": "Rull til høyre"
   }
 }

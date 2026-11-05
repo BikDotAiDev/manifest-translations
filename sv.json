@@ -325,6 +325,22 @@
     "getChatTranscript": "Hämta chattutskrift",
     "talkToAiAssistant": "Prata med AI-assistenten",
     "talkToAgent": "Prata med en agent",
-    "latestMessages": "Senaste meddelanden"
+    "latestMessages": "Senaste meddelanden",
+    "a11yOpenChat": "Öppna chatten",
+    "a11yClose": "Stäng",
+    "a11yBack": "Tillbaka",
+    "a11yExpand": "Expandera",
+    "a11yMinimize": "Minimera",
+    "a11ySubmit": "Skicka",
+    "a11yChatOptions": "Chattalternativ",
+    "a11yAddAttachment": "Lägg till bilaga",
+    "a11yAddImage": "Lägg till bild",
+    "a11yRemoveAttachment": "Ta bort bilaga",
+    "a11yClearSearch": "Rensa sökning",
+    "a11yCopyCode": "Kopiera kod",
+    "a11yCartWithCount": "Kundvagn, {{count}} varor",
+    "a11ySimilarProducts": "Visa liknande produkter",
+    "a11yScrollLeft": "Scrolla åt vänster",
+    "a11yScrollRight": "Scrolla åt höger"
   }
 }

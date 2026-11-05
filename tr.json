@@ -325,6 +325,22 @@
     "getChatTranscript": "Sohbet dökümünü al",
     "talkToAiAssistant": "Yapay zeka asistanıyla konuşun",
     "talkToAgent": "Bir temsilciyle konuşun",
-    "latestMessages": "Son mesajlar"
+    "latestMessages": "Son mesajlar",
+    "a11yOpenChat": "Sohbeti aç",
+    "a11yClose": "Kapat",
+    "a11yBack": "Geri",
+    "a11yExpand": "Genişlet",
+    "a11yMinimize": "Küçült",
+    "a11ySubmit": "Gönder",
+    "a11yChatOptions": "Sohbet seçenekleri",
+    "a11yAddAttachment": "Ek ekle",
+    "a11yAddImage": "Görsel ekle",
+    "a11yRemoveAttachment": "Eki kaldır",
+    "a11yClearSearch": "Aramayı temizle",
+    "a11yCopyCode": "Kodu kopyala",
+    "a11yCartWithCount": "Sepet, {{count}} ürün",
+    "a11ySimilarProducts": "Benzer ürünleri göster",
+    "a11yScrollLeft": "Sola kaydır",
+    "a11yScrollRight": "Sağa kaydır"
   }
 }
