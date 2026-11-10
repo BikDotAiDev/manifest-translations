@@ -341,6 +341,11 @@
     "a11yCartWithCount": "Coș, produse: {{count}}",
     "a11ySimilarProducts": "Vezi produse similare",
     "a11yScrollLeft": "Derulează la stânga",
-    "a11yScrollRight": "Derulează la dreapta"
+    "a11yScrollRight": "Derulează la dreapta",
+    "a11yTypeMessage": "Scrie mesajul tău",
+    "a11ySendMessage": "Trimite mesajul",
+    "a11yAskQuestion": "Pune o întrebare",
+    "a11yMoreActions": "Mai multe acțiuni",
+    "a11yCloseMenu": "Închide meniul"
   }
 }

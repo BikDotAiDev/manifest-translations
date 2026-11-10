@@ -342,6 +342,11 @@
     "a11yCartWithCount": "カート、{{count}}点の商品",
     "a11ySimilarProducts": "類似商品を表示",
     "a11yScrollLeft": "左にスクロール",
-    "a11yScrollRight": "右にスクロール"
+    "a11yScrollRight": "右にスクロール",
+    "a11yTypeMessage": "メッセージを入力",
+    "a11ySendMessage": "メッセージを送信",
+    "a11yAskQuestion": "質問する",
+    "a11yMoreActions": "その他の操作",
+    "a11yCloseMenu": "メニューを閉じる"
   }
 }
