@@ -346,6 +346,18 @@
     "a11ySendMessage": "Mesaj gönder",
     "a11yAskQuestion": "Soru sor",
     "a11yMoreActions": "Diğer işlemler",
-    "a11yCloseMenu": "Menüyü kapat"
+    "a11yCloseMenu": "Menüyü kapat",
+    "buyingFactorsReviewCount": "{{count}} değerlendirme",
+    "buyingFactorsReviewCountOne": "{{count}} değerlendirme",
+    "buyingFactorsOnlyLeft": "Yalnızca {{count}} adet kaldı",
+    "buyingFactorsBestseller": "Çok satan",
+    "buyingFactorsBoughtThisWeek": "Bu hafta {{count}} kişi satın aldı",
+    "buyingFactorsBoughtThisWeekOne": "Bu hafta {{count}} kişi satın aldı",
+    "buyingFactorsReviews": "Değerlendirmeler",
+    "buyingFactorsAiReviewSummary": "Yapay zeka değerlendirme özeti",
+    "buyingFactorsGeneratedFromReviews": "Müşteri değerlendirmelerinin metninden oluşturuldu",
+    "buyingFactorsBuyersMention": "Alıcıların bahsettikleri",
+    "buyingFactorsRecentReviews": "Son değerlendirmeler",
+    "buyingFactorsBack": "Geri"
   }
 }

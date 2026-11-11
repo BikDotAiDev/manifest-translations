@@ -346,6 +346,18 @@
     "a11ySendMessage": "Gửi tin nhắn",
     "a11yAskQuestion": "Đặt câu hỏi",
     "a11yMoreActions": "Thêm thao tác",
-    "a11yCloseMenu": "Đóng menu"
+    "a11yCloseMenu": "Đóng menu",
+    "buyingFactorsReviewCount": "{{count}} đánh giá",
+    "buyingFactorsReviewCountOne": "{{count}} đánh giá",
+    "buyingFactorsOnlyLeft": "Chỉ còn {{count}} sản phẩm",
+    "buyingFactorsBestseller": "Bán chạy",
+    "buyingFactorsBoughtThisWeek": "{{count}} người đã mua trong tuần này",
+    "buyingFactorsBoughtThisWeekOne": "{{count}} người đã mua trong tuần này",
+    "buyingFactorsReviews": "Đánh giá",
+    "buyingFactorsAiReviewSummary": "Tóm tắt đánh giá bằng AI",
+    "buyingFactorsGeneratedFromReviews": "Được tạo từ nội dung đánh giá của khách hàng",
+    "buyingFactorsBuyersMention": "Người mua nhắc đến",
+    "buyingFactorsRecentReviews": "Đánh giá gần đây",
+    "buyingFactorsBack": "Quay lại"
   }
 }

@@ -334,6 +334,18 @@
     "a11ySendMessage": "Envoyer le message",
     "a11yAskQuestion": "Poser une question",
     "a11yMoreActions": "Plus d'actions",
-    "a11yCloseMenu": "Fermer le menu"
+    "a11yCloseMenu": "Fermer le menu",
+    "buyingFactorsReviewCount": "{{count}} avis",
+    "buyingFactorsReviewCountOne": "{{count}} avis",
+    "buyingFactorsOnlyLeft": "Plus que {{count}} en stock",
+    "buyingFactorsBestseller": "Meilleure vente",
+    "buyingFactorsBoughtThisWeek": "{{count}} personnes l'ont acheté cette semaine",
+    "buyingFactorsBoughtThisWeekOne": "{{count}} personne l'a acheté cette semaine",
+    "buyingFactorsReviews": "Avis",
+    "buyingFactorsAiReviewSummary": "Résumé des avis par IA",
+    "buyingFactorsGeneratedFromReviews": "Généré à partir du texte des avis clients",
+    "buyingFactorsBuyersMention": "Les acheteurs mentionnent",
+    "buyingFactorsRecentReviews": "Avis récents",
+    "buyingFactorsBack": "Retour"
   }
 }

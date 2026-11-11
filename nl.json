@@ -346,6 +346,18 @@
     "a11ySendMessage": "Bericht verzenden",
     "a11yAskQuestion": "Stel een vraag",
     "a11yMoreActions": "Meer acties",
-    "a11yCloseMenu": "Menu sluiten"
+    "a11yCloseMenu": "Menu sluiten",
+    "buyingFactorsReviewCount": "{{count}} reviews",
+    "buyingFactorsReviewCountOne": "{{count}} review",
+    "buyingFactorsOnlyLeft": "Nog maar {{count}} over",
+    "buyingFactorsBestseller": "Bestseller",
+    "buyingFactorsBoughtThisWeek": "{{count}} mensen kochten dit deze week",
+    "buyingFactorsBoughtThisWeekOne": "{{count}} persoon kocht dit deze week",
+    "buyingFactorsReviews": "Reviews",
+    "buyingFactorsAiReviewSummary": "AI-samenvatting van reviews",
+    "buyingFactorsGeneratedFromReviews": "Gegenereerd uit de tekst van klantreviews",
+    "buyingFactorsBuyersMention": "Kopers noemen",
+    "buyingFactorsRecentReviews": "Recente reviews",
+    "buyingFactorsBack": "Terug"
   }
 }

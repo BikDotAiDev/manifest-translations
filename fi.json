@@ -346,6 +346,18 @@
     "a11ySendMessage": "Lähetä viesti",
     "a11yAskQuestion": "Esitä kysymys",
     "a11yMoreActions": "Lisää toimintoja",
-    "a11yCloseMenu": "Sulje valikko"
+    "a11yCloseMenu": "Sulje valikko",
+    "buyingFactorsReviewCount": "{{count}} arvostelua",
+    "buyingFactorsReviewCountOne": "{{count}} arvostelu",
+    "buyingFactorsOnlyLeft": "Vain {{count}} jäljellä",
+    "buyingFactorsBestseller": "Myydyin",
+    "buyingFactorsBoughtThisWeek": "{{count}} henkilöä osti tämän tällä viikolla",
+    "buyingFactorsBoughtThisWeekOne": "{{count}} henkilö osti tämän tällä viikolla",
+    "buyingFactorsReviews": "Arvostelut",
+    "buyingFactorsAiReviewSummary": "Tekoälyn yhteenveto arvosteluista",
+    "buyingFactorsGeneratedFromReviews": "Luotu asiakasarvostelujen tekstistä",
+    "buyingFactorsBuyersMention": "Ostajat mainitsevat",
+    "buyingFactorsRecentReviews": "Uusimmat arvostelut",
+    "buyingFactorsBack": "Takaisin"
   }
 }

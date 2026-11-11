@@ -316,7 +316,19 @@
     "a11ySendMessage": "Send message",
     "a11yAskQuestion": "Ask a question",
     "a11yMoreActions": "More actions",
-    "a11yCloseMenu": "Close menu"
+    "a11yCloseMenu": "Close menu",
+    "buyingFactorsReviewCount": "{{count}} reviews",
+    "buyingFactorsReviewCountOne": "{{count}} review",
+    "buyingFactorsOnlyLeft": "Only {{count}} left",
+    "buyingFactorsBestseller": "Bestseller",
+    "buyingFactorsBoughtThisWeek": "{{count}} people bought this week",
+    "buyingFactorsBoughtThisWeekOne": "{{count}} person bought this week",
+    "buyingFactorsReviews": "Reviews",
+    "buyingFactorsAiReviewSummary": "AI Review summary",
+    "buyingFactorsGeneratedFromReviews": "Generated from the text from customer reviews",
+    "buyingFactorsBuyersMention": "Buyers mention",
+    "buyingFactorsRecentReviews": "Recent reviews",
+    "buyingFactorsBack": "Back"
   },
   "others": {
     "suggestedReplies": {

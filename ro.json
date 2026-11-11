@@ -346,6 +346,18 @@
     "a11ySendMessage": "Trimite mesajul",
     "a11yAskQuestion": "Pune o întrebare",
     "a11yMoreActions": "Mai multe acțiuni",
-    "a11yCloseMenu": "Închide meniul"
+    "a11yCloseMenu": "Închide meniul",
+    "buyingFactorsReviewCount": "{{count}} recenzii",
+    "buyingFactorsReviewCountOne": "{{count}} recenzie",
+    "buyingFactorsOnlyLeft": "Doar {{count}} rămase",
+    "buyingFactorsBestseller": "Cel mai vândut",
+    "buyingFactorsBoughtThisWeek": "{{count}} persoane au cumpărat săptămâna aceasta",
+    "buyingFactorsBoughtThisWeekOne": "{{count}} persoană a cumpărat săptămâna aceasta",
+    "buyingFactorsReviews": "Recenzii",
+    "buyingFactorsAiReviewSummary": "Rezumatul recenziilor cu AI",
+    "buyingFactorsGeneratedFromReviews": "Generat din textul recenziilor clienților",
+    "buyingFactorsBuyersMention": "Cumpărătorii menționează",
+    "buyingFactorsRecentReviews": "Recenzii recente",
+    "buyingFactorsBack": "Înapoi"
   }
 }

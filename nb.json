@@ -346,6 +346,18 @@
     "a11ySendMessage": "Send melding",
     "a11yAskQuestion": "Still et spørsmål",
     "a11yMoreActions": "Flere handlinger",
-    "a11yCloseMenu": "Lukk menyen"
+    "a11yCloseMenu": "Lukk menyen",
+    "buyingFactorsReviewCount": "{{count}} anmeldelser",
+    "buyingFactorsReviewCountOne": "{{count}} anmeldelse",
+    "buyingFactorsOnlyLeft": "Bare {{count}} igjen",
+    "buyingFactorsBestseller": "Bestselger",
+    "buyingFactorsBoughtThisWeek": "{{count}} personer kjøpte denne denne uken",
+    "buyingFactorsBoughtThisWeekOne": "{{count}} person kjøpte denne denne uken",
+    "buyingFactorsReviews": "Anmeldelser",
+    "buyingFactorsAiReviewSummary": "AI-sammendrag av anmeldelser",
+    "buyingFactorsGeneratedFromReviews": "Generert fra teksten i kundeanmeldelser",
+    "buyingFactorsBuyersMention": "Kjøpere nevner",
+    "buyingFactorsRecentReviews": "Nyeste anmeldelser",
+    "buyingFactorsBack": "Tilbake"
   }
 }

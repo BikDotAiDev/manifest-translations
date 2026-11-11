@@ -346,6 +346,18 @@
     "a11ySendMessage": "Skicka meddelande",
     "a11yAskQuestion": "Ställ en fråga",
     "a11yMoreActions": "Fler åtgärder",
-    "a11yCloseMenu": "Stäng menyn"
+    "a11yCloseMenu": "Stäng menyn",
+    "buyingFactorsReviewCount": "{{count}} recensioner",
+    "buyingFactorsReviewCountOne": "{{count}} recension",
+    "buyingFactorsOnlyLeft": "Bara {{count}} kvar",
+    "buyingFactorsBestseller": "Bästsäljare",
+    "buyingFactorsBoughtThisWeek": "{{count}} personer köpte den här veckan",
+    "buyingFactorsBoughtThisWeekOne": "{{count}} person köpte den här veckan",
+    "buyingFactorsReviews": "Recensioner",
+    "buyingFactorsAiReviewSummary": "AI-sammanfattning av recensioner",
+    "buyingFactorsGeneratedFromReviews": "Genererad från texten i kundrecensioner",
+    "buyingFactorsBuyersMention": "Köpare nämner",
+    "buyingFactorsRecentReviews": "Senaste recensioner",
+    "buyingFactorsBack": "Tillbaka"
   }
 }

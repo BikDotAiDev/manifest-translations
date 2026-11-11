@@ -346,6 +346,18 @@
     "a11ySendMessage": "Wyślij wiadomość",
     "a11yAskQuestion": "Zadaj pytanie",
     "a11yMoreActions": "Więcej działań",
-    "a11yCloseMenu": "Zamknij menu"
+    "a11yCloseMenu": "Zamknij menu",
+    "buyingFactorsReviewCount": "Opinie: {{count}}",
+    "buyingFactorsReviewCountOne": "{{count}} opinia",
+    "buyingFactorsOnlyLeft": "Zostało tylko {{count}}",
+    "buyingFactorsBestseller": "Bestseller",
+    "buyingFactorsBoughtThisWeek": "{{count}} osób kupiło to w tym tygodniu",
+    "buyingFactorsBoughtThisWeekOne": "{{count}} osoba kupiła to w tym tygodniu",
+    "buyingFactorsReviews": "Opinie",
+    "buyingFactorsAiReviewSummary": "Podsumowanie opinii AI",
+    "buyingFactorsGeneratedFromReviews": "Wygenerowano na podstawie treści opinii klientów",
+    "buyingFactorsBuyersMention": "Kupujący wspominają",
+    "buyingFactorsRecentReviews": "Najnowsze opinie",
+    "buyingFactorsBack": "Wstecz"
   }
 }

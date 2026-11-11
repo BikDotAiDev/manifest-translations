@@ -549,7 +549,19 @@
     "a11ySendMessage": "ส่งข้อความ",
     "a11yAskQuestion": "ถามคำถาม",
     "a11yMoreActions": "การดำเนินการเพิ่มเติม",
-    "a11yCloseMenu": "ปิดเมนู"
+    "a11yCloseMenu": "ปิดเมนู",
+    "buyingFactorsReviewCount": "{{count}} รีวิว",
+    "buyingFactorsReviewCountOne": "{{count}} รีวิว",
+    "buyingFactorsOnlyLeft": "เหลือเพียง {{count}} ชิ้น",
+    "buyingFactorsBestseller": "สินค้าขายดี",
+    "buyingFactorsBoughtThisWeek": "มีผู้ซื้อ {{count}} คนในสัปดาห์นี้",
+    "buyingFactorsBoughtThisWeekOne": "มีผู้ซื้อ {{count}} คนในสัปดาห์นี้",
+    "buyingFactorsReviews": "รีวิว",
+    "buyingFactorsAiReviewSummary": "สรุปรีวิวโดย AI",
+    "buyingFactorsGeneratedFromReviews": "สร้างจากข้อความในรีวิวของลูกค้า",
+    "buyingFactorsBuyersMention": "ผู้ซื้อกล่าวถึง",
+    "buyingFactorsRecentReviews": "รีวิวล่าสุด",
+    "buyingFactorsBack": "ย้อนกลับ"
   },
   "others": {
     "popUpMessages": {
