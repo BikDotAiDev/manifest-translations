@@ -354,6 +354,18 @@
     "a11yChatFrameTitleWithStore": "{{storeName}} 聊天助手",
     "a11ySearchOptions": "搜索选项",
     "imageUploadPending": "图片上传中",
-    "askSomethingElse": "询问其他问题"
+    "askSomethingElse": "询问其他问题",
+    "buyingFactorsReviewCount": "{{count}} 条评价",
+    "buyingFactorsReviewCountOne": "{{count}} 条评价",
+    "buyingFactorsOnlyLeft": "仅剩 {{count}} 件",
+    "buyingFactorsBestseller": "畅销",
+    "buyingFactorsBoughtThisWeek": "本周有 {{count}} 人购买",
+    "buyingFactorsBoughtThisWeekOne": "本周有 {{count}} 人购买",
+    "buyingFactorsReviews": "评价",
+    "buyingFactorsAiReviewSummary": "AI 评价摘要",
+    "buyingFactorsGeneratedFromReviews": "根据顾客评价内容生成",
+    "buyingFactorsBuyersMention": "买家提到",
+    "buyingFactorsRecentReviews": "最新评价",
+    "buyingFactorsBack": "返回"
   }
 }

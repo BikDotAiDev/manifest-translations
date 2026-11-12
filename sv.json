@@ -357,6 +357,18 @@
     "a11yChatFrameTitleWithStore": "Chattassistent för {{storeName}}",
     "a11ySearchOptions": "Sök bland alternativ",
     "imageUploadPending": "Bilduppladdning pågår",
-    "askSomethingElse": "Fråga något annat"
+    "askSomethingElse": "Fråga något annat",
+    "buyingFactorsReviewCount": "{{count}} recensioner",
+    "buyingFactorsReviewCountOne": "{{count}} recension",
+    "buyingFactorsOnlyLeft": "Bara {{count}} kvar",
+    "buyingFactorsBestseller": "Bästsäljare",
+    "buyingFactorsBoughtThisWeek": "{{count}} personer köpte den här veckan",
+    "buyingFactorsBoughtThisWeekOne": "{{count}} person köpte den här veckan",
+    "buyingFactorsReviews": "Recensioner",
+    "buyingFactorsAiReviewSummary": "AI-sammanfattning av recensioner",
+    "buyingFactorsGeneratedFromReviews": "Genererad från texten i kundrecensioner",
+    "buyingFactorsBuyersMention": "Köpare nämner",
+    "buyingFactorsRecentReviews": "Senaste recensioner",
+    "buyingFactorsBack": "Tillbaka"
   }
 }

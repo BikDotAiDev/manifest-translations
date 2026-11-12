@@ -357,6 +357,18 @@
     "a11yChatFrameTitleWithStore": "Chat med assistenten til {{storeName}}",
     "a11ySearchOptions": "Søk i alternativer",
     "imageUploadPending": "Bildeopplasting pågår",
-    "askSomethingElse": "Spør om noe annet"
+    "askSomethingElse": "Spør om noe annet",
+    "buyingFactorsReviewCount": "{{count}} anmeldelser",
+    "buyingFactorsReviewCountOne": "{{count}} anmeldelse",
+    "buyingFactorsOnlyLeft": "Bare {{count}} igjen",
+    "buyingFactorsBestseller": "Bestselger",
+    "buyingFactorsBoughtThisWeek": "{{count}} personer kjøpte denne denne uken",
+    "buyingFactorsBoughtThisWeekOne": "{{count}} person kjøpte denne denne uken",
+    "buyingFactorsReviews": "Anmeldelser",
+    "buyingFactorsAiReviewSummary": "AI-sammendrag av anmeldelser",
+    "buyingFactorsGeneratedFromReviews": "Generert fra teksten i kundeanmeldelser",
+    "buyingFactorsBuyersMention": "Kjøpere nevner",
+    "buyingFactorsRecentReviews": "Nyeste anmeldelser",
+    "buyingFactorsBack": "Tilbake"
   }
 }

@@ -341,6 +341,18 @@
     "a11yChatFrameTitleWithStore": "الدردشة مع مساعد {{storeName}}",
     "a11ySearchOptions": "البحث في الخيارات",
     "imageUploadPending": "جارٍ تحميل الصورة",
-    "askSomethingElse": "اسأل عن شيء آخر"
+    "askSomethingElse": "اسأل عن شيء آخر",
+    "buyingFactorsReviewCount": "{{count}} تقييمات",
+    "buyingFactorsReviewCountOne": "{{count}} تقييم",
+    "buyingFactorsOnlyLeft": "متبقٍ {{count}} فقط",
+    "buyingFactorsBestseller": "الأكثر مبيعًا",
+    "buyingFactorsBoughtThisWeek": "اشترى {{count}} شخصًا هذا المنتج هذا الأسبوع",
+    "buyingFactorsBoughtThisWeekOne": "اشترى {{count}} شخص هذا المنتج هذا الأسبوع",
+    "buyingFactorsReviews": "التقييمات",
+    "buyingFactorsAiReviewSummary": "ملخص التقييمات بالذكاء الاصطناعي",
+    "buyingFactorsGeneratedFromReviews": "تم إنشاؤه من نصوص تقييمات العملاء",
+    "buyingFactorsBuyersMention": "يذكر المشترون",
+    "buyingFactorsRecentReviews": "أحدث التقييمات",
+    "buyingFactorsBack": "رجوع"
   }
 }

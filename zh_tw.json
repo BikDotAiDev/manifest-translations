@@ -338,6 +338,18 @@
     "a11yChatFrameTitleWithStore": "{{storeName}} 聊天助理",
     "a11ySearchOptions": "搜尋選項",
     "imageUploadPending": "圖片上傳中",
-    "askSomethingElse": "詢問其他問題"
+    "askSomethingElse": "詢問其他問題",
+    "buyingFactorsReviewCount": "{{count}} 則評價",
+    "buyingFactorsReviewCountOne": "{{count}} 則評價",
+    "buyingFactorsOnlyLeft": "僅剩 {{count}} 件",
+    "buyingFactorsBestseller": "暢銷",
+    "buyingFactorsBoughtThisWeek": "本週有 {{count}} 人購買",
+    "buyingFactorsBoughtThisWeekOne": "本週有 {{count}} 人購買",
+    "buyingFactorsReviews": "評價",
+    "buyingFactorsAiReviewSummary": "AI 評價摘要",
+    "buyingFactorsGeneratedFromReviews": "根據顧客評價內容產生",
+    "buyingFactorsBuyersMention": "買家提到",
+    "buyingFactorsRecentReviews": "最新評價",
+    "buyingFactorsBack": "返回"
   }
 }

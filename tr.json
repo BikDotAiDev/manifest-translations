@@ -357,6 +357,18 @@
     "a11yChatFrameTitleWithStore": "{{storeName}} sohbet asistanı",
     "a11ySearchOptions": "Seçeneklerde ara",
     "imageUploadPending": "Görsel yükleniyor",
-    "askSomethingElse": "Başka bir şey sor"
+    "askSomethingElse": "Başka bir şey sor",
+    "buyingFactorsReviewCount": "{{count}} değerlendirme",
+    "buyingFactorsReviewCountOne": "{{count}} değerlendirme",
+    "buyingFactorsOnlyLeft": "Yalnızca {{count}} adet kaldı",
+    "buyingFactorsBestseller": "Çok satan",
+    "buyingFactorsBoughtThisWeek": "Bu hafta {{count}} kişi satın aldı",
+    "buyingFactorsBoughtThisWeekOne": "Bu hafta {{count}} kişi satın aldı",
+    "buyingFactorsReviews": "Değerlendirmeler",
+    "buyingFactorsAiReviewSummary": "Yapay zeka değerlendirme özeti",
+    "buyingFactorsGeneratedFromReviews": "Müşteri değerlendirmelerinin metninden oluşturuldu",
+    "buyingFactorsBuyersMention": "Alıcıların bahsettikleri",
+    "buyingFactorsRecentReviews": "Son değerlendirmeler",
+    "buyingFactorsBack": "Geri"
   }
 }

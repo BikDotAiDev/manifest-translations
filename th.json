@@ -560,7 +560,19 @@
     "a11yChatFrameTitleWithStore": "ผู้ช่วยแชทของ {{storeName}}",
     "a11ySearchOptions": "ค้นหาตัวเลือก",
     "imageUploadPending": "กำลังอัปโหลดรูปภาพ",
-    "askSomethingElse": "ถามเรื่องอื่น"
+    "askSomethingElse": "ถามเรื่องอื่น",
+    "buyingFactorsReviewCount": "{{count}} รีวิว",
+    "buyingFactorsReviewCountOne": "{{count}} รีวิว",
+    "buyingFactorsOnlyLeft": "เหลือเพียง {{count}} ชิ้น",
+    "buyingFactorsBestseller": "สินค้าขายดี",
+    "buyingFactorsBoughtThisWeek": "มีผู้ซื้อ {{count}} คนในสัปดาห์นี้",
+    "buyingFactorsBoughtThisWeekOne": "มีผู้ซื้อ {{count}} คนในสัปดาห์นี้",
+    "buyingFactorsReviews": "รีวิว",
+    "buyingFactorsAiReviewSummary": "สรุปรีวิวโดย AI",
+    "buyingFactorsGeneratedFromReviews": "สร้างจากข้อความในรีวิวของลูกค้า",
+    "buyingFactorsBuyersMention": "ผู้ซื้อกล่าวถึง",
+    "buyingFactorsRecentReviews": "รีวิวล่าสุด",
+    "buyingFactorsBack": "ย้อนกลับ"
   },
   "others": {
     "popUpMessages": {

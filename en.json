@@ -327,7 +327,19 @@
     "a11yChatFrameTitleWithStore": "Chat with {{storeName}} assistant",
     "a11ySearchOptions": "Search options",
     "imageUploadPending": "Image upload pending",
-    "askSomethingElse": "Ask something else"
+    "askSomethingElse": "Ask something else",
+    "buyingFactorsReviewCount": "{{count}} reviews",
+    "buyingFactorsReviewCountOne": "{{count}} review",
+    "buyingFactorsOnlyLeft": "Only {{count}} left",
+    "buyingFactorsBestseller": "Bestseller",
+    "buyingFactorsBoughtThisWeek": "{{count}} people bought this week",
+    "buyingFactorsBoughtThisWeekOne": "{{count}} person bought this week",
+    "buyingFactorsReviews": "Reviews",
+    "buyingFactorsAiReviewSummary": "AI Review summary",
+    "buyingFactorsGeneratedFromReviews": "Generated from the text from customer reviews",
+    "buyingFactorsBuyersMention": "Buyers mention",
+    "buyingFactorsRecentReviews": "Recent reviews",
+    "buyingFactorsBack": "Back"
   },
   "others": {
     "suggestedReplies": {

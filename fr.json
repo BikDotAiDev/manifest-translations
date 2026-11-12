@@ -345,6 +345,18 @@
     "a11yChatFrameTitleWithStore": "Chat avec l'assistant de {{storeName}}",
     "a11ySearchOptions": "Rechercher parmi les options",
     "imageUploadPending": "Envoi de l'image en cours",
-    "askSomethingElse": "Poser une autre question"
+    "askSomethingElse": "Poser une autre question",
+    "buyingFactorsReviewCount": "{{count}} avis",
+    "buyingFactorsReviewCountOne": "{{count}} avis",
+    "buyingFactorsOnlyLeft": "Plus que {{count}} en stock",
+    "buyingFactorsBestseller": "Meilleure vente",
+    "buyingFactorsBoughtThisWeek": "{{count}} personnes l'ont acheté cette semaine",
+    "buyingFactorsBoughtThisWeekOne": "{{count}} personne l'a acheté cette semaine",
+    "buyingFactorsReviews": "Avis",
+    "buyingFactorsAiReviewSummary": "Résumé des avis par IA",
+    "buyingFactorsGeneratedFromReviews": "Généré à partir du texte des avis clients",
+    "buyingFactorsBuyersMention": "Les acheteurs mentionnent",
+    "buyingFactorsRecentReviews": "Avis récents",
+    "buyingFactorsBack": "Retour"
   }
 }
