@@ -46,6 +46,8 @@
     "cartWaiting": "Ne laissez pas les articles dans votre panier attendre, passez à la caisse maintenant !",
     "chatWithUS": "Chattez avec nous 👋🏻",
     "checkOutThese": "Consultez plutôt ces choix",
+    "youMightLikeThese": "Ceux-ci pourraient vous plaire davantage",
+    "moreProductsYoullLove": "D'autres produits que vous allez adorer !",
     "checkout": "Passer à la caisse",
     "chooseYourCountry": "Choisissez votre pays",
     "directRewardNextPurchaseCoupon": "Merci d'avoir fait vos achats chez nous ! Nous avons une offre spéciale sur {{couponTitle}}. Souhaitez-vous utiliser cette offre lors de votre prochain achat ?",

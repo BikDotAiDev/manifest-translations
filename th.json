@@ -305,6 +305,8 @@
     "order_tracking": "การติดตามคำสั่งซื้อ",
     "AskYourQuestion": "ถามคำถามของคุณ",
     "checkOutThese": "ลองดูตัวเลือกเหล่านี้แทน",
+    "youMightLikeThese": "คุณอาจชอบสินค้าเหล่านี้มากกว่า",
+    "moreProductsYoullLove": "สินค้าอื่นๆ ที่คุณจะต้องชอบ!",
     "seeCuratedRecommendations": "ดูคำแนะนำที่คัดสรรแล้ว",
     "orderFormUnverifiedTooltipText": "คุณสามารถกรอกอีเมล หมายเลขโทรศัพท์ หรือรหัสคำสั่งซื้อที่เริ่มต้นด้วย '#' ได้",
     "goToCart": "ไปที่รถเข็น",
