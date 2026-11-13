@@ -58,6 +58,8 @@
     "cartWaiting": "Älä jätä ostoskorin tuotteita odottamaan, maksa nyt!",
     "chatWithUS": "Keskustele kanssamme 👋🏻",
     "checkOutThese": "Tutustu näihin valintoihin sen sijaan",
+    "youMightLikeThese": "Saatat pitää näistä enemmän",
+    "moreProductsYoullLove": "Lisää tuotteita, joista pidät!",
     "checkout": "Maksu",
     "chooseYourCountry": "Valitse maasi",
     "directRewardNextPurchaseCoupon": "Kiitos ostoksistasi kanssamme! Meillä on meneillään erikoistarjous {{couponTitle}}. Haluaisitko käyttää tätä tarjousta seuraavassa ostossasi?",

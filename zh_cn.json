@@ -57,6 +57,8 @@
     "availOngoingSpecialOffer": "我想使用当前的特别优惠",
     "cartWaiting": "不要让购物车中的商品等待，立即结账！",
     "checkOutThese": "看看这些推荐商品",
+    "youMightLikeThese": "您可能会更喜欢这些",
+    "moreProductsYoullLove": "更多您会喜爱的商品！",
     "checkout": "结账",
     "chooseYourCountry": "选择您的国家",
     "directRewardNextPurchaseCoupon": "感谢您与我们购物！我们有{{couponTitle}}的特别优惠。您想在下次购买时使用此优惠吗？",
