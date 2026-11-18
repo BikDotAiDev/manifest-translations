@@ -58,6 +58,8 @@
     "cartWaiting": "カートに入れた商品を待たせないで、今すぐ購入してください！",
     "chatWithUS": "チャットする 👋🏻",
     "checkOutThese": "代わりにこれらの選択肢をチェックしてください",
+    "youMightLikeThese": "代わりにこちらはいかがですか",
+    "moreProductsYoullLove": "きっと気に入る商品をもっと！",
     "checkout": "チェックアウト",
     "chooseYourCountry": "国を選択してください",
     "directRewardNextPurchaseCoupon": "ご利用ありがとうございます！{{couponTitle}}の特別オファーがあります。次回のご購入でこのオファーをご利用になりますか？",
