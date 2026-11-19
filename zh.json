@@ -371,6 +371,11 @@
     "buyingFactorsGeneratedFromReviews": "根据顾客评价内容生成",
     "buyingFactorsBuyersMention": "买家提到",
     "buyingFactorsRecentReviews": "最新评价",
-    "buyingFactorsBack": "返回"
+    "buyingFactorsBack": "返回",
+    "buyingFactorsOnlyLeftInStock": "库存仅剩 {{count}} 件",
+    "aiHighlightsHeading": "购买前须知",
+    "aiHighlightsFooterWithReviews": "根据商品信息和评价总结。",
+    "aiHighlightsTellMeMore": "详细介绍一下：{{highlight}}",
+    "aiHighlightsWhyYoullLoveIt": "你会喜欢它的理由"
   }
 }

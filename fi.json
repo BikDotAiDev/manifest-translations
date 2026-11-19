@@ -371,6 +371,11 @@
     "buyingFactorsGeneratedFromReviews": "Luotu asiakasarvostelujen tekstistä",
     "buyingFactorsBuyersMention": "Ostajat mainitsevat",
     "buyingFactorsRecentReviews": "Uusimmat arvostelut",
-    "buyingFactorsBack": "Takaisin"
+    "buyingFactorsBack": "Takaisin",
+    "buyingFactorsOnlyLeftInStock": "Vain {{count}} jäljellä varastossa",
+    "aiHighlightsHeading": "Hyvä tietää ennen ostoa",
+    "aiHighlightsFooterWithReviews": "Koottu tuotetiedoista ja arvosteluista.",
+    "aiHighlightsTellMeMore": "Kerro lisää: {{highlight}}",
+    "aiHighlightsWhyYoullLoveIt": "Miksi rakastat tätä"
   }
 }

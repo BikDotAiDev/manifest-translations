@@ -359,6 +359,11 @@
     "buyingFactorsGeneratedFromReviews": "Généré à partir du texte des avis clients",
     "buyingFactorsBuyersMention": "Les acheteurs mentionnent",
     "buyingFactorsRecentReviews": "Avis récents",
-    "buyingFactorsBack": "Retour"
+    "buyingFactorsBack": "Retour",
+    "buyingFactorsOnlyLeftInStock": "Plus que {{count}} en stock",
+    "aiHighlightsHeading": "À savoir avant d'acheter",
+    "aiHighlightsFooterWithReviews": "Résumé à partir des infos produit et des avis.",
+    "aiHighlightsTellMeMore": "Dites-m'en plus sur : {{highlight}}",
+    "aiHighlightsWhyYoullLoveIt": "Pourquoi vous allez l'adorer"
   }
 }

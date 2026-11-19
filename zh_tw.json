@@ -352,6 +352,11 @@
     "buyingFactorsGeneratedFromReviews": "根據顧客評價內容產生",
     "buyingFactorsBuyersMention": "買家提到",
     "buyingFactorsRecentReviews": "最新評價",
-    "buyingFactorsBack": "返回"
+    "buyingFactorsBack": "返回",
+    "buyingFactorsOnlyLeftInStock": "庫存僅剩 {{count}} 件",
+    "aiHighlightsHeading": "購買前須知",
+    "aiHighlightsFooterWithReviews": "根據商品資訊和評價整理。",
+    "aiHighlightsTellMeMore": "詳細介紹一下：{{highlight}}",
+    "aiHighlightsWhyYoullLoveIt": "你會喜歡它的理由"
   }
 }

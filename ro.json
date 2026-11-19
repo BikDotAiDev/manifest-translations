@@ -371,6 +371,11 @@
     "buyingFactorsGeneratedFromReviews": "Generat din textul recenziilor clienților",
     "buyingFactorsBuyersMention": "Cumpărătorii menționează",
     "buyingFactorsRecentReviews": "Recenzii recente",
-    "buyingFactorsBack": "Înapoi"
+    "buyingFactorsBack": "Înapoi",
+    "buyingFactorsOnlyLeftInStock": "Doar {{count}} rămase în stoc",
+    "aiHighlightsHeading": "Bine de știut înainte de cumpărare",
+    "aiHighlightsFooterWithReviews": "Rezumat din informațiile despre produs și recenzii.",
+    "aiHighlightsTellMeMore": "Spune-mi mai multe despre: {{highlight}}",
+    "aiHighlightsWhyYoullLoveIt": "De ce o să-ți placă"
   }
 }

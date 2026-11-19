@@ -371,6 +371,11 @@
     "buyingFactorsGeneratedFromReviews": "Gegenereerd uit de tekst van klantreviews",
     "buyingFactorsBuyersMention": "Kopers noemen",
     "buyingFactorsRecentReviews": "Recente reviews",
-    "buyingFactorsBack": "Terug"
+    "buyingFactorsBack": "Terug",
+    "buyingFactorsOnlyLeftInStock": "Nog maar {{count}} op voorraad",
+    "aiHighlightsHeading": "Goed om te weten voor je koopt",
+    "aiHighlightsFooterWithReviews": "Samengevat uit productinfo en reviews.",
+    "aiHighlightsTellMeMore": "Vertel me meer over: {{highlight}}",
+    "aiHighlightsWhyYoullLoveIt": "Waarom je dit geweldig gaat vinden"
   }
 }

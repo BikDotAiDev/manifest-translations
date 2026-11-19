@@ -371,6 +371,11 @@
     "buyingFactorsGeneratedFromReviews": "Müşteri değerlendirmelerinin metninden oluşturuldu",
     "buyingFactorsBuyersMention": "Alıcıların bahsettikleri",
     "buyingFactorsRecentReviews": "Son değerlendirmeler",
-    "buyingFactorsBack": "Geri"
+    "buyingFactorsBack": "Geri",
+    "buyingFactorsOnlyLeftInStock": "Stokta yalnızca {{count}} adet kaldı",
+    "aiHighlightsHeading": "Satın almadan önce bilin",
+    "aiHighlightsFooterWithReviews": "Ürün bilgileri ve yorumlardan özetlendi.",
+    "aiHighlightsTellMeMore": "Bana daha fazlasını anlat: {{highlight}}",
+    "aiHighlightsWhyYoullLoveIt": "Neden seveceksiniz"
   }
 }

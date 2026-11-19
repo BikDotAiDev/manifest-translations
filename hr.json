@@ -394,7 +394,12 @@
     "buyingFactorsGeneratedFromReviews": "Generirano iz teksta recenzija kupaca",
     "buyingFactorsBuyersMention": "Kupci spominju",
     "buyingFactorsRecentReviews": "Najnovije recenzije",
-    "buyingFactorsBack": "Natrag"
+    "buyingFactorsBack": "Natrag",
+    "buyingFactorsOnlyLeftInStock": "Na zalihi još samo {{count}}",
+    "aiHighlightsHeading": "Prije kupnje znajte",
+    "aiHighlightsFooterWithReviews": "Sažeto iz informacija o proizvodu i recenzija.",
+    "aiHighlightsTellMeMore": "Reci mi više o: {{highlight}}",
+    "aiHighlightsWhyYoullLoveIt": "Zašto će vam se svidjeti"
   },
   "others": {
     "popUpMessages": {

@@ -371,6 +371,11 @@
     "buyingFactorsGeneratedFromReviews": "Genereret ud fra teksten i kundeanmeldelser",
     "buyingFactorsBuyersMention": "Købere nævner",
     "buyingFactorsRecentReviews": "Seneste anmeldelser",
-    "buyingFactorsBack": "Tilbage"
+    "buyingFactorsBack": "Tilbage",
+    "buyingFactorsOnlyLeftInStock": "Kun {{count}} tilbage på lager",
+    "aiHighlightsHeading": "Godt at vide før køb",
+    "aiHighlightsFooterWithReviews": "Opsummeret fra produktinfo og anmeldelser.",
+    "aiHighlightsTellMeMore": "Fortæl mig mere om: {{highlight}}",
+    "aiHighlightsWhyYoullLoveIt": "Derfor vil du elske den"
   }
 }

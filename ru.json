@@ -155,6 +155,11 @@
     "buyingFactorsGeneratedFromReviews": "Создано на основе текста отзывов покупателей",
     "buyingFactorsBuyersMention": "Покупатели отмечают",
     "buyingFactorsRecentReviews": "Последние отзывы",
-    "buyingFactorsBack": "Назад"
+    "buyingFactorsBack": "Назад",
+    "buyingFactorsOnlyLeftInStock": "В наличии осталось всего {{count}}",
+    "aiHighlightsHeading": "Что важно знать перед покупкой",
+    "aiHighlightsFooterWithReviews": "Составлено на основе информации о товаре и отзывов.",
+    "aiHighlightsTellMeMore": "Расскажи подробнее о: {{highlight}}",
+    "aiHighlightsWhyYoullLoveIt": "Почему вам понравится"
   }
 }

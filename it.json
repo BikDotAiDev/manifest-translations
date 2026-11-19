@@ -371,6 +371,11 @@
     "buyingFactorsGeneratedFromReviews": "Generato dal testo delle recensioni dei clienti",
     "buyingFactorsBuyersMention": "Gli acquirenti citano",
     "buyingFactorsRecentReviews": "Recensioni recenti",
-    "buyingFactorsBack": "Indietro"
+    "buyingFactorsBack": "Indietro",
+    "buyingFactorsOnlyLeftInStock": "Solo {{count}} rimasti in magazzino",
+    "aiHighlightsHeading": "Da sapere prima di acquistare",
+    "aiHighlightsFooterWithReviews": "Riassunto dalle informazioni sul prodotto e dalle recensioni.",
+    "aiHighlightsTellMeMore": "Dimmi di più su: {{highlight}}",
+    "aiHighlightsWhyYoullLoveIt": "Perché lo adorerai"
   }
 }
