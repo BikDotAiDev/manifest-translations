@@ -355,6 +355,11 @@
     "buyingFactorsGeneratedFromReviews": "تم إنشاؤه من نصوص تقييمات العملاء",
     "buyingFactorsBuyersMention": "يذكر المشترون",
     "buyingFactorsRecentReviews": "أحدث التقييمات",
-    "buyingFactorsBack": "رجوع"
+    "buyingFactorsBack": "رجوع",
+    "buyingFactorsOnlyLeftInStock": "متبقٍ {{count}} فقط في المخزون",
+    "aiHighlightsHeading": "اعرف قبل أن تشتري",
+    "aiHighlightsFooterWithReviews": "ملخّص من معلومات المنتج والتقييمات.",
+    "aiHighlightsTellMeMore": "أخبرني المزيد عن: {{highlight}}",
+    "aiHighlightsWhyYoullLoveIt": "لماذا ستحبه"
   }
 }

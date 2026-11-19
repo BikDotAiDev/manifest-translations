@@ -574,7 +574,12 @@
     "buyingFactorsGeneratedFromReviews": "สร้างจากข้อความในรีวิวของลูกค้า",
     "buyingFactorsBuyersMention": "ผู้ซื้อกล่าวถึง",
     "buyingFactorsRecentReviews": "รีวิวล่าสุด",
-    "buyingFactorsBack": "ย้อนกลับ"
+    "buyingFactorsBack": "ย้อนกลับ",
+    "buyingFactorsOnlyLeftInStock": "เหลือในสต็อกเพียง {{count}} ชิ้น",
+    "aiHighlightsHeading": "สิ่งที่ควรรู้ก่อนซื้อ",
+    "aiHighlightsFooterWithReviews": "สรุปจากข้อมูลสินค้าและรีวิว",
+    "aiHighlightsTellMeMore": "บอกเพิ่มเติมเกี่ยวกับ: {{highlight}}",
+    "aiHighlightsWhyYoullLoveIt": "เหตุผลที่คุณจะชอบ"
   },
   "others": {
     "popUpMessages": {

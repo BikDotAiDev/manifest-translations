@@ -372,6 +372,11 @@
     "buyingFactorsGeneratedFromReviews": "お客様のレビュー本文から生成",
     "buyingFactorsBuyersMention": "購入者の声",
     "buyingFactorsRecentReviews": "最新のレビュー",
-    "buyingFactorsBack": "戻る"
+    "buyingFactorsBack": "戻る",
+    "buyingFactorsOnlyLeftInStock": "在庫残り{{count}}点",
+    "aiHighlightsHeading": "購入前に知っておきたいこと",
+    "aiHighlightsFooterWithReviews": "商品情報とレビューから要約しています。",
+    "aiHighlightsTellMeMore": "詳しく教えて：{{highlight}}",
+    "aiHighlightsWhyYoullLoveIt": "おすすめの理由"
   }
 }

@@ -341,7 +341,12 @@
     "buyingFactorsGeneratedFromReviews": "Generated from the text from customer reviews",
     "buyingFactorsBuyersMention": "Buyers mention",
     "buyingFactorsRecentReviews": "Recent reviews",
-    "buyingFactorsBack": "Back"
+    "buyingFactorsBack": "Back",
+    "buyingFactorsOnlyLeftInStock": "Only {{count}} left in stock",
+    "aiHighlightsHeading": "Know before you buy",
+    "aiHighlightsFooterWithReviews": "Summarized from product info and reviews.",
+    "aiHighlightsTellMeMore": "Tell me more about: {{highlight}}",
+    "aiHighlightsWhyYoullLoveIt": "Why you'll love it"
   },
   "others": {
     "suggestedReplies": {
